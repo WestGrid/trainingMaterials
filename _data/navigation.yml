@@ -2,11 +2,11 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Introductory
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Scheduling"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Programming"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +50,16 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: "Visualization"
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
+
+- title: "Bioinformatics"
   url: "/documentation/"
   side: left
   dropdown:
