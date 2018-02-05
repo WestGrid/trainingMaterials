@@ -1,36 +1,27 @@
-# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
-#
-#      _____ _ __          _____      __  __  _
-#     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
-#     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
-#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
-#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
-#                                                 /____/
-#
 # Title of your website
-title: 'Feeling Responsive'
+title: 'WestGrid training materials'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'Advancing research computing'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'Single repository for all WestGrid training materials.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: WestGrid
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io'
-baseurl: '/feeling-responsive'
+url: 'https://westgrid.github.io'
+baseurl: '/trainingMaterials'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/WestGrid/trainingMaterials/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,8 +29,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-
+urlimg: 'https://westgrid.github.io/trainingMaterials/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -49,7 +39,6 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -77,10 +66,8 @@ exclude:
     - README.md
     - INSTALL.md
 
-
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
-
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
@@ -91,7 +78,6 @@ compress_html:
   profile: false
   ignore:
     envs: [development]
-
 
 #
 #       ____       ____            ____
@@ -122,8 +108,6 @@ defaults:
       comments: false
       author: phlow     # Default author for posts
 
-
-
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
 #     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
@@ -133,8 +117,6 @@ defaults:
 #
 #  Open _data/navigation.yml to adjust the left and right topbar navigation
 #
-
-
 
 #     _____ __________
 #    / ___// ____/ __ \
@@ -147,8 +129,6 @@ google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
-
-
 
 #       ______            _
 #      / ____/___ __   __(_)________  ____  _____
@@ -170,7 +150,6 @@ apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
 msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
 msapplication_tilecolor:                '#fabb00'
 
-
 #       ______                __                __
 #      / ____/___ _________  / /_  ____  ____  / /__
 #     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
@@ -180,7 +159,6 @@ msapplication_tilecolor:                '#fabb00'
 og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
 og_locale:                          'en_EN'
 og_type:                            'website'
-
 
 #      _____            _       __   __  ___         ___
 #     / ___/____  _____(_)___ _/ /  /  |/  /__  ____/ (_)___ _
@@ -195,7 +173,6 @@ socialmedia:
     twitter: phlow
     facebook: phlow.media
 
-
 #        ____  _
 #       / __ \(_)________ ___  _______
 #      / / / / / ___/ __ `/ / / / ___/
@@ -206,7 +183,6 @@ socialmedia:
 # used in _includes/comments
 
 disqus_shortname: feelingresponsive
-
 
 #      _____
 #     / ___/____ ___________
@@ -219,7 +195,6 @@ sass:
     sass_dir: _sass
     style: :compressed
 
-
 #       ___                __      __  _
 #      /   |  ____  ____ _/ /_  __/ /_(_)_________
 #     / /| | / __ \/ __ `/ / / / / __/ / ___/ ___/
@@ -230,8 +205,6 @@ sass:
 # used in _includes/footer_scripts
 
 google_analytics_tracking_id: UA-60112281-1
-
-
 
 #   _                 _     _
 #  | |_ __ ___      _| | __| |_ ___
@@ -247,7 +220,6 @@ google_analytics_tracking_id: UA-60112281-1
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
-
 
 #     ___              _     __           __
 #    /   |  __________(_)___/ /___  _____/ /_____  _____
