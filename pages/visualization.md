@@ -15,12 +15,15 @@ permalink: "/tools/visualization/"
 
 For full documentation, please check the
 [Visualization section](https://docs.computecanada.ca/wiki/Visualization) in Compute Canada&#8217;s technical wiki.
+&nbsp;
 
-#### *Novel Visualization Techniques from the 2017 Visualize This Challenge* webinar (2017-Jan-31)
+#### *"Novel Visualization Techniques from the 2017 Visualize This Challenge"* webinar (2017-Jan-31)
 
 * [PDF slides](https://www.westgrid.ca/files/WG-VisualizationWorkshopJan31-NovelVisualizationTechniques.pdf)
 
-#### *Data Visualization on Compute Canada's Supercomputers* webinar (2017-Oct-03)
+&nbsp;
+
+#### *"Data Visualization on Compute Canada's Supercomputers"* webinar (2017-Oct-03)
 
 * [PDF slides](https://www.westgrid.ca/files/WGwebinar_DataVizonComputeCanada_Oct2017.pdf)
 
@@ -29,7 +32,9 @@ For full documentation, please check the
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-#### *Using ParaViewWeb for 3D Visualization and Data Analysis in a Web Browser* webinar (2017-Mar-29)
+&nbsp;
+
+#### *"Using ParaViewWeb for 3D Visualization and Data Analysis in a Web Browser"* webinar (2017-Mar-29)
 
 * [PDF slides](https://www.westgrid.ca/files/WestGridWebinarMAR29-UsingParaViewWeb.pdf)
 
