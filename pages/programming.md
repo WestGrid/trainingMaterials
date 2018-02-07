@@ -1,16 +1,16 @@
 ---
 layout: page
 show_meta: false
-title: "Getting Started Resources"
-subheadline: "Beginner's guides"
-teaser: "Get to know the basics of cluster computing"
+title: "Programming Resources"
+subheadline: "Writing your own code"
+teaser: "Introduction to various programming languages and libraries"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/getting-started/"
+permalink: "/programming/"
 ---
 
 <!-- 1. Open `_config.yml` and work it through, it's well documented -->
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-[Introduction to HPC](http://bit.ly/introhpc) is a ZIP file with all course materials, from UBC/WestGrid 2017 Summer School
+[Parallel programming in Chapel](https://hpc-carpentry.github.io/hpc-chapel) is a one-day HPC Carpentry course

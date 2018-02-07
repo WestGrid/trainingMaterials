@@ -1,14 +1,14 @@
 ---
 layout: page
-show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+subheadline: ""
+title: "Our support tools and services"
+teaser: ""
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+permalink: "/tools/"
 ---
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.tags.tools %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
