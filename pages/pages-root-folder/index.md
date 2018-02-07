@@ -21,7 +21,7 @@ widget2:
 widget3:
   title: "Theme documentation"
   url: 'https://westgrid.github.io/trainingMaterials/documentation/'
-  image: widget-1-302x182.jpg
+  image: header_typewriter.jpg
   text: 'Quick link to theme documentation.'
 #
 # Use the call for action to show a button on the frontpage
