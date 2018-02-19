@@ -13,4 +13,4 @@ permalink: "/programming/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-[Parallel programming in Chapel](https://hpc-carpentry.github.io/hpc-chapel) is a one-day HPC Carpentry course
+[Parallel programming in Chapel](https://hpc-carpentry.github.io/hpc-chapel) is a full-day HPC Carpentry course

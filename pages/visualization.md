@@ -17,9 +17,14 @@ For full documentation, please check the
 [Visualization section](https://docs.computecanada.ca/wiki/Visualization) in Compute Canada&#8217;s technical wiki.
 &nbsp;
 
-#### *"Novel Visualization Techniques from the 2017 Visualize This Challenge"* webinar (2017-Jan-31)
+#### *"Novel Visualization Techniques from the 2017 Visualize This Challenge"* webinar (2018-Jan-31)
 
 * [PDF slides](https://www.westgrid.ca/files/WG-VisualizationWorkshopJan31-NovelVisualizationTechniques.pdf)
+
+<div class="flex-video">
+	<iframe width="780" height="585" src="https://www.youtube.com/embed/LAeiWHb3c70" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 &nbsp;
 
