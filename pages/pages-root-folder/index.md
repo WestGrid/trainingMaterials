@@ -19,10 +19,10 @@ widget2:
   text: 'Check out Compute Canada&#8217;s technical documentation wiki, the primary source for users with questions on Compute Canada equipment and services.'
   image: ccLogo.jpg
 widget3:
-  title: "Theme documentation"
-  url: 'https://westgrid.github.io/trainingMaterials/documentation/'
-  image: header_typewriter.jpg
-  text: 'Quick link to theme documentation.'
+  title: "Upcoming sessions"
+  url: 'https://www.westgrid.ca/events'
+  image: header_unsplash_7.jpg
+  text: 'See our upcoming training events.'
 #
 # Use the call for action to show a button on the frontpage
 #
