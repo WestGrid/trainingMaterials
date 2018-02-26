@@ -3,32 +3,35 @@ layout: page
 #
 # Content
 #
-subheadline: "Video & Music Player"
-title: "Welcome to WestGrid's Training Materials repository"
+subheadline: ""
+title: "Welcome to WestGrid's Training Materials repository!"
 teaser: "Within these pages we have compiled past training materials from our online training webinars, in-person workshops, and multi-day summer school events."
 categories:
   - repository
 tags:
   - tools
-  - video player
-  - streaming music
 #
 # Styling
 #
 header: no
 image:
-    title: circuitboard-862112_1920.jpg
-    thumb: circuitboard-862112_1920.jpg
-    homepage: circuitboard-862112_1920.jpg
+    title: binary-2380422_1920.jpg
+    thumb: binary-2380422_1920.jpg
+    homepage: binary-2380422_1920.jpg
     caption: 
     caption_url: 
 mediaplayer: true
 ---
 
-Welcome to WestGrid's Training Materials repository on Github! 
-Within these pages we have compiled past training materials from our online training webinars, in-person workshops, and multi-day summer school events. 
-Topics range from basic concepts in programming to discipline-specific tools for research. 
-Our goal in sharing this material is to help you build your skills in using WestGrid, Compute Canada and other advanced research computing tools to support your research, no matter what your skill level or discipline may be.
-This repository will be continually updated as we deliver sessions on new topics or revise materials on past topics. 
+Topics range from basic concepts in programming to discipline-specific tools for research.
+
+Our goal in sharing this material is to help you build your skills in using WestGrid, Compute Canada and
+other advanced research computing tools to support your research, no matter what your skill level or
+discipline may be.
+
+This repository will be continually updated as we deliver sessions on new topics or revise materials on
+past topics.
+
 If there are topics or materials that you would like to see us add, please contact info@westgrid.ca.
+
 To stay informed of WestGrid training events, join our mailing list and watch our website. 
