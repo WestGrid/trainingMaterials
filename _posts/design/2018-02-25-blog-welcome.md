@@ -1,3 +1,30 @@
+---
+layout: page
+#
+# Content
+#
+subheadline: "Video & Music Player"
+title: "Welcome to WestGrid's Training Materials repository"
+teaser: "Within these pages we have compiled past training materials from our online training webinars, in-person workshops, and multi-day summer school events."
+categories:
+  - repository
+tags:
+  - tools
+  - video player
+  - streaming music
+#
+# Styling
+#
+header: no
+image:
+    title: circuitboard-862112_1920.jpg
+    thumb: circuitboard-862112_1920.jpg
+    homepage: circuitboard-862112_1920.jpg
+    caption: 
+    caption_url: 
+mediaplayer: true
+---
+
 Welcome to WestGrid's Training Materials repository on Github! 
 Within these pages we have compiled past training materials from our online training webinars, in-person workshops, and multi-day summer school events. 
 Topics range from basic concepts in programming to discipline-specific tools for research. 
