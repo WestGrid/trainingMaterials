@@ -5,7 +5,7 @@ title: "Getting Started Resources"
 subheadline: "Beginner's guides"
 teaser: "Get to know the basics of cluster computing"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "dataScience.jpg"
 permalink: "/getting-started/"
 ---
 

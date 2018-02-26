@@ -5,7 +5,7 @@ title: "Programming Resources"
 subheadline: "Writing your own code"
 teaser: "Introduction to various programming languages and libraries"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "dataScience.jpg"
 permalink: "/programming/"
 ---
 
