@@ -13,4 +13,11 @@ permalink: "/getting-started/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-[Introduction to HPC](http://bit.ly/introhpc) is a ZIP file with all course materials, from UBC/WestGrid 2017 Summer School
+Read WestGrid's [QuickStart Guide for New Users](https://www.westgrid.ca/support/quickstart/new_users).
+
+Watch Compute Canada's
+[Getting Started with Compute Canada Nationals Systems](https://www.youtube.com/playlist?list=PLeCQbAbRSKR8gg6ZMFof1Hf9YF_-n31Ym)
+short videos.
+
+Browse all materials from a UBC/WestGrid Summer School course
+[Introduction to HPC](http://bit.ly/introhpc) (ZIP file) from 2017.
