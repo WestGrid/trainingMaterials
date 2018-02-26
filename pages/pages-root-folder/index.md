@@ -11,18 +11,18 @@ widget1:
   title: "Getting started"
   url: 'https://westgrid.github.io/trainingMaterials/getting-started/'
   image: widget-1-302x182.jpg
-  text: 'If you are new to clusters, not sure how to compile codes and submit Slurm jobs, this page is a
+  text: 'If you are new to using clusters, or not sure how to compile codes or submit Slurm jobs, this page is a
   good starting point.'
 widget2:
   title: "Online documentation"
   url: 'https://docs.computecanada.ca/wiki/Compute_Canada_Documentation'
-  text: 'Check out Compute Canada&#8217;s technical documentation wiki, the primary source for users with questions on Compute Canada equipment and services.'
+  text: 'Check out Compute Canada&#8217;s technical documentation wiki, the primary source for information on Compute Canada resources and services.'
   image: ccLogo.jpg
 widget3:
   title: "Upcoming sessions"
   url: 'https://www.westgrid.ca/events'
   image: header_unsplash_7.jpg
-  text: 'See our upcoming training events.'
+  text: 'WestGrid hosts training webinars and workshops year-round to help you build skills in computational research. Check out our upcoming training events.'
 #
 # Use the call for action to show a button on the frontpage
 #
