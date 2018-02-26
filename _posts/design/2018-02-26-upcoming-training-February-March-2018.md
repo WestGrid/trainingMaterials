@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Upcoming events"
 title: "Webinars for February - March 2018"
-teaser: ""
+teaser: "Join us in a free training webinar."
 categories:
   - repository
 tags:

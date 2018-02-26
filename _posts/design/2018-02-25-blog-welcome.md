@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: ""
+subheadline: "Welcome"
 title: "Welcome to WestGrid's Training Materials repository!"
 teaser: "Within these pages we have compiled past training materials from our online training webinars, in-person workshops, and multi-day summer school events."
 categories:
@@ -15,9 +15,9 @@ tags:
 #
 header: no
 image:
-    title: binary-2380422_1920.jpg
-    thumb: binary-2380422_1920.jpg
-    homepage: binary-2380422_1920.jpg
+    title: a06.png
+    thumb: a06.png
+    homepage: a06.png
     caption: 
     caption_url: 
 mediaplayer: true
