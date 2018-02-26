@@ -21,3 +21,6 @@ short videos.
 
 Browse all materials from a UBC/WestGrid Summer School course
 [Introduction to HPC](http://bit.ly/introhpc) (ZIP file) from 2017.
+
+For introduction to Bash command line, programming in Python or R, and version control with Git, check
+out the closest to you [Software Carpentry event](https://software-carpentry.org/workshops).
