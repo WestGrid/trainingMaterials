@@ -19,7 +19,7 @@ For full documentation, please check the
 
 #### *"Novel Visualization Techniques from the 2017 Visualize This Challenge"* webinar (2018-Jan-31)
 
-* [PDF slides](https://www.westgrid.ca/files/WG-VisualizationWorkshopJan31-NovelVisualizationTechniques.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/novel20180131.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/LAeiWHb3c70" frameborder="0"
@@ -30,7 +30,8 @@ For full documentation, please check the
 
 #### *"Data Visualization on Compute Canada's Supercomputers"* webinar (2017-Oct-03)
 
-* [PDF slides](https://www.westgrid.ca/files/WGwebinar_DataVizonComputeCanada_Oct2017.pdf)
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/remote20171003.zip)
+  with slides and other files
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/vXamgZWTs0g" frameborder="0"
@@ -41,7 +42,8 @@ For full documentation, please check the
 
 #### *"Using ParaViewWeb for 3D Visualization and Data Analysis in a Web Browser"* webinar (2017-Mar-29)
 
-* [PDF slides](https://www.westgrid.ca/files/WestGridWebinarMAR29-UsingParaViewWeb.pdf)
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/pvweb20170529.zip)
+  with slide and other files
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/IUN5ln_XnA8" frameborder="0"
@@ -52,7 +54,8 @@ For full documentation, please check the
 
 #### *"Scripting and other advanced topics in VisIt visualization"* webinar (2016-Nov-02)
 
-* [PDF slides](https://www.westgrid.ca/files/WestGrid-VisItWebinar-Nov2.2016.pdf)
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/visitScripting.zip)
+  with slide and other files
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/REJEmgmz7xw" frameborder="0"
@@ -86,5 +89,4 @@ For full documentation, please check the
 
 #### *"Graph visualization with Gephi"* webinar (2016-Mar-22)
 
-*
-[webinar notes](https://github.com/WestGrid/trainingMaterials/blob/gh-pages/materials/gephi.md)
+* [webinar notes](https://github.com/WestGrid/trainingMaterials/blob/gh-pages/materials/gephi.md)
