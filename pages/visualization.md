@@ -86,4 +86,5 @@ For full documentation, please check the
 
 #### *"Graph visualization with Gephi"* webinar (2016-Mar-22)
 
-* [webinar notes](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/gephi.md)
+*
+[webinar notes](https://github.com/WestGrid/trainingMaterials/blob/gh-pages/materials/gephi.md)
