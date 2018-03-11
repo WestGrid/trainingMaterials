@@ -13,4 +13,5 @@ permalink: "/tools/cloud/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-Cloud computing materials coming shortly.
+Please check the [cloud computing page](https://docs.computecanada.ca/wiki/Cloud) in Compute
+Canada&#8217;s technical wiki. Other cloud computing materials are coming shortly.

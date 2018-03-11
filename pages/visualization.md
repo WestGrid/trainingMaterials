@@ -43,7 +43,7 @@ For full documentation, please check the
 #### *"Using ParaViewWeb for 3D Visualization and Data Analysis in a Web Browser"* webinar (2017-Mar-29)
 
 * [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/pvweb20170529.zip)
-  with slide and other files
+  with slides and other files
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/IUN5ln_XnA8" frameborder="0"
@@ -55,7 +55,7 @@ For full documentation, please check the
 #### *"Scripting and other advanced topics in VisIt visualization"* webinar (2016-Nov-02)
 
 * [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/visitScripting.zip)
-  with slide and other files
+  with slides and other files
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/REJEmgmz7xw" frameborder="0"
