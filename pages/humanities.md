@@ -13,9 +13,8 @@ permalink: "/domains/dh/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-[Digital Humanities Summer Institute](http://www.dhsi.org)
-
-&nbsp;
+Annual [Digital Humanities Summer Institute](http://www.dhsi.org) at the University of Victoria offers
+courses on computing topics in humanities and social sciences.
 
 #### *"Tools for Handling Big Data & Computing Demands in Humanities & Social Science Research"* webinar (2017-Sep-21)
 

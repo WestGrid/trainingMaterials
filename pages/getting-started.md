@@ -19,8 +19,8 @@ Watch Compute Canada's
 [Getting Started with Compute Canada Nationals Systems](https://www.youtube.com/playlist?list=PLeCQbAbRSKR8gg6ZMFof1Hf9YF_-n31Ym)
 short videos.
 
-Browse all materials from a UBC/WestGrid Summer School course
-[Introduction to HPC](http://bit.ly/introhpc) (ZIP file) from 2017.
+Browse all materials from UBC/WestGrid Summer School's [Introductory HPC course](http://bit.ly/introhpc)
+(ZIP file) from 2017.
 
-For introduction to Bash command line, programming in Python or R, and version control with Git, check
-out the closest to you [Software Carpentry event](https://software-carpentry.org/workshops).
+For basic introduction to Bash command line, programming in Python or R, and version control with Git,
+check out a [Software Carpentry workshop](https://software-carpentry.org/workshops) closest to you.

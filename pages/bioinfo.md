@@ -13,10 +13,8 @@ permalink: "/domains/bioinfo/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-Browse the forum, ask a question or request one-on-one support in
+Browse the forum, ask a question, or request one-on-one support in
 [Compute Canada&#8217;s Bioinformatics Helpdesk](https://bioinformatics.computecanada.ca).
-
-&nbsp;
 
 #### *"Bioinformatics Series: Detecting structural variants"* webinar (2017-Feb-14)
 
