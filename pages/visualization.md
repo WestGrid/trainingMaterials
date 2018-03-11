@@ -47,3 +47,43 @@ For full documentation, please check the
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/IUN5ln_XnA8" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+&nbsp;
+
+#### *"Scripting and other advanced topics in VisIt visualization"* webinar (2016-Nov-02)
+
+* [PDF slides](https://www.westgrid.ca/files/WestGrid-VisItWebinar-Nov2.2016.pdf)
+
+<div class="flex-video">
+	<iframe width="780" height="585" src="https://www.youtube.com/embed/REJEmgmz7xw" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+&nbsp;
+
+#### *"CPU-based rendering with OSPRay"* webinar (2016-Sep-28)
+
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/ospray.pdf)
+
+<div class="flex-video">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/23kOj1UkQ-o" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+&nbsp;
+
+#### *"3D graphs with NetworkX, VTK, and ParaView"* webinar (2016-May-24)
+
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/3dgraphs.zip)
+  with PDF slides and Python scripts
+
+<div class="flex-video">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/BsK_WwoSKDM" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+&nbsp;
+
+#### *"Graph visualization with Gephi"* webinar (2016-Mar-22)
+
+* [webinar notes](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/gephi.md)
