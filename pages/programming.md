@@ -38,6 +38,11 @@ write efficient large-scale numerical codes.
 
 ##### Part 2: task parallelism in Chapel (2018-Mar-07)
 
+<div class="flex-video">
+	<iframe width="780" height="585" src="https://www.youtube.com/embed/kCI0riVEjlk" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ##### Part 3: data parallelism in Chapel (2018-Mar-14)
 
 &nbsp;

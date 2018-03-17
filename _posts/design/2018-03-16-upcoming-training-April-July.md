@@ -39,7 +39,7 @@ For more information on each session, or to register, click on the links below.
   to HPC*, *Parallel programming with Chapel*
 * May-28 to May-30 - UofA workshops: *HPC Carpentry with Chapel*, *3D visualization*
 * Jun-10 - DHSI courses at UVic: *3D visualization for the humanities*, *Unleash Linux on MacOS*
-* Jun-11 - to Jun-14 WestGrid summer schoolat UBC
+* Jun-11 - to Jun-14 WestGrid summer school at UBC
 * Jun-25 - to Jun-28 WestGrid summer school at UofManitoba
 * Jul-03 - *3D visualization* at the 9th Annual Faculty of Engineering Graduate Research Symposium, UofA
 
