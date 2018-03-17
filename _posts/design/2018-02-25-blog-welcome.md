@@ -15,9 +15,9 @@ tags:
 #
 header: no
 image:
-    title: a06.png
-    thumb: a06.png
-    homepage: a06.png
+    title: circuitboard-862112_1920.jpg
+    thumb: circuitboard-862112_1920.jpg
+    homepage: circuitboard-862112_1920.jpg
     caption: 
     caption_url: 
 mediaplayer: true
