@@ -43,12 +43,11 @@ write efficient large-scale numerical codes.
 ##### Part 3: Data parallelism in Chapel (2018-Mar-14)
 
 <div class="flex-video">
-	<iframe width="780" height="585" src="https://www.youtube.com/watch?v=hdnVKGJAlcM" frameborder="0"
+	<iframe width="780" height="585" src="https://www.youtube.com/embed/hdnVKGJAlcM" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-
-#### HPC Carpentry Course
+## HPC Carpentry Course
 
 As part of a contribution to HPC Carpentry, WestGrid staff authored a [*Parallel programming in Chapel* course](https://hpc-carpentry.github.io/hpc-chapel). The materials and exercises presented in this course can be presented as a full-day workshop. If you have questions about the materials, please contact Alex Razoumov - alex.razoumov@westgrid.ca.
 
@@ -66,6 +65,6 @@ The topics covered include:
 [View the slides](https://www.westgrid.ca/files/IntroToParallelProgrammingOpenMP_WGwebinar_Oct2017.pdf)
 
 <div class="flex-video">
-	<iframe width="780" height="585" src="https://youtu.be/LL3TAHpxOig" frameborder="0"
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/LL3TAHpxOig" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
