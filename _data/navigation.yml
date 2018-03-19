@@ -18,6 +18,8 @@
     url: "/domains/bioinfo/"
   - title: "Digital humanities"
     url: "/domains/dh/"
+  - title: "Molecular dynamics"
+    url: "/domains/md/"
 
 - title: "Tools"
   url: "/tools/"
