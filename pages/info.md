@@ -1,61 +1,20 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "WestGrid Training Materials"
+teaser: "WestGrid offers in-person and online training sessions on topics such as getting started with WestGrid, programming languages, specialized software, research data management, and data visualization tools. Contact us at info@westgrid.ca to request a session at your university or to suggest a topic for an online webinar."
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+Within these pages we have compiled past training materials from WestGrid's online training webinars, in-person workshops, and multi-day Summer School events. Topics range from basic concepts in programming to discipline-specific tools for research.
 
+Our goal in sharing these materials is to help you build your skills in using WestGrid, Compute Canada, and other advanced research computing tools to support your research, no matter what your skill level or discipline may be.
 
-## Features
+This repository will be continually updated as we deliver sessions on new topics or revise materials on past topics.
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+If there are topics or materials that you would like to see us add, please contact [info@westgrid.ca](mailto:info@westgrid.ca).
 
+To stay informed of WestGrid training events, [join our mailing list](http://westgrid.us4.list-manage1.com/subscribe?u=3c76a762cc69cb8a35e25fd53&id=4eebf3c86b) and [watch our website](https://www.westgrid.ca/events/westgrid-training-events).
 
-
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
