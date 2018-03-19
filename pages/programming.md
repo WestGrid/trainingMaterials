@@ -62,7 +62,7 @@ The topics covered include:
 - Loops
 - Reduction variables
 
-[View the slides](https://www.westgrid.ca/files/IntroToParallelProgrammingOpenMP_WGwebinar_Oct2017.pdf)
+[View the slides]({{ site.baseurl }}/materials/introParallelProgrammingOpenMP201710.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/LL3TAHpxOig" frameborder="0"
