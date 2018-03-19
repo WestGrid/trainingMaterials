@@ -17,9 +17,9 @@ header: no
 image:
     title: a06.png
     thumb: a06.png
-    homepage: a06.png
-    caption: 
-    caption_url: 
+    homepage: a06-narrow.png
+    caption: image rendered with ParaView
+    caption_url: tools/visualization/
 mediaplayer: true
 ---
 

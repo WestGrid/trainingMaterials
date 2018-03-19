@@ -5,7 +5,7 @@ title: "Visualization Resources"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "ospraySpheres.jpg"
 permalink: "/tools/visualization/"
 ---
 

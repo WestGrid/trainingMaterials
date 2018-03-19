@@ -5,7 +5,7 @@ title: "Bioinformatics Resources"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "bioinformatics-banner.jpg"
 permalink: "/domains/bioinfo/"
 ---
 
