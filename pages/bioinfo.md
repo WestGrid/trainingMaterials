@@ -66,7 +66,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: Benchmarking of Variant Callers and Analysis Tools"* webinar (2017-Sept-28)
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/benchmarkingSimonChan_Sept2017.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/benchmarkingSimonChan201709.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/FbTjuOejojk" frameborder="0"
