@@ -18,7 +18,7 @@ Compute Canada&#8217;s technical wiki.
 
 #### *"Scheduling & Job Management: How to Get the Most from a Cluster"* webinar (2017-Oct-24)
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/WGwebinar_Scheduling_Oct2017.pdf)
+* [PDF slides]({{ site.baseurl }}/materials/schedulingOct201710.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/RCodAqGlFeM" frameborder="0"

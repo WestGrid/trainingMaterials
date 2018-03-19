@@ -22,7 +22,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: Detecting structural variants"* webinar (2017-Feb-14)
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/detectingStructuralVariants.pdf)
+* [PDF slides]({{ site.baseurl }}/materials/detectingStructuralVariants.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/DX0OXXzyRRs" frameborder="0"
@@ -33,7 +33,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: Quality Control of Next-Gen Sequence Data"* webinar (2018-Jan-17)
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/qualityControlOfNGSData.pdf)
+* [PDF slides]({{ site.baseurl }}/materials/qualityControlOfNGSData.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/7g-WeGl3Oik" frameborder="0"
@@ -44,7 +44,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: FFPE in Your NGS Study"* webinar (2017-Dec-06)
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/WestGridwebinar-20171206-FFPE.pdf)
+* [PDF slides]({{ site.baseurl }}/materials/WestGridwebinar-20171206-FFPE.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/_c3KHGDhTcQ" frameborder="0"
@@ -55,7 +55,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: Designing an NGS Study for my Biological Question"* webinar (2017-Nov-08)
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/WestGridwebinar_GSCdesigningNGSstudy_20171107.pdf)
+* [PDF slides]({{ site.baseurl }}/materials/WestGridwebinar_GSCdesigningNGSstudy_20171107.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/uOypCEAL9rM" frameborder="0"
@@ -66,7 +66,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: Benchmarking of Variant Callers and Analysis Tools"* webinar (2017-Sept-28)
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/benchmarkingSimonChan201709.pdf)
+* [PDF slides]({{ site.baseurl }}/materials/benchmarkingSimonChan201709.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/FbTjuOejojk" frameborder="0"
@@ -77,7 +77,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: Introduction to Bioinformatics"* webinar (2017-June-28)
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introBioinformatics20170628.pdf)
+* [PDF slides]({{ site.baseurl }}/materials/introBioinformatics20170628.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/lnRkKopf6GU" frameborder="0"

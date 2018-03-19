@@ -14,7 +14,7 @@ permalink: "/getting-started/"
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
 Browse the materials from our Introduction to Linux: Command Line Basics (delivered Sept 2017):
-- [View the slides](https://www.westgrid.ca/files/WestGrid_Tutorials_IntroToLinuxCommandLine_Sept26-2017.pdf)
+- [View the slides]({{ site.baseurl }}/materials/introLinuxCommandLine20170926.pdf)
 - [Watch the recording](https://www.youtube.com/watch?v=vOrk0OuEU04)
 - [Try the problemset](https://github.com/Phillip-a-richmond/ComputeCanada_EOT/blob/master/IntroToLinuxProblemSet.txt)
 
