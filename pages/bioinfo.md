@@ -44,10 +44,10 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: FFPE in Your NGS Study"* webinar (2017-Dec-06)
 
-* [PDF slides](https://www.westgrid.ca/files/WestGridwebinar-Dec6.17-FFPE.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/WestGridwebinar-20171206-FFPE.pdf)
 
 <div class="flex-video">
-	<iframe width="780" height="585" src="https://www.youtube.com/watch?v=_c3KHGDhTcQ" frameborder="0"
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/_c3KHGDhTcQ" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
@@ -55,10 +55,10 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: Designing an NGS Study for my Biological Question"* webinar (2017-Nov-08)
 
-* [PDF slides](https://www.westgrid.ca/files/WestGridwebinar_GSCdesigningNGSstudy_20171107.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/WestGridwebinar_GSCdesigningNGSstudy_20171107.pdf)
 
 <div class="flex-video">
-	<iframe width="780" height="585" src="https://www.youtube.com/watch?v=uOypCEAL9rM" frameborder="0"
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/uOypCEAL9rM" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
@@ -66,10 +66,10 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: Benchmarking of Variant Callers and Analysis Tools"* webinar (2017-Sept-28)
 
-* [PDF slides](https://www.westgrid.ca/files/WestGridWebinar_BenchmarkingSimonChan_Sept2017.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/benchmarkingSimonChan_Sept2017.pdf)
 
 <div class="flex-video">
-	<iframe width="780" height="585" src="https://www.youtube.com/watch?v=FbTjuOejojk" frameborder="0"
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/FbTjuOejojk" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
@@ -77,10 +77,10 @@ Browse the forum, ask a question, or request one-on-one support in
 
 #### *"Bioinformatics Series: Introduction to Bioinformatics"* webinar (2017-June-28)
 
-* [PDF slides](https://www.westgrid.ca/files/Introduction%20to%20Bioinformatics.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introBioinformatics20170628.pdf)
 
 <div class="flex-video">
-	<iframe width="780" height="585" src="https://www.youtube.com/watch?v=lnRkKopf6GU" frameborder="0"
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/lnRkKopf6GU" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
