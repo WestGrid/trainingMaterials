@@ -15,12 +15,9 @@ permalink: "/programming/"
 
 ## Chapel
 
-Check full-day HPC Carpentry
-[*Parallel programming in Chapel* course](https://hpc-carpentry.github.io/hpc-chapel).
+#### Webinar Series: *"Intro to Parallel Programming in Chapel"* 
 
-#### *"Intro to Parallel Programming in Chapel"* three-part webinar
-
-In this three-part online webinar series, we introduce the main concepts of the Chapel parallel
+In this three-part online webinar series, we introduce the main concepts of the [Chapel](https://chapel-lang.org/) parallel
 programming language. Chapel is a relatively new language for both shared- and distributed-memory
 programming, with easy-to-use, high-level features that make it ideal for learning parallel programming
 for a novice HPC user.
@@ -29,22 +26,46 @@ Unlike other high-level data-processing languages and workflows, the primary app
 numerical modelling and simulation codes, so this workshop is ideal for anyone who wants to learn how to
 write efficient large-scale numerical codes.
 
-##### Part 1: basic language features (2018-Feb-28)
+##### Part 1: Basic language features (2018-Feb-28)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/vQEBzax7PWU" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-##### Part 2: task parallelism in Chapel (2018-Mar-07)
+##### Part 2: Task parallelism in Chapel (2018-Mar-07)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/kCI0riVEjlk" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-##### Part 3: data parallelism in Chapel (2018-Mar-14)
+##### Part 3: Data parallelism in Chapel (2018-Mar-14)
 
-&nbsp;
+<div class="flex-video">
+	<iframe width="780" height="585" src="https://www.youtube.com/watch?v=hdnVKGJAlcM" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 
+#### HPC Carpentry Course
+
+As part of a contribution to HPC Carpentry, WestGrid staff authored a [*Parallel programming in Chapel* course](https://hpc-carpentry.github.io/hpc-chapel). The materials and exercises presented in this course can be presented as a full-day workshop. If you have questions about the materials, please contact Alex Razoumov - alex.razoumov@westgrid.ca.
+
+## OpenMP
+
+#### Webinar: *Intro to Parallel Programming for Shared Memory Machines*
+
+This online workshop explores how to use OpenMP to improve the speed of serial jobs on multi-core machines. We review how to add OpenMP constructs to a serial program in order to run it using multiple cores. Viewers are led through a series of hands-on, interactive examples, focusing on multi-threading parallel programming.
+
+The topics covered include:
+- Basic OpenMP operations
+- Loops
+- Reduction variables
+
+[View the slides](https://www.westgrid.ca/files/IntroToParallelProgrammingOpenMP_WGwebinar_Oct2017.pdf)
+
+<div class="flex-video">
+	<iframe width="780" height="585" src="https://youtu.be/LL3TAHpxOig" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
