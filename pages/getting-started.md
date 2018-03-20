@@ -18,11 +18,11 @@ Browse the materials from our Introduction to Linux: Command Line Basics (delive
 - [Watch the recording](https://www.youtube.com/watch?v=vOrk0OuEU04)
 - [Try the problemset](https://github.com/Phillip-a-richmond/ComputeCanada_EOT/blob/master/IntroToLinuxProblemSet.txt)
 
-Read WestGrid's [QuickStart Guide for New Users](https://www.westgrid.ca/support/quickstart/new_users).
+Read WestGrid's [QuickStart Guide for Getting Started on Compute Canada National Systems](https://www.westgrid.ca/getting_started_national_systems_quickstart_guide_0).
 
 Watch Compute Canada's
 [Getting Started with Compute Canada Nationals Systems](https://www.youtube.com/playlist?list=PLeCQbAbRSKR8gg6ZMFof1Hf9YF_-n31Ym)
-short videos.
+mini-webinars -- a series of short video tutorials that demonstrate how to access the national clusters, submit jobs, access software, avoid common mistakes, and get help from the Compute Canada support team. 
 
 Browse all materials from UBC/WestGrid Summer School's [Introductory HPC course](http://bit.ly/introhpc)
 (ZIP file) from 2017.
