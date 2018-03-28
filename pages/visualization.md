@@ -17,6 +17,10 @@ For full documentation, please check the
 [Visualization section](https://docs.computecanada.ca/wiki/Visualization) in Compute Canada&#8217;s technical wiki.
 &nbsp;
 
+#### *"Scientific visualization with Plotly"* webinar (2018-Mar-28)
+
+* [webinar notes](https://github.com/WestGrid/trainingMaterials/blob/gh-pages/materials/plotly.md)
+
 #### *"Novel Visualization Techniques from the 2017 Visualize This Challenge"* webinar (2018-Jan-31)
 
 * [PDF slides]({{ site.baseurl }}/materials/novel20180131.pdf)
