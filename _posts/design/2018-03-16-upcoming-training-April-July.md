@@ -28,7 +28,7 @@ For more information on each session, or to register, click on the links below.
 ## Webinars
 
 * Apr-11 - [*Bioinformatics Series: Designing and implementing a variant database*](https://www.eventbrite.ca/e/bioinformatics-series-designing-implementing-a-variant-database-registration-44005392313)
-* Apr-25 - digital humanities, topic TBA
+* Apr-25 - *Cloud Basics Walkthrough: Logging in and creating a first virtual machine*
 * May-09 - [*Tools for Automating Analysis Pipelines*](https://www.eventbrite.ca/e/tools-for-automating-analysis-pipelines-registration-44241959893)
 * May-23 - visualization, topic TBA
 
