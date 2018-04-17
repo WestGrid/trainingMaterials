@@ -28,13 +28,13 @@ For more information on each session, or to register, click on the links below.
 ## Webinars
 
 * Apr-11 - [*Bioinformatics Series: Designing and implementing a variant database*](https://www.eventbrite.ca/e/bioinformatics-series-designing-implementing-a-variant-database-registration-44005392313)
-* Apr-25 - *Cloud Basics Walkthrough: Logging in and creating a first virtual machine*
-* May-09 - *A Brief Introduction to the Boost MPI Library*
+* Apr-25 - [*Cloud Basics Walkthrough: Logging in and creating a first virtual machine*](https://www.eventbrite.ca/e/cloud-basics-logging-in-creating-a-virtual-machine-registration-45222949058)
+* May-09 - [*A Brief Introduction to the Boost MPI Library*](https://www.eventbrite.ca/e/introduction-to-the-boost-mpi-library-registration-45221058403)
 * May-23 - visualization, topic TBA
 
 ## In-person workshops
 
-* Apr-30 to May-01 [*Software Carpentry at SFU*](https://computecanada.github.io/2018-04-30-sfu)
+* Apr-30 to May-01 - [*Software Carpentry at SFU*](https://computecanada.github.io/2018-04-30-sfu)
 * May-11 - *Introduction to Cedar* (Omics@SFU)
 * May-16 to May-18 - [UNBC workshops in Prince George](https://www.eventbrite.ca/e/research-computing-tutorials-unbc-intro-to-hpc-programming-paraview-registration-41154618572): *3D visualization*, *Introductory Python*, *Introduction
   to HPC*, *Parallel programming with Chapel*
