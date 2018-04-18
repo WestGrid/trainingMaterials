@@ -35,7 +35,7 @@ For more information on each session, or to register, click on the links below.
 ## In-person workshops
 
 * Apr-30 to May-01 - [*Software Carpentry at SFU*](https://computecanada.github.io/2018-04-30-sfu)
-* May-11 - *Introduction to Cedar* (Omics@SFU)
+* May-11 - [*Introduction to Cedar*](https://www.eventbrite.ca/e/introduction-to-cedar-supercomputer-tickets-45120977057) (Omics@SFU)
 * May-16 to May-18 - [UNBC workshops in Prince George](https://www.eventbrite.ca/e/research-computing-tutorials-unbc-intro-to-hpc-programming-paraview-registration-41154618572): *3D visualization*, *Introductory Python*, *Introduction
   to HPC*, *Parallel programming with Chapel*
 * May-28 to May-30 - University of Alberta workshops: [*HPC Carpentry with Chapel*](https://computecanada.github.io/2018-05-28-ualberta-hpc), *3D visualization*
