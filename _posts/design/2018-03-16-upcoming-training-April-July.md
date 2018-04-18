@@ -38,10 +38,10 @@ For more information on each session, or to register, click on the links below.
 * May-11 - *Introduction to Cedar* (Omics@SFU)
 * May-16 to May-18 - [UNBC workshops in Prince George](https://www.eventbrite.ca/e/research-computing-tutorials-unbc-intro-to-hpc-programming-paraview-registration-41154618572): *3D visualization*, *Introductory Python*, *Introduction
   to HPC*, *Parallel programming with Chapel*
-* May-28 to May-30 - UofA workshops: [*HPC Carpentry with Chapel*](https://computecanada.github.io/2018-05-28-ualberta-hpc), *3D visualization*
+* May-28 to May-30 - University of Alberta workshops: [*HPC Carpentry with Chapel*](https://computecanada.github.io/2018-05-28-ualberta-hpc), *3D visualization*
 * Jun-10 - DHSI courses at UVic: *3D visualization for the humanities*, *Unleash Linux on MacOS*
-* Jun-11 to Jun-14 - WestGrid summer school at UBC
-* Jun-25 to Jun-28 - WestGrid summer school at UofManitoba
+* Jun-11 to Jun-14 - [WestGrid summer school at UBC](https://www.eventbrite.ca/e/westgrid-research-computing-summer-school-2018-ubc-tickets-43877045424)
+* Jun-25 to Jun-28 - [WestGrid summer school at the University of Manitoba](https://www.eventbrite.ca/e/westgrid-research-computing-summer-school-2018-umanitoba-tickets-43877322252)
 * Jul-03 - *3D visualization* at the 9th Annual Faculty of Engineering Graduate Research Symposium, UofA
 
 As always, we welcome requests for other training topics and events. Please email suggestions to
