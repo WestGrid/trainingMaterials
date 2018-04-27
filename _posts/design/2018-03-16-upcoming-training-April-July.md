@@ -30,7 +30,7 @@ For more information on each session, or to register, click on the links below.
 * Apr-11 - [*Bioinformatics Series: Designing and implementing a variant database*](https://www.eventbrite.ca/e/bioinformatics-series-designing-implementing-a-variant-database-registration-44005392313)
 * Apr-25 - [*Cloud Basics Walkthrough: Logging in and creating a first virtual machine*](https://www.eventbrite.ca/e/cloud-basics-logging-in-creating-a-virtual-machine-registration-45222949058)
 * May-09 - [*A Brief Introduction to the Boost MPI Library*](https://www.eventbrite.ca/e/introduction-to-the-boost-mpi-library-registration-45221058403)
-* May-23 - *Hands-on with the new features in ParaView 5.5*
+* Jun-06 - *Hands-on with the new features in ParaView 5.5*
 
 ## In-person workshops
 
