@@ -21,6 +21,13 @@ For full documentation, please check the
 
 * [webinar notes](https://github.com/WestGrid/trainingMaterials/blob/gh-pages/materials/plotly.md)
 
+<div class="flex-video">
+	<iframe width="854" height="480" src="https://www.youtube.com/embed/to3u6g9XORM" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+&nbsp;
+
 #### *"Novel Visualization Techniques from the 2017 Visualize This Challenge"* webinar (2018-Jan-31)
 
 * [PDF slides]({{ site.baseurl }}/materials/novel20180131.pdf)

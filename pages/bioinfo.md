@@ -20,6 +20,15 @@ Browse the forum, ask a question, or request one-on-one support in
 
 ## Webinars
 
+#### *"The Human Variant Database"* webinar (2018-Apr-11)
+
+* [PDF slides]({{ site.baseurl }}/materials/humanVariantDatabase20180411.pdf)
+
+<div class="flex-video">
+	<iframe width="780" height="585" src="https://www.youtube.com/embed/xm6yMk85jd4" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 #### *"Bioinformatics Series: Detecting structural variants"* webinar (2017-Feb-14)
 
 * [PDF slides]({{ site.baseurl }}/materials/detectingStructuralVariants.pdf)
