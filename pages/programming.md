@@ -13,6 +13,11 @@ permalink: "/programming/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
+#### *"A Brief Introduction to the Boost MPI Library"* webinar (2018-May-09)
+
+* [PDF slides]({{ site.baseurl }}/materials/boostMPI20180509.pdf)
+* <a href="https://github.com/WestGrid/boostWebinar" target="_blank">repository with example codes</a>
+
 ## Chapel
 
 #### Webinar Series: *"Intro to Parallel Programming in Chapel"* 
