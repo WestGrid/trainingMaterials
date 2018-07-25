@@ -13,5 +13,16 @@ permalink: "/tools/cloud/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-Please check the [cloud computing page](https://docs.computecanada.ca/wiki/Cloud) in Compute
-Canada&#8217;s technical wiki. Other cloud computing materials are coming shortly.
+For more information, please check the [cloud computing page](https://docs.computecanada.ca/wiki/Cloud)
+in Compute Canada&#8217;s technical wiki.
+
+#### *"Cloud Basics: Logging in & creating a virtual machine"* webinar (2018-Apr-25)
+
+* [PDF slides]({{ site.baseurl }}/materials/cloudBasics20180425.pdf)
+
+<div class="flex-video">
+	<iframe width="780" height="585" src="https://www.youtube.com/embed/xua1-OL-JGc" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+&nbsp;

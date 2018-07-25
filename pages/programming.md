@@ -18,14 +18,19 @@ permalink: "/programming/"
 * [PDF slides]({{ site.baseurl }}/materials/boostMPI20180509.pdf)
 * <a href="https://github.com/WestGrid/boostWebinar" target="_blank">repository with example codes</a>
 
+<div class="flex-video">
+	<iframe width="780" height="585" src="https://www.youtube.com/embed/P3kMdyka0XI" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## Chapel
 
 #### Webinar Series: *"Intro to Parallel Programming in Chapel"* 
 
-In this three-part online webinar series, we introduce the main concepts of the [Chapel](https://chapel-lang.org/) parallel
-programming language. Chapel is a relatively new language for both shared- and distributed-memory
-programming, with easy-to-use, high-level features that make it ideal for learning parallel programming
-for a novice HPC user.
+In this three-part online webinar series, we introduce the main concepts of the
+[Chapel](https://chapel-lang.org/) parallel programming language. Chapel is a relatively new language for
+both shared- and distributed-memory programming, with easy-to-use, high-level features that make it ideal
+for learning parallel programming for a novice HPC user.
 
 Unlike other high-level data-processing languages and workflows, the primary application of Chapel is
 numerical modelling and simulation codes, so this workshop is ideal for anyone who wants to learn how to
