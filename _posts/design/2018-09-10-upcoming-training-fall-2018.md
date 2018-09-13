@@ -45,8 +45,9 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 
 ## In-person workshops
 
-* Sep-24-28 - [*Research Computing Fall Bootcamp*](https://ist.ualberta.ca/blog/events/get-ready-research-computing-fall-bootcamp) at the UofA
-* Sep-25 - [*Introduction to Python*](https://www.lib.sfu.ca/find/other-materials/data-gis/gis/33694) at SFU's Big Data Hub
+| DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location |
+| Sep-24 to 28 | [*Research Computing Fall Bootcamp*](https://ist.ualberta.ca/blog/events/get-ready-research-computing-fall-bootcamp) | UofA |
+| Sep-25 | [*Introduction to Python*](https://www.lib.sfu.ca/find/other-materials/data-gis/gis/33694) | SFU's Big Data Hub |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to
 info@westgrid.ca.
