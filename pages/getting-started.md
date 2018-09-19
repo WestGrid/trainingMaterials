@@ -18,14 +18,15 @@ permalink: "/getting-started/"
 * [Supercomputing in Canada: An Introduction to WestGrid & Compute Canada]({{ site.baseurl }}/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
 * [Compute Canada’s Resource Allocation Competition (RAC) 2019: Best Practices]({{ site.baseurl }}/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
 
-rac2019bestPractices-UVIC-CURRENT.pdf
-
 ### Introduction to Linux
 
 Browse the materials from our Introduction to Linux: Command Line Basics (delivered Sept 2017):
 - [View the slides]({{ site.baseurl }}/materials/introLinuxCommandLine20170926.pdf)
 - [Watch the recording](https://www.youtube.com/watch?v=vOrk0OuEU04)
 - [Try the problemset](https://github.com/Phillip-a-richmond/ComputeCanada_EOT/blob/master/IntroToLinuxProblemSet.txt)
+
+For basic introduction to Bash command line, programming in Python or R, and version control with Git,
+check out a [Software Carpentry workshop](https://software-carpentry.org/workshops) closest to you.
 
 ### Getting Started Guides
 
@@ -39,8 +40,3 @@ mini-webinars -- a series of short video tutorials that demonstrate how to acces
 
 Browse all materials from WestGrid Summer School's [Introductory HPC course](http://bit.ly/introhpc)
 (ZIP file) from 2018.
-
-### Software Carpentry links
-
-For basic introduction to Bash command line, programming in Python or R, and version control with Git,
-check out a [Software Carpentry workshop](https://software-carpentry.org/workshops) closest to you.
