@@ -16,9 +16,12 @@ permalink: "/tools/scheduling/"
 Please check the [guide on running jobs on clusters](https://docs.computecanada.ca/wiki/Running_jobs) in
 Compute Canada&#8217;s technical wiki.
 
-#### *"Scheduling & Job Management: How to Get the Most from a Cluster"* webinar (2017-Oct-24)
+#### *"Scheduling & Job Management: How to Get the Most from a Cluster"* three-part webinar (2017-Oct-24)
 
-* [PDF slides]({{ site.baseurl }}/materials/schedulingOct201710.pdf)
+* [PDF slides]({{ site.baseurl }}/materials/schedulingKamil/schedulingOct201710.pdf)
+* [Slurm cheatsheet]({{ site.baseurl }}/materials/schedulingKamil/slurmCheatsheet.pdf)
+* [Session questions]({{ site.baseurl }}/materials/schedulingKamil/slurmWorksheet.pdf)
+* [Workshop questions and answers]({{ site.baseurl }}/materials/schedulingKamil/answers.tar.gz) (gzipped tar archive)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/RCodAqGlFeM" frameborder="0"
