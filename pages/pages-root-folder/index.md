@@ -9,7 +9,7 @@ header:
   image_fullwidth: wgLogoHighRes.jpg
 widget1:
   title: "Getting started"
-  url: 'https://westgrid.github.io/trainingMaterials/getting-started/'
+  url: '/getting-started/'
   image: widget-1-302x182.jpg
   text: 'If you are new to using clusters, or not sure how to compile codes or submit Slurm jobs, this page is a
   good starting point.'
