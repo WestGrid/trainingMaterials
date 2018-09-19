@@ -26,15 +26,20 @@ Browse the materials from our Introduction to Linux: Command Line Basics (delive
 - [Try the problemset](https://github.com/Phillip-a-richmond/ComputeCanada_EOT/blob/master/IntroToLinuxProblemSet.txt)
 
 For basic introduction to Bash command line, programming in Python or R, and version control with Git,
-check out a [Software Carpentry workshop](https://software-carpentry.org/workshops) closest to you.
+check out a <a href="https://software-carpentry.org/workshops" target="_blank">Software Carpentry
+workshop</a> closest to you. We also recommend their online <a
+href="https://hpc-carpentry.github.io/hpc-shell" target="_blank">Introduction to using the shell in a HPC
+context</a> lessons for some very basic introduction to Linux command line.
 
 ### Getting Started Guides
 
-Read WestGrid's [QuickStart Guide for Getting Started on Compute Canada National Systems](https://www.westgrid.ca/getting_started_national_systems_quickstart_guide_0).
+Read WestGrid's <a href="https://www.westgrid.ca/getting_started_national_systems_quickstart_guide_0"
+target="_blank">QuickStart Guide for Getting Started on CC National Systems</a>.
 
-Watch Compute Canada's
-[Getting Started with Compute Canada Nationals Systems](https://www.youtube.com/playlist?list=PLeCQbAbRSKR8gg6ZMFof1Hf9YF_-n31Ym)
-mini-webinars -- a series of short video tutorials that demonstrate how to access the national clusters, submit jobs, access software, avoid common mistakes, and get help from the Compute Canada support team. 
+Watch Compute Canada's <a href="https://www.youtube.com/playlist?list=PLeCQbAbRSKR8gg6ZMFof1Hf9YF_-n31Ym"
+target="_blank">Getting Started with CC National Systems</a> mini-webinars -- a series of short video
+tutorials that demonstrate how to access the national clusters, submit jobs, access software, avoid
+common mistakes, and get help from the Compute Canada support team.
 
 ### Introduction to HPC from our summer school
 
