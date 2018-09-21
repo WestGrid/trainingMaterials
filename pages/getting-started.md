@@ -17,6 +17,8 @@ permalink: "/getting-started/"
 
 * [Supercomputing in Canada: An Introduction to WestGrid & Compute Canada]({{ site.baseurl }}/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
 * [Compute Canada’s Resource Allocation Competition (RAC) 2019: Best Practices]({{ site.baseurl}}/materials/rac2019bestPractices-UVIC-CURRENT.pdf) (PDF slides)
+* [Best practices guide for Compute Canada's 2019 Resource Allocation Competition (RAC)]({{
+  site.baseurl}}/materials/rac2019changesAndBestPractices.pdf) (PDF documentation)
 
 ### Introduction to Linux
 
