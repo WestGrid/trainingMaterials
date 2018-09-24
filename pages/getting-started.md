@@ -16,9 +16,11 @@ permalink: "/getting-started/"
 ### Introduction to WestGrid and Compute Canada and the current RAC
 
 * [Supercomputing in Canada: An Introduction to WestGrid & Compute Canada]({{ site.baseurl }}/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
-* [Compute Canada’s Resource Allocation Competition (RAC) 2019: Best Practices]({{ site.baseurl}}/materials/rac2019bestPractices-UVIC-CURRENT.pdf) (PDF slides)
+* Compute Canada’s Resource Allocation Competition (RAC) 2019: Best Practices (PDF slides)
+  * [UVic edition]({{ site.baseurl }}/materials/rac2019bestPractices-UVIC-CURRENT.pdf)
+  * [UofA edition]({{ site.baseurl }}/materials/rac2019bestPractices-UAlberta-CURRENT.pdf)
 * [Best practices guide for Compute Canada's 2019 Resource Allocation Competition (RAC)]({{
-  site.baseurl}}/materials/rac2019changesAndBestPractices.pdf) (PDF documentation)
+  site.baseurl }}/materials/rac2019changesAndBestPractices.pdf) (PDF documentation)
 
 ### Introduction to Linux
 
@@ -34,8 +36,6 @@ href="https://hpc-carpentry.github.io/hpc-shell" target="_blank">Introduction to
 context</a> lessons for some very basic introduction to Linux command line.
 
 ### Getting Started Guides
-
-
 
 #### *"How to submit and run jobs on Compute Canada HPC systems	"* webinar (2018-Sep-19)
 
