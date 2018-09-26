@@ -37,9 +37,14 @@ context</a> lessons for some very basic introduction to Linux command line.
 
 ### Getting Started Guides
 
-#### *"How to submit and run jobs on Compute Canada HPC systems	"* webinar (2018-Sep-19)
+#### *"How to submit and run jobs on Compute Canada HPC systems"* webinar (2018-Sep-19)
 
 * [webinar slides]({{ site.baseurl }}/materials/introRunningJobs20180919.pdf)
+
+<div class="flex-video">
+	<iframe width="781" height="439" src="https://www.youtube.com/embed/EY-NIGhCnhQ" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 Read WestGrid's <a href="https://www.westgrid.ca/getting_started_national_systems_quickstart_guide_0"
 target="_blank">QuickStart Guide for Getting Started on CC National Systems</a>.
