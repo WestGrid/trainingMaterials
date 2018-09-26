@@ -19,6 +19,7 @@ permalink: "/getting-started/"
 * Compute Canada’s Resource Allocation Competition (RAC) 2019: Best Practices (PDF slides)
   * [UVic edition]({{ site.baseurl }}/materials/rac2019bestPractices-UVIC-CURRENT.pdf)
   * [UofA edition]({{ site.baseurl }}/materials/rac2019bestPractices-UAlberta-CURRENT.pdf)
+  * [UCalgary edition]({{ site.baseurl }}/materials/rac2019bestPractices-UCalgary-CURRENT.pdf)
 * [Best practices guide for Compute Canada's 2019 Resource Allocation Competition (RAC)]({{
   site.baseurl }}/materials/rac2019changesAndBestPractices.pdf) (PDF documentation)
 
