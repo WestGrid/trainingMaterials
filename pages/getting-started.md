@@ -23,6 +23,13 @@ permalink: "/getting-started/"
 * [Best practices guide for Compute Canada's 2019 Resource Allocation Competition (RAC)]({{
   site.baseurl }}/materials/rac2019changesAndBestPractices.pdf) (PDF documentation)
 
+#### Quick guides
+
+* [WestGrid Backgrounder](https://www.westgrid.ca/files/WestGrid.Backgrounder.2018.pdf) (one-page PDF)
+* [Getting Started with WestGrid & Compute Canada](https://www.westgrid.ca/files/Getting%20Started%20with%20WestGrid%20%26%20Compute%20Canada.pdf)
+  (two-page PDF)
+* [Quick Guide to RAC 2019](https://www.westgrid.ca/files/Guide_to_RAC2019.pdf) (two-page PDF)
+
 ### Introduction to Linux
 
 Browse the materials from our Introduction to Linux: Command Line Basics (delivered Sept 2017):
