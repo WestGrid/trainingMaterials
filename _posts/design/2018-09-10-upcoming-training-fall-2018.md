@@ -47,6 +47,7 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location |
 | Sep-24 to 28 | [*Research Computing Fall Bootcamp*](https://ist.ualberta.ca/blog/events/get-ready-research-computing-fall-bootcamp) | UofA |
 | Sep-25 | [*Introduction to Python*](https://www.lib.sfu.ca/find/other-materials/data-gis/gis/33694) | SFU's Big Data Hub |
+| Oct-23 | [*A taste of parallel programming with Chapel*](https://www.lib.sfu.ca/about/branches-depts/rc/services/workshops/taste-parallel-programming-chapel) | SFU, Bennett Library, Rm 7010, Research Commons |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to
 info@westgrid.ca.
