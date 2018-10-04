@@ -36,8 +36,8 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 | Sep-20 (**special time**) | [*Arbutus Upgrade: What you need to know*](https://www.eventbrite.ca/e/arbutus-upgrade-what-you-need-to-know-registration-47577851635) | Ryan Enge and Venkat Mahadevan |
 | Oct-03 | [*Common job submission errors and how to avoid them*](https://www.eventbrite.ca/e/common-job-submission-errors-and-how-to-avoid-them-registration-50053116218) | Kamil Marcinkowski |
 | Oct-17 | [*Tools for automating analysis pipelines*](https://www.eventbrite.ca/e/tools-for-automating-analysis-pipelines-registration-44241959893) | Jamie Rosner |
-| Oct-31 | [*Data Analytics and Machine Learning with MATLAB*](https://www.eventbrite.ca/e/data-analytics-and-machine-learning-with-matlab-registration-50061508319) | Sumit Tandon, MathWorks |
-| Nov-14 | [*How HPC helped researchers simulate the life of a star*](https://www.eventbrite.ca/e/how-hpc-helped-researchers-simulate-the-life-of-a-star-registration-50061876420) (topic TBC) | TBA |
+| Oct-31 | [*Data Analytics and Machine Learning with MATLAB*](https://www.eventbrite.ca/e/data-analytics-and-machine-learning-with-matlab-registration-50061508319) | Sumit Tandon (MathWorks) |
+| Nov-14 | [*How HPC helped researchers simulate the life of a star*](https://www.eventbrite.ca/e/how-hpc-helped-researchers-simulate-the-life-of-a-star-registration-50061876420) | Falk Herwig (UVic) |
 | mid-November (**special time**) | visualization mid-challenge webinar | Alex Razoumov |
 | Nov 28 | [*Getting started on the cloud*](https://www.eventbrite.ca/e/getting-started-in-the-compute-canada-cloud-registration-50059811243) (humanities/social sci. Part 1) | John Simpson |
 | Dec 12 | [*Deploying LAMP (Linux-Apache-MySQL-PHP software stack) on a Virtual Machine*](https://www.eventbrite.ca/e/deploying-lamp-on-a-virtual-machine-vm-registration-50060345842) (humanities/social sciences Part 2) | John Simpson |
