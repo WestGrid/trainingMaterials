@@ -22,6 +22,13 @@ This webinar is intended for users who are already familiar with the basic Slurm
 
 * [PDF slides]({{ site.baseurl }}/materials/schedulingKamil/schedulingProblems20181003.pdf)
 
+<div class="flex-video">
+	<iframe width="966" height="543" src="https://www.youtube.com/embed/UGSi0vung8Q" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+&nbsp;
+
 #### *"Scheduling & Job Management: How to Get the Most from a Cluster"* webinar (2017-Oct-24)
 
 This three-part webinar is a beginner-level introduction to working with Slurm.

@@ -20,6 +20,12 @@ Browse the forum, ask a question, or request one-on-one support in
 
 ## Webinars
 
+#### *"Tools for automating analysis pipelines"* webinar (2018-Oct-17)
+
+* [PDF slides]({{ site.baseurl }}/materials/automatingAnalysisPipelines20181017.pdf)
+
+&nbsp;
+
 #### *"The Human Variant Database"* webinar (2018-Apr-11)
 
 * [PDF slides]({{ site.baseurl }}/materials/humanVariantDatabase20180411.pdf)
@@ -28,6 +34,8 @@ Browse the forum, ask a question, or request one-on-one support in
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/xm6yMk85jd4" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+&nbsp;
 
 #### *"Bioinformatics Series: Detecting structural variants"* webinar (2017-Feb-14)
 
