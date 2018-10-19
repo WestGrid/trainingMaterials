@@ -5,7 +5,7 @@ title: "Resources on Scheduling"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: system-3541575_1920.jpg
 permalink: "/tools/scheduling/"
 ---
 

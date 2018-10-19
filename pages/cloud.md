@@ -5,7 +5,7 @@ title: "Resources for Cloud Computing"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: cloud-computing.jpg
 permalink: "/tools/cloud/"
 ---
 
