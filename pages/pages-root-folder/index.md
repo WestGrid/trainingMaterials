@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: wgLogoHighRes.jpg
+  image_fullwidth: WG-TrainingSite-Banner.jpg
 widget1:
   title: "Getting started"
   url: '/getting-started/'
