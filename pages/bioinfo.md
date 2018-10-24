@@ -24,6 +24,11 @@ Browse the forum, ask a question, or request one-on-one support in
 
 * [PDF slides]({{ site.baseurl }}/materials/automatingAnalysisPipelines20181017.pdf)
 
+<div class="flex-video">
+	<iframe width="966" height="543" src="https://www.youtube.com/embed/i30PZq60vfM" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 &nbsp;
 
 #### *"The Human Variant Database"* webinar (2018-Apr-11)
