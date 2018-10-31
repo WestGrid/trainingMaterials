@@ -78,3 +78,9 @@ The topics covered include:
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/LL3TAHpxOig" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+## MATLAB
+
+#### *"Data Analytics and Machine Learning with MATLAB"* webinar (2018-Oct-31)
+
+Presentation materials will be added shortly.
