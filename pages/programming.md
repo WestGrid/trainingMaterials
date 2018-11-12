@@ -9,9 +9,15 @@ header:
 permalink: "/programming/"
 ---
 
-<!-- 1. Open `_config.yml` and work it through, it's well documented -->
-<!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
-<!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
+### Table of Contents
+
+- [Parallel Libraries](#parallel-libraries)
+- [Chapel](#chapel)
+- [HPC Carpentry Course](#hpc-carpentry-course)
+- [OpenMP](#openmp)
+- [MATLAB](#matlab)
+
+## Parallel Libraries
 
 #### *"A Brief Introduction to the Boost MPI Library"* webinar (2018-May-09)
 
@@ -59,7 +65,7 @@ write efficient large-scale numerical codes.
 
 ## HPC Carpentry Course
 
-As part of a contribution to HPC Carpentry, WestGrid staff authored a [*Parallel programming in Chapel* course](https://hpc-carpentry.github.io/hpc-chapel). The materials and exercises presented in this course can be presented as a full-day workshop. If you have questions about the materials, please contact Alex Razoumov - alex.razoumov@westgrid.ca.
+As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Parallel programming in Chapel* course](https://hpc-carpentry.github.io/hpc-chapel). The materials and exercises presented in this course can be presented as a full-day workshop. If you have questions about the materials, please contact Alex Razoumov - alex.razoumov@westgrid.ca.
 
 ## OpenMP
 
