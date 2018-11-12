@@ -84,3 +84,9 @@ The topics covered include:
 #### *"Data Analytics and Machine Learning with MATLAB"* webinar (2018-Oct-31)
 
 * [PDF slides]({{ site.baseurl }}/materials/MATLAB20181031.pdf)
+
+<div class="flex-video">
+	<iframe width="1425" height="629" src="https://www.youtube.com/embed/LFxTqte_Msc" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
