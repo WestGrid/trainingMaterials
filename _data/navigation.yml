@@ -20,6 +20,8 @@
     url: "/domains/dh/"
   - title: "Molecular dynamics"
     url: "/domains/md/"
+  - title: "Astrophysics"
+    url: "/domains/astro/"
 
 - title: "Tools"
   url: "/tools/"
