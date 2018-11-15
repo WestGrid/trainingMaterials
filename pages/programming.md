@@ -19,7 +19,9 @@ permalink: "/programming/"
 
 ## Parallel Libraries
 
-#### *"A Brief Introduction to the Boost MPI Library"* webinar (2018-May-09)
+#### *"A Brief Introduction to the Boost MPI Library"*
+
+**Webinar** (2018-May-09)
 
 * [PDF slides]({{ site.baseurl }}/materials/boostMPI20180509.pdf)
 * <a href="https://github.com/WestGrid/boostWebinar" target="_blank">repository with example codes</a>
@@ -87,7 +89,9 @@ The topics covered include:
 
 ## MATLAB
 
-#### *"Data Analytics and Machine Learning with MATLAB"* webinar (2018-Oct-31)
+#### *"Data Analytics and Machine Learning with MATLAB"*
+
+**Webinar** (2018-Oct-31)
 
 * [PDF slides]({{ site.baseurl }}/materials/MATLAB20181031.pdf)
 

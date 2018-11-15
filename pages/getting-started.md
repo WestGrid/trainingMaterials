@@ -46,7 +46,9 @@ context</a> lessons for some very basic introduction to Linux command line.
 
 ### Getting Started Guides
 
-#### *"How to submit and run jobs on Compute Canada HPC systems"* webinar (2018-Sep-19)
+#### *"How to submit and run jobs on Compute Canada HPC systems"*
+
+**Webinar** (2018-Sep-19)
 
 * [webinar slides]({{ site.baseurl }}/materials/introRunningJobs20180919.pdf)
 

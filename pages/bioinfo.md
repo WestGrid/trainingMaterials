@@ -9,10 +9,6 @@ header:
 permalink: "/domains/bioinfo/"
 ---
 
-<!-- 1. Open `_config.yml` and work it through, it's well documented -->
-<!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
-<!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
-
 ## Ask An Expert
 
 Browse the forum, ask a question, or request one-on-one support in
@@ -20,7 +16,9 @@ Browse the forum, ask a question, or request one-on-one support in
 
 ## Webinars
 
-#### *"Tools for automating analysis pipelines"* webinar (2018-Oct-17)
+#### *"Tools for automating analysis pipelines"*
+
+**Webinar** (2018-Oct-17)
 
 * [PDF slides]({{ site.baseurl }}/materials/automatingAnalysisPipelines20181017.pdf)
 
@@ -31,7 +29,9 @@ Browse the forum, ask a question, or request one-on-one support in
 
 &nbsp;
 
-#### *"The Human Variant Database"* webinar (2018-Apr-11)
+#### *"The Human Variant Database"*
+
+**Webinar** (2018-Apr-11)
 
 * [PDF slides]({{ site.baseurl }}/materials/humanVariantDatabase20180411.pdf)
 
@@ -42,7 +42,9 @@ Browse the forum, ask a question, or request one-on-one support in
 
 &nbsp;
 
-#### *"Bioinformatics Series: Detecting structural variants"* webinar (2017-Feb-14)
+#### *"Bioinformatics Series: Detecting structural variants"*
+
+**Webinar** (2017-Feb-14)
 
 * [PDF slides]({{ site.baseurl }}/materials/detectingStructuralVariants.pdf)
 
@@ -53,7 +55,9 @@ Browse the forum, ask a question, or request one-on-one support in
 
 &nbsp;
 
-#### *"Bioinformatics Series: Quality Control of Next-Gen Sequence Data"* webinar (2018-Jan-17)
+#### *"Bioinformatics Series: Quality Control of Next-Gen Sequence Data"*
+
+**Webinar** (2018-Jan-17)
 
 * [PDF slides]({{ site.baseurl }}/materials/qualityControlOfNGSData.pdf)
 
@@ -64,7 +68,9 @@ Browse the forum, ask a question, or request one-on-one support in
 
 &nbsp;
 
-#### *"Bioinformatics Series: FFPE in Your NGS Study"* webinar (2017-Dec-06)
+#### *"Bioinformatics Series: FFPE in Your NGS Study"*
+
+**Webinar** (2017-Dec-06)
 
 * [PDF slides]({{ site.baseurl }}/materials/WestGridwebinar-20171206-FFPE.pdf)
 
@@ -75,7 +81,9 @@ Browse the forum, ask a question, or request one-on-one support in
 
 &nbsp;
 
-#### *"Bioinformatics Series: Designing an NGS Study for my Biological Question"* webinar (2017-Nov-08)
+#### *"Bioinformatics Series: Designing an NGS Study for my Biological Question"*
+
+**Webinar** (2017-Nov-08)
 
 * [PDF slides]({{ site.baseurl }}/materials/WestGridwebinar_GSCdesigningNGSstudy_20171107.pdf)
 
@@ -86,7 +94,9 @@ Browse the forum, ask a question, or request one-on-one support in
 
 &nbsp;
 
-#### *"Bioinformatics Series: Benchmarking of Variant Callers and Analysis Tools"* webinar (2017-Sept-28)
+#### *"Bioinformatics Series: Benchmarking of Variant Callers and Analysis Tools"*
+
+**Webinar** (2017-Sept-28)
 
 * [PDF slides]({{ site.baseurl }}/materials/benchmarkingSimonChan201709.pdf)
 
@@ -97,7 +107,9 @@ Browse the forum, ask a question, or request one-on-one support in
 
 &nbsp;
 
-#### *"Bioinformatics Series: Introduction to Bioinformatics"* webinar (2017-June-28)
+#### *"Bioinformatics Series: Introduction to Bioinformatics"*
+
+**Webinar** (2017-June-28)
 
 * [PDF slides]({{ site.baseurl }}/materials/introBioinformatics20170628.pdf)
 

@@ -16,7 +16,9 @@ permalink: "/domains/dh/"
 Annual [Digital Humanities Summer Institute](http://www.dhsi.org) at the University of Victoria offers
 courses on computing topics in humanities and social sciences.
 
-#### *"Cloud Basics: Logging in & creating a virtual machine"* webinar (2018-Apr-25)
+#### *"Cloud Basics: Logging in & creating a virtual machine"*
+
+**Webinar** (2018-Apr-25)
 
 * [PDF slides]({{ site.baseurl }}/materials/cloudBasics20180425.pdf)
 
@@ -27,7 +29,9 @@ courses on computing topics in humanities and social sciences.
 
 &nbsp;
 
-#### *"Tools for Handling Big Data & Computing Demands in Humanities & Social Science Research"* webinar (2017-Sep-21)
+#### *"Tools for Handling Big Data & Computing Demands in Humanities & Social Science Research"*
+
+**Webinar** (2017-Sep-21)
 
 * [PDF slides]({{ site.baseurl }}/materials/ccToolsHumanitiesSocialSciences20170921.pdf)
 

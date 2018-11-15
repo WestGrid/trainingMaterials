@@ -15,7 +15,9 @@ permalink: "/domains/md/"
 
 ## Webinars
 
-#### *"Introduction to Molecular Dynamics Simulations"* webinar (2017-Nov-01)
+#### *"Introduction to Molecular Dynamics Simulations"*
+
+**Webinar** (2017-Nov-01)
 
 * [PDF slides]({{ site.baseurl }}/materials/introMDsimulations20171101.pdf)
 
@@ -26,7 +28,9 @@ permalink: "/domains/md/"
 
 &nbsp;
 
-#### *"Introduction to Molecular Dynamics Simulation using LAMMPS"* webinar (2017-Mar-14)
+#### *"Introduction to Molecular Dynamics Simulation using LAMMPS"*
+
+**Webinar** (2017-Mar-14)
 
 * [PDF slides]({{ site.baseurl }}/materials/introMDSimulationsLAMMPS0.pdf)
 
