@@ -15,6 +15,10 @@ permalink: "/domains/astro/"
 
 **Invited webinar by Falk Herwig (2018-Nov-14)**
 
-This recording will be added shortly.
+<div class="flex-video">
+	<iframe width="781" height="439" src="https://www.youtube.com/embed/hLgCmVFK9vM" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 &nbsp;
