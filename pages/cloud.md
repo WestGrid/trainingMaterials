@@ -16,7 +16,17 @@ permalink: "/tools/cloud/"
 For more information, please check the [cloud computing page](https://docs.computecanada.ca/wiki/Cloud)
 in Compute Canada&#8217;s technical wiki.
 
-#### *"Cloud Basics: Logging in & creating a virtual machine"* webinar (2018-Apr-25)
+#### *"Getting started on the cloud"*
+
+**Webinar** (2018-Nov-28)
+
+* [PDF slides]({{ site.baseurl }}/materials/gettingStartedCloud20181128.pdf)
+
+The video recording will be posted within few days.
+
+#### *"Cloud Basics: Logging in & creating a virtual machine"*
+
+**Webinar** (2018-Apr-25)
 
 * [PDF slides]({{ site.baseurl }}/materials/cloudBasics20180425.pdf)
 

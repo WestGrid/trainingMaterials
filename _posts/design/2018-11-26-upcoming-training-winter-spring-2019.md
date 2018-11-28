@@ -25,6 +25,8 @@ mediaplayer: true
 
 For more information on each session, or to register, click on the links below.
 
+
+
 ## Webinars
 
 WestGrid's bi-weekly training webinars take place every second Wednesday at 10am Pacific / 11am Mountain
@@ -43,23 +45,12 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## In-person workshops
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Jan-15 to Jan-18 | [Research Computing Workshops: *Introduction to Scientific Computing with Linux, High-Performance Computing, Parallel Programming, and Scientific Visualization*](https://www.eventbrite.ca/e/research-computing-workshops-university-of-saskatchewan-registration-52948538504) | University of Saskatchewan |
-| last week of May | Research Computing summer school | University of Calgary |
-| June | Research Computing summer school | University of British Columbia |
-
+| last week of May | Research Computing Summer School | University of Calgary |
+| June | Research Computing Summer School | University of British Columbia |
 
 
 
