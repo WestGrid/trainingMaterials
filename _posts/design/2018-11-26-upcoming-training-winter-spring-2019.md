@@ -42,8 +42,7 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 | Apr-03 | *Distributed unstructured meshes and graphs in Chapel* | Alex Razoumov |
 | Apr-17 | *Next-generation sequencing (NGS)* (exact topic TBA) | Phillip Richmond (UBC) |
 | May-01 | *Programming best practices* (exact topic TBA) | Chris Want |
-
-
+| May-15 | *Julia language for HSS* (exact topic TBA) | John Simpson |
 
 ## In-person workshops
 
