@@ -23,6 +23,12 @@ For full documentation, please check the
 
 * [PDF slides]({{ site.baseurl }}/materials/yt20181121.pdf)
 
+<div class="flex-video">
+	<iframe width="951" height="535" src="https://www.youtube.com/embed/gkUbVjImv20" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 #### *"Scientific visualization with Plotly"*
 
 **Webinar** (2018-Mar-28)
