@@ -40,7 +40,7 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 | Nov-14 | [*How HPC helped researchers simulate the life of a star*](https://www.eventbrite.ca/e/how-hpc-helped-researchers-simulate-the-life-of-a-star-registration-50061876420) | Falk Herwig (UVic) |
 | Nov-21 (alternate week) | [*Using yt for analysis and visualization of volumetric data*](https://www.eventbrite.ca/e/using-yt-for-analysis-visualization-of-volumetric-data-registration-51944454261) | Alex Razoumov |
 | Nov-28 | [*Getting started on the cloud*](https://www.eventbrite.ca/e/getting-started-in-the-compute-canada-cloud-registration-50059811243) (humanities/social sci. Part 1) | John Simpson |
-| Dec-12 | [*How to deploy HTTP and HTTPS sites on a virtual machine*](https://www.eventbrite.ca/e/deploying-lamp-on-a-virtual-machine-vm-registration-50060345842) (humanities/social sciences Part 2) | John Simpson |
+| Dec-12 | [*How to deploy HTTP and HTTPS sites on a virtual machine*](https://www.eventbrite.ca/e/how-to-deploy-http-and-https-sites-on-the-compute-canada-cloud-registration-50060345842) (humanities/social sciences Part 2) | John Simpson |
 
 ## In-person workshops
 
