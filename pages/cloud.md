@@ -22,17 +22,10 @@ in Compute Canada&#8217;s technical wiki.
 
 * [PDF slides]({{ site.baseurl }}/materials/gettingStartedCloud20181128.pdf)
 
-The video recording will be posted within few days.
-
-#### *"Cloud Basics: Logging in & creating a virtual machine"*
-
-**Webinar** (2018-Apr-25)
-
-* [PDF slides]({{ site.baseurl }}/materials/cloudBasics20180425.pdf)
-
 <div class="flex-video">
-	<iframe width="780" height="585" src="https://www.youtube.com/embed/xua1-OL-JGc" frameborder="0"
-	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="726" height="408" src="https://www.youtube.com/embed/dzrzjpXPC6M" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
 </div>
 
 &nbsp;
