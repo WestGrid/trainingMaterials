@@ -29,3 +29,11 @@ in Compute Canada&#8217;s technical wiki.
 </div>
 
 &nbsp;
+
+#### *"How to deploy HTTP and HTTPS sites on a virtual machine"*
+
+**Webinar** (2018-Dec-12)
+
+The recording will added shortly.
+
+&nbsp;
