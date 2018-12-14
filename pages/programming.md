@@ -47,8 +47,9 @@ write efficient large-scale numerical codes.
 ##### Part 1: Basic language features (2018-Feb-28)
 
 <div class="flex-video">
-	<iframe width="780" height="585" src="https://www.youtube.com/embed/vQEBzax7PWU" frameborder="0"
-	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="1200" height="675" src="https://www.youtube.com/embed/QiyLkfYHEvg" frameborder="0"
+		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+		allowfullscreen></iframe>
 </div>
 
 ##### Part 2: Task parallelism in Chapel (2018-Mar-07)
