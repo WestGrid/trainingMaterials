@@ -34,6 +34,10 @@ in Compute Canada&#8217;s technical wiki.
 
 **Webinar** (2018-Dec-12)
 
-The recording will added shortly.
+<div class="flex-video">
+	<iframe width="726" height="408" src="https://www.youtube.com/embed/_hn_pVHGx8o" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 &nbsp;
