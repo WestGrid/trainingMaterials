@@ -17,7 +17,7 @@ For full documentation, please check the
 [Visualization section](https://docs.computecanada.ca/wiki/Visualization) in Compute Canada&#8217;s technical wiki.
 &nbsp;
 
-#### *"Using YT for analysis and visualization of volumetric data"*
+#### *"Using YT for analysis and visualization of volumetric data"* - YT webinar Part 1
 
 **Webinar** (2018-Nov-21)
 
@@ -28,6 +28,15 @@ For full documentation, please check the
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+
+#### *"Working with data objects in YT"* - YT webinar Part 2
+
+**Webinar** (2019-Jan-23)
+
+* [PDF slides]({{ site.baseurl }}/materials/yt20190123.pdf)
+
+
+
 
 #### *"Scientific visualization with Plotly"*
 
