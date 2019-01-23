@@ -13,8 +13,9 @@ We offer a number of on-site training courses on a wide range of topics related 
 high-performance computing, data analysis, and visualization. These workshops can take any form from one
 hour to multiple days and are free to researchers and groups from WestGrid's partner institutions.
 
-If you are looking for this or any customized training, please let us know. We expect the host to provide
-an auditorium free of charge and let other WestGrid users attend this training.
+If you are looking for this or any customized training or would like to host a workshop, please let us
+know. We expect the host to provide an auditorium free of charge and let other WestGrid users attend this
+training.
 
 Courses are scheduled at various times of the year and at various institutions, based on demand. Each
 year around May-July we host two four-day-long summer schools, traditionally one in Southwest BC
@@ -24,7 +25,7 @@ schools typically have 12-15 half- or full-day courses over several parallel str
 
 ## Full-day courses
 
-Click on each course to see its details.
+Click on each course for details.
 
 <details>
 <summary>
