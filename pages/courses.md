@@ -13,14 +13,21 @@ We offer a number of on-site training courses on a wide range of topics related 
 high-performance computing, data analysis, and visualization. These workshops can take any form from one
 hour to multiple days and are free to researchers and groups from WestGrid's partner institutions.
 
-If you are looking for this or any customized training or would like to host a workshop, please let us
-know. We expect the host to provide an auditorium free of charge and let other WestGrid users attend this
-training.
+If you are looking for this or any customized training or would like to host a workshop,
+[please let us know](mailto:info@westgrid.ca). We design the workshop, coordinate the preparations,
+advertise the event, and provide the instruction. We expect the host to provide an auditorium or
+classroom space free of charge, assist with advertising the session locally, and allow any member of the
+research community to attend the training (i.e. this may include researchers from outside your
+institution). If you prefer to run a small, invite-only session for a select audience, please contact us
+to discuss.
 
 Courses are scheduled at various times of the year and at various institutions, based on demand. Each
 year around May-July we host two four-day-long summer schools, traditionally one in Southwest BC
 (Vancouver or Victoria) and one east of the Rockies (Alberta, Saskatchewan, or Manitoba). Our summer
 schools typically have 12-15 half- or full-day courses over several parallel streams.
+
+
+
 
 
 ## Full-day courses
@@ -152,6 +159,23 @@ introduction.
 * Code optimization
 * Scientific Python
 * Introduction to shell scripting
+
+
+
+
+
+## Webinars
+
+Join our training webinars every second Wednesday at 10am Pacific / 11am Mountain. For more details, look
+for *online* events in <a href="https://www.westgrid.ca/events/westgrid-training-events"
+target="_blank">our calendar</a>. We also encourage you to sign up to <a
+href="https://westgrid.us4.list-manage.com/subscribe/post?u=3c76a762cc69cb8a35e25fd53&id=4eebf3c86b&group[9541][1]=true"
+target="_blank">our mailing list</a> for notices and reminders of sessions.
+
+
+
+
+
 
 
 
