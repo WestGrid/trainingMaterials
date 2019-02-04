@@ -56,6 +56,7 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 | Jan-15 to Jan-18 | [Research Computing Workshops: *Introduction to Scientific Computing with Linux, High-Performance Computing, Parallel Programming, and Scientific Visualization*](https://www.eventbrite.ca/e/research-computing-workshops-university-of-saskatchewan-registration-52948538504) | University of Saskatchewan |
 | Feb-04 to Feb-05 | [Python-themed Software Carpentry](https://computecanada.github.io/2019-02-04-sfu) | SFU |
 | Jan-28 to Feb-01 | [Research Computing Winter Bootcamp](https://ist.ualberta.ca/blog/news/get-ready-research-computing-winter-bootcamp) | University of Alberta |
+| Mar-18 to Mar-21 | Research Computing Workshops: *Introduction to Scientific Computing with Linux, High-Performance Computing, Parallel Programming, and Scientific Visualization* | SFU |
 | last week of May | Research Computing Summer School | University of Calgary |
 | June | Research Computing Summer School | University of British Columbia |
 
