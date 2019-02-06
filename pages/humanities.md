@@ -16,15 +16,22 @@ permalink: "/domains/dh/"
 Annual [Digital Humanities Summer Institute](http://www.dhsi.org) at the University of Victoria offers
 courses on computing topics in humanities and social sciences.
 
-#### *"Cloud Basics: Logging in & creating a virtual machine"*
+#### *"Text parsing & matching with High Performance Computing resources"*
 
-**Webinar** (2018-Apr-25)
+**Webinar** (2019-Feb-06)
 
-* [PDF slides]({{ site.baseurl }}/materials/cloudBasics20180425.pdf)
+* [PDF slides]({{ site.baseurl }}/materials/textParsing20190206.pdf)
+
+#### *"Getting started on the cloud"*
+
+**Webinar** (2018-Nov-28)
+
+* [PDF slides]({{ site.baseurl }}/materials/gettingStartedCloud20181128.pdf)
 
 <div class="flex-video">
-	<iframe width="780" height="585" src="https://www.youtube.com/embed/xua1-OL-JGc" frameborder="0"
-	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="726" height="408" src="https://www.youtube.com/embed/dzrzjpXPC6M" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
 </div>
 
 &nbsp;
