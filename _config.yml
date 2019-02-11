@@ -35,7 +35,7 @@ urlimg: '/trainingMaterials/images/'
 logo: "logo.png"
 
 # Gems
-gems:
+plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
