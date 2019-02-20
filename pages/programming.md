@@ -37,11 +37,13 @@ permalink: "/programming/"
 
 
 
-#### *"Memory debugging with Valgrind	"*
+#### *"Memory debugging with Valgrind"*
 
 **Webinar** (2019-Feb-20)
 
-The slides and recording will be added shortly.
+* [ZIP file with slides, handout, and code examples]({{ site.baseurl }}/materials/valgrind20190220.zip)
+
+The screencast recording will be added shortly.
 
 
 
