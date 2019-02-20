@@ -12,6 +12,7 @@ permalink: "/programming/"
 ### Table of Contents
 
 - [Parallel Libraries](#parallel-libraries)
+- [Debugging and memory debugging](#debugging-and-memory-debugging)
 - [Chapel](#chapel)
 - [HPC Carpentry Course](#hpc-carpentry-course)
 - [OpenMP](#openmp)
@@ -30,6 +31,21 @@ permalink: "/programming/"
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/P3kMdyka0XI" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+## Debugging and memory debugging
+
+
+
+
+#### *"Memory debugging with Valgrind	"*
+
+**Webinar** (2019-Feb-20)
+
+The slides and recording will be added shortly.
+
+
+
+
 
 ## Chapel
 
