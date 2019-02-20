@@ -40,8 +40,8 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 | Feb-20 | [*Memory debugging with Valgrind*](https://www.eventbrite.ca/e/memory-debugging-with-valgrind-registration-53082319647) | Tyson Whitehead (SHARCNET) |
 | Mar-06 | [*Molecular visualization with VMD*](https://www.eventbrite.ca/e/molecular-visualization-with-vmd-registration-53082345725) | Dmitri Rozmanov |
 | Mar-20 | [*Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers*](https://www.eventbrite.ca/e/research-data-management-tools-platforms-best-practices-for-researchers-registration-53082386848) | Alex Garnett (SFU) and Adam McKenzie |
-| Apr-03 | [*Distributed unstructured meshes and graphs in Chapel*](https://www.eventbrite.ca/e/distributed-unstructured-meshes-and-graphs-in-chapel-registration-53082407911 ) | Alex Razoumov |
-| Apr-17 | [*Next-generation sequencing*](https://www.eventbrite.ca/e/next-generation-sequencing-webinar-topic-tbc-registration-53082427971) (exact topic TBA) | Phillip Richmond (UBC) |
+| Apr-03 | [*Next-generation sequencing*](https://www.eventbrite.ca/e/next-generation-sequencing-webinar-topic-tbc-registration-53082427971) (exact topic TBA) | Phillip Richmond (UBC) |
+| Apr-17 | [*Distributed unstructured meshes and graphs in Chapel*](https://www.eventbrite.ca/e/distributed-unstructured-meshes-and-graphs-in-chapel-registration-53082407911 ) | Alex Razoumov |
 | May-01 | [*Programming best practices*](https://www.eventbrite.ca/e/programming-best-practices-topic-tbc-registration-53082444019) (exact topic TBA) | Chris Want |
 | May-15 | [*Julia language for data analysis*](https://www.eventbrite.ca/e/julia-language-for-data-analysis-registration-53082513226) | John Simpson |
 
