@@ -13,6 +13,21 @@ permalink: "/getting-started/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
+### Table of Contents
+
+<!-- - [Parallel Libraries](#parallel-libraries) -->
+<!-- - [Debugging and memory debugging](#debugging-and-memory-debugging) -->
+<!-- - [Chapel](#chapel) -->
+<!-- - [HPC Carpentry Course](#hpc-carpentry-course) -->
+<!-- - [OpenMP](#openmp) -->
+<!-- - [MATLAB](#matlab) -->
+
+- [Introduction to WestGrid and Compute Canada and the current RAC](#introduction-to-westgrid-and-compute-canada-and-the-current-rac)
+- [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
+- [Introduction to Linux](#introduction-to-linux)
+- [Getting Started Guides](#getting-started-guides)
+- [Introduction to HPC from our summer school](#introduction-to-hpc-from-our-summer-school)
+
 ### Introduction to WestGrid and Compute Canada and the current RAC
 
 * [Supercomputing in Canada: An Introduction to WestGrid & Compute Canada]({{ site.baseurl }}/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
@@ -30,6 +45,14 @@ permalink: "/getting-started/"
 * [Getting Started with WestGrid & Compute Canada](https://www.westgrid.ca/files/Getting%20Started%20with%20WestGrid%20%26%20Compute%20Canada.pdf)
   (two-page PDF)
 * [Quick Guide to RAC 2019](https://www.westgrid.ca/files/Guide_to_RAC2019.pdf) (two-page PDF)
+
+### Managing Cluster Instability for Users
+
+Presentation on dealing with hardware and software instabilities on Cedar from a user's perspective:
+causes, workarounds, bad workflows, best practices.
+
+* [Combined PDF slides from all presenters]({{ site.baseurl }}/materials/wgTownHall20190301.pdf) from
+  WestGrid's March 2019 Town Hall
 
 ### Introduction to Linux
 
