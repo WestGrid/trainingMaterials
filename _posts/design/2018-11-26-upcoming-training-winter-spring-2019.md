@@ -59,6 +59,7 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 | Mar-18 to Mar-21 | [Research Computing Workshops: *Introduction to Scientific Computing with Linux, High-Performance Computing, Parallel Programming, and Scientific Visualization*](https://www.eventbrite.ca/e/research-computing-workshops-simon-fraser-university-big-data-hub-registration-56308425015) | SFU |
 | Apr-30 | [Using yt for analysis and visualization of volumetric data in Python](https://github.com/sciprog-sfu/sciprog-sfu.github.io/issues/200) | SFU |
 | May-27 to May-30 | Research Computing Summer School | University of Calgary |
+| April or May (date TBA) | Research Computing Spring Bootcamp | University of Alberta
 | June (date TBA shortly) | Research Computing Summer School | University of British Columbia |
 
 
