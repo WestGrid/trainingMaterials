@@ -16,6 +16,7 @@ permalink: "/domains/dh/"
 Annual [Digital Humanities Summer Institute](http://www.dhsi.org) at the University of Victoria offers
 courses on computing topics in humanities and social sciences.
 
+<a name="textParsing"></a>
 #### *"Text parsing & matching with High Performance Computing resources"*
 
 **Webinar** (2019-Feb-06)
