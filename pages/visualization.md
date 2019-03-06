@@ -17,6 +17,19 @@ For full documentation, please check the
 [Visualization section](https://docs.computecanada.ca/wiki/Visualization) in Compute Canada&#8217;s technical wiki.
 &nbsp;
 
+
+
+#### *"Molecular visualization with VMD"*
+
+**Webinar** (2019-Mar-06)
+
+* [PDF slides]({{ site.baseurl }}/materials/vmd20190306.pdf)
+
+
+
+
+
+
 #### *"Using YT for analysis and visualization of volumetric data"* - YT webinar Part 1
 
 **Webinar** (2018-Nov-21)

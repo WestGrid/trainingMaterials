@@ -13,7 +13,22 @@ permalink: "/domains/md/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-## Webinars
+
+
+
+
+
+#### *"Molecular visualization with VMD"*
+
+**Webinar** (2019-Mar-06)
+
+* [PDF slides]({{ site.baseurl }}/materials/vmd20190306.pdf)
+
+
+
+
+
+
 
 #### *"Introduction to Molecular Dynamics Simulations"*
 

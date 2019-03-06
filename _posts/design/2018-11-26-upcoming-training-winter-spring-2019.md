@@ -38,7 +38,7 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 | Jan-23 | [*Working with data objects in yt*]({{ site.baseurl }}/tools/visualization#yt2) (visualization) | Alex Razoumov |
 | Feb-06 | [*Text Parsing and Analysis with HPC*]({{ site.baseurl }}/domains/dh#textParsing)| Ian Percel |
 | Feb-20 | [*Memory debugging with Valgrind*]({{ site.baseurl }}/programming#debugging-and-memory-debugging) | Tyson Whitehead (SHARCNET) |
-| Mar-06 | [*Molecular visualization with VMD*](https://www.eventbrite.ca/e/molecular-visualization-with-vmd-registration-53082345725) | Dmitri Rozmanov |
+| Mar-06 | [*Molecular visualization with VMD*]({{ site.baseurl }}/tools/visualization#molecular-visualization-with-vmd) | Dmitri Rozmanov |
 | Mar-20 | [*Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers*](https://www.eventbrite.ca/e/research-data-management-tools-platforms-best-practices-for-researchers-registration-53082386848) | Alex Garnett (SFU) and Adam McKenzie |
 | Apr-03 | [*Next-generation sequencing*](https://www.eventbrite.ca/e/next-generation-sequencing-webinar-topic-tbc-registration-53082427971) (exact topic TBA) | Phillip Richmond (UBC) |
 | Apr-17 | [*Distributed unstructured meshes and graphs in Chapel*](https://www.eventbrite.ca/e/distributed-unstructured-meshes-and-graphs-in-chapel-registration-53082407911 ) | Alex Razoumov |
