@@ -33,6 +33,8 @@ For more information on each session, or to register, click on the links below.
 WestGrid's bi-weekly training webinars take place every second Wednesday at 10am Pacific / 11am Mountain
 / 12pm Central.
 
+To view recordings and slides from past sessions, click on the linked title.
+
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
 | Jan-23 | [*Working with data objects in yt*]({{ site.baseurl }}/tools/visualization#yt2) (visualization) | Alex Razoumov |
