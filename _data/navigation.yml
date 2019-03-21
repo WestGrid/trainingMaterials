@@ -33,6 +33,8 @@
     url: "/tools/cloud/"
   - title: "Scheduling"
     url: "/tools/scheduling/"
+  - title: "RDM"
+    url: "/tools/rdm/"
 
 - title: "Courses"
   url: "/courses/"

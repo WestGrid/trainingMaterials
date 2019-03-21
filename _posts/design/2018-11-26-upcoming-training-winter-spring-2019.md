@@ -39,7 +39,7 @@ WestGrid's bi-weekly training webinars take place every second Wednesday at 10am
 | Feb-06 | [*Text Parsing and Analysis with HPC*]({{ site.baseurl }}/domains/dh#textParsing)| Ian Percel |
 | Feb-20 | [*Memory debugging with Valgrind*]({{ site.baseurl }}/programming#debugging-and-memory-debugging) | Tyson Whitehead (SHARCNET) |
 | Mar-06 | [*Molecular visualization with VMD*]({{ site.baseurl }}/tools/visualization#molecular-visualization-with-vmd) | Dmitri Rozmanov |
-| Mar-20 | [*Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers*](https://www.eventbrite.ca/e/research-data-management-tools-platforms-best-practices-for-researchers-registration-53082386848) | Alex Garnett (SFU) and Adam McKenzie |
+| Mar-20 | [*Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers*]({{ site.baseurl }}/tools/rdm#rdmToolsPlatforms) | Alex Garnett (SFU) and Adam McKenzie |
 | Apr-03 | [*Short read DNA sequencing alignment and visualization*](https://www.eventbrite.ca/e/next-generation-sequencing-webinar-topic-tbc-registration-53082427971) (exact topic TBA) | Phillip Richmond (UBC) |
 | Apr-17 | [*Computing graphs on an HPC cluster: working with distributed unstructured data in Chapel*](https://www.eventbrite.ca/e/distributed-unstructured-meshes-and-graphs-in-chapel-registration-53082407911 ) | Alex Razoumov |
 | May-01 | [*Programming best practices*](https://www.eventbrite.ca/e/programming-best-practices-topic-tbc-registration-53082444019) (exact topic TBA) | Chris Want |
