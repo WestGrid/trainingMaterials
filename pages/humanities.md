@@ -23,6 +23,12 @@ courses on computing topics in humanities and social sciences.
 
 * [PDF slides]({{ site.baseurl }}/materials/textParsing20190206.pdf)
 
+<div class="flex-video">
+	<iframe width="726" height="408" src="https://www.youtube.com/embed/iH0jxOY3YiI" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 #### *"Getting started on the cloud"*
 
 **Webinar** (2018-Nov-28)
