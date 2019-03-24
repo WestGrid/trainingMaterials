@@ -54,6 +54,16 @@ causes, workarounds, bad workflows, best practices.
 * [Combined PDF slides from all presenters]({{ site.baseurl }}/materials/wgTownHall20190301.pdf) from
   WestGrid's March 2019 Town Hall
 
+<div class="flex-video">
+	<iframe width="1200" height="675" src="https://www.youtube.com/embed/kSWwu_fDraw" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
+
+
+
+
 ### Introduction to Linux
 
 Browse the materials from our Introduction to Linux: Command Line Basics (delivered Sept 2017):
