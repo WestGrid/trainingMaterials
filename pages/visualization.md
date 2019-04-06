@@ -25,6 +25,12 @@ For full documentation, please check the
 
 * [PDF slides]({{ site.baseurl }}/materials/vmd20190306.pdf)
 
+<div class="flex-video">
+	<iframe width="966" height="543" src="https://www.youtube.com/embed/_skmrS6X4Ys" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 
 
 

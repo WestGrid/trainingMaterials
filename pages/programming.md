@@ -43,7 +43,11 @@ permalink: "/programming/"
 
 * [ZIP file with slides, handout, and code examples]({{ site.baseurl }}/materials/valgrind20190220.zip)
 
-The screencast recording will be added shortly.
+<div class="flex-video">
+	<iframe width="966" height="543" src="https://www.youtube.com/embed/-VDiEe9hxC4" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 
 

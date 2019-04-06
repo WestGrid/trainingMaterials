@@ -42,9 +42,9 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-20 | [*Memory debugging with Valgrind*]({{ site.baseurl }}/programming#debugging-and-memory-debugging) | Tyson Whitehead (SHARCNET) |
 | Mar-06 | [*Molecular visualization with VMD*]({{ site.baseurl }}/tools/visualization#molecular-visualization-with-vmd) | Dmitri Rozmanov |
 | Mar-20 | [*Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers*]({{ site.baseurl }}/tools/rdm#rdmToolsPlatforms) | Alex Garnett (SFU) and Adam McKenzie |
-| Apr-03 | [*Short read DNA sequencing alignment and visualization*](https://www.eventbrite.ca/e/next-generation-sequencing-webinar-topic-tbc-registration-53082427971) (exact topic TBA) | Phillip Richmond (UBC) |
+| Apr-03 | [*Short read DNA sequencing alignment and visualization*]({{ site.baseurl }}/domains/bioinfo#short-read-DNA-sequencing-alignment-and-visualization) | Phillip Richmond (UBC) |
 | Apr-17 | [*Computing graphs on an HPC cluster: working with distributed unstructured data in Chapel*](https://www.eventbrite.ca/e/distributed-unstructured-meshes-and-graphs-in-chapel-registration-53082407911 ) | Alex Razoumov |
-| May-01 | [*Programming best practices*](https://www.eventbrite.ca/e/programming-best-practices-topic-tbc-registration-53082444019) (exact topic TBA) | Chris Want |
+| May-01 | *Learn how to manage many files with DAR disk archiver* | Alex Razoumov |
 | May-15 | [*Julia language for data analysis*](https://www.eventbrite.ca/e/julia-language-for-data-analysis-registration-53082513226) | John Simpson |
 
 

@@ -15,3 +15,9 @@ permalink: "/tools/rdm/"
 **Webinar** (2019-Mar-20)
 
 * [PDF slides]({{ site.baseurl }}/materials/rdm20190320.pdf)
+
+<div class="flex-video">
+	<iframe width="966" height="543" src="https://www.youtube.com/embed/ZMl6bZT7ZU0" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>

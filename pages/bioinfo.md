@@ -16,6 +16,17 @@ Browse the forum, ask a question, or request one-on-one support in
 
 ## Webinars
 
+#### *"Short read DNA sequencing alignment and visualization"*
+
+**Webinar** (2019-Apr-03)
+
+PDF slides and webinar recording will be added shortly.
+
+
+
+
+
+
 #### *"Tools for automating analysis pipelines"*
 
 **Webinar** (2018-Oct-17)
