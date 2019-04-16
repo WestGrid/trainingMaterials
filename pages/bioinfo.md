@@ -20,12 +20,13 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2019-Apr-03)
 
-PDF slides and webinar recording will be added shortly.
+* [PDF slides]({{ site.baseurl }}/materials/shortReadMapping20190403.pdf)
 
-
-
-
-
+<div class="flex-video">
+	<iframe width="654" height="368" src="https://www.youtube.com/embed/_SDiZjVliBk" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 #### *"Tools for automating analysis pipelines"*
 
