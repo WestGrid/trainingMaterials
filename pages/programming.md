@@ -88,6 +88,23 @@ write efficient large-scale numerical codes.
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+
+
+
+
+
+
+#### *"Computing graphs on an HPC cluster: working with distributed unstructured data in Chapel"*
+
+**Webinar** (2019-Apr-17)
+
+* [ZIP file]({{ site.baseurl }}/materials/unstructured20190417.zip) with slides and sample codes
+
+
+
+
+
+
 ## HPC Carpentry Course
 
 As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Parallel programming in Chapel* course](https://hpc-carpentry.github.io/hpc-chapel). The materials and exercises presented in this course can be presented as a full-day workshop. If you have questions about the materials, please contact Alex Razoumov - alex.razoumov@westgrid.ca.
