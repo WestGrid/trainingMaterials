@@ -62,7 +62,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Mar-18 to Mar-21 | [Research Computing Workshops: *Introduction to Scientific Computing with Linux, High-Performance Computing, Parallel Programming, and Scientific Visualization*](https://www.eventbrite.ca/e/research-computing-workshops-simon-fraser-university-big-data-hub-registration-56308425015) | SFU |
 | Apr-30 | [Using yt for analysis and visualization of volumetric data in Python](https://github.com/sciprog-sfu/sciprog-sfu.github.io/issues/200) | SFU |
 | Apr-29 to May-03 | [Research Computing Spring Bootcamp](https://ist.ualberta.ca/blog/news/get-ready-research-computing-spring-bootcamp) | University of Alberta |
-| May-27 to May-30 | Research Computing Summer School | University of Calgary |
+| May-27 to May-30 | [Research Computing Summer School](http://bit.ly/calgarySchool19) | University of Calgary |
 | June (date TBA shortly) | Research Computing Summer School | University of British Columbia |
 
 
