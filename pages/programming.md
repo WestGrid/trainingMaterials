@@ -88,22 +88,17 @@ write efficient large-scale numerical codes.
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-
-
-
-
-
-
 #### *"Computing graphs on an HPC cluster: working with distributed unstructured data in Chapel"*
 
 **Webinar** (2019-Apr-17)
 
 * [ZIP file]({{ site.baseurl }}/materials/unstructured20190417.zip) with slides and sample codes
 
-
-
-
-
+<div class="flex-video">
+	<iframe width="782" height="440" src="https://www.youtube.com/embed/UTu0z_W0-FM" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ## HPC Carpentry Course
 
