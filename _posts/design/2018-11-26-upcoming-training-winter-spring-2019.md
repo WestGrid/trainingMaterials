@@ -45,7 +45,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Apr-03 | [*Short read DNA sequencing alignment and visualization*]({{ site.baseurl }}/domains/bioinfo#short-read-DNA-sequencing-alignment-and-visualization) | Phillip Richmond (UBC) |
 | Apr-17 | [*Computing graphs on an HPC cluster: working with distributed unstructured data in Chapel*](https://www.eventbrite.ca/e/distributed-unstructured-meshes-and-graphs-in-chapel-registration-53082407911 ) | Alex Razoumov |
 | May-01 | [*Learn how to manage many files with DAR disk archiver*](https://www.eventbrite.ca/e/learn-how-to-manage-many-files-with-dar-disk-archiver-registration-60049359250) | Alex Razoumov |
-| May-15 | [*Julia language for data analysis*](https://www.eventbrite.ca/e/julia-language-for-data-analysis-registration-53082513226) | John Simpson |
+| May-15 | *Scraping Twitter with new APIs* | John Simpson |
 
 
 
