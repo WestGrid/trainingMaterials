@@ -63,7 +63,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Apr-30 | [Using yt for analysis and visualization of volumetric data in Python](https://github.com/sciprog-sfu/sciprog-sfu.github.io/issues/200) | SFU |
 | Apr-29 to May-03 | [Research Computing Spring Bootcamp](https://ist.ualberta.ca/blog/news/get-ready-research-computing-spring-bootcamp) | University of Alberta |
 | May-27 to May-30 | [Research Computing Summer School](http://bit.ly/calgarySchool19) | University of Calgary |
-| June (date TBA shortly) | Research Computing Summer School | University of British Columbia |
+| June-24 to June-27 | Research Computing Summer School | University of British Columbia |
 
 
 
