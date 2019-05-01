@@ -9,8 +9,17 @@ header:
 permalink: "/tools/rdm/"
 ---
 
+<a name="dar"></a>
+#### *"Managing many files with Disk ARchiver (DAR)"*
+
+**Webinar** (2019-May-01)
+
+* [ZIP file with slides and bash functions]({{ site.baseurl }}/materials/dar20190501.zip)
+
 <a name="rdmToolsPlatforms"></a>
 #### *"Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers"*
+
+The webinar recording will be addedd soon.
 
 **Webinar** (2019-Mar-20)
 
