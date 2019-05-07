@@ -16,10 +16,10 @@ permalink: "/tools/rdm/"
 
 * [ZIP file with slides and bash functions]({{ site.baseurl }}/materials/dar20190501.zip)
 
+The webinar recording will be added soon.
+
 <a name="rdmToolsPlatforms"></a>
 #### *"Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers"*
-
-The webinar recording will be addedd soon.
 
 **Webinar** (2019-Mar-20)
 
