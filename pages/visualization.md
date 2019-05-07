@@ -17,7 +17,7 @@ For full documentation, please check the
 [Visualization section](https://docs.computecanada.ca/wiki/Visualization) in Compute Canada&#8217;s technical wiki.
 &nbsp;
 
-
+---
 
 #### *"Molecular visualization with VMD"*
 
@@ -31,10 +31,7 @@ For full documentation, please check the
 	allowfullscreen></iframe>
 </div>
 
-
-
-
-
+---
 
 #### *"Using YT for analysis and visualization of volumetric data"* - YT webinar Part 1
 
@@ -47,6 +44,8 @@ For full documentation, please check the
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+
+---
 
 <a name="yt2"></a>
 #### *"Working with data objects in YT"* - YT webinar Part 2
@@ -61,6 +60,8 @@ For full documentation, please check the
 	allowfullscreen></iframe>
 </div>
 
+---
+
 #### *"Scientific visualization with Plotly"*
 
 **Webinar** (2018-Mar-28)
@@ -72,7 +73,7 @@ For full documentation, please check the
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Novel Visualization Techniques from the 2017 Visualize This Challenge"*
 
@@ -85,7 +86,7 @@ For full documentation, please check the
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Data Visualization on Compute Canada's Supercomputers"*
 
@@ -98,7 +99,7 @@ For full documentation, please check the
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Using ParaViewWeb for 3D Visualization and Data Analysis in a Web Browser"*
 
@@ -111,7 +112,7 @@ For full documentation, please check the
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Scripting and other advanced topics in VisIt visualization"*
 
@@ -124,7 +125,7 @@ For full documentation, please check the
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"CPU-based rendering with OSPRay"*
 
@@ -137,7 +138,7 @@ For full documentation, please check the
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"3D graphs with NetworkX, VTK, and ParaView"*
 
@@ -150,10 +151,12 @@ For full documentation, please check the
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Graph visualization with Gephi"*
 
 **Webinar** (2016-Mar-22)
 
 * [webinar notes](https://github.com/WestGrid/trainingMaterials/blob/gh-pages/materials/gephi.md)
+
+<!-- &nbsp; -->

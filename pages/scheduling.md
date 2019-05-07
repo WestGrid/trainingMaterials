@@ -16,6 +16,8 @@ permalink: "/tools/scheduling/"
 Please check the [guide on running jobs on clusters](https://docs.computecanada.ca/wiki/Running_jobs) in
 Compute Canada&#8217;s technical wiki.
 
+---
+
 #### *"Common Job Submission Errors and How to Avoid Them"* webinar (2018-Oct-03)
 
 This webinar is intended for users who are already familiar with the basic Slurm scheduler commands.
@@ -27,7 +29,7 @@ This webinar is intended for users who are already familiar with the basic Slurm
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Scheduling & Job Management: How to Get the Most from a Cluster"* webinar (2017-Oct-24)
 
@@ -38,17 +40,22 @@ This three-part webinar is a beginner-level introduction to working with Slurm.
 * [Session questions]({{ site.baseurl }}/materials/schedulingKamil/slurmWorksheet.pdf)
 * [Workshop questions and answers]({{ site.baseurl }}/materials/schedulingKamil/answers.tar.gz) (gzipped tar archive)
 
+Part 1:
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/RCodAqGlFeM" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+Part 2:
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/x87cD6E4hGE" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+Part 3:
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/MZlNDAgmhq8" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+<!-- &nbsp; -->

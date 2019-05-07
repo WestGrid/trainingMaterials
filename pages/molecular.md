@@ -13,10 +13,7 @@ permalink: "/domains/md/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-
-
-
-
+---
 
 #### *"Molecular visualization with VMD"*
 
@@ -24,11 +21,13 @@ permalink: "/domains/md/"
 
 * [PDF slides]({{ site.baseurl }}/materials/vmd20190306.pdf)
 
+<div class="flex-video">
+	<iframe width="806" height="453" src="https://www.youtube.com/embed/_skmrS6X4Ys" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
-
-
-
-
+---
 
 #### *"Introduction to Molecular Dynamics Simulations"*
 
@@ -41,7 +40,7 @@ permalink: "/domains/md/"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>	
 </div>
 
-&nbsp;
+---
 
 #### *"Introduction to Molecular Dynamics Simulation using LAMMPS"*
 
@@ -54,4 +53,4 @@ permalink: "/domains/md/"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+<!-- &nbsp; -->

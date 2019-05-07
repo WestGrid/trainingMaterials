@@ -16,6 +16,8 @@ permalink: "/tools/cloud/"
 For more information, please check the [cloud computing page](https://docs.computecanada.ca/wiki/Cloud)
 in Compute Canada&#8217;s technical wiki.
 
+---
+
 #### *"Getting started on the cloud"*
 
 **Webinar** (2018-Nov-28)
@@ -28,7 +30,7 @@ in Compute Canada&#8217;s technical wiki.
 	allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"How to deploy HTTP and HTTPS sites on a virtual machine"*
 
@@ -40,4 +42,4 @@ in Compute Canada&#8217;s technical wiki.
 	allowfullscreen></iframe>
 </div>
 
-&nbsp;
+<!-- &nbsp; -->

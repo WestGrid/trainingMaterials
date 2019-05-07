@@ -16,6 +16,8 @@ Browse the forum, ask a question, or request one-on-one support in
 
 ## Webinars
 
+---
+
 #### *"Short read DNA sequencing alignment and visualization"*
 
 **Webinar** (2019-Apr-03)
@@ -28,6 +30,8 @@ Browse the forum, ask a question, or request one-on-one support in
 	allowfullscreen></iframe>
 </div>
 
+---
+
 #### *"Tools for automating analysis pipelines"*
 
 **Webinar** (2018-Oct-17)
@@ -39,7 +43,7 @@ Browse the forum, ask a question, or request one-on-one support in
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"The Human Variant Database"*
 
@@ -52,7 +56,7 @@ Browse the forum, ask a question, or request one-on-one support in
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Bioinformatics Series: Detecting structural variants"*
 
@@ -65,7 +69,7 @@ Browse the forum, ask a question, or request one-on-one support in
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Bioinformatics Series: Quality Control of Next-Gen Sequence Data"*
 
@@ -78,7 +82,7 @@ Browse the forum, ask a question, or request one-on-one support in
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Bioinformatics Series: FFPE in Your NGS Study"*
 
@@ -91,7 +95,7 @@ Browse the forum, ask a question, or request one-on-one support in
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Bioinformatics Series: Designing an NGS Study for my Biological Question"*
 
@@ -104,7 +108,7 @@ Browse the forum, ask a question, or request one-on-one support in
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Bioinformatics Series: Benchmarking of Variant Callers and Analysis Tools"*
 
@@ -117,7 +121,7 @@ Browse the forum, ask a question, or request one-on-one support in
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+---
 
 #### *"Bioinformatics Series: Introduction to Bioinformatics"*
 
@@ -130,4 +134,4 @@ Browse the forum, ask a question, or request one-on-one support in
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-&nbsp;
+<!-- &nbsp; -->

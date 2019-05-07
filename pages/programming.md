@@ -20,6 +20,8 @@ permalink: "/programming/"
 
 ## Parallel Libraries
 
+---
+
 #### *"A Brief Introduction to the Boost MPI Library"*
 
 **Webinar** (2018-May-09)
@@ -34,8 +36,7 @@ permalink: "/programming/"
 
 ## Debugging and memory debugging
 
-
-
+---
 
 #### *"Memory debugging with Valgrind"*
 
@@ -49,11 +50,9 @@ permalink: "/programming/"
 	allowfullscreen></iframe>
 </div>
 
-
-
-
-
 ## Chapel
+
+---
 
 #### Webinar Series: *"Intro to Parallel Programming in Chapel"* 
 
@@ -88,6 +87,8 @@ write efficient large-scale numerical codes.
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+---
+
 <a name="unstructured"></a>
 #### *"Computing graphs on an HPC cluster: working with distributed unstructured data in Chapel"*
 
@@ -107,6 +108,8 @@ As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Para
 
 ## OpenMP
 
+---
+
 #### Webinar: *Intro to Parallel Programming for Shared Memory Machines*
 
 This online workshop explores how to use OpenMP to improve the speed of serial jobs on multi-core machines. We review how to add OpenMP constructs to a serial program in order to run it using multiple cores. Viewers are led through a series of hands-on, interactive examples, focusing on multi-threading parallel programming.
@@ -124,6 +127,8 @@ The topics covered include:
 </div>
 
 ## MATLAB
+
+---
 
 #### *"Data Analytics and Machine Learning with MATLAB"*
 
