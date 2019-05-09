@@ -20,6 +20,12 @@ permalink: "/tools/rdm/"
 
 The webinar recording will be added soon.
 
+<div class="flex-video">
+	<iframe width="782" height="440" src="https://www.youtube.com/embed/AeZSPa4aMnk" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 ---
 
 <a name="rdmToolsPlatforms"></a>
