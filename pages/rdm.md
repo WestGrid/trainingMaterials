@@ -18,8 +18,6 @@ permalink: "/tools/rdm/"
 
 * [ZIP file with slides and bash functions]({{ site.baseurl }}/materials/dar20190501.zip)
 
-The webinar recording will be added soon.
-
 <div class="flex-video">
 	<iframe width="782" height="440" src="https://www.youtube.com/embed/AeZSPa4aMnk" frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
