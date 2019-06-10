@@ -17,6 +17,9 @@ Annual [Digital Humanities Summer Institute](http://www.dhsi.org) at the Univers
 courses on research computing topics in humanities and social sciences. Some of DHSI courses each year
 are taught by our analysts and staff.
 
+* "3D visualization for the humanities": [ZIP file](http://bit.ly/dhfileszip) with slides, scripts, and
+  data files
+
 ---
 
 <a name="textParsing"></a>
