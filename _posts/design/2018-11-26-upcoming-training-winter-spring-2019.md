@@ -25,9 +25,6 @@ mediaplayer: true
 
 For more information on each session, or to register, click on the links below.
 
-
-
-
 ## Webinars
 
 WestGrid's bi-weekly training webinars take place every second Wednesday at 10am Pacific / 11am Mountain
@@ -45,13 +42,6 @@ To view recordings and slides from past sessions, click on the linked title.
 | Apr-03 | [*Short read DNA sequencing alignment and visualization*]({{ site.baseurl }}/domains/bioinfo#short-read-DNA-sequencing-alignment-and-visualization) | Phillip Richmond (UBC) |
 | Apr-17 | [*Computing graphs on an HPC cluster: working with distributed unstructured data in Chapel*]({{ site.baseurl }}/programming#unstructured) | Alex Razoumov |
 | May-01 | [*Learn how to manage many files with DAR disk archiver*]({{ site.baseurl }}/tools/rdm#dar) | Alex Razoumov |
-| May-15 | [*Tips & tools for mining Twitter data for research*](https://www.eventbrite.ca/e/tips-tools-for-mining-twitter-data-for-research-registration-60901624398) | John Simpson |
-
-
-
-
-
-
 
 ## In-person workshops
 
@@ -64,9 +54,6 @@ To view recordings and slides from past sessions, click on the linked title.
 | Apr-29 to May-03 | [Research Computing Spring Bootcamp](https://ist.ualberta.ca/blog/news/get-ready-research-computing-spring-bootcamp) | University of Alberta |
 | May-27 to May-30 | [Research Computing Summer School](http://bit.ly/calgarySchool19) | University of Calgary |
 | June-24 to June-27 | [Research Computing Summer School](http://bit.ly/ubcSchool19) | University of British Columbia |
-
-
-
 
 As always, we welcome requests for other training topics and events. Please email suggestions to
 info@westgrid.ca.
