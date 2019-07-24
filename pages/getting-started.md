@@ -98,7 +98,6 @@ target="_blank">Getting Started with CC National Systems</a> mini-webinars -- a 
 tutorials that demonstrate how to access the national clusters, submit jobs, access software, avoid
 common mistakes, and get help from the Compute Canada support team.
 
-### Introduction to HPC from our summer school
+### Introduction to HPC from our summer schools
 
-Browse all materials from WestGrid Summer School's [Introductory HPC course](http://bit.ly/introhpc)
-(ZIP file) from 2018.
+Browse the latest materials from WestGrid [Introductory HPC course](http://bit.ly/introhpc) (ZIP file).
