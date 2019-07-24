@@ -26,7 +26,7 @@ permalink: "/getting-started/"
 - [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
 - [Introduction to Linux](#introduction-to-linux)
 - [Getting Started Guides](#getting-started-guides)
-- [Introduction to HPC from our summer school](#introduction-to-hpc-from-our-summer-school)
+- [Introduction to HPC from our summer schools](#introduction-to-hpc-from-our-summer-schools)
 
 ### Introduction to WestGrid and Compute Canada and the current RAC
 
