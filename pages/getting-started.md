@@ -100,4 +100,4 @@ common mistakes, and get help from the Compute Canada support team.
 
 ### Introduction to HPC from our summer schools
 
-Browse the latest materials from WestGrid [Introductory HPC course](http://bit.ly/introhpc) (ZIP file).
+Browse the latest materials from WestGrid's [Introductory HPC course](http://bit.ly/introhpc) (ZIP file).
