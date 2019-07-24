@@ -26,9 +26,7 @@ year around May-July we host two four-day-long summer schools, traditionally one
 (Vancouver or Victoria) and one east of the Rockies (Alberta, Saskatchewan, or Manitoba). Our summer
 schools typically have 12-15 half- or full-day courses over several parallel streams.
 
-
-
-
+<!-- ========================================================================================== -->
 
 ## Full-day courses
 
@@ -137,9 +135,7 @@ introduction.
 </p>
 </details>
 
-
-
-
+<!-- ========================================================================================== -->
 
 ## Short courses
 
@@ -160,9 +156,7 @@ introduction.
 * Scientific Python
 * Introduction to shell scripting
 
-
-
-
+<!-- ========================================================================================== -->
 
 ## Webinars
 
@@ -172,29 +166,16 @@ target="_blank">our calendar</a>. We also encourage you to sign up to <a
 href="https://westgrid.us4.list-manage.com/subscribe/post?u=3c76a762cc69cb8a35e25fd53&id=4eebf3c86b&group[9541][1]=true"
 target="_blank">our mailing list</a> for notices and reminders of sessions.
 
-
-
-
-
-
-
-
-
+<!-- ========================================================================================== -->
 
 ## Summer school materials
 
-#### 2018 WestGrid summer schools
+#### 2019 WestGrid summer schools
 
 You can find all materials from this year's WestGrid summer schools at the school websites:
 
-- <a href="https://westgrid.github.io/ubcSummerSchool2018/4-materials.html" target="_blank">UBC summer school</a>
-- <a href="https://westgrid.github.io/manitobaSummerSchool2018/4-materials.html"
-  target="_blank">University of Manitoba summer school</a>
-
-<!-- We also plan to post the videos from the recorded sessions once these are processed. -->
-
-#### 2017 WestGrid summer schools
-
-Materials from last year's summer schools at <a href="https://bit.ly/ubcss" target="_blank">UBC</a> and
-<a href="https://bit.ly/usaskss" target="_blank">the University of Saskatchewan</a> can be found towards
-the end of their respective program pages.
+- <a href="https://westgrid.github.io/calgarySummerSchool2019/4-materials.html"
+  target="_blank">University of Calgary summer school</a> (May 27<sup>th</sup> to May 30<sup>th</sup>,
+  2019)
+- <a href="https://westgrid.github.io/ubcSummerSchool2019/4-materials.html" target="_blank">UBC summer
+  school</a> (June 24<sup>th</sup> to June 27<sup>th</sup>, 2019)
