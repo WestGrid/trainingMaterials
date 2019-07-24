@@ -26,7 +26,7 @@ mediaplayer: true
 <!-- For more information on each session, or to register, click on the links below. -->
 We wil be announcing details of fall events at the end of August.
 
-
+<!-- ========================================================================================== -->
 
 ## Webinars
 
@@ -44,18 +44,9 @@ To view recordings and slides from past sessions, click on the linked title.
 | TBD | *Geospatial analysis with HPC* | Ian Percel |
 | TBD | *File access control approaches and best practices* ||
 
-
-
 <!-- still available: Oct-02, Oct-16, Oct-30, Nov-13, Nov-27, Dec-11 -->
 
-
-
-
-
-
-
-
-
+<!-- ========================================================================================== -->
 
 ## In-person workshops
 
@@ -63,11 +54,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | fall 2019 | Research Computing Fall Bootcamp | University of Alberta |
 | fall 2019 | Research Computing Autumn School | UVic |
 
-
-
-
-
-
+<!-- ========================================================================================== -->
 
 As always, we welcome requests for other training topics and events. Please email suggestions to
 info@westgrid.ca.
