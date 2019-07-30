@@ -38,13 +38,13 @@ To view recordings and slides from past sessions, click on the linked title.
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
 | Sep-18 | *Batch visualization on Compute Canada clusters* | Alex Razoumov |
+| Oct-16 | *Working with Python DASK library* | Chris Want |
+| Nov-13 | *Building a bioinformatics QC pipeline* | Brian McConeghy |
 | TBD | *Tips & tools for mining Twitter data for research* | John Simpson |
-| TBD | *Working with Python DASK library* | Chris Want |
-| TBD | *Building a bioinformatics QC pipeline* | Brian McConeghy |
 | TBD | *Geospatial analysis with HPC* | Ian Percel |
 | TBD | *File access control approaches and best practices* ||
 
-<!-- still available: Oct-02, Oct-16, Oct-30, Nov-13, Nov-27, Dec-11 -->
+<!-- still available: Oct-02, Oct-30, Nov-27, Dec-11 -->
 
 <!-- ========================================================================================== -->
 
