@@ -40,12 +40,13 @@ To view recordings and slides from past sessions, click on the linked title.
 | Sep-18 | *Batch visualization on Compute Canada clusters* | Alex Razoumov |
 | Oct-16 | *Working with Python DASK library* | Chris Want |
 | Nov-13 | *Building a bioinformatics QC pipeline* | Brian McConeghy |
+| Nov-27 | *Tips & tools for mining Twitter data for research* | John Simpson |
 | Dec-11 | *Geospatial analysis with HPC* | Ian Percel |
-| TBD | *Tips & tools for mining Twitter data for research* | John Simpson |
 | TBD | *File access control approaches and best practices* ||
 | TBD | *Introduction to Machine Learning tools on CC clusters* ||
 
-<!-- still available: Oct-02, Oct-30, Nov-27 -->
+<!-- this page http://bit.ly/wg2019b -->
+<!-- still available: Oct-02, Oct-30 -->
 <!-- abc waiting to hear from John Simpson, Belaid Moa -->
 
 <!-- ========================================================================================== -->
