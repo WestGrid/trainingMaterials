@@ -40,7 +40,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Sep-18 | [*Batch visualization on Compute Canada clusters*](https://www.eventbrite.ca/e/batch-visualization-on-compute-canada-clusters-registration-71340303769) | Alex Razoumov |
 | Oct-16 | [*Working with Python DASK library*](https://www.eventbrite.ca/e/working-with-python-dask-library-registration-71341232547) | Chris Want |
 | Oct-30 | [*File access control approaches and best practices*](https://www.eventbrite.com/e/file-access-control-approaches-and-best-practices-tickets-71341707969) | Sergiy Stepanenko |
-| Nov-13 | *Building a bioinformatics QC pipeline* | Brian McConeghy |
+| Nov-13 | [*Building a bioinformatics QC pipeline*](https://www.eventbrite.ca/e/building-a-bioinformatics-qc-pipeline-registration-71341934647) | Brian McConeghy |
 | Nov-27 | [*Tips & tools for mining Twitter data for research*](https://www.eventbrite.ca/e/tips-tools-for-mining-twitter-data-for-research-registration-60901624398) | John Simpson |
 | Dec-11 | [*Geospatial analysis with HPC*](https://www.eventbrite.ca/e/geospatial-analysis-with-high-performance-computing-hpc-registration-71342291715) | Ian Percel |
 | TBD | *Introduction to Machine Learning tools on CC clusters* ||
