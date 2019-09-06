@@ -57,8 +57,8 @@ To view recordings and slides from past sessions, click on the linked title.
 ## In-person workshops
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| fall 2019 | Research Computing Fall Bootcamp | University of Alberta |
-| fall 2019 | Research Computing Autumn School | UVic |
+| Sep-23 to Sep-27 | [Research Computing Fall Bootcamp](https://www.westgrid.ca/events/university_alberta_research_computing_fall_bootcamp) | University of Alberta |
+| Dec-10 to Dec-13 | Research Computing Winter School | UVic |
 
 <!-- ========================================================================================== -->
 
