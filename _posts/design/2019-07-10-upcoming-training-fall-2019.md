@@ -43,7 +43,8 @@ To view recordings and slides from past sessions, click on the linked title.
 | Nov-13 | [*Building a bioinformatics QC pipeline*](https://www.eventbrite.ca/e/building-a-bioinformatics-qc-pipeline-registration-71341934647) | Brian McConeghy |
 | Nov-27 | [*Tips & tools for mining Twitter data for research*](https://www.eventbrite.ca/e/tips-tools-for-mining-twitter-data-for-research-registration-60901624398) | John Simpson |
 | Dec-11 | [*Geospatial analysis with HPC*](https://www.eventbrite.ca/e/geospatial-analysis-with-high-performance-computing-hpc-registration-71342291715) | Ian Percel |
-| TBD | *Introduction to Machine Learning tools on CC clusters* ||
+
+<!-- | TBD | *Introduction to Machine Learning tools on CC clusters* || -->
 
 <!-- this page http://bit.ly/wg2019b -->
 <!-- still available: Oct-02 -->
