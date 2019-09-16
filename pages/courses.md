@@ -28,6 +28,9 @@ schools typically have 12-15 half- or full-day courses over several parallel str
 
 <!-- ========================================================================================== -->
 
+<!-- Numerical Computing with Python https://support.scinet.utoronto.ca/education/go.php/473/index.php/ib/1//p_course/473 -->
+<!-- Scientific Computing for Physicists https://support.scinet.utoronto.ca/education/go.php/468/index.php/ib/1//p_course/468 -->
+
 ## Full-day courses
 
 Click on each course for details.

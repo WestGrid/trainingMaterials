@@ -48,7 +48,6 @@ To view recordings and slides from past sessions, click on the linked title.
 
 <!-- this page http://bit.ly/wg2019b -->
 <!-- still available: Oct-02 -->
-<!-- abc waiting to hear from Belaid Moa -->
 
 <!-- Oct-30 webinar will review access control approaches and best practices aimed at PIs with a team -->
 <!-- that might have varying file sharing requirements. -->
@@ -59,7 +58,7 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Sep-23 to Sep-27 | [Research Computing Fall Bootcamp](https://www.westgrid.ca/events/university_alberta_research_computing_fall_bootcamp) | University of Alberta |
-| Dec-10 to Dec-13 | Research Computing Winter School | UVic |
+| Dec-10 to Dec-13 | [Research Computing Winter School](https://www.eventbrite.ca/e/westgrid-research-computing-winter-school-university-of-victoria-registration-72872185669) | UVic |
 
 <!-- ========================================================================================== -->
 
