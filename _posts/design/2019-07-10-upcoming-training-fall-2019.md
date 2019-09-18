@@ -37,7 +37,7 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Sep-18 | [*Batch visualization on Compute Canada clusters*](https://www.eventbrite.ca/e/batch-visualization-on-compute-canada-clusters-registration-71340303769) | Alex Razoumov |
+| Sep-18 | [*Batch visualization on Compute Canada clusters*]({{ site.baseurl }}/tools/visualization#batch-visualization-on-compute-canada-clusters) | Alex Razoumov |
 | Oct-16 | [*Working with Python DASK library*](https://www.eventbrite.ca/e/working-with-python-dask-library-registration-71341232547) | Chris Want |
 | Oct-30 | [*File access control approaches and best practices*](https://www.eventbrite.com/e/file-access-control-approaches-and-best-practices-tickets-71341707969) | Sergiy Stepanenko |
 | Nov-13 | [*Building a bioinformatics QC pipeline*](https://www.eventbrite.ca/e/building-a-bioinformatics-qc-pipeline-registration-71341934647) | Brian McConeghy |

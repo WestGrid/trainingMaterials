@@ -19,6 +19,16 @@ For full documentation, please check the
 
 ---
 
+#### *"Batch visualization on Compute Canada clusters"*
+
+**Webinar** (2019-Sep-18)
+
+* [ZIP file]({{ site.baseurl }}/materials/batch20190918.zip) with slides and scripts
+
+Video recording will be posted shortly.
+
+---
+
 #### *"Molecular visualization with VMD"*
 
 **Webinar** (2019-Mar-06)
