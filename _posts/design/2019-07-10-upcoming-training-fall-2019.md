@@ -24,7 +24,6 @@ mediaplayer: true
 ---
 
 <!-- For more information on each session, or to register, click on the links below. -->
-We wil be announcing details of the fall events at the end of August.
 
 <!-- ========================================================================================== -->
 
