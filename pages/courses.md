@@ -152,9 +152,9 @@ introduction.
 * Introduction to GPU programming with OpenACC
 * Parallel programing with MPI
 * Parallel programing with OpenMP
-* Volumetric visualization and data analysis with yt
+* Volumetric visualization and data analysis with *yt*
 * Plotting with plot.ly
-* Makefiles
+* Automating your workflows with *make*
 * Code optimization
 * Scientific Python
 * Introduction to shell scripting
