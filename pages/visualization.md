@@ -25,7 +25,11 @@ For full documentation, please check the
 
 * [ZIP file]({{ site.baseurl }}/materials/batch20190918.zip) with slides and scripts
 
-Video recording will be posted shortly.
+<div class="flex-video">
+	<iframe width="711" height="400" src="https://www.youtube.com/embed/VCUAObVUKj8" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
