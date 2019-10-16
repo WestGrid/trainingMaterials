@@ -36,8 +36,8 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Sep-18 | [*Batch visualization on Compute Canada clusters*]({{ site.baseurl }}/tools/visualization#batch-visualization-on-compute-canada-clusters) | Alex Razoumov |
-| Oct-16 | [*Working with Python DASK library*]({{ site.baseurl }}/programming#parallel-libraries) | Chris Want |
+| Sep-18 | [<span style="color:blue">*Batch visualization on Compute Canada clusters*</span>]({{ site.baseurl }}/tools/visualization#batch-visualization-on-compute-canada-clusters) | Alex Razoumov |
+| Oct-16 | [<span style="color:blue">*Working with Python DASK library*</span>]({{ site.baseurl }}/programming#parallel-libraries) | Chris Want |
 | Oct-30 | [*File access control approaches and best practices*](https://www.eventbrite.com/e/file-access-control-approaches-and-best-practices-tickets-71341707969) | Sergiy Stepanenko |
 | Nov-13 | [*Building a bioinformatics QC pipeline*](https://www.eventbrite.ca/e/building-a-bioinformatics-qc-pipeline-registration-71341934647) | Brian McConeghy |
 | Nov-27 | [*Tips & tools for mining Twitter data for research*](https://www.eventbrite.ca/e/tips-tools-for-mining-twitter-data-for-research-registration-60901624398) | John Simpson |
