@@ -22,15 +22,6 @@ permalink: "/programming/"
 
 ---
 
-#### *"Working with the Python DASK library"*
-
-**Webinar** (2019-Oct-16)
-
-* Python notebook (https://github.com/ualberta-rcg/wg-dask-webinar)
-as a [ZIP file]({{ site.baseurl }}/materials/wg-dask-webinar-master.zip
-
-A video recording will be posted shortly.
-
 #### *"A Brief Introduction to the Boost MPI Library"*
 
 **Webinar** (2018-May-09)
