@@ -22,6 +22,7 @@ permalink: "/getting-started/"
 ### Introduction to WestGrid, Compute Canada, and HPC
 
 * [Supercomputing in Canada: An Introduction to WestGrid & Compute Canada]({{ site.baseurl }}/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
+* [High Performance Computing: Short Introduction]({{ site.baseurl }}/materials/hpcUMan20190920.pdf) - Univ. of Manitoba perspective (PDF slides)
 
 #### Quick guides
 
@@ -31,9 +32,7 @@ permalink: "/getting-started/"
 
 #### *"How to submit and run jobs on Compute Canada HPC systems"*
 
-Introduction to working on our HPC systems for new users.
-
-**Webinar** (2018-Sep-19)
+**Webinar** (2018-Sep-19) - Introduction to working on our HPC systems for new users.
 
 * [webinar slides]({{ site.baseurl }}/materials/introRunningJobs20180919.pdf)
 

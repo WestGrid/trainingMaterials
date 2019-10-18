@@ -2,6 +2,7 @@ _site/
 .sass-cache/
 .DS_Store
 *~
+*.pptx
 oldPosts.tar.gz
 homepage-image-sectionbreak.png
 .jekyll-cache
