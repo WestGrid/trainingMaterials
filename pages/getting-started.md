@@ -15,9 +15,14 @@ permalink: "/getting-started/"
 
 ### Table of Contents
 
+- [RAC 2020](#rac-2020)
 - [Introduction to WestGrid, Compute Canada, and HPC](#introduction-to-westgrid-compute-canada-and-hpc)
 - [Introduction to Linux](#introduction-to-linux)
 - [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
+
+### RAC 2020
+
+* [Compute Canada’s Resource Allocation Competition 2020: Best Practices]({{ site.baseurl }}/materials/rac2020-uvic.pdf) - UVic edition (PDF slides)
 
 ### Introduction to WestGrid, Compute Canada, and HPC
 
