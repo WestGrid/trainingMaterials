@@ -11,11 +11,14 @@ permalink: "/tools/rdm/"
 
 ---
 
+<a name="acl"></a>
 #### *"File access control approaches and best practices"*
 
 **Webinar** (2019-Oct-30)
 
 * [PDF slides]({{ site.baseurl }}/materials/acl20191030.pdf)
+
+A video recording will be posted shortly.
 
 ---
 
