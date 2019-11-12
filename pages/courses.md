@@ -33,6 +33,8 @@ schools typically have 12-15 half- or full-day courses over several parallel str
 
 ## Full-day courses
 
+---
+
 Click on each course for details.
 
 <details>
@@ -142,6 +144,8 @@ introduction.
 
 ## Short courses
 
+---
+
 * Introduction to cloud computing (setting a VM in Compute Canada's cloud)
 * Debugging
 * Memory debugging
@@ -163,6 +167,8 @@ introduction.
 
 ## Webinars
 
+---
+
 Join our training webinars every second Wednesday at 10am Pacific / 11am Mountain. For more details, look
 for *online* events in <a href="https://www.westgrid.ca/events/westgrid-training-events"
 target="_blank">our calendar</a>. We also encourage you to sign up to <a
@@ -172,6 +178,8 @@ target="_blank">our mailing list</a> for notices and reminders of sessions.
 <!-- ========================================================================================== -->
 
 ## Summer school materials
+
+---
 
 #### 2019 WestGrid summer schools
 
