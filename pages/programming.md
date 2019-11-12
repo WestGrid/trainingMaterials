@@ -14,7 +14,6 @@ permalink: "/programming/"
 - [Parallel Libraries](#parallel-libraries)
 - [Debugging and memory debugging](#debugging-and-memory-debugging)
 - [Chapel](#chapel)
-- [HPC Carpentry Course](#hpc-carpentry-course)
 - [OpenMP](#openmp)
 - [MATLAB](#matlab)
 
@@ -114,7 +113,9 @@ write efficient large-scale numerical codes.
 	allowfullscreen></iframe>
 </div>
 
-## HPC Carpentry Course
+---
+
+### HPC Carpentry Course
 
 As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Parallel programming in Chapel* course](https://hpc-carpentry.github.io/hpc-chapel). The materials and exercises presented in this course can be presented as a full-day workshop. If you have questions about the materials, please contact Alex Razoumov - alex.razoumov@westgrid.ca.
 
