@@ -20,11 +20,15 @@ permalink: "/getting-started/"
 - [Introduction to Linux](#introduction-to-linux)
 - [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
 
-### RAC 2020
+## RAC 2020
+
+---
 
 * [Compute Canada’s Resource Allocation Competition 2020: Best Practices]({{ site.baseurl }}/materials/rac2020-uvic.pdf) - UVic edition (PDF slides)
 
-### Introduction to WestGrid, Compute Canada, and HPC
+## Introduction to WestGrid, Compute Canada, and HPC
+
+---
 
 * [Supercomputing in Canada: An Introduction to WestGrid & Compute Canada]({{ site.baseurl }}/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
 * [High Performance Computing: Short Introduction]({{ site.baseurl }}/materials/hpcUMan20190920.pdf) - Univ. of Manitoba perspective (PDF slides)
@@ -34,6 +38,8 @@ permalink: "/getting-started/"
 * [WestGrid Backgrounder](https://www.westgrid.ca/files/WestGrid.Backgrounder.2018.pdf) (one-page PDF)
 * [Getting Started with WestGrid & Compute Canada](https://www.westgrid.ca/files/Getting%20Started%20with%20WestGrid%20%26%20Compute%20Canada.pdf)
   (two-page PDF)
+
+---
 
 #### *"How to submit and run jobs on Compute Canada HPC systems"*
 
@@ -45,6 +51,8 @@ permalink: "/getting-started/"
 	<iframe width="781" height="439" src="https://www.youtube.com/embed/EY-NIGhCnhQ" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+---
 
 #### Other materials
 
@@ -62,7 +70,9 @@ Browse the latest materials from WestGrid's [Introductory HPC course](http://bit
 
 
 
-### Introduction to Linux
+## Introduction to Linux
+
+---
 
 Browse the materials from our Introduction to Linux: Command Line Basics (delivered Sept 2017):
 - [View the slides]({{ site.baseurl }}/materials/introLinuxCommandLine20170926.pdf)
@@ -81,7 +91,9 @@ context</a> lessons for some very basic introduction to Linux command line.
 
 
 
-### Managing Cluster Instability for Users
+## Managing Cluster Instability for Users
+
+---
 
 Presentation on dealing with hardware and software instabilities on Cedar from a user's perspective:
 causes, workarounds, bad workflows, best practices.

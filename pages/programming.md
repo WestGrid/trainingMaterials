@@ -32,6 +32,8 @@ permalink: "/programming/"
 
 A video recording will be posted shortly.
 
+---
+
 #### *"A Brief Introduction to the Boost MPI Library"*
 
 **Webinar** (2018-May-09)
