@@ -25,7 +25,7 @@ are taught by our analysts and staff.
 <a name="textParsing"></a>
 #### *"Text parsing & matching with High Performance Computing resources"*
 
-**Webinar** (2019-Feb-06)
+**Webinar** (2019-Feb-06) by Ian Percel
 
 * [PDF slides]({{ site.baseurl }}/materials/textParsing20190206.pdf)
 
@@ -39,7 +39,7 @@ are taught by our analysts and staff.
 
 #### *"Getting started on the cloud"*
 
-**Webinar** (2018-Nov-28)
+**Webinar** (2018-Nov-28) by John Simpson
 
 * [PDF slides]({{ site.baseurl }}/materials/gettingStartedCloud20181128.pdf)
 
@@ -53,7 +53,7 @@ are taught by our analysts and staff.
 
 #### *"Tools for Handling Big Data & Computing Demands in Humanities & Social Science Research"*
 
-**Webinar** (2017-Sep-21)
+**Webinar** (2017-Sep-21) by Megan Meredith-Lobay
 
 * [PDF slides]({{ site.baseurl }}/materials/ccToolsHumanitiesSocialSciences20170921.pdf)
 

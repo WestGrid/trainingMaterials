@@ -28,13 +28,11 @@ Browse the forum, ask a question, or request one-on-one support in
 
 The video recording will be posted shortly.
 
-
-
 ---
 
 #### *"Short read DNA sequencing alignment and visualization"*
 
-**Webinar** (2019-Apr-03)
+**Webinar** (2019-Apr-03) by Phillip Richmond
 
 * [PDF slides]({{ site.baseurl }}/materials/shortReadMapping20190403.pdf)
 
@@ -48,7 +46,7 @@ The video recording will be posted shortly.
 
 #### *"Tools for automating analysis pipelines"*
 
-**Webinar** (2018-Oct-17)
+**Webinar** (2018-Oct-17) by Jamie Rosner
 
 * [PDF slides]({{ site.baseurl }}/materials/automatingAnalysisPipelines20181017.pdf)
 
@@ -61,7 +59,7 @@ The video recording will be posted shortly.
 
 #### *"The Human Variant Database"*
 
-**Webinar** (2018-Apr-11)
+**Webinar** (2018-Apr-11) by Mya Warren
 
 * [PDF slides]({{ site.baseurl }}/materials/humanVariantDatabase20180411.pdf)
 
@@ -74,7 +72,7 @@ The video recording will be posted shortly.
 
 #### *"Bioinformatics Series: Detecting structural variants"*
 
-**Webinar** (2017-Feb-14)
+**Webinar** (2017-Feb-14) by Karen Mungall
 
 * [PDF slides]({{ site.baseurl }}/materials/detectingStructuralVariants.pdf)
 
@@ -87,7 +85,7 @@ The video recording will be posted shortly.
 
 #### *"Bioinformatics Series: Quality Control of Next-Gen Sequence Data"*
 
-**Webinar** (2018-Jan-17)
+**Webinar** (2018-Jan-17) by Kane Tse
 
 * [PDF slides]({{ site.baseurl }}/materials/qualityControlOfNGSData.pdf)
 
@@ -100,7 +98,7 @@ The video recording will be posted shortly.
 
 #### *"Bioinformatics Series: FFPE in Your NGS Study"*
 
-**Webinar** (2017-Dec-06)
+**Webinar** (2017-Dec-06) by Richard Corbett
 
 * [PDF slides]({{ site.baseurl }}/materials/WestGridwebinar-20171206-FFPE.pdf)
 
@@ -113,7 +111,7 @@ The video recording will be posted shortly.
 
 #### *"Bioinformatics Series: Designing an NGS Study for my Biological Question"*
 
-**Webinar** (2017-Nov-08)
+**Webinar** (2017-Nov-08) by Yussanne Ma
 
 * [PDF slides]({{ site.baseurl }}/materials/WestGridwebinar_GSCdesigningNGSstudy_20171107.pdf)
 
@@ -126,7 +124,7 @@ The video recording will be posted shortly.
 
 #### *"Bioinformatics Series: Benchmarking of Variant Callers and Analysis Tools"*
 
-**Webinar** (2017-Sept-28)
+**Webinar** (2017-Sept-28) by Simon Chan
 
 * [PDF slides]({{ site.baseurl }}/materials/benchmarkingSimonChan201709.pdf)
 
@@ -139,7 +137,7 @@ The video recording will be posted shortly.
 
 #### *"Bioinformatics Series: Introduction to Bioinformatics"*
 
-**Webinar** (2017-June-28)
+**Webinar** (2017-June-28) by Richard Corbett
 
 * [PDF slides]({{ site.baseurl }}/materials/introBioinformatics20170628.pdf)
 

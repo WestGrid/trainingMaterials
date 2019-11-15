@@ -21,7 +21,7 @@ For full documentation, please check the
 
 #### *"Batch visualization on Compute Canada clusters"*
 
-**Webinar** (2019-Sep-18)
+**Webinar** (2019-Sep-18) by Alex Razoumov
 
 * [ZIP file]({{ site.baseurl }}/materials/batch20190918.zip) with slides and scripts
 
@@ -35,7 +35,7 @@ For full documentation, please check the
 
 #### *"Molecular visualization with VMD"*
 
-**Webinar** (2019-Mar-06)
+**Webinar** (2019-Mar-06) by Dmitri Rozmanov
 
 * [PDF slides]({{ site.baseurl }}/materials/vmd20190306.pdf)
 
@@ -49,7 +49,7 @@ For full documentation, please check the
 
 #### *"Using YT for analysis and visualization of volumetric data"* - YT webinar Part 1
 
-**Webinar** (2018-Nov-21)
+**Webinar** (2018-Nov-21) by Alex Razoumov
 
 * [PDF slides]({{ site.baseurl }}/materials/yt20181121.pdf)
 
@@ -64,7 +64,7 @@ For full documentation, please check the
 <a name="yt2"></a>
 #### *"Working with data objects in YT"* - YT webinar Part 2
 
-**Webinar** (2019-Jan-23)
+**Webinar** (2019-Jan-23) by Alex Razoumov
 
 * [PDF slides]({{ site.baseurl }}/materials/yt20190123.pdf)
 
@@ -78,7 +78,7 @@ For full documentation, please check the
 
 #### *"Scientific visualization with Plotly"*
 
-**Webinar** (2018-Mar-28)
+**Webinar** (2018-Mar-28) by Alex Razoumov
 
 * [webinar notes](https://github.com/WestGrid/trainingMaterials/blob/gh-pages/materials/plotly.md)
 
@@ -91,7 +91,7 @@ For full documentation, please check the
 
 #### *"Novel Visualization Techniques from the 2017 Visualize This Challenge"*
 
-**Webinar** (2018-Jan-31)
+**Webinar** (2018-Jan-31) <!-- by Alex Razoumov et al. -->
 
 * [PDF slides]({{ site.baseurl }}/materials/novel20180131.pdf)
 
@@ -104,7 +104,7 @@ For full documentation, please check the
 
 #### *"Data Visualization on Compute Canada's Supercomputers"*
 
-**Webinar** (2017-Oct-03)
+**Webinar** (2017-Oct-03) by Alex Razoumov
 
 * [ZIP file]({{ site.baseurl }}/materials/remote20171003.zip) with slides and other files
 
@@ -117,7 +117,7 @@ For full documentation, please check the
 
 #### *"Using ParaViewWeb for 3D Visualization and Data Analysis in a Web Browser"*
 
-**Webinar** (2017-Mar-29)
+**Webinar** (2017-Mar-29) by Alex Razoumov
 
 * [ZIP file]({{ site.baseurl }}/materials/pvweb20170529.zip) with slides and other files
 
@@ -130,7 +130,7 @@ For full documentation, please check the
 
 #### *"Scripting and other advanced topics in VisIt visualization"*
 
-**Webinar** (2016-Nov-02)
+**Webinar** (2016-Nov-02) by Alex Razoumov
 
 * [ZIP file]({{ site.baseurl }}/materials/visitScripting.zip) with slides and other files
 
@@ -143,7 +143,7 @@ For full documentation, please check the
 
 #### *"CPU-based rendering with OSPRay"*
 
-**Webinar** (2016-Sep-28)
+**Webinar** (2016-Sep-28) by Alex Razoumov
 
 * [PDF slides]({{ site.baseurl }}/materials/ospray.pdf)
 
@@ -156,7 +156,7 @@ For full documentation, please check the
 
 #### *"3D graphs with NetworkX, VTK, and ParaView"*
 
-**Webinar** (2016-May-24)
+**Webinar** (2016-May-24) by Alex Razoumov
 
 * [ZIP file]({{ site.baseurl }}/materials/3dgraphs.zip) with PDF slides and Python scripts
 
@@ -169,7 +169,7 @@ For full documentation, please check the
 
 #### *"Graph visualization with Gephi"*
 
-**Webinar** (2016-Mar-22)
+**Webinar** (2016-Mar-22) by Alex Razoumov
 
 * [webinar notes](https://github.com/WestGrid/trainingMaterials/blob/gh-pages/materials/gephi.md)
 

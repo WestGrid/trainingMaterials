@@ -23,7 +23,7 @@ permalink: "/programming/"
 
 #### *"Working with the Python DASK library"*
 
-**Webinar** (2019-Oct-16)
+**Webinar** (2019-Oct-16) by Chris Want
 
 * Python notebook with an interactive slide deck
   [on GitHub](https://github.com/ualberta-rcg/wg-dask-webinar) and as a [gzipped file]({{ site.baseurl
@@ -35,7 +35,7 @@ A video recording will be posted shortly.
 
 #### *"A Brief Introduction to the Boost MPI Library"*
 
-**Webinar** (2018-May-09)
+**Webinar** (2018-May-09) by Patrick Mann
 
 * [PDF slides]({{ site.baseurl }}/materials/boostMPI20180509.pdf)
 * <a href="https://github.com/WestGrid/boostWebinar" target="_blank">repository with example codes</a>
@@ -51,7 +51,7 @@ A video recording will be posted shortly.
 
 #### *"Memory debugging with Valgrind"*
 
-**Webinar** (2019-Feb-20)
+**Webinar** (2019-Feb-20) by Tyson Whitehead
 
 * [ZIP file with slides, handout, and code examples]({{ site.baseurl }}/materials/valgrind20190220.zip)
 
@@ -65,7 +65,9 @@ A video recording will be posted shortly.
 
 ---
 
-#### Webinar Series: *"Intro to Parallel Programming in Chapel"* 
+#### *"Intro to Parallel Programming in Chapel"*
+
+**Webinar series** by Alex Razoumov
 
 In this three-part online webinar series, we introduce the main concepts of the
 [Chapel](https://chapel-lang.org/) parallel programming language. Chapel is a relatively new language for
@@ -103,7 +105,7 @@ write efficient large-scale numerical codes.
 <a name="unstructured"></a>
 #### *"Computing graphs on an HPC cluster: working with distributed unstructured data in Chapel"*
 
-**Webinar** (2019-Apr-17)
+**Webinar** (2019-Apr-17) by Alex Razoumov
 
 * [ZIP file]({{ site.baseurl }}/materials/unstructured20190417.zip) with slides and sample codes
 
@@ -123,7 +125,9 @@ As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Para
 
 ---
 
-#### Webinar: *Intro to Parallel Programming for Shared Memory Machines*
+#### *Intro to Parallel Programming for Shared Memory Machines*
+
+**Webinar** (2019-Oct) by Ali Kerrache
 
 This online workshop explores how to use OpenMP to improve the speed of serial jobs on multi-core machines. We review how to add OpenMP constructs to a serial program in order to run it using multiple cores. Viewers are led through a series of hands-on, interactive examples, focusing on multi-threading parallel programming.
 
@@ -145,7 +149,7 @@ The topics covered include:
 
 #### *"Data Analytics and Machine Learning with MATLAB"*
 
-**Webinar** (2018-Oct-31)
+**Webinar** (2018-Oct-31) by Sumit Tandon
 
 * [PDF slides]({{ site.baseurl }}/materials/MATLAB20181031.pdf)
 

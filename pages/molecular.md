@@ -17,7 +17,7 @@ permalink: "/domains/md/"
 
 #### *"Molecular visualization with VMD"*
 
-**Webinar** (2019-Mar-06)
+**Webinar** (2019-Mar-06) by Dmitri Rozmanov
 
 * [PDF slides]({{ site.baseurl }}/materials/vmd20190306.pdf)
 
@@ -31,7 +31,7 @@ permalink: "/domains/md/"
 
 #### *"Introduction to Molecular Dynamics Simulations"*
 
-**Webinar** (2017-Nov-01)
+**Webinar** (2017-Nov-01) by Ali Kerrache
 
 * [PDF slides]({{ site.baseurl }}/materials/introMDsimulations20171101.pdf)
 
@@ -44,7 +44,7 @@ permalink: "/domains/md/"
 
 #### *"Introduction to Molecular Dynamics Simulation using LAMMPS"*
 
-**Webinar** (2017-Mar-14)
+**Webinar** (2017-Mar-14) by Ali Kerrache
 
 * [PDF slides]({{ site.baseurl }}/materials/introMDSimulationsLAMMPS0.pdf)
 

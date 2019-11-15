@@ -18,7 +18,9 @@ Compute Canada&#8217;s technical wiki.
 
 ---
 
-#### *"Common Job Submission Errors and How to Avoid Them"* webinar (2018-Oct-03)
+#### *"Common Job Submission Errors and How to Avoid Them"*
+
+**Webinar** (2018-Oct-03) by Kamil Marcinkowski
 
 This webinar is intended for users who are already familiar with the basic Slurm scheduler commands.
 
@@ -31,7 +33,9 @@ This webinar is intended for users who are already familiar with the basic Slurm
 
 ---
 
-#### *"Scheduling & Job Management: How to Get the Most from a Cluster"* webinar (2017-Oct-24)
+#### *"Scheduling & Job Management: How to Get the Most from a Cluster"*
+
+**Webinar series** (2017-Oct) by Kamil Marcinkowski
 
 This three-part webinar is a beginner-level introduction to working with Slurm.
 
