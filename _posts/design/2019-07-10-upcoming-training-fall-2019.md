@@ -39,7 +39,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Sep-18 | [<span style="color:blue">*Batch visualization on Compute Canada clusters*</span>]({{ site.baseurl }}/tools/visualization#batch-visualization-on-compute-canada-clusters) | Alex Razoumov |
 | Oct-16 | [<span style="color:blue">*Working with Python DASK library*</span>]({{ site.baseurl }}/programming#parallel-libraries) | Chris Want |
 | Oct-30 | [<span style="color:blue">*File access control approaches and best practices*</span>]({{ site.baseurl }}/tools/rdm#acl) | Sergiy Stepanenko |
-| Nov-13 | [*Building a bioinformatics QC pipeline*](https://www.eventbrite.ca/e/building-a-bioinformatics-qc-pipeline-registration-71341934647) | Brian McConeghy |
+| Nov-13 | [<span style="color:blue">*Building a bioinformatics QC pipeline*</span>]({{ site.baseurl }}/domains/bioinfo) | Brian McConeghy |
 | Nov-27 | [*Tips & tools for mining Twitter data for research*](https://www.eventbrite.ca/e/tips-tools-for-mining-twitter-data-for-research-registration-60901624398) | John Simpson |
 | Dec-11 | [*Geospatial analysis with HPC*](https://www.eventbrite.ca/e/geospatial-analysis-with-high-performance-computing-hpc-registration-71342291715) | Ian Percel |
 

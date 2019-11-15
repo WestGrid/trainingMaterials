@@ -18,6 +18,20 @@ Browse the forum, ask a question, or request one-on-one support in
 
 ---
 
+#### *Building a bioinformatics QC pipeline*
+
+**Webinar** (2019-Nov-13) by Brian McConeghy
+
+* [PDF slides]({{ site.baseurl }}/materials/bioinfoPipeline20191113.pdf)
+* workshop <a href="https://github.com/bmcconeghy/bioinformatics_pipeline_with_snakemake_2019-06-27"
+  target="_blank">GitHub page</a>
+
+The video recording will be posted shortly.
+
+
+
+---
+
 #### *"Short read DNA sequencing alignment and visualization"*
 
 **Webinar** (2019-Apr-03)
