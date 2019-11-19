@@ -18,7 +18,11 @@ permalink: "/tools/rdm/"
 
 * [PDF slides]({{ site.baseurl }}/materials/acl20191030.pdf)
 
-A video recording will be posted shortly.
+<div class="flex-video">
+	<iframe width="966" height="543" src="https://www.youtube.com/embed/h-iZ2Cz9OTA" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 

@@ -29,7 +29,11 @@ permalink: "/programming/"
   [on GitHub](https://github.com/ualberta-rcg/wg-dask-webinar) and as a [gzipped file]({{ site.baseurl
   }}/materials/dask20191016.ipynb.gz)
 
-A video recording will be posted shortly.
+<div class="flex-video">
+	<iframe width="966" height="543" src="https://www.youtube.com/embed/uGy5gT2vLdI" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
