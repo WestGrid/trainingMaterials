@@ -14,6 +14,30 @@ permalink: "/domains/bioinfo/"
 Browse the forum, ask a question, or request one-on-one support in
 [Compute Canada&#8217;s Bioinformatics Helpdesk](https://bioinformatics.computecanada.ca).
 
+
+
+
+
+
+[Table of Contents](#table-of-contents):
+[<em>Building a bioinformatics QC pipeline</em>](#building-a-bioinformatics-qc-pipeline)
+• [<em>"Short read DNA sequencing alignment and visualization"</em>](#short-read-dna-sequencing-alignment-and-visualization)
+• [<em>"Tools for automating analysis pipelines"</em>](#tools-for-automating-analysis-pipelines)
+• [<em>"The Human Variant Database"</em>](#the-human-variant-database)
+• [<em>"Bioinformatics Series: Detecting structural variants"</em>](#bioinformatics-series-detecting-structural-variants)
+• [<em>"Bioinformatics Series: Quality Control of Next-Gen Sequence Data"</em>](#bioinformatics-series-quality-control-of-next-gen-sequence-data)
+• [<em>"Bioinformatics Series: FFPE in Your NGS Study"</em>](#bioinformatics-series-ffpe-in-your-ngs-study)
+• [<em>"Bioinformatics Series: Designing an NGS Study for my Biological Question"</em>](#bioinformatics-series-designing-an-ngs-study-for-my-biological-question)
+• [<em>"Bioinformatics Series: Benchmarking of Variant Callers and Analysis Tools"</em>](#bioinformatics-series-benchmarking-of-variant-callers-and-analysis-tools)
+• [<em>"Bioinformatics Series: Introduction to Bioinformatics"</em>](#bioinformatics-series-introduction-to-bioinformatics)
+
+
+
+
+
+
+
+
 ## Webinars
 
 ---

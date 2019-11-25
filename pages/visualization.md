@@ -17,6 +17,31 @@ For full documentation, please check the
 [Visualization section](https://docs.computecanada.ca/wiki/Visualization) in Compute Canada&#8217;s technical wiki.
 &nbsp;
 
+
+
+
+
+[Table of Contents](#table-of-contents):
+[<em>"Batch visualization on Compute Canada clusters"</em>](#batch-visualization-on-compute-canada-clusters)
+• [<em>"Molecular visualization with VMD"</em>](#molecular-visualization-with-vmd)
+• [<em>"Using YT for analysis and visualization of volumetric data"</em>](#using-yt-for-analysis-and-visualization-of-volumetric-data---yt-webinar-part-1)
+• [<em>"Working with data objects in YT"</em>](#working-with-data-objects-in-yt---yt-webinar-part-2)
+• [<em>"Scientific visualization with Plotly"</em>](#scientific-visualization-with-plotly)
+• [<em>"Novel Visualization Techniques from the 2017 Visualize This Challenge"</em>](#novel-visualization-techniques-from-the-2017-visualize-this-challenge)
+• [<em>"Data Visualization on Compute Canada's Supercomputers"</em>](#data-visualization-on-compute-canadas-supercomputers)
+• [<em>"Using ParaViewWeb for 3D Visualization and Data Analysis in a Web Browser"</em>](#using-paraviewweb-for-3d-visualization-and-data-analysis-in-a-web-browser)
+• [<em>"Scripting and other advanced topics in VisIt visualization"</em>](#scripting-and-other-advanced-topics-in-visit-visualization)
+• [<em>"CPU-based rendering with OSPRay"</em>](#cpu-based-rendering-with-ospray)
+• [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
+• [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
+
+
+
+
+
+
+
+
 ---
 
 #### *"Batch visualization on Compute Canada clusters"*
@@ -105,9 +130,7 @@ viewers such as ParaView and MeshLab, and subsetting data in many different ways
 In this webinar we review the visualization techniques found in 2017 WestGrid's <i>Visualize This!</i>
 contest submissions:
 
-- toy conceptual animation created entirely in ParaView, along with the use of programmable sources for
-  rendering grass, house and roof elements in the same scene with the turbine, and forming
-  shadows under the turbine blades,
+- toy conceptual animation created entirely in ParaView, along with the use of programmable sources,
 - using Stream Tracer With Custom Source filter to animate streamlines in a stationary flow,
 - using integration time contours to animate the grids of dots moving along streamlines,
 - animating many properties simultaneously in a single Animation View timeline,
