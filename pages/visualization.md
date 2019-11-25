@@ -51,6 +51,11 @@ For full documentation, please check the
 
 **Webinar** (2018-Nov-21) by Alex Razoumov
 
+In this webinar we take a look at <a href="https://yt-project.org" target="_blank">YT</a>, a python
+package for analyzing multi-resolution volumetric and particle data. Initially written for working with
+astrophysical simulation data, YT is now widely used across many disciplines dealing with 3D simulation
+or observational/experimental data.
+
 * [PDF slides]({{ site.baseurl }}/materials/yt20181121.pdf)
 
 <div class="flex-video">
@@ -65,6 +70,10 @@ For full documentation, please check the
 #### *"Working with data objects in YT"* - YT webinar Part 2
 
 **Webinar** (2019-Jan-23) by Alex Razoumov
+
+In Part 2 we learn how to use <a href="https://yt-project.org" target="_blank">YT</a> for data analysis
+and manipulation, including creating isosurfaces and streamlines, exporting 3D scenes to interactive
+viewers such as ParaView and MeshLab, and subsetting data in many different ways.
 
 * [PDF slides]({{ site.baseurl }}/materials/yt20190123.pdf)
 
@@ -93,6 +102,22 @@ For full documentation, please check the
 
 **Webinar** (2018-Jan-31) <!-- by Alex Razoumov et al. -->
 
+In this webinar we review the visualization techniques found in 2017 WestGrid's <i>Visualize This!</i>
+contest submissions:
+
+- toy conceptual animation created entirely in ParaView, along with the use of programmable sources for
+  rendering grass, house and roof elements in the same scene with the turbine, and forming
+  shadows under the turbine blades,
+- using Stream Tracer With Custom Source filter to animate streamlines in a stationary flow,
+- using integration time contours to animate the grids of dots moving along streamlines,
+- animating many properties simultaneously in a single Animation View timeline,
+- colour selection for volumetric and semi-transparent plots to highlight specific regions,
+- camera animations,
+- using Blender game engine to let a user walk through the ParaView-created scene and toggle the
+  visibility of the various physical components, and
+- coupling visualization with the SuperCollider server to produce on-the-fly audio from selected
+  Q-criterion.
+
 * [PDF slides]({{ site.baseurl }}/materials/novel20180131.pdf)
 
 <div class="flex-video">
@@ -119,6 +144,11 @@ For full documentation, please check the
 
 **Webinar** (2017-Mar-29) by Alex Razoumov
 
+ParaViewWeb is a lightweight API for writing HTML5 web applications that utilize a remote ParaView server
+for running a visualization in a web browser. This talk gave an introduction to ParaViewWeb, shared an
+overview ofJavaScript Web Visualizer's main features, and explained how to build simple ParaViewWeb apps
+from scratch.
+
 * [ZIP file]({{ site.baseurl }}/materials/pvweb20170529.zip) with slides and other files
 
 <div class="flex-video">
@@ -131,6 +161,12 @@ For full documentation, please check the
 #### *"Scripting and other advanced topics in VisIt visualization"*
 
 **Webinar** (2016-Nov-02) by Alex Razoumov
+
+This webinar looks at the Python interface in VisIt, one of several popular open-source, general-purpose
+visualization packages. We demonstrate the different ways to launch scripts and use them for a number of
+rendering tasks including processing time-dependent datasets and creating animations. We also take a look
+at several other interesting topics in VisIt workflows such as visualizing the terrain in 3D and
+rendering molecules.
 
 * [ZIP file]({{ site.baseurl }}/materials/visitScripting.zip) with slides and other files
 
@@ -145,6 +181,12 @@ For full documentation, please check the
 
 **Webinar** (2016-Sep-28) by Alex Razoumov
 
+OSPRay, Intel's scalable open-source library, can provide very fast rendering on systems that don't have
+GPUs, making it possible to produce high-fidelity visualizations on the same general CPU nodes you use
+for running your simulations. In this session, we take a look at OSPRay inside ParaView both on a laptop
+and on a GPU-less cluster node, discuss benchmarks and compare the resulting images built with and
+without the OSPRay engine.
+
 * [PDF slides]({{ site.baseurl }}/materials/ospray.pdf)
 
 <div class="flex-video">
@@ -157,6 +199,13 @@ For full documentation, please check the
 #### *"3D graphs with NetworkX, VTK, and ParaView"*
 
 **Webinar** (2016-May-24) by Alex Razoumov
+
+Options for 3D graph visualization and analysis are very limited, confined primarily to short-lived
+research projects or legacy tools that can still be downloaded but are no longer maintained and
+updated. The reason for this is the popularity of 2D tools such as Gephi and Cytoscape and the
+expectation that in 3D complex networks will look messy, with some structures occluding others. On the
+other hand, in 3D layouts we can encode three independent attributes and visualize some unique connection
+topologies that will be lost in 2D.
 
 * [ZIP file]({{ site.baseurl }}/materials/3dgraphs.zip) with PDF slides and Python scripts
 

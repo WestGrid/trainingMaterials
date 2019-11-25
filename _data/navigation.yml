@@ -29,7 +29,7 @@
   dropdown:
   - title: "Visualization"
     url: "/tools/visualization/"
-  - title: "Cloud"
+  - title: "Cloud and Containers"
     url: "/tools/cloud/"
   - title: "Scheduling"
     url: "/tools/scheduling/"

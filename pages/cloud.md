@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Resources for Cloud Computing"
+title: "Resources on Virtual Machines and Containers"
 subheadline: ""
 teaser: ""
 header:
@@ -38,6 +38,18 @@ in Compute Canada&#8217;s technical wiki.
 
 <div class="flex-video">
 	<iframe width="726" height="408" src="https://www.youtube.com/embed/_hn_pVHGx8o" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
+---
+
+#### *"Exploring Containerization with Singularity"*
+
+**Webinar** (2017-Nov-21) by Grigory Shamov
+
+<div class="flex-video">
+	<iframe width="1185" height="675" src="https://www.youtube.com/embed/a2Yh0t1Azd0" frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>

@@ -26,7 +26,11 @@ Browse the forum, ask a question, or request one-on-one support in
 * workshop <a href="https://github.com/bmcconeghy/bioinformatics_pipeline_with_snakemake_2019-06-27"
   target="_blank">GitHub page</a>
 
-The video recording will be posted shortly.
+<div class="flex-video">
+	<iframe width="1440" height="629" src="https://www.youtube.com/embed/lrs8WkVdIVg" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
