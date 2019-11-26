@@ -13,12 +13,22 @@ permalink: "/getting-started/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-### Table of Contents
 
-- [RAC 2020](#rac-2020)
-- [Introduction to WestGrid, Compute Canada, and HPC](#introduction-to-westgrid-compute-canada-and-hpc)
-- [Introduction to Linux](#introduction-to-linux)
-- [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
+
+
+
+[Table of Contents](#table-of-contents):
+&nbsp; [RAC 2020](#rac-2020)
+• [Introduction to WestGrid, Compute Canada, and HPC](#introduction-to-westgrid-compute-canada-and-hpc)
+• [Introduction to Linux](#introduction-to-linux)
+• [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
+
+
+
+
+
+
+
 
 ## RAC 2020
 

@@ -9,13 +9,19 @@ header:
 permalink: "/programming/"
 ---
 
-### Table of Contents
 
-- [Parallel Libraries](#parallel-libraries)
-- [Debugging and memory debugging](#debugging-and-memory-debugging)
-- [Chapel](#chapel)
-- [OpenMP](#openmp)
-- [MATLAB](#matlab)
+
+
+[Table of Contents](#table-of-contents):
+&nbsp; [Parallel Libraries](#parallel-libraries)
+• [Debugging and memory debugging](#debugging-and-memory-debugging)
+• [Chapel](#chapel)
+• [OpenMP](#openmp)
+• [MATLAB](#matlab)
+
+
+
+
 
 ## Parallel Libraries
 

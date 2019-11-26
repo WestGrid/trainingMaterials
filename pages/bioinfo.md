@@ -20,7 +20,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 
 [Table of Contents](#table-of-contents):
-[<em>Building a bioinformatics QC pipeline</em>](#building-a-bioinformatics-qc-pipeline)
+&nbsp; [<em>Building a bioinformatics QC pipeline</em>](#building-a-bioinformatics-qc-pipeline)
 • [<em>"Short read DNA sequencing alignment and visualization"</em>](#short-read-dna-sequencing-alignment-and-visualization)
 • [<em>"Tools for automating analysis pipelines"</em>](#tools-for-automating-analysis-pipelines)
 • [<em>"The Human Variant Database"</em>](#the-human-variant-database)
