@@ -20,6 +20,29 @@ are taught by our analysts and staff.
 * "3D visualization for the humanities": [ZIP file](http://bit.ly/dhfileszip) with slides, scripts, and
   data files
 
+
+
+
+[Table of Contents](#table-of-contents):
+&nbsp; [<em>"Tips &amp; tools for mining Twitter data for research"</em>](#twitterapis)
+• [<em>"Text parsing &amp; matching with High Performance Computing resources"</em>](#text-parsing--matching-with-high-performance-computing-resources)
+• [<em>"Getting started on the cloud"</em>](#getting-started-on-the-cloud)
+• [<em>"Tools for Handling Big Data &amp; Computing Demands in Humanities &amp; Social Science Research"</em>](#tools-for-handling-big-data--computing-demands-in-humanities--social-science-research)
+
+
+
+
+---
+
+<a name="twitterapis"></a>
+#### *"Tips & tools for mining Twitter data for research"*
+
+**Webinar** (2019-Nov-27) by John Simpson
+
+* <a href="https://github.com/ualberta-rcg/twitter_scraping" target="_blank">Python notebook</a>
+
+Video recording will be posted shortly.
+
 ---
 
 <a name="textParsing"></a>

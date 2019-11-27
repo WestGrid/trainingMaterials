@@ -40,7 +40,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Oct-16 | [<span style="color:blue">*Working with Python DASK library*</span>]({{ site.baseurl }}/programming#parallel-libraries) | Chris Want |
 | Oct-30 | [<span style="color:blue">*File access control approaches and best practices*</span>]({{ site.baseurl }}/tools/rdm#acl) | Sergiy Stepanenko |
 | Nov-13 | [<span style="color:blue">*Building a bioinformatics QC pipeline*</span>]({{ site.baseurl }}/domains/bioinfo) | Brian McConeghy |
-| Nov-27 | [*Tips & tools for mining Twitter data for research*](https://www.eventbrite.ca/e/tips-tools-for-mining-twitter-data-for-research-registration-60901624398) | John Simpson |
+| Nov-27 | [<span style="color:blue">*Tips & tools for mining Twitter data for research*</span>]({{ site.baseurl }}/domains/dh#twitterapis) | John Simpson |
 | Dec-11 | [*Geospatial analysis with HPC*](https://www.eventbrite.ca/e/geospatial-analysis-with-high-performance-computing-hpc-registration-71342291715) | Ian Percel |
 
 <!-- | TBD | *Introduction to Machine Learning tools on CC clusters* || -->
