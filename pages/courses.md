@@ -92,7 +92,7 @@ tool to learn.
 </summary>
 <p>
 
-This a VisIt-flavoured version of the previous workshop.
+This is a VisIt-flavoured version of the previous workshop.
 
 </p>
 </details>
@@ -103,7 +103,7 @@ This a VisIt-flavoured version of the previous workshop.
 </summary>
 <p>
 
-This an advanced version of the ParaView-based visualization course focusing on parallel
+This is an advanced version of the ParaView-based visualization course focusing on parallel
 rendering, interactive client-server remote visualization, batch workflows using both cluster's CPUs and
 GPUs.
 
