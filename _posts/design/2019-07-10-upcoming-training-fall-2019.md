@@ -41,7 +41,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Oct-30 | [<span style="color:blue">*File access control approaches and best practices*</span>]({{ site.baseurl }}/tools/rdm#acl) | Sergiy Stepanenko |
 | Nov-13 | [<span style="color:blue">*Building a bioinformatics QC pipeline*</span>]({{ site.baseurl }}/domains/bioinfo) | Brian McConeghy |
 | Nov-27 | [<span style="color:blue">*Tips & tools for mining Twitter data for research*</span>]({{ site.baseurl }}/domains/dh#twitterapis) | John Simpson |
-| Dec-11 | [*Geospatial analysis with HPC*](https://www.eventbrite.ca/e/geospatial-analysis-with-high-performance-computing-hpc-registration-71342291715) | Ian Percel |
+| Dec-11 | [<span style="color:blue">*Geospatial analysis with HPC*</span>]({{ site.baseurl }}/domains/geo#geospatial) | Ian Percel |
 
 <!-- | TBD | *Introduction to Machine Learning tools on CC clusters* || -->
 

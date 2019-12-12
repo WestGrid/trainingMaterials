@@ -22,6 +22,8 @@
     url: "/domains/md/"
   - title: "Astrophysics"
     url: "/domains/astro/"
+  - title: "GIS"
+    url: "/domains/geo/"
 
 - title: "Tools"
   url: "/tools/"
