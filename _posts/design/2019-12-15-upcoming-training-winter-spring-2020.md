@@ -36,7 +36,7 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-22 | *Photorealistic rendering with ParaView and OSPRay* | Alex Razoumov |
+| Jan-15[^1] | *Photorealistic rendering with ParaView and OSPRay* | Alex Razoumov |
 | Feb-05 | *Singularity update* | Grigory Shamov |
 | Feb-19 | *topic TBD* | open |
 | Mar-04 | *High-performance research computing with Julia* | Marie-Hélène Burle |
@@ -47,6 +47,9 @@ To view recordings and slides from past sessions, click on the linked title.
 | May-13 | *Web-based 3D scientific visualization* | Alex Razoumov |
 | May-27 | *topic TBD* | open |
 
+[^1]: Note the off-cycle week.
+
+<!-- backup webinar: advanved Linux tools (Marie) -->
 <!-- waiting to hear back from John Simpson (will get back the week of Dec-09) -->
 <!-- | Jan-08 | *title* | should we do this one? | -->
 <!-- | date | [*title*](link) | open | -->
@@ -59,6 +62,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | May or June | WestGrid Summer School | UBC |
 | May or June | WestGrid Summer School | University of Manitoba |
 | Jun-07 | [*3D Visualization for the Humanities*](https://dhsi.org/course-offerings) @ DHSI | UVic |
+| Jun-08-12 | [*Fundamentals of Programming for Human(s,ists)*](https://dhsi.org/course-offerings) @ DHSI | UVic |
 
 <!-- ========================================================================================== -->
 
