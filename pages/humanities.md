@@ -41,7 +41,11 @@ are taught by our analysts and staff.
 
 * <a href="https://github.com/ualberta-rcg/twitter_scraping" target="_blank">Python notebook</a>
 
-Video recording will be posted shortly.
+<div class="flex-video">
+	<iframe width="726" height="408" src="https://www.youtube.com/embed/gy4nUgPBHeM" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
