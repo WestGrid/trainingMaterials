@@ -45,14 +45,14 @@ To view recordings and slides from past sessions, click on the linked title.
 | Apr-15 | *Building software on Compute Canada clusters using EasyBuild* | Ali Kerrache |
 | Apr-29 | *Machine learning in Julia with Flux* | Marie-Hélène Burle |
 | May-13 | *Web-based 3D scientific visualization* | Alex Razoumov |
-| May-27 | *topic TBD* | open |
+| May-27 | *Mining Twitter data for research - part 2* | John Simpson |
 
 [^1]: Note the off-cycle week.
 
+<!-- John: Let's extend and finalize the Twitter workshop that I ran earlier. In particular I'll: -->
+<!-- 1. Generalize what was shared previously so that they can grab even more content than before. -->
+<!-- 2. Demonstrate how to use MongoDB as the backend repository for holding the data. -->
 <!-- backup webinar: advanved Linux tools (Marie) -->
-<!-- waiting to hear back from John Simpson (will get back the week of Dec-09) -->
-<!-- | Jan-08 | *title* | should we do this one? | -->
-<!-- | date | [*title*](link) | open | -->
 
 <!-- ========================================================================================== -->
 
