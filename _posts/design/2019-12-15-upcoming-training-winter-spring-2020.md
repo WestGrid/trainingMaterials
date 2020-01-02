@@ -38,7 +38,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | ------------- | --------------- | ----------------- |
 | Jan-15[^1] | *Photorealistic rendering with ParaView and OSPRay* | Alex Razoumov |
 | Feb-05 | *Singularity update* | Grigory Shamov |
-| Feb-19 | *topic TBD* | open |
+| Feb-19 | *Fun Linux tools beyond introductory bash* | Marie-Hélène Burle |
 | Mar-04 | *High-performance research computing with Julia* | Marie-Hélène Burle |
 | Mar-18 | *Working with data files and external C libraries in Chapel* | Alex Razoumov |
 | Apr-01 | *Scientific graphing with GNUPlot* | Dmitri Rozmanov |
