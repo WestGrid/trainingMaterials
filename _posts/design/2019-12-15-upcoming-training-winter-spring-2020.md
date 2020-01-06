@@ -37,7 +37,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
 | Jan-15[^1] | *Photorealistic rendering with ParaView and OSPRay* | Alex Razoumov |
-| Feb-05 | *Singularity update* | Grigory Shamov |
+| Feb-05 | *Using Singularity for containerization on Compute Canada systems: Beyond the basics* | Grigory Shamov |
 | Feb-19 | *Fun tools to simplify your life in the command line* | Marie-Hélène Burle |
 | Mar-04 | *High-performance research computing with Julia* | Marie-Hélène Burle |
 | Mar-18 | *Working with data files and external C libraries in Chapel* | Alex Razoumov |
@@ -59,6 +59,7 @@ To view recordings and slides from past sessions, click on the linked title.
 ## In-person workshops
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Mar-02,03,05,06 | WestGrid spring school | SFU |
 | May or June | WestGrid Summer School | UBC |
 | May or June | WestGrid Summer School | University of Manitoba |
 | Jun-07 | [*3D Visualization for the Humanities*](https://dhsi.org/course-offerings) @ DHSI | UVic |
