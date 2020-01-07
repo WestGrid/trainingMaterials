@@ -36,16 +36,16 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-15[^1] | *Photorealistic rendering with ParaView and OSPRay* | Alex Razoumov |
-| Feb-05 | *Using Singularity for containerization on Compute Canada systems: Beyond the basics* | Grigory Shamov |
-| Feb-19 | *Fun tools to simplify your life in the command line* | Marie-Hélène Burle |
-| Mar-04 | *High-performance research computing with Julia* | Marie-Hélène Burle |
-| Mar-18 | *Working with data files and external C libraries in Chapel* | Alex Razoumov |
-| Apr-01 | *Scientific graphing with GNUPlot* | Dmitri Rozmanov |
-| Apr-15 | *Building software on Compute Canada clusters using EasyBuild* | Ali Kerrache |
-| Apr-29 | *Machine learning in Julia with Flux* | Marie-Hélène Burle |
-| May-13 | *Web-based 3D scientific visualization* | Alex Razoumov |
-| May-27 | *Mining Twitter data for research - part 2* | John Simpson |
+| Jan-15[^1] | [*Photorealistic rendering with ParaView and OSPRay*](https://www.eventbrite.ca/e/photorealistic-rendering-with-paraview-and-ospray-registration-88565133699) | Alex Razoumov |
+| Feb-05 | [*Using Singularity for containerization on Compute Canada systems: Beyond the basics*](https://www.eventbrite.ca/e/using-singularity-for-containerization-on-compute-canada-beyond-the-basics-registration-88568610097) | Grigory Shamov |
+| Feb-19 | [*Fun tools to simplify your life in the command line*](https://www.eventbrite.ca/e/fun-tools-to-simplify-your-life-in-the-command-line-registration-88571725415) | Marie-Hélène Burle |
+| Mar-04 | [*High-performance research computing with Julia*](https://www.eventbrite.ca/e/high-performance-research-computing-with-julia-registration-88573629109) | Marie-Hélène Burle |
+| Mar-18 | [*Working with data files and external C libraries in Chapel*](https://www.eventbrite.ca/e/working-with-data-files-and-external-c-libraries-in-chapel-registration-88597041135) | Alex Razoumov |
+| Apr-01 | [*Scientific graphing with GNUPlot*](https://www.eventbrite.ca/e/scientific-graphing-with-gnuplot-registration-88597484461) | Dmitri Rozmanov |
+| Apr-15 | [*Building software on Compute Canada clusters using EasyBuild*](https://www.eventbrite.ca/e/building-software-on-compute-canada-clusters-using-easybuild-registration-88598232699) | Ali Kerrache |
+| Apr-29 | [*Machine learning in Julia with Flux*](https://www.eventbrite.ca/e/machine-learning-in-julia-with-flux-registration-88600704091) | Marie-Hélène Burle |
+| May-13 | [*Web-based 3D scientific visualization*](https://www.eventbrite.ca/e/web-based-3d-scientific-visualization-registration-88601652929) | Alex Razoumov |
+| May-27 | [*Mining Twitter data for research - part 2*](https://www.eventbrite.ca/e/mining-twitter-data-for-research-part-2-registration-88599508515) | John Simpson |
 
 [^1]: Note the off-cycle week.
 
