@@ -59,7 +59,7 @@ To view recordings and slides from past sessions, click on the linked title.
 ## In-person workshops
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| March-02,03,05,06 | WestGrid Spring School | Big Data Hub @SFU |
+| March-02,03,05,06 | [WestGrid Spring School](https://www.eventbrite.ca/e/research-computing-workshops-simon-fraser-university-registration-88799572913) | Big Data Hub @SFU |
 | May or June | WestGrid Summer School | UBC |
 | May or June | WestGrid Summer School | University of Manitoba |
 | Jun-07 | [*3D Visualization for the Humanities*](https://dhsi.org/course-offerings) @ DHSI | UVic |
