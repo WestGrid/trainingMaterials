@@ -22,7 +22,9 @@ For full documentation, please check the
 
 
 [Table of Contents](#table-of-contents):
-&nbsp; [<em>"Batch visualization on Compute Canada clusters"</em>](#batch-visualization-on-compute-canada-clusters)
+&nbsp;
+[<em>"Photorealistic rendering with ParaView and OSPRay"</em>](#photorealistic-rendering-with-paraview-and-ospray)
+• [<em>"Batch visualization on Compute Canada clusters"</em>](#batch-visualization-on-compute-canada-clusters)
 • [<em>"Molecular visualization with VMD"</em>](#molecular-visualization-with-vmd)
 • [<em>"Using YT for analysis and visualization of volumetric data"</em>](#using-yt-for-analysis-and-visualization-of-volumetric-data---yt-webinar-part-1)
 • [<em>"Working with data objects in YT"</em>](#working-with-data-objects-in-yt---yt-webinar-part-2)
@@ -36,6 +38,17 @@ For full documentation, please check the
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
 
 
+
+
+
+
+---
+
+#### *"Photorealistic rendering with ParaView and OSPRay"*
+
+**Webinar** (2020-Jan-15) by Alex Razoumov
+
+* [ZIP file]({{ site.baseurl }}/materials/pathtracer20200115.zip) with slides and other materials
 
 
 
