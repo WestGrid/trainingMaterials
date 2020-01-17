@@ -13,9 +13,15 @@ permalink: "/tools/visualization/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
-For full documentation, please check the
-[Visualization section](https://docs.computecanada.ca/wiki/Visualization) in Compute Canada&#8217;s technical wiki.
-&nbsp;
+For full documentation, please check the <a href="https://docs.computecanada.ca/wiki/Visualization"
+target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wiki.
+
+* <a href="{{ site.baseurl }}/materials/paraviewWorkshop.pdf" target="_blank">ParaView full-day workshop
+  slides</a> (128 pages, last updated December 2019)
+* <a href="{{ site.baseurl }}/materials/visitWorkshop.pdf" target="_blank">VisIt full-day workshop
+  slides</a> (129 pages, last updated May 2017)
+
+
 
 
 
