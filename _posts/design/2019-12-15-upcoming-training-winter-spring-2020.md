@@ -63,7 +63,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | March-02,03,05,06 | [WestGrid Spring School](https://www.eventbrite.ca/e/research-computing-workshops-simon-fraser-university-registration-88799572913) | Big Data Hub @SFU |
 | Mar-13 | Advanced GitHub | UBC Research Commons |
 | Apr-08 | Intro to Cloud Computing | UBC Research Commons |
-| May or June | WestGrid Summer School | UBC |
+| Jun-22-25 | WestGrid Summer School | UBC |
 | May or June | WestGrid Summer School | University of Manitoba |
 | Jun-07 | [*3D Visualization for the Humanities*](https://dhsi.org/course-offerings) @ DHSI | UVic |
 | Jun-08-12 | [*Fundamentals of Programming for Human(s,ists)*](https://dhsi.org/course-offerings) @ DHSI | UVic |
