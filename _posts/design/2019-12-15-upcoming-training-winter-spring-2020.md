@@ -59,7 +59,7 @@ To view recordings and slides from past sessions, click on the linked title.
 ## In-person workshops
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| Feb-07 | Advanced Unix Shell | UBC Research Commons |
+| Feb-07 | [*Advanced Unix Shell*](https://libcal.library.ubc.ca/event/3540387) | UBC Research Commons |
 | March-02,03,05,06 | [WestGrid Spring School](https://www.eventbrite.ca/e/research-computing-workshops-simon-fraser-university-registration-88799572913) | Big Data Hub @SFU |
 | Mar-13 | Advanced GitHub | UBC Research Commons |
 | Apr-08 | Intro to Cloud Computing | UBC Research Commons |
