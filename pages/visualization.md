@@ -56,10 +56,11 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 * [ZIP file]({{ site.baseurl }}/materials/pathtracer20200115.zip) with slides and other materials
 
-
-
-
-
+<div class="flex-video">
+	<iframe width="711" height="400" src="https://www.youtube.com/embed/oK35O03RSTw" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
