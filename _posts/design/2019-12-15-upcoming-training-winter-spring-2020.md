@@ -68,7 +68,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Jun-07 | [3D Visualization for the Humanities](https://dhsi.org/course-offerings) | DHSI @UVic |
 | Jun-08-12 | [Fundamentals of Programming for Human(s,ists)](https://dhsi.org/course-offerings) | DHSI @UVic |
 
-Advanced Research Computing (ARC) teams at our member institutions also teach:
+The Advanced Research Computing (ARC) teams at our member institutions also teach:
 
 * [Hands-on introduction to HPC](https://wiki.usask.ca/x/OgExY) at USask
 * [Research Computing Bootcamps](https://ist.ualberta.ca/blog/events/research-computing-bootcamps-are-back) at UofA
