@@ -64,7 +64,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Mar-13 | [<span style="color:#049A80">Advanced GitHub</span>](https://libcal.library.ubc.ca/event/3540388) | <span style="color:#049A80">UBC Research Commons</span> |
 | Apr-08 | [<span style="color:#049A80">Intro to Cloud Computing</span>](https://libcal.library.ubc.ca/event/3540389) | <span style="color:#049A80">UBC Research Commons</span> |
 | Jun-22-25 | <span style="color:#E26D00"><b>WestGrid Summer School</b></span> | <span style="color:#E26D00">UBC</span> |
-| May or June | <span style="color:#E26D00"><b>WestGrid Summer School</b></span> | <span style="color:#E26D00">University of Manitoba</span> |
+| Jun-1-3,5 | <span style="color:#E26D00"><b>WestGrid Summer School</b></span> | <span style="color:#E26D00">University of Manitoba</span> |
 | Jun-07 | [3D Visualization for the Humanities](https://dhsi.org/course-offerings) | DHSI @UVic |
 | Jun-08-12 | [Fundamentals of Programming for Human(s,ists)](https://dhsi.org/course-offerings) | DHSI @UVic |
 
