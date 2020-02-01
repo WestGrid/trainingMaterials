@@ -43,8 +43,8 @@ To view recordings and slides from past sessions, click on the linked title.
 | Mar-18 | [*Working with data files and external C libraries in Chapel*](https://www.eventbrite.ca/e/working-with-data-files-and-external-c-libraries-in-chapel-registration-88597041135) | Alex Razoumov |
 | Apr-01 | [*Scientific graphing with GNUPlot*](https://www.eventbrite.ca/e/scientific-graphing-with-gnuplot-registration-88597484461) | Dmitri Rozmanov |
 | Apr-15 | [*Building software on Compute Canada clusters using EasyBuild*](https://www.eventbrite.ca/e/building-software-on-compute-canada-clusters-using-easybuild-registration-88598232699) | Ali Kerrache |
-| Apr-29 | [*Machine learning in Julia with Flux*](https://www.eventbrite.ca/e/machine-learning-in-julia-with-flux-registration-88600704091) | Marie-Hélène Burle |
-| May-13 | [*Web-based 3D scientific visualization*](https://www.eventbrite.ca/e/web-based-3d-scientific-visualization-registration-88601652929) | Alex Razoumov |
+| Apr-29 | [*Web-based 3D scientific visualization*](https://www.eventbrite.ca/e/web-based-3d-scientific-visualization-registration-88601652929) | Alex Razoumov |
+| May-13 | [*Machine learning in Julia with Flux*](https://www.eventbrite.ca/e/machine-learning-in-julia-with-flux-registration-88600704091) | Marie-Hélène Burle |
 | May-27 | [*Mining Twitter data for research - part 2*](https://www.eventbrite.ca/e/mining-twitter-data-for-research-part-2-registration-88599508515) | John Simpson |
 
 [^1]: Note the off-cycle week.
