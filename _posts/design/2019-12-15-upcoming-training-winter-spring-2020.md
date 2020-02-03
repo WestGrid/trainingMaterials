@@ -37,7 +37,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
 | Jan-15[^1] | [<span style="color:blue">*Photorealistic rendering with ParaView and OSPRay*</span>]({{ site.baseurl }}/tools/visualization#photorealistic-rendering-with-paraview-and-ospray) | Alex Razoumov |
-| Feb-05 | [*Using Singularity for containerization on Compute Canada systems: Beyond the basics*](https://www.eventbrite.ca/e/using-singularity-for-containerization-on-compute-canada-beyond-the-basics-registration-88568610097) | Grigory Shamov |
+| Feb-05 | [*Singularity in HPC: Beyond the basics*](https://www.eventbrite.ca/e/using-singularity-for-containerization-on-compute-canada-beyond-the-basics-registration-88568610097) | Grigory Shamov |
 | Feb-19 | [*Fun tools to simplify your life in the command line*](https://www.eventbrite.ca/e/fun-tools-to-simplify-your-life-in-the-command-line-registration-88571725415) | Marie-Hélène Burle |
 | Mar-04 | [*High-performance research computing with Julia*](https://www.eventbrite.ca/e/high-performance-research-computing-with-julia-registration-88573629109) | Marie-Hélène Burle |
 | Mar-18 | [*Working with data files and external C libraries in Chapel*](https://www.eventbrite.ca/e/working-with-data-files-and-external-c-libraries-in-chapel-registration-88597041135) | Alex Razoumov |
