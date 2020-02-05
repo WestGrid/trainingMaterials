@@ -1,12 +1,12 @@
 ---
 layout: page
 show_meta: false
-title: "Resources on Virtual Machines and Containers"
+title: "Virtual Machines and Containers"
 subheadline: ""
 teaser: ""
 header:
    image_fullwidth: cloud-computing.jpg
-permalink: "/tools/cloud/"
+permalink: "/tools/virtual/"
 ---
 
 <!-- 1. Open `_config.yml` and work it through, it's well documented -->
@@ -14,7 +14,18 @@ permalink: "/tools/cloud/"
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
 For more information, please check the [cloud computing page](https://docs.computecanada.ca/wiki/Cloud)
-in Compute Canada&#8217;s technical wiki.
+and the [Singularity page](https://docs.computecanada.ca/wiki/Singularity) in Compute Canada&#8217;s
+technical wiki.
+
+---
+
+#### *"Singularity in HPC"*
+
+**Webinar** (2020-Feb-05) by Grigory Shamov
+
+* [PDF slides]({{ site.baseurl }}/materials/singularity20200205.pdf)
+
+The video recording will be added shortly.
 
 ---
 
@@ -38,18 +49,6 @@ in Compute Canada&#8217;s technical wiki.
 
 <div class="flex-video">
 	<iframe width="726" height="408" src="https://www.youtube.com/embed/_hn_pVHGx8o" frameborder="0"
-	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-	allowfullscreen></iframe>
-</div>
-
----
-
-#### *"Exploring Containerization with Singularity"*
-
-**Webinar** (2017-Nov-21) by Grigory Shamov
-
-<div class="flex-video">
-	<iframe width="1185" height="675" src="https://www.youtube.com/embed/a2Yh0t1Azd0" frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
