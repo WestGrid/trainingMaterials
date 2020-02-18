@@ -20,7 +20,7 @@ permalink: "/getting-started/"
 [Table of Contents](#table-of-contents):
 &nbsp; [RAC 2020](#rac-2020)
 • [Introduction to WestGrid, Compute Canada, and HPC](#introduction-to-westgrid-compute-canada-and-hpc)
-• [Introduction to Linux](#introduction-to-linux)
+• [Linux command line](#linux-command-line)
 • [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
 
 
@@ -80,20 +80,27 @@ Browse the latest materials from WestGrid's [Introductory HPC course](http://bit
 
 
 
-## Introduction to Linux
+## Linux command line
 
 ---
 
-Browse the materials from our Introduction to Linux: Command Line Basics (delivered Sept 2017):
-- [View the slides]({{ site.baseurl }}/materials/introLinuxCommandLine20170926.pdf)
-- [Watch the recording](https://www.youtube.com/watch?v=vOrk0OuEU04)
-- [Try the problemset](https://github.com/Phillip-a-richmond/ComputeCanada_EOT/blob/master/IntroToLinuxProblemSet.txt)
+<!-- Browse the materials from our Introduction to Linux: Command Line Basics (delivered Sept 2017): -->
+<!-- - [View the slides]({{ site.baseurl }}/materials/introLinuxCommandLine20170926.pdf) -->
+<!-- - [Watch the recording](https://www.youtube.com/watch?v=vOrk0OuEU04) -->
+<!-- - [Try the problemset](https://github.com/Phillip-a-richmond/ComputeCanada_EOT/blob/master/IntroToLinuxProblemSet.txt) -->
 
-For basic introduction to Bash command line, programming in Python or R, and version control with Git,
-check out a <a href="https://software-carpentry.org/workshops" target="_blank">Software Carpentry
-workshop</a> closest to you. We also recommend their online <a
+For a basic introduction to Bash command line -- as well as programming in Python or R, and version control
+with Git -- check out a <a href="https://software-carpentry.org/workshops" target="_blank">Software
+Carpentry workshop</a> closest to you. We highly recommend their online <a
 href="https://hpc-carpentry.github.io/hpc-shell" target="_blank">Introduction to using the shell in a HPC
 context</a> lessons for some very basic introduction to Linux command line.
+
+#### *"Fun tools to simplify your life in the command line"*
+
+**Upcoming webinar** (2020-02-19) by Marie-Hélène Burle
+
+<!-- * [webinar slides]({{ site.baseurl }}/materials/introRunningJobs20180919.pdf) -->
+
 
 
 
