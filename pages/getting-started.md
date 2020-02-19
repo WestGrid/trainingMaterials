@@ -97,9 +97,9 @@ the shell in a HPC context</a>.
 
 #### *"Fun tools to simplify your life in the command line"*
 
-**Upcoming webinar** (2020-02-19) by Marie-Hélène Burle
+**Webinar** (2020-02-19) by Marie-Hélène Burle
 
-* <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html" target="_blank">webinar presentation</a>
+* <a href="https://westgrid-webinars.netlify.com/cli_tools" target="_blank">webinar presentation</a>
 
 
 
