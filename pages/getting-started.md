@@ -95,12 +95,15 @@ target="_blank">Software Carpentry workshop</a> closest to you. For an online tu
 recommend their <a href="https://hpc-carpentry.github.io/hpc-shell" target="_blank">Introduction to using
 the shell in a HPC context</a>.
 
+---
+
 #### *"Fun tools to simplify your life in the command line"*
 
 **Webinar** (2020-02-19) by Marie-Hélène Burle
 
-* <a href="https://westgrid-webinars.netlify.com/cli_tools" target="_blank">webinar presentation</a>
+* <a href="https://westgrid-webinars.netlify.com/cli_tools" target="_blank">online slides</a>
 
+The video recording will be posted shortly.
 
 
 
