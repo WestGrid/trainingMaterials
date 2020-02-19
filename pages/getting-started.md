@@ -89,17 +89,17 @@ Browse the latest materials from WestGrid's [Introductory HPC course](http://bit
 <!-- - [Watch the recording](https://www.youtube.com/watch?v=vOrk0OuEU04) -->
 <!-- - [Try the problemset](https://github.com/Phillip-a-richmond/ComputeCanada_EOT/blob/master/IntroToLinuxProblemSet.txt) -->
 
-For a basic introduction to Bash command line -- as well as programming in Python or R, and version control
-with Git -- check out a <a href="https://software-carpentry.org/workshops" target="_blank">Software
-Carpentry workshop</a> closest to you. We highly recommend their online <a
-href="https://hpc-carpentry.github.io/hpc-shell" target="_blank">Introduction to using the shell in a HPC
-context</a> lessons for some very basic introduction to Linux command line.
+For a basic introduction to Bash command line -- as well as programming in Python or R, and version
+control with Git -- please check out a <a href="https://software-carpentry.org/workshops"
+target="_blank">Software Carpentry workshop</a> closest to you. For an online tutorial, we highly
+recommend their <a href="https://hpc-carpentry.github.io/hpc-shell" target="_blank">Introduction to using
+the shell in a HPC context</a>.
 
 #### *"Fun tools to simplify your life in the command line"*
 
 **Upcoming webinar** (2020-02-19) by Marie-Hélène Burle
 
-<!-- * [webinar slides]({{ site.baseurl }}/materials/introRunningJobs20180919.pdf) -->
+* <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html" target="_blank">webinar presentation</a>
 
 
 
@@ -115,7 +115,7 @@ context</a> lessons for some very basic introduction to Linux command line.
 Presentation on dealing with hardware and software instabilities on Cedar from a user's perspective:
 causes, workarounds, bad workflows, best practices.
 
-* [Combined PDF slides from all presenters]({{ site.baseurl }}/materials/wgTownHall20190301.pdf) from
+* [combined PDF slides from all presenters]({{ site.baseurl }}/materials/wgTownHall20190301.pdf) from
   WestGrid's March 2019 Town Hall
 
 <div class="flex-video">
