@@ -15,6 +15,7 @@ permalink: "/programming/"
 [Table of Contents](#table-of-contents):
 &nbsp; [Parallel Libraries](#parallel-libraries)
 • [Debugging and memory debugging](#debugging-and-memory-debugging)
+• [Julia](#julia)
 • [Chapel](#chapel)
 • [OpenMP](#openmp)
 • [MATLAB](#matlab)
@@ -70,6 +71,28 @@ permalink: "/programming/"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+
+
+
+
+## Julia
+
+---
+
+You can browse all our materials on Julia programming at <a href="https://westgrid-julia.netlify.com"
+target="_blank">this page</a>.
+
+#### *"High-performance research computing with Julia"*
+
+**Webinar** (2020-Mar-04) by Marie-Hélène Burle
+
+<!-- * slides link -->
+Coming up.
+
+
+
+
+
 
 ## Chapel
 
