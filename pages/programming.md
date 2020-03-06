@@ -86,7 +86,8 @@ target="_blank">this page</a>.
 
 **Webinar** (2020-Mar-04) by Marie-Hélène Burle
 
-* [online slides](https://westgrid-julia.netlify.com/webinars/hpc_julia.html)
+* <a href="https://westgrid-julia.netlify.com/webinars/hpc_julia.html" target="_blank">online slides</a>
+
 
 
 
