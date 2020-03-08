@@ -101,9 +101,8 @@ the shell in a HPC context</a>.
 
 **Webinar** (2020-02-19) by Marie-Hélène Burle
 
-* <a href="https://westgrid-webinars.netlify.com/cli_tools" target="_blank">online slides</a>
+* <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html" target="_blank">webinar page</a>
 
-The video recording will be posted shortly.
 
 
 
