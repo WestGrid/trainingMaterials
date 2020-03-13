@@ -21,6 +21,7 @@ permalink: "/getting-started/"
 &nbsp; [RAC 2020](#rac-2020)
 • [Introduction to WestGrid, Compute Canada, and HPC](#introduction-to-westgrid-compute-canada-and-hpc)
 • [Linux command line](#linux-command-line)
+• [Git version control](#git-version-control)
 • [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
 
 
@@ -102,6 +103,18 @@ the shell in a HPC context</a>.
 **Webinar** (2020-02-19) by Marie-Hélène Burle
 
 * <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html" target="_blank">webinar page</a>
+
+
+
+
+
+
+## Git version control
+
+---
+
+* <a href="https://westgrid-cli.netlify.com/workshops/github.html" target="_blank">Taking Git one step further: collaborations and contributions through GitHub</a>
+
 
 
 
