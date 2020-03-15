@@ -113,7 +113,8 @@ the shell in a HPC context</a>.
 
 ---
 
-* <a href="https://westgrid-cli.netlify.com/workshops/github.html" target="_blank">Taking Git one step further: collaborations and contributions through GitHub</a>
+* <a href="https://westgrid-cli.netlify.com/workshops/github-colab.html" target="_blank">Taking Git one step further: collaborating through GitHub</a>
+* <a href="https://westgrid-cli.netlify.com/workshops/github-contrib.html" target="_blank">Contributing to GitHub projects</a>
 
 
 
