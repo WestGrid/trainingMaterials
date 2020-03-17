@@ -91,7 +91,7 @@ target="_blank">here</a>.
 * <a href="https://westgrid-webinars.netlify.com/julia_intro#/" target="_blank">Online slides</a>
 
 <div class="flex-video">
-	<iframe width="100%" src="https://www.youtube.com/embed/XQsxn8OUXGA" frameborder="0"
+	<iframe width="681" height="383" src="https://www.youtube.com/embed/XQsxn8OUXGA" frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
