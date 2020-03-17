@@ -86,7 +86,9 @@ target="_blank">here</a>.
 
 **Webinar** (2020-Mar-04) by Marie-Hélène Burle
 
-* <a href="https://westgrid-julia.netlify.com/webinars/intro.html" target="_blank">webinar page</a>
+* <a href="https://westgrid-julia.netlify.com/webinars/intro.html" target="_blank">Full webinar page</a>
+* <a href="https://westgrid-julia.netlify.com/webinars/intro.html#headline-4" target="_blank">Comments & questions</a>
+* <a href="https://westgrid-webinars.netlify.com/julia_intro#/" target="_blank">Online slides</a>
 
 <div class="flex-video">
 	<iframe width="681" height="383" src="https://www.youtube.com/embed/XQsxn8OUXGA" frameborder="0"
