@@ -79,8 +79,8 @@ permalink: "/programming/"
 
 ---
 
-You can browse all our materials on Julia programming at <a href="https://westgrid-julia.netlify.com"
-target="_blank">this page</a>.
+You can browse all our materials on Julia programming <a href="https://westgrid-julia.netlify.com"
+target="_blank">here</a>.
 
 #### *"High-performance research computing with Julia"*
 
