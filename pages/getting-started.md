@@ -104,6 +104,12 @@ the shell in a HPC context</a>.
 
 * <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html" target="_blank">webinar page</a>
 
+<div class="flex-video">
+	<iframe width="681" height="383" src="https://www.youtube.com/embed/BFKT7aj-i80" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 
 
 

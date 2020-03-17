@@ -25,7 +25,11 @@ technical wiki.
 
 * [PDF slides]({{ site.baseurl }}/materials/singularity20200205.pdf)
 
-The video recording will be added shortly.
+<div class="flex-video">
+	<iframe width="681" height="383" src="https://www.youtube.com/embed/z-RtotX0i_0" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
