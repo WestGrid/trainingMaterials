@@ -40,7 +40,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-05 | [<span style="color:blue">*Singularity in HPC: beyond the basics*</span>]({{ site.baseurl }}/tools/virtual#singularity-in-hpc) | Grigory Shamov |
 | Feb-19 | [<span style="color:blue">*Fun tools to simplify your life in the command line*</span>]({{ site.baseurl }}/getting-started#fun-tools-to-simplify-your-life-in-the-command-line) | Marie-Hélène Burle |
 | Mar-04 | [<span style="color:blue">*High-performance research computing with Julia*</span>]({{ site.baseurl }}/programming#high-performance-research-computing-with-julia) | Marie-Hélène Burle |
-| Mar-18 | [*Working with data files and external C libraries in Chapel*](https://www.eventbrite.ca/e/working-with-data-files-and-external-c-libraries-in-chapel-registration-88597041135) | Alex Razoumov |
+| Mar-18 | [<span style="color:blue">*Working with data files and external C libraries in Chapel*</span>]({{ site.baseurl }}/programming#working-with-data-files-and-external-c-libraries-in-chapel) | Alex Razoumov |
 | Apr-01 | [*Scientific graphing with GNUPlot*](https://www.eventbrite.ca/e/scientific-graphing-with-gnuplot-registration-88597484461) | Dmitri Rozmanov |
 | Apr-15 | [*Building software on Compute Canada clusters using EasyBuild*](https://www.eventbrite.ca/e/building-software-on-compute-canada-clusters-using-easybuild-registration-88598232699) | Ali Kerrache |
 | Apr-29 | [*Web-based 3D scientific visualization*](https://www.eventbrite.ca/e/web-based-3d-scientific-visualization-registration-88601652929) | Alex Razoumov |
