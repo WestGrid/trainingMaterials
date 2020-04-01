@@ -29,7 +29,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Photorealistic rendering with ParaView and OSPRay"</em>](#photorealistic-rendering-with-paraview-and-ospray)
+[<em>"Scientific graphics with gnuplot"</em>](#scientific-graphics-with-gnuplot)
+• [<em>"Photorealistic rendering with ParaView and OSPRay"</em>](#photorealistic-rendering-with-paraview-and-ospray)
 • [<em>"Batch visualization on Compute Canada clusters"</em>](#batch-visualization-on-compute-canada-clusters)
 • [<em>"Molecular visualization with VMD"</em>](#molecular-visualization-with-vmd)
 • [<em>"Using YT for analysis and visualization of volumetric data"</em>](#using-yt-for-analysis-and-visualization-of-volumetric-data---yt-webinar-part-1)
@@ -42,6 +43,20 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 • [<em>"CPU-based rendering with OSPRay"</em>](#cpu-based-rendering-with-ospray)
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
+
+
+
+
+
+---
+
+#### *"Scientific graphics with gnuplot"*
+
+**Webinar** (2020-Apr-01) by Dmitri Rozmanov
+
+* [PDF slides]({{ site.baseurl }}/materials/gnuplotSlides20200401.pdf)
+* [gzipped tar file with examples]({{ site.baseurl }}/materials/gnuplotExamples20200401.tar.gz)
+
 
 
 

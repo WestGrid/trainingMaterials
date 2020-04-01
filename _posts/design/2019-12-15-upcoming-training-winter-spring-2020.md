@@ -45,7 +45,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Apr-08 | [<span style="color:#049A80">Intro to HPC</span>](https://libcal.library.ubc.ca/calendar/vancouver/intro-hpc) (remote for UBC Research Commons) | Alex Razoumov |
 | Apr-15 | [*Building software on Compute Canada clusters using EasyBuild*](https://www.eventbrite.ca/e/building-software-on-compute-canada-clusters-using-easybuild-registration-88598232699) | Ali Kerrache |
 | Apr-29 | [*Web-based 3D scientific visualization*](https://www.eventbrite.ca/e/web-based-3d-scientific-visualization-registration-88601652929) | Alex Razoumov |
-| May | <span style="color:#049A80">Intro to Cloud Computing</span> (remote for UBC Research Commons) | TBA |
+| May-06? | <span style="color:#049A80">Intro to Cloud Computing</span> (remote for UBC Research Commons) | TBA |
 | May-13 | [*Machine learning in Julia with Flux*](https://www.eventbrite.ca/e/machine-learning-in-julia-with-flux-registration-88600704091) | Marie-Hélène Burle |
 | May-27 | [*Mining Twitter data for research - part 2*](https://www.eventbrite.ca/e/mining-twitter-data-for-research-part-2-registration-88599508515) | John Simpson |
 
