@@ -41,7 +41,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-19 | [<span style="color:blue">*Fun tools to simplify your life in the command line*</span>]({{ site.baseurl }}/getting-started#fun-tools-to-simplify-your-life-in-the-command-line) | Marie-Hélène Burle |
 | Mar-04 | [<span style="color:blue">*High-performance research computing with Julia*</span>]({{ site.baseurl }}/programming#high-performance-research-computing-with-julia) | Marie-Hélène Burle |
 | Mar-18 | [<span style="color:blue">*Working with data files and external C libraries in Chapel*</span>]({{ site.baseurl }}/programming#working-with-data-files-and-external-c-libraries-in-chapel) | Alex Razoumov |
-| Apr-01 | [*Scientific graphing with GNUPlot*](https://www.eventbrite.ca/e/scientific-graphing-with-gnuplot-registration-88597484461) | Dmitri Rozmanov |
+| Apr-01 | [*Scientific graphics with GNUPlot*](https://www.eventbrite.ca/e/scientific-graphing-with-gnuplot-registration-88597484461) | Dmitri Rozmanov |
 | Apr-08 | [<span style="color:#049A80">Intro to HPC</span>](https://libcal.library.ubc.ca/calendar/vancouver/intro-hpc) (remote for UBC Research Commons) | Alex Razoumov |
 | Apr-15 | [*Building software on Compute Canada clusters using EasyBuild*](https://www.eventbrite.ca/e/building-software-on-compute-canada-clusters-using-easybuild-registration-88598232699) | Ali Kerrache |
 | Apr-29 | [*Web-based 3D scientific visualization*](https://www.eventbrite.ca/e/web-based-3d-scientific-visualization-registration-88601652929) | Alex Razoumov |
@@ -65,8 +65,8 @@ To view recordings and slides from past sessions, click on the linked title.
 | Mar-2,3,5,6 | [<span style="color:#E26D00">WestGrid Spring School</span>](https://www.eventbrite.ca/e/research-computing-workshops-simon-fraser-university-registration-88799572913) | <span style="color:#E26D00">Big Data Hub @SFU</span> |
 | Mar-09 | WestGrid workshop at BMIAI@UBC | UBC |
 | Mar-13 | [<span style="color:#049A80">Advanced GitHub</span>](https://libcal.library.ubc.ca/event/3540388) | <span style="color:#049A80">UBC Research Commons</span> |
-| May-25-28 | <span style="color:#E26D00"><b>WestGrid Summer School</b></span> | <span style="color:#E26D00">UBC</span> |
-| Jun-1-3,5 | <span style="color:#E26D00"><b>WestGrid Summer School</b></span> | <span style="color:#E26D00">University of Manitoba</span> |
+| online TBA | <span style="color:#E26D00"><b>WestGrid Summer School</b></span> | <span style="color:#E26D00">UBC</span> |
+| online TBA | <span style="color:#E26D00"><b>WestGrid Summer School</b></span> | <span style="color:#E26D00">University of Manitoba</span> |
 
 <!-- | Jun-07 | [3D Visualization for the Humanities](https://dhsi.org/course-offerings) | DHSI @UVic | -->
 <!-- | Jun-08-12 | [Fundamentals of Programming for Human(s,ists)](https://dhsi.org/course-offerings) | DHSI @UVic | -->
