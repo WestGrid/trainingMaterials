@@ -41,7 +41,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-19 | [<span style="color:blue">*Fun tools to simplify your life in the command line*</span>]({{ site.baseurl }}/getting-started#fun-tools-to-simplify-your-life-in-the-command-line) | Marie-Hélène Burle |
 | Mar-04 | [<span style="color:blue">*High-performance research computing with Julia*</span>]({{ site.baseurl }}/programming#high-performance-research-computing-with-julia) | Marie-Hélène Burle |
 | Mar-18 | [<span style="color:blue">*Working with data files and external C libraries in Chapel*</span>]({{ site.baseurl }}/programming#working-with-data-files-and-external-c-libraries-in-chapel) | Alex Razoumov |
-| Apr-01 | [*Scientific graphics with GNUPlot*](https://www.eventbrite.ca/e/scientific-graphing-with-gnuplot-registration-88597484461) | Dmitri Rozmanov |
+| Apr-01 | [<span style="color:blue">*Scientific graphics with GNUPlot*</span>]({{ site.baseurl }}/tools/visualization#scientific-graphics-with-gnuplot) | Dmitri Rozmanov |
 | Apr-08 | [<span style="color:#049A80">Intro to HPC</span>](https://libcal.library.ubc.ca/calendar/vancouver/intro-hpc) (remote for UBC Research Commons) | Alex Razoumov |
 | Apr-15 | [*Building software on Compute Canada clusters using EasyBuild*](https://www.eventbrite.ca/e/building-software-on-compute-canada-clusters-using-easybuild-registration-88598232699) | Ali Kerrache |
 | Apr-29 | [*Web-based 3D scientific visualization*](https://www.eventbrite.ca/e/web-based-3d-scientific-visualization-registration-88601652929) | Alex Razoumov |

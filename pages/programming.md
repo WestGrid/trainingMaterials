@@ -162,6 +162,12 @@ write efficient large-scale numerical codes.
 
 * [PDF slides]({{ site.baseurl }}/materials/cFromChapel20200318.pdf)
 
+<div class="flex-video">
+	<iframe width="1155" height="658" src="https://www.youtube.com/embed/zkTeKlZe2Ag" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 ---
 
 ### HPC Carpentry Course
