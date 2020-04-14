@@ -57,6 +57,11 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 * [PDF slides]({{ site.baseurl }}/materials/gnuplotSlides20200401.pdf)
 * [gzipped tar file with examples]({{ site.baseurl }}/materials/gnuplotExamples20200401.tar.gz)
 
+<div class="flex-video">
+	<iframe width="720" height="405" src="https://www.youtube.com/embed/js4KgC_Jucs" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 
 
