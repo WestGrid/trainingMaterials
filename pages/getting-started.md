@@ -22,6 +22,7 @@ permalink: "/getting-started/"
 • [Introduction to WestGrid, Compute Canada, and HPC](#introduction-to-westgrid-compute-canada-and-hpc)
 • [Linux command line](#linux-command-line)
 • [Git version control](#git-version-control)
+• [Building software with EasyBuild](#building-software-with-easybuild)
 • [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
 
 
@@ -124,6 +125,21 @@ the shell in a HPC context</a>.
 * <a href="https://westgrid-cli.netlify.com/workshops/github-colab.html" target="_blank">Taking Git one step further: collaborating through GitHub</a>
 * <a href="https://westgrid-cli.netlify.com/workshops/github-contrib.html" target="_blank">Contributing to GitHub projects</a>
 
+
+
+
+
+
+## Building software with EasyBuild
+
+---
+
+#### *"Building software on Compute Canada clusters using EasyBuild"*
+
+**Webinar** (2020-04-15) by Ali Kerrache
+
+* [PDF slides]({{ site.baseurl }}/materials/easybuild20200415.pdf)
+* [gzipped tar file with examples]({{ site.baseurl }}/materials/ebExamples20200415.tar.gz)
 
 
 
