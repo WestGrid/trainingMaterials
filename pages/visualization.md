@@ -53,7 +53,7 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 #### *"Web-based 3D scientific visualization"*
 
-**Webinar** (2020-Apr-01) by Dmitri Rozmanov
+**Webinar** (2020-Apr-29) by Alex Razoumov
 
 * [PDF slides]({{ site.baseurl }}/materials/webvis20200429.pdf)
 
