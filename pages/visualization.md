@@ -29,7 +29,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Scientific graphics with gnuplot"</em>](#scientific-graphics-with-gnuplot)
+[<em>"Web-based 3D scientific visualization"</em>](#web-based-3d-scientific-visualization)
+• [<em>"Scientific graphics with gnuplot"</em>](#scientific-graphics-with-gnuplot)
 • [<em>"Photorealistic rendering with ParaView and OSPRay"</em>](#photorealistic-rendering-with-paraview-and-ospray)
 • [<em>"Batch visualization on Compute Canada clusters"</em>](#batch-visualization-on-compute-canada-clusters)
 • [<em>"Molecular visualization with VMD"</em>](#molecular-visualization-with-vmd)
@@ -50,6 +51,21 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 ---
 
+#### *"Web-based 3D scientific visualization"*
+
+**Webinar** (2020-Apr-01) by Dmitri Rozmanov
+
+* [PDF slides]({{ site.baseurl }}/materials/webvis20200429.pdf)
+
+
+
+
+
+
+
+
+---
+
 #### *"Scientific graphics with gnuplot"*
 
 **Webinar** (2020-Apr-01) by Dmitri Rozmanov
@@ -62,11 +78,6 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
-
-
-
-
-
 
 ---
 
