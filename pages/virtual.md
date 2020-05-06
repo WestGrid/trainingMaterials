@@ -39,8 +39,11 @@ technical wiki.
 
 * [PDF slides]({{ site.baseurl }}/materials/gettingStartedCloud20181128.pdf)
 
+We edited out the first few minutes of this video (lots of background noise), jumping straight into the
+section in which John explains cloud computing and its difference from traditional HPC.
+
 <div class="flex-video">
-	<iframe width="726" height="408" src="https://www.youtube.com/embed/dzrzjpXPC6M" frameborder="0"
+	<iframe width="684" height="385" src="https://www.youtube.com/embed/JFFlkPrGFbM" frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
