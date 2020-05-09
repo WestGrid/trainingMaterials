@@ -141,6 +141,12 @@ the shell in a HPC context</a>.
 * [PDF slides]({{ site.baseurl }}/materials/easybuild20200415.pdf)
 * [gzipped tar file with examples]({{ site.baseurl }}/materials/ebExamples20200415.tar.gz)
 
+<div class="flex-video">
+	<iframe width="684" height="385" src="https://www.youtube.com/embed/38AuEQ7Jxn4" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 
 
 
