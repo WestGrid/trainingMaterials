@@ -37,6 +37,8 @@
     url: "/tools/scheduling/"
   - title: "Data Management"
     url: "/tools/rdm/"
+  - title: "Machine Learning"
+    url: "/tools/ml/"
 
 - title: "Courses"
   url: "/courses/"
