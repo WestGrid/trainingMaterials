@@ -77,10 +77,9 @@ permalink: "/programming/"
 
 ## Julia
 
----
-
-You can browse all our materials on Julia programming <a href="https://westgrid-julia.netlify.com"
-target="_blank">here</a>.
+<br>
+(You can also browse all our materials on Julia programming <a href="https://westgrid-julia.netlify.com"
+target="_blank">here</a>.)
 
 ---
 

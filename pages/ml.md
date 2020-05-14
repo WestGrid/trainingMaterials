@@ -9,9 +9,7 @@ header:
 permalink: "/tools/ml/"
 ---
 
----
-
-You can browse all our materials on machine learning <a href="https://westgrid-ml.netlify.app/" target="_blank">here</a>.
+(You can also browse all our materials on machine learning <a href="https://westgrid-ml.netlify.app/" target="_blank">here</a>.)
 
 ---
 
