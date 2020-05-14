@@ -82,11 +82,13 @@ permalink: "/programming/"
 You can browse all our materials on Julia programming <a href="https://westgrid-julia.netlify.com"
 target="_blank">here</a>.
 
+---
+
 #### *"High-performance research computing with Julia"*
 
 **Webinar** (2020-Mar-04) by Marie-Hélène Burle
 
-* <a href="https://westgrid-julia.netlify.com/webinars/intro.html" target="_blank">Full webinar page</a>
+* <a href="https://westgrid-julia.netlify.com/webinars/intro.html" target="_blank">Webinar page</a>
 * <a href="https://westgrid-julia.netlify.com/webinars/intro.html#headline-4" target="_blank">Comments & questions</a>
 * <a href="https://westgrid-webinars.netlify.com/julia_intro#/" target="_blank">Online slides</a>
 
