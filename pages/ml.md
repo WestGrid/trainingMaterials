@@ -9,6 +9,8 @@ header:
 permalink: "/tools/ml/"
 ---
 
+(You can also browse all our materials on machine learning <a href="https://westgrid-ml.netlify.app/" target="_blank">here</a>.)
+
 ---
 
 <a name="acl"></a>
@@ -16,8 +18,9 @@ permalink: "/tools/ml/"
 
 **Webinar** (2020-May-13) by Marie-Hélène Burle
 
-* [Online slides](https://westgrid-webinars.netlify.app/flux#)
-
+* <a href="https://westgrid-ml.netlify.app/webinars/flux.html" target="_blank">Webinar page</a>
+* <a href="https://westgrid-ml.netlify.app/webinars/flux.html#headline-4" target="_blank">Comments & questions</a>
+* <a href="https://westgrid-webinars.netlify.app/flux#" target="_blank">Online slides</a>
 
 <!-- --- -->
 
