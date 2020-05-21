@@ -20,6 +20,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
   slides</a> (128 pages, last updated December 2019)
 * <a href="{{ site.baseurl }}/materials/visitWorkshop.pdf" target="_blank">VisIt full-day workshop
   slides</a> (129 pages, last updated May 2017)
+* <a href="{{ site.baseurl }}/materials/dhsi.pdf" target="_blank">"3D visualization for the humanities"
+  slides</a> (69 pages, last updated June 2019)
 
 
 
