@@ -35,7 +35,7 @@ are taught by our analysts and staff.
 ---
 
 <a name="twitterapis"></a>
-#### *"Tips & tools for mining Twitter data for research"*
+#### *"Tips & tools for mining Twitter data for research"* (part1)
 
 **Webinar** (2019-Nov-27) by John Simpson
 
@@ -48,6 +48,30 @@ are taught by our analysts and staff.
 </div>
 
 ---
+
+<a name="twitterapistwo"></a>
+#### *"Mining Twitter data for research"* (part2)
+
+**Webinar** (2020-May-27	) by John Simpson
+
+* <a href="https://github.com/ualberta-rcg/twitter_scraping" target="_blank">Python notebook</a>
+
+The video will be posted shortly.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a name="textParsing"></a>
 #### *"Text parsing & matching with High Performance Computing resources"*

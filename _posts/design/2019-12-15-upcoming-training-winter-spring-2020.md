@@ -47,7 +47,10 @@ To view recordings and slides from past sessions, click on the linked title.
 | Apr-29 | [<span style="color:blue">*Web-based 3D scientific visualization*</span>]({{ site.baseurl }}/tools/visualization#web-based-3D-scientific-visualization) | Alex Razoumov |
 | May-06 | [<span style="color:#049A80">Intro to Cloud Computing</span>](https://libcal.library.ubc.ca/calendar/vancouver/intro-cc-cloud) (remote for UBC Research Commons) | pre-recorded |
 | May-13 | [<span style="color:blue">*Machine learning in Julia with Flux*</span>]({{ site.baseurl }}/tools/ml#machine-learning-in-julia-with-flux) | Marie-Hélène Burle |
-| May-27 | [*Mining Twitter data for research - part 2*](https://www.eventbrite.ca/e/mining-twitter-data-for-research-part-2-registration-88599508515) | John Simpson |
+| May-27 | [<span style="color:blue">*Mining Twitter data for research (part 2)*</span>]({{ site.baseurl }}/domains/dh#twitterapistwo) | John Simpson |
+
+
+
 
 [^1]: Note the off-cycle week.
 
