@@ -22,6 +22,12 @@ permalink: "/tools/ml/"
 * <a href="https://westgrid-ml.netlify.app/webinars/flux.html#headline-4" target="_blank">Comments & questions</a>
 * <a href="https://westgrid-webinars.netlify.app/flux#" target="_blank">Online slides</a>
 
+<div class="flex-video">
+	<iframe width="681" height="383" src="https://www.youtube.com/embed/9nhVaJSuMF8" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 <!-- --- -->
 
 <!-- <a name="dar"></a> -->
