@@ -59,8 +59,11 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 * [PDF slides]({{ site.baseurl }}/materials/webvis20200429.pdf)
 
-
-
+<div class="flex-video">
+	<iframe width="699" height="393" src="https://www.youtube.com/embed/7aOF8BYll5A" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 
 
