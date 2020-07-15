@@ -35,7 +35,7 @@ schools typically have 12-15 half- or full-day courses over several parallel str
 
 ---
 
-Click on each course for details.
+Click on each course's triangle for details.
 
 <details>
 <summary>
@@ -128,6 +128,38 @@ support from laptops to large HPC systems.
 </p>
 </details>
 
+
+
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to programming in Julia</font></a>
+</summary>
+<p>
+
+R and Python are interpreted languages: an interpreter executes the code directly, without pre-compilation. This is
+extremely convenient: it is what allows you to type and execute code in a Python or R interactive shell. The price to
+pay is low performance. To overcome this limitation, researchers often use C/C++ functions for the most
+computation-intensive parts of their algorithms. But the need to use multiple languages and the non-interactive nature
+of compiled languages can make this approach somewhat tedious.
+
+Julia uses just-in-time (JIT) compilation: the code is compiled at run time. This means that it feels like running R or
+Python, while it is almost as fast as C. This makes Julia particularly well suited for big data analysis, machine
+learning, or heavy modelling. Julia shines with its extremely clean and concise syntax making it easy to learn and
+really enjoyable to use.
+
+In this workshop, which does not require any prior experience in Julia (experience in another language such as R or
+Python would be ideal), we will start with the basics of Julia's syntax and its packaging system, and then we will look
+at running Julia in parallel for large-scale problems.
+
+</p>
+</details>
+
+
+
+
+
+
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Python-based Software Carpentry</font></a>
@@ -136,6 +168,17 @@ support from laptops to large HPC systems.
 
 This is a two-day workshop that includes 1/2-day of Bash, full day of Python, and 1/2-day Git
 introduction.
+
+</p>
+</details>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to Machine Learning with PyTorch</font></a>
+</summary>
+<p>
+
+This is a full-day workshop introducing the basic principles of machine learning and the first steps with PyTorch.
 
 </p>
 </details>
@@ -181,12 +224,15 @@ target="_blank">our mailing list</a> for notices and reminders of sessions.
 
 ---
 
+#### 2020 WestGrid online summer school
+
+Click on any course in [the program](https://wgschool.netlify.app/program) to access the course materials.
+
 #### 2019 WestGrid summer schools
 
 You can find all materials from this year's WestGrid summer schools at the school websites:
 
 - <a href="https://westgrid.github.io/calgarySummerSchool2019/4-materials.html"
-  target="_blank">University of Calgary summer school</a> (May 27<sup>th</sup> to May 30<sup>th</sup>,
-  2019)
+  target="_blank">University of Calgary summer school</a> (May 2019)
 - <a href="https://westgrid.github.io/ubcSummerSchool2019/4-materials.html" target="_blank">UBC summer
-  school</a> (June 24<sup>th</sup> to June 27<sup>th</sup>, 2019)
+  school</a> (June 2019)
