@@ -18,8 +18,8 @@ image:
     title: checkSphereTeapot.png
     thumb: checkSphereTeapot.png
     homepage:
-    caption: image rendered with VMD
-    caption_url: https://www.ks.uiuc.edu/Research/vmd
+    caption: image rendered with ParaView
+    caption_url: https://www.paraview.org
 mediaplayer: true
 ---
 
