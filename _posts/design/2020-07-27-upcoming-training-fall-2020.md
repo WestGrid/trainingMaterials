@@ -36,7 +36,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
 | Sep-30 | [Working with multidimensional datasets in xarray](https://www.eventbrite.ca/e/westgrid-webinar-working-with-multidimensional-datasets-in-xarray-registration-118606285593) | Alex Razoumov |
-| Oct-14 | Tips and tricks on getting programming help | Marie-Hélène Burle |
+| Oct-14 | [Tips & tricks on getting programming help](https://www.eventbrite.ca/e/westgrid-webinar-tips-tricks-on-getting-programming-help-registration-119224859765) | Marie-Hélène Burle |
 | Oct-28 | Advanced VMD | Olivier Fisette | <!-- should mention Dmitri’s webinar in the abstract -->
 | Nov-11 | Remembrance Day (no webinar) | |
 | Nov-25 | The Topology ToolKit | Alex Razoumov |
