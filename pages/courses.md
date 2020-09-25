@@ -17,7 +17,7 @@ We run regular workshops each year: summer schools around May–August and winte
 
 If you would like to host a workshop, [please let us know](mailto:training@westgrid.ca). We design the workshop, coordinate the preparations, advertise the event, and provide the instruction. For in person training, we expect the host to provide an auditorium or classroom space, assist with advertising the session locally, and allow any member of the research community to attend the training (i.e. this may include researchers from outside your institution).
 
-If you are seeking training for your team, or prefer to run a small, invite-only session for a select audience, please contact us to discuss.
+If you are seeking training for your team, or prefer to run a small, invite-only session for a select audience, [please contact us to discuss](mailto:training@westgrid.ca).
 
 All our services are free to researchers and groups from [WestGrid's partner institutions](https://www.westgrid.ca/about_westgrid/members-partners). If your organization does not fall into this category, [please get in touch](mailto:training@westgrid.ca) for a quote.
 
