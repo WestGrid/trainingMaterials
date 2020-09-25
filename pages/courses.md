@@ -9,22 +9,18 @@ header:
 permalink: "/courses/"
 ---
 
-We offer a number of on-site training courses on a wide range of topics related to scientific computing,
-high-performance computing, data analysis, and visualization. These workshops can take any form from one
-hour to multiple days and are free to researchers and groups from WestGrid's partner institutions.
+We offer training on a wide range of topics related to scientific programming, high-performance computing, data analysis, and visualization. These courses can take any form, from one hour to multiple days, online or in person.
 
-If you are looking for this or any customized training or would like to host a workshop,
-[please let us know](mailto:info@westgrid.ca). We design the workshop, coordinate the preparations,
-advertise the event, and provide the instruction. We expect the host to provide an auditorium or
-classroom space free of charge, assist with advertising the session locally, and allow any member of the
-research community to attend the training (i.e. this may include researchers from outside your
-institution). If you prefer to run a small, invite-only session for a select audience, please contact us
-to discuss.
+We run regular workshops each year: summer schools around May–August and winter schools around November–February. Traditionally, these were hosted by universities in southwest BC (Vancouver or Victoria) and east of the Rockies (Alberta, Saskatchewan, or Manitoba), but due to Covid-19, they have moved online for the time being.
 
-Courses are scheduled at various times of the year and at various institutions, based on demand. Each
-year around May-July we host two four-day-long summer schools, traditionally one in Southwest BC
-(Vancouver or Victoria) and one east of the Rockies (Alberta, Saskatchewan, or Manitoba). Our summer
-schools typically have 12-15 half- or full-day courses over several parallel streams.
+In addition to our regular events, we offer on-demand workshops and customized training.
+
+If you would like to host a workshop, [please let us know](mailto:training@westgrid.ca). We design the workshop, coordinate the preparations, advertise the event, and provide the instruction. For in person training, we expect the host to provide an auditorium or classroom space, assist with advertising the session locally, and allow any member of the research community to attend the training (i.e. this may include researchers from outside your institution).
+
+If you are seeking training for your team, or prefer to run a small, invite-only session for a select audience, please contact us to discuss.
+
+All our services are free to researchers and groups from [WestGrid's partner institutions](https://www.westgrid.ca/about_westgrid/members-partners). If your organization does not fall into this category, [please get in touch](mailto:training@westgrid.ca) for a quote.
+
 
 <!-- ========================================================================================== -->
 
