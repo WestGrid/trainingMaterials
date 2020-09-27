@@ -39,7 +39,7 @@ Click on each course's triangle for details.
 
 <details>
 <summary>
-<a>&nbsp;&nbsp;<font size="+1">Moving your research from Windows-based desktops to Linux and command line in remote servers</font></a>
+<a>&nbsp;&nbsp;<font size="+1">Moving your research to Linux and command line in remote servers</font></a>
 </summary>
 <p>
 
@@ -50,6 +50,36 @@ and basic Bash programming.
 
 </p>
 </details>
+
+
+
+
+
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Scientific Python</font></a>
+</summary>
+<p>
+
+This is a one- or two-day workshop introducing scientific programming in Python to beginners. We start with the basic
+concepts such as variables, lists, dictionaries, flow control, conditionals, loops, working with libraries, writing
+functions. We then go to more advanced topics such as speeding up your calculations with numpy (and working with numpy
+arrays in general), plotting with matplotlib or plot.ly, geospatial data processing and maps with cartopy, pandas
+dataframes, working with images, multidimensional arrays in xarray, working with 3D multi-resolution data in yt, running
+Python scripts from the command line including processing arguments and standard input, and other topics.
+
+We could customize this workshop to address your specific Python workflows.
+
+
+</p>
+</details>
+
+
+
+
+
+
 
 <details>
 <summary>
@@ -160,17 +190,6 @@ at running Julia in parallel for large-scale problems.
 
 
 
-<details>
-<summary>
-<a>&nbsp;&nbsp;<font size="+1">Python-based Software Carpentry</font></a>
-</summary>
-<p>
-
-This is a two-day workshop that includes 1/2-day of Bash, full day of Python, and 1/2-day Git
-introduction.
-
-</p>
-</details>
 
 <details>
 <summary>
@@ -203,7 +222,6 @@ This is a full-day workshop introducing the basic principles of machine learning
 * Plotting with plot.ly
 * Automating your workflows with *make*
 * Code optimization
-* Scientific Python
 * Introduction to shell scripting
 * Introduction and advanced topics in R programming
 
