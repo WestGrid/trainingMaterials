@@ -11,11 +11,15 @@ permalink: "/courses/"
 
 We offer training on a wide range of topics related to scientific programming, high-performance computing, data analysis, and visualization. These courses can take any form, from one hour to multiple days, online or in person.
 
-We run regular workshops each year: summer schools around May–August and winter schools around November–February. Traditionally, these were hosted by universities in southwest BC (Vancouver or Victoria) and east of the Rockies (Alberta, Saskatchewan, or Manitoba), but due to Covid-19, they have moved online for the time being.
+We run regular workshops each year: summer schools around May–August and winter schools around November–March. Traditionally, these are hosted by universities in southwest BC (Vancouver or Victoria) and east of the Rockies (Alberta, Saskatchewan, or Manitoba). Due to Covid-19, they have moved online for the time being.
 
-**In addition to our regular events, we offer on-demand workshops and customized training:**
+**In addition to our regular events, we offer on-demand workshops and customized training.**
 
-If you would like to host a workshop, [please let us know](mailto:training@westgrid.ca). We design the workshop, coordinate the preparations, advertise the event, and provide the instruction. For in person training, we expect the host to provide an auditorium or classroom space, assist with advertising the session locally, and allow any member of the research community to attend the training (i.e. this may include researchers from outside your institution).
+If you would like to host a workshop, [please let us know](mailto:training@westgrid.ca). We design the workshop,
+coordinate the preparations, advertise the event, and provide the instruction. For in-person training, we expect the
+host to provide an auditorium or classroom space and help with advertising the session locally. For workshops in partner
+institutions, we also expect the host to allow any member of the research community to attend the sessions (i.e. this
+may include researchers from outside your institution).
 
 If you are seeking training for your team, or prefer to run a small, invite-only session for a select audience, [please contact us to discuss](mailto:training@westgrid.ca).
 
