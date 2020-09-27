@@ -205,6 +205,7 @@ This is a full-day workshop introducing the basic principles of machine learning
 * Code optimization
 * Scientific Python
 * Introduction to shell scripting
+* Introduction and advanced topics in R programming
 
 <!-- ========================================================================================== -->
 
