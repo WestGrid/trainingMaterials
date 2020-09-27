@@ -35,7 +35,7 @@ All our services are free to researchers and groups from [WestGrid's partner ins
 
 ---
 
-Click on each course's triangle for details.
+Click on each course for details.
 
 <details>
 <summary>
