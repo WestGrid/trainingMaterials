@@ -202,6 +202,21 @@ This is a full-day workshop introducing the basic principles of machine learning
 </p>
 </details>
 
+
+
+
+
+
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Version control with Git</font></a>
+</summary>
+<p>
+This two-day workshop introduces version control with Git and covers the most common operations. It puts a particular emphasis on explaining the functioning of Git: understanding what commands really do brings the confidence to go beyond the limited use of "add, commit, push" so common in data science fields.
+</p>
+</details>
+
 <!-- ========================================================================================== -->
 
 ## Short courses
