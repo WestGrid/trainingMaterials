@@ -67,8 +67,8 @@ concepts such as variables, lists, dictionaries, flow control, conditionals, loo
 functions. We then go to more advanced topics such as speeding up your calculations with numpy (and working with numpy
 arrays in general), plotting with matplotlib or plot.ly, geospatial data processing and maps with cartopy, pandas
 dataframes, working with images, multidimensional arrays in xarray, working with 3D multi-resolution data in yt, running
-Python scripts from the command line including processing arguments and standard input, and other topics.
-
+Python scripts from the command line including processing arguments and standard input, and other topics.<br>
+<br>
 We could customize this workshop to address your specific Python workflows.
 
 
@@ -171,13 +171,13 @@ R and Python are interpreted languages: an interpreter executes the code directl
 extremely convenient: it is what allows you to type and execute code in a Python or R interactive shell. The price to
 pay is low performance. To overcome this limitation, researchers often use C/C++ functions for the most
 computation-intensive parts of their algorithms. But the need to use multiple languages and the non-interactive nature
-of compiled languages can make this approach somewhat tedious.
-
+of compiled languages can make this approach somewhat tedious.<br>
+<br>
 Julia uses just-in-time (JIT) compilation: the code is compiled at run time. This means that it feels like running R or
 Python, while it is almost as fast as C. This makes Julia particularly well suited for big data analysis, machine
 learning, or heavy modelling. Julia shines with its extremely clean and concise syntax making it easy to learn and
-really enjoyable to use.
-
+really enjoyable to use.<br>
+<br>
 In this workshop, which does not require any prior experience in Julia (experience in another language such as R or
 Python would be ideal), we will start with the basics of Julia's syntax and its packaging system, and then we will look
 at running Julia in parallel for large-scale problems.
