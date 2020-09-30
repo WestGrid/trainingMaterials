@@ -23,7 +23,7 @@ may include researchers from outside your institution).
 
 If you are seeking training for your team, or prefer to run a small, invite-only session for a select audience, [please contact us to discuss](mailto:training@westgrid.ca).
 
-All our services are free to researchers and groups from [WestGrid's partner institutions](https://www.westgrid.ca/about_westgrid/members-partners). If your organization does not fall into this category, [please get in touch](mailto:training@westgrid.ca) for a quote.
+All our services are free to researchers and groups from [WestGrid Member institutions or Associate Member organizations](https://www.westgrid.ca/become_member). If your organization does not fall into this category, [please get in touch](mailto:training@westgrid.ca) for a quote.
 
 
 <!-- ========================================================================================== -->
