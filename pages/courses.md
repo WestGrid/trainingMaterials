@@ -42,26 +42,20 @@ Click on each course for details.
 <a>&nbsp;&nbsp;<font size="+1">Moving your research to Linux and command line in remote servers</font></a>
 </summary>
 <p>
-
+<br>
 This workshop is a hands-on introduction to Linux command line and the interaction with a
 remote server. We review basic Linux commands, file management (edit, copy, remove and remote-transfer
 files), directories and the file system, remote access, basic version control (Git, GitHub), Bash scripts
 and basic Bash programming.
-
 </p>
 </details>
-
-
-
-
-
 
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Scientific Python</font></a>
 </summary>
 <p>
-
+<br>
 This is a one- or two-day workshop introducing scientific programming in Python to beginners. We start with the basic
 concepts such as variables, lists, dictionaries, flow control, conditionals, loops, working with libraries, writing
 functions. We then go to more advanced topics such as speeding up your calculations with numpy (and working with numpy
@@ -70,23 +64,15 @@ dataframes, working with images, multidimensional arrays in xarray, working with
 Python scripts from the command line including processing arguments and standard input, and other topics.<br>
 <br>
 We could customize this workshop to address your specific Python workflows.
-
-
 </p>
 </details>
-
-
-
-
-
-
 
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Introduction to HPC: using clusters to speed up your research</font></a>
 </summary>
 <p>
-
+<br>
 We start with an overview of the hardware of common HPC clusters and quick description of the resources
 available on Compute Canada's national systems (Cedar / Graham / Niagara / Béluga). We then continue
 learning the basic tools and techniques to work on a cluster: software environment and modules, overview
@@ -95,7 +81,6 @@ locally. Finally, we take a look at the Slurm job scheduler: why use it, fairsha
 submitting serial jobs and job arrays, submitting OpenMP / MPI / hybrid / GPU jobs, working inside
 interactive jobs, and tracking your job's memory usage. We also take a quick look at working with common
 packages such as R, Python and Matlab on the clusters, as well as best practices in cluster workflows.
-
 </p>
 </details>
 
@@ -104,7 +89,7 @@ packages such as R, Python and Matlab on the clusters, as well as best practices
 <a>&nbsp;&nbsp;<font size="+1">Introduction to scientific visualization with ParaView: plotting, interactive 3D, scripting, animation, large datasets</font></a>
 </summary>
 <p>
-
+<br>
 We start with simple 1D/2D/3D plotting using plot.ly. The rest of the day we study 3D scientific
 visualization with ParaView, an open source, multi-platform data analysis and visualization tool designed
 to run on a variety of hardware from an individual laptop to large supercomputers. With ParaView users
@@ -112,7 +97,6 @@ can interactively visualize 2D and 3D data sets defined on structured, adaptive 
 or particles, animate these datasets in time, and manipulate them with a variety of filters. ParaView
 supports both interactive (GUI) and scripted (including offscreen) visualization, and is an easy and fun
 tool to learn.
-
 </p>
 </details>
 
@@ -121,9 +105,8 @@ tool to learn.
 <a>&nbsp;&nbsp;<font size="+1">Introduction to scientific visualization with VisIt</font></a>
 </summary>
 <p>
-
+<br>
 This is a VisIt-flavoured version of the previous workshop.
-
 </p>
 </details>
 
@@ -132,11 +115,10 @@ This is a VisIt-flavoured version of the previous workshop.
 <a>&nbsp;&nbsp;<font size="+1">Large-scale 3D remote visualization</font></a>
 </summary>
 <p>
-
+<br>
 This is an advanced version of the ParaView-based visualization course focusing on parallel
 rendering, interactive client-server remote visualization, batch workflows using both cluster's CPUs and
 GPUs.
-
 </p>
 </details>
 
@@ -145,7 +127,7 @@ GPUs.
 <a>&nbsp;&nbsp;<font size="+1">Foundations of parallel programming and the Chapel programming language</font></a>
 </summary>
 <p>
-
+<br>
 This course is a general introduction to the main concepts of parallel programming and the
 Chapel programming language. Chapel is a relatively new language for both shared and distributed-memory
 programming, with easy-to-use, high-level abstractions for both task and data parallelism that make it
@@ -154,19 +136,15 @@ to merge the ease-of-use of Python and the performance of traditional compiled l
 Fortran. Parallel constructs that typically take tens of lines of MPI code can be expressed in only a few
 lines of Chapel code. Chapel is open source and can run on any Unix-like operating system, with hardware
 support from laptops to large HPC systems.
-
 </p>
 </details>
-
-
-
 
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Introduction to programming in Julia</font></a>
 </summary>
 <p>
-
+<br>
 R and Python are interpreted languages: an interpreter executes the code directly, without pre-compilation. This is
 extremely convenient: it is what allows you to type and execute code in a Python or R interactive shell. The price to
 pay is low performance. To overcome this limitation, researchers often use C/C++ functions for the most
@@ -181,38 +159,25 @@ really enjoyable to use.<br>
 In this workshop, which does not require any prior experience in Julia (experience in another language such as R or
 Python would be ideal), we will start with the basics of Julia's syntax and its packaging system, and then we will look
 at running Julia in parallel for large-scale problems.
-
 </p>
 </details>
-
-
-
-
-
-
 
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Introduction to Machine Learning with PyTorch</font></a>
 </summary>
 <p>
-
+<br>
 This is a full-day workshop introducing the basic principles of machine learning and the first steps with PyTorch.
-
 </p>
 </details>
-
-
-
-
-
-
 
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Version control with Git</font></a>
 </summary>
 <p>
+<br>
 This two-day workshop introduces version control with Git and covers the most common operations. It puts a particular emphasis on explaining the functioning of Git: understanding what commands really do brings the confidence to go beyond the limited use of "add, commit, push" so common in data science fields.
 </p>
 </details>
