@@ -52,8 +52,8 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Sep-22 | [Scientific Python ](https://libcal.library.ubc.ca/calendar/vancouver/westgrid-scientific-Python) | <span style="color:#049A80">online for UBC Research Commons</span> |
-| Oct-15 | [Collaborating on GitHub](https://libcal.library.ubc.ca/calendar/vancouver/?t=g&q=Westgrid%20advanced%20computing&cid=7544&cal=7544) | <span style="color:#049A80">online for UBC Research Commons</span> |
-| Nov-19 | [3D scientific visualization with Python scripting in ParaView](https://libcal.library.ubc.ca/calendar/vancouver/westgrid-3D-scientific-vis-Python) | <span style="color:#049A80">online for UBC Research Commons</span> |
+| Oct-15 | [Collaborating on GitHub](https://libcal.library.ubc.ca/event/3579975) | <span style="color:#049A80">online for UBC Research Commons</span> |
+| Nov-19 | [3D scientific visualization with Python scripting in ParaView](https://libcal.library.ubc.ca/event/3578757) | <span style="color:#049A80">online for UBC Research Commons</span> |
 | November[^1] | <span style="color:#E26D00"><b>WestGrid Autumn School</b></span> | <span style="color:#E26D00">online</span> |
 
 [^1]: Exact dates TBA.
