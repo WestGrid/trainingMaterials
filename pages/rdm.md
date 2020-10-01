@@ -11,6 +11,23 @@ permalink: "/tools/rdm/"
 
 ---
 
+
+
+<a name="xarray"></a>
+#### *"Working with multidimensional datasets in xarray"*
+
+**Webinar** (2020-Sep-30) by Alex Razoumov
+
+* [PDF slides]({{ site.baseurl }}/materials/xarray20200930.pdf)
+
+Video recording will be posted shortly.
+
+---
+
+
+
+
+
 <a name="acl"></a>
 #### *"File access control approaches and best practices"*
 
