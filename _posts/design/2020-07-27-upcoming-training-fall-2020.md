@@ -37,10 +37,10 @@ To view recordings and slides from past sessions, click on the linked title.
 | ------------- | --------------- | ----------------- |
 | Sep-30 | [<span style="color:blue">Working with multidimensional datasets in xarray</span>]({{ site.baseurl }}/tools/rdm#xarray) | Alex Razoumov |
 | Oct-14 | [Tips & tricks on getting programming help](https://www.eventbrite.ca/e/westgrid-webinar-tips-tricks-on-getting-programming-help-registration-119224859765) | Marie-Hélène Burle |
-| Oct-28 | Advanced VMD | Olivier Fisette | <!-- should mention Dmitri’s webinar in the abstract -->
+| Oct-28 | [Advanced VMD](https://www.eventbrite.ca/e/westgrid-webinar-advanced-vmd-registration-119220334229) | Olivier Fisette | <!-- should mention Dmitri’s webinar in the abstract -->
 | Nov-11 | Remembrance Day (no webinar) | |
-| Nov-25 | The Topology ToolKit | Alex Razoumov |
-| Dec-09 | GIS with R | Marie-Hélène Burle |
+| Nov-25 | [The Topology ToolKit](https://www.eventbrite.ca/e/westgrid-webinar-the-topology-toolkit-registration-119222516757) | Alex Razoumov |
+| Dec-09 | [GIS with R](https://www.eventbrite.ca/e/westgrid-webinar-tips-tricks-on-getting-programming-help-registration-119224859765) | Marie-Hélène Burle |
 
 <!-- Jan-15[^1] -->
 <!-- [^1]: Note the off-cycle week. -->
