@@ -218,20 +218,3 @@ href="https://westgrid.us4.list-manage.com/subscribe/post?u=3c76a762cc69cb8a35e2
 target="_blank">our mailing list</a> for notices and reminders of sessions.
 
 <!-- ========================================================================================== -->
-
-## Summer school materials
-
----
-
-#### 2020 WestGrid online summer school
-
-Click on any course in [the program](https://wgschool.netlify.app/program) to access the course materials.
-
-#### 2019 WestGrid summer schools
-
-You can find all materials from this year's WestGrid summer schools at the school websites:
-
-- <a href="https://westgrid.github.io/calgarySummerSchool2019/4-materials.html"
-  target="_blank">University of Calgary summer school</a> (May 2019)
-- <a href="https://westgrid.github.io/ubcSummerSchool2019/4-materials.html" target="_blank">UBC summer
-  school</a> (June 2019)
