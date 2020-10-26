@@ -31,7 +31,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Web-based 3D scientific visualization"</em>](#web-based-3d-scientific-visualization)
+[<em>"Advanced VMD"</em>](#advanced-vmd)
+• [<em>"Web-based 3D scientific visualization"</em>](#web-based-3d-scientific-visualization)
 • [<em>"Scientific graphics with gnuplot"</em>](#scientific-graphics-with-gnuplot)
 • [<em>"Photorealistic rendering with ParaView and OSPRay"</em>](#photorealistic-rendering-with-paraview-and-ospray)
 • [<em>"Batch visualization on Compute Canada clusters"</em>](#batch-visualization-on-compute-canada-clusters)
@@ -46,6 +47,23 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 • [<em>"CPU-based rendering with OSPRay"</em>](#cpu-based-rendering-with-ospray)
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
+
+
+
+
+
+---
+
+#### *"Advanced VMD"*
+
+**Webinar** (2020-Oct-28) by Olivier Fisette
+
+* [PDF slides]({{ site.baseurl }}/materials/vmd20201028.pdf)
+
+
+
+
+
 
 
 
