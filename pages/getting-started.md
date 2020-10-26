@@ -18,7 +18,7 @@ permalink: "/getting-started/"
 
 
 [Table of Contents](#table-of-contents):
-&nbsp; [RAC 2020](#rac-2020)
+&nbsp; [RAC 2021](#rac-2021)
 • [Introduction to WestGrid, Compute Canada, and HPC](#introduction-to-westgrid-compute-canada-and-hpc)
 • [Linux command line](#linux-command-line)
 • [Git version control](#git-version-control)
@@ -32,11 +32,11 @@ permalink: "/getting-started/"
 
 
 
-## RAC 2020
+## RAC 2021
 
 ---
 
-* [Compute Canada’s Resource Allocation Competition 2020: Best Practices]({{ site.baseurl }}/materials/rac2020-uvic.pdf) - UVic edition (PDF slides)
+* [Compute Canada’s Resource Allocation Competition 2021: Best Practices]({{ site.baseurl }}/materials/rac2021.pdf) (PDF slides)
 
 ## Introduction to WestGrid, Compute Canada, and HPC
 
