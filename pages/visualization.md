@@ -31,7 +31,7 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Advanced VMD"</em>](#advanced-vmd)
+[<em>"Intermediate VMD topics: trajectories, movies, scripting"</em>](#intermediate-vmd-topics-trajectories-movies-scripting)
 • [<em>"Web-based 3D scientific visualization"</em>](#web-based-3d-scientific-visualization)
 • [<em>"Scientific graphics with gnuplot"</em>](#scientific-graphics-with-gnuplot)
 • [<em>"Photorealistic rendering with ParaView and OSPRay"</em>](#photorealistic-rendering-with-paraview-and-ospray)
@@ -54,7 +54,7 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 ---
 
-#### *"Advanced VMD"*
+#### *"Intermediate VMD topics: trajectories, movies, scripting"*
 
 **Webinar** (2020-Oct-28) by Olivier Fisette
 
