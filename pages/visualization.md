@@ -61,6 +61,7 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 * [PDF slides]({{ site.baseurl }}/materials/vmd20201028.pdf)
 * [tar file](https://nextcloud.computecanada.ca/index.php/s/kcHgbbEgwS3GkHM/download) with data and scripts
 
+Video recording will be posted shortly.
 
 
 
