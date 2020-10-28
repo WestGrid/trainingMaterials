@@ -38,6 +38,22 @@ permalink: "/getting-started/"
 
 * [Compute Canada’s Resource Allocation Competition 2021: Best Practices]({{ site.baseurl }}/materials/rac2021.pdf) (PDF slides)
 
+This is a combined presentation for both parts of the RAC: RRG and RPP/Cloud. The second part (RPP/Cloud) starts at
+1h06m into the video.
+
+<div class="flex-video">
+	<iframe width="995" height="560" src="https://www.youtube.com/embed/Fu7oPkXThJI" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
+
+
+
+
+
+
+
 ## Introduction to WestGrid, Compute Canada, and HPC
 
 ---
