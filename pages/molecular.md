@@ -15,6 +15,17 @@ permalink: "/domains/md/"
 
 ---
 
+#### *"Intermediate VMD topics: trajectories, movies, scripting"*
+
+**Webinar** (2020-Oct-28) by Olivier Fisette
+
+* [PDF slides]({{ site.baseurl }}/materials/vmd20201028.pdf)
+* [tar file](https://nextcloud.computecanada.ca/index.php/s/kcHgbbEgwS3GkHM/download) with data and scripts
+
+Video recording will be posted shortly.
+
+---
+
 #### *"Molecular visualization with VMD"*
 
 **Webinar** (2019-Mar-06) by Dmitri Rozmanov
