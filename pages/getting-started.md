@@ -29,6 +29,16 @@ permalink: "/getting-started/"
 
 
 
+#### *"Tips & tricks on getting programming help"*
+
+**Webinar** (2020-11-13) by Marie-Hélène Burle
+
+* <a href="https://westgrid-cli.netlify.app/webinars/getting_help" target="_blank">Webinar page</a>
+
+The recording will be posted shortly.
+
+
+
 
 
 
@@ -46,13 +56,6 @@ This is a combined presentation for both parts of the RAC: RRG and RPP/Cloud. Th
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
-
-
-
-
-
-
-
 
 ## Introduction to WestGrid, Compute Canada, and HPC
 
