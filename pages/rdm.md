@@ -20,13 +20,13 @@ permalink: "/tools/rdm/"
 
 * [PDF slides]({{ site.baseurl }}/materials/xarray20200930.pdf)
 
-Video recording will be posted shortly.
+<div class="flex-video">
+	<iframe width="1158" height="660" src="https://www.youtube.com/embed/xdrcMi_FB8Q" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
-
-
-
-
 
 <a name="acl"></a>
 #### *"File access control approaches and best practices"*

@@ -35,12 +35,11 @@ permalink: "/getting-started/"
 
 * <a href="https://westgrid-cli.netlify.app/webinars/getting_help" target="_blank">Webinar page</a>
 
-The recording will be posted shortly.
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="1158" height="660" src="https://www.youtube.com/embed/mZjyf84Gbhg" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ## RAC 2021
 

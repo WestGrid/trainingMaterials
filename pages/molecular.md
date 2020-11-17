@@ -22,7 +22,11 @@ permalink: "/domains/md/"
 * [PDF slides]({{ site.baseurl }}/materials/vmd20201028.pdf)
 * [tar file](https://nextcloud.computecanada.ca/index.php/s/kcHgbbEgwS3GkHM/download) with data and scripts
 
-Video recording will be posted shortly.
+<div class="flex-video">
+	<iframe width="1158" height="660" src="https://www.youtube.com/embed/Jce5JN2fLuo" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 

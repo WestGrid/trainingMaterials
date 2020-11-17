@@ -31,7 +31,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Intermediate VMD topics: trajectories, movies, scripting"</em>](#intermediate-vmd-topics-trajectories-movies-scripting)
+[<em>"The Topology ToolKit (TTK)"</em>](#the-topology-toolkit-ttk)
+• [<em>"Intermediate VMD topics: trajectories, movies, scripting"</em>](#intermediate-vmd-topics-trajectories-movies-scripting)
 • [<em>"Web-based 3D scientific visualization"</em>](#web-based-3d-scientific-visualization)
 • [<em>"Scientific graphics with gnuplot"</em>](#scientific-graphics-with-gnuplot)
 • [<em>"Photorealistic rendering with ParaView and OSPRay"</em>](#photorealistic-rendering-with-paraview-and-ospray)
@@ -52,6 +53,25 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 
 
+
+---
+
+#### *"The Topology ToolKit (TTK)"*
+
+**Webinar** (2020-Nov-25) by Alex Razoumov
+
+<!-- * [PDF slides]({{ site.baseurl }}/materials/vmd20201028.pdf) -->
+* PDF slides will be posted shortly
+
+
+
+
+
+
+
+
+
+
 ---
 
 #### *"Intermediate VMD topics: trajectories, movies, scripting"*
@@ -61,14 +81,11 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 * [PDF slides]({{ site.baseurl }}/materials/vmd20201028.pdf)
 * [tar file](https://nextcloud.computecanada.ca/index.php/s/kcHgbbEgwS3GkHM/download) with data and scripts
 
-Video recording will be posted shortly.
-
-
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="1158" height="660" src="https://www.youtube.com/embed/Jce5JN2fLuo" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -83,10 +100,6 @@ Video recording will be posted shortly.
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
-
-
-
-
 
 ---
 
