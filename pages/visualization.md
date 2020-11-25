@@ -61,7 +61,9 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 **Webinar** (2020-Nov-25) by Alex Razoumov
 
 * [PDF slides]({{ site.baseurl }}/materials/ttk20201125.pdf)
+* [gzipped tar file with ParaView state files]({{ site.baseurl }}/materials/states20201125.tar.gz)
 
+The recording will be added shortly.
 
 
 
