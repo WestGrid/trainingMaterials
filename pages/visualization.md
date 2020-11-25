@@ -60,8 +60,7 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 **Webinar** (2020-Nov-25) by Alex Razoumov
 
-<!-- * [PDF slides]({{ site.baseurl }}/materials/vmd20201028.pdf) -->
-* PDF slides will be posted shortly
+* [PDF slides]({{ site.baseurl }}/materials/ttk20201125.pdf)
 
 
 
