@@ -54,6 +54,10 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 
 
+
+
+
+
 ---
 
 #### *"The Topology ToolKit (TTK)"*
@@ -63,15 +67,11 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 * [PDF slides]({{ site.baseurl }}/materials/ttk20201125.pdf)
 * [gzipped tar file with ParaView state files]({{ site.baseurl }}/materials/states20201125.tar.gz)
 
-The recording will be added shortly.
-
-
-
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="951" height="520" src="https://www.youtube.com/embed/M9T04jj6HD4" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
