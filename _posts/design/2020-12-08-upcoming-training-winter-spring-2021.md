@@ -54,11 +54,13 @@ To view recordings and slides from past sessions, click on the linked title.
 ## Other workshops
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| Jan-14 | Tips & tricks on getting programming help | <span style="color:#049A80">online for UBC Research Commons</span> |
-| Feb-11 | Topic TBA | <span style="color:#049A80">online for UBC Research Commons</span> |
-| Mar-11 | Extending Julia codes to multiple CPU cores | <span style="color:#049A80">online for UBC Research Commons</span> |
-| Apr-08 | Topic TBA | <span style="color:#049A80">online for UBC Research Commons</span> |
-| May-13 | Topic TBA | <span style="color:#049A80">online for UBC Research Commons</span> |
+| Jan-14 | Tips & tricks on getting programming help | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Feb-11 | Topic TBA | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Feb-22 to Mar-03 | [NVIDIA GPU Hackathon @SFU](https://www.gpuhackathons.org/event/simon-fraser-university-gpu-hackathon) | <span style="color:#0033cc">Online</span> |
+| Mar-11 | Extending Julia codes to multiple CPU cores | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Apr-08 | Topic TBA | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| May-13 | Topic TBA | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| April to June | WestGrid research computing modules | <span style="color:#0033cc">Online</span> |
 
 <!-- November[^1] -->
 <!-- [^1]: Exact dates TBA. -->
