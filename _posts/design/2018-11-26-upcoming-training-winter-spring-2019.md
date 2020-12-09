@@ -34,14 +34,14 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-23 | [*Working with data objects in yt*]({{ site.baseurl }}/tools/visualization#yt2) (visualization) | Alex Razoumov |
-| Feb-06 | [*Text Parsing and Analysis with HPC*]({{ site.baseurl }}/domains/dh#textParsing)| Ian Percel |
-| Feb-20 | [*Memory debugging with Valgrind*]({{ site.baseurl }}/programming#debugging-and-memory-debugging) | Tyson Whitehead (SHARCNET) |
-| Mar-06 | [*Molecular visualization with VMD*]({{ site.baseurl }}/tools/visualization#molecular-visualization-with-vmd) | Dmitri Rozmanov |
-| Mar-20 | [*Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers*]({{ site.baseurl }}/tools/rdm#rdmToolsPlatforms) | Alex Garnett (SFU) and Adam McKenzie |
-| Apr-03 | [*Short read DNA sequencing alignment and visualization*]({{ site.baseurl }}/domains/bioinfo#short-read-DNA-sequencing-alignment-and-visualization) | Phillip Richmond (UBC) |
-| Apr-17 | [*Computing graphs on an HPC cluster: working with distributed unstructured data in Chapel*]({{ site.baseurl }}/programming#unstructured) | Alex Razoumov |
-| May-01 | [*Learn how to manage many files with DAR disk archiver*]({{ site.baseurl }}/tools/rdm#dar) | Alex Razoumov |
+| Jan-23 | [Working with data objects in yt]({{ site.baseurl }}/tools/visualization#yt2) (visualization) | Alex Razoumov |
+| Feb-06 | [Text Parsing and Analysis with HPC]({{ site.baseurl }}/domains/dh#textParsing)| Ian Percel |
+| Feb-20 | [Memory debugging with Valgrind]({{ site.baseurl }}/programming#debugging-and-memory-debugging) | Tyson Whitehead (SHARCNET) |
+| Mar-06 | [Molecular visualization with VMD]({{ site.baseurl }}/tools/visualization#molecular-visualization-with-vmd) | Dmitri Rozmanov |
+| Mar-20 | [Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers]({{ site.baseurl }}/tools/rdm#rdmToolsPlatforms) | Alex Garnett (SFU) and Adam McKenzie |
+| Apr-03 | [Short read DNA sequencing alignment and visualization]({{ site.baseurl }}/domains/bioinfo#short-read-DNA-sequencing-alignment-and-visualization) | Phillip Richmond (UBC) |
+| Apr-17 | [Computing graphs on an HPC cluster: working with distributed unstructured data in Chapel]({{ site.baseurl }}/programming#unstructured) | Alex Razoumov |
+| May-01 | [Learn how to manage many files with DAR disk archiver]({{ site.baseurl }}/tools/rdm#dar) | Alex Razoumov |
 
 ## In-person workshops
 

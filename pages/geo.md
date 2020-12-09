@@ -22,9 +22,12 @@ permalink: "/domains/geo/"
 
 **Webinar** (2020-Dec-09) by Marie-Hélène Burle
 
+In this webinar, we introduce simple GIS tasks as well as map production in R using the packages `sf` and `tmap`.
+
 The recording and the presentation materials will be posted within 1-2 days.
 
 <!-- * [presentation materials](https://westgrid-cli.netlify.app/webinars/gis_r) -->
+
 
 
 

@@ -36,18 +36,18 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-15[^1] | [<span style="color:blue">*Photorealistic rendering with ParaView and OSPRay*</span>]({{ site.baseurl }}/tools/visualization#photorealistic-rendering-with-paraview-and-ospray) | Alex Razoumov |
-| Feb-05 | [<span style="color:blue">*Singularity in HPC: beyond the basics*</span>]({{ site.baseurl }}/tools/virtual#singularity-in-hpc) | Grigory Shamov |
-| Feb-19 | [<span style="color:blue">*Fun tools to simplify your life in the command line*</span>]({{ site.baseurl }}/getting-started#fun-tools-to-simplify-your-life-in-the-command-line) | Marie-Hélène Burle |
-| Mar-04 | [<span style="color:blue">*High-performance research computing with Julia*</span>]({{ site.baseurl }}/programming#high-performance-research-computing-with-julia) | Marie-Hélène Burle |
-| Mar-18 | [<span style="color:blue">*Working with data files and external C libraries in Chapel*</span>]({{ site.baseurl }}/programming#working-with-data-files-and-external-c-libraries-in-chapel) | Alex Razoumov |
-| Apr-01 | [<span style="color:blue">*Scientific graphics with GNUPlot*</span>]({{ site.baseurl }}/tools/visualization#scientific-graphics-with-gnuplot) | Dmitri Rozmanov |
+| Jan-15[^1] | [<span style="color:blue">Photorealistic rendering with ParaView and OSPRay</span>]({{ site.baseurl }}/tools/visualization#photorealistic-rendering-with-paraview-and-ospray) | Alex Razoumov |
+| Feb-05 | [<span style="color:blue">Singularity in HPC: beyond the basics</span>]({{ site.baseurl }}/tools/virtual#singularity-in-hpc) | Grigory Shamov |
+| Feb-19 | [<span style="color:blue">Fun tools to simplify your life in the command line</span>]({{ site.baseurl }}/getting-started#fun-tools-to-simplify-your-life-in-the-command-line) | Marie-Hélène Burle |
+| Mar-04 | [<span style="color:blue">High-performance research computing with Julia</span>]({{ site.baseurl }}/programming#high-performance-research-computing-with-julia) | Marie-Hélène Burle |
+| Mar-18 | [<span style="color:blue">Working with data files and external C libraries in Chapel</span>]({{ site.baseurl }}/programming#working-with-data-files-and-external-c-libraries-in-chapel) | Alex Razoumov |
+| Apr-01 | [<span style="color:blue">Scientific graphics with GNUPlot</span>]({{ site.baseurl }}/tools/visualization#scientific-graphics-with-gnuplot) | Dmitri Rozmanov |
 | Apr-08 | [<span style="color:#049A80">Intro to HPC</span>](https://libcal.library.ubc.ca/calendar/vancouver/intro-hpc) (remote for UBC Research Commons) | Alex Razoumov |
-| Apr-15 | [<span style="color:blue">*Building software on Compute Canada clusters using EasyBuild*</span>]({{ site.baseurl }}/getting-started#building-software-with-easybuild) | Ali Kerrache |
-| Apr-29 | [<span style="color:blue">*Web-based 3D scientific visualization*</span>]({{ site.baseurl }}/tools/visualization#web-based-3D-scientific-visualization) | Alex Razoumov |
+| Apr-15 | [<span style="color:blue">Building software on Compute Canada clusters using EasyBuild</span>]({{ site.baseurl }}/getting-started#building-software-with-easybuild) | Ali Kerrache |
+| Apr-29 | [<span style="color:blue">Web-based 3D scientific visualization</span>]({{ site.baseurl }}/tools/visualization#web-based-3D-scientific-visualization) | Alex Razoumov |
 | May-06 | [<span style="color:#049A80">Intro to Cloud Computing</span>](https://libcal.library.ubc.ca/calendar/vancouver/intro-cc-cloud) (remote for UBC Research Commons) | pre-recorded |
-| May-13 | [<span style="color:blue">*Machine learning in Julia with Flux*</span>]({{ site.baseurl }}/tools/ml#machine-learning-in-julia-with-flux) | Marie-Hélène Burle |
-| May-27 | [<span style="color:blue">*Mining Twitter data for research (part 2)*</span>]({{ site.baseurl }}/domains/dh#twitterapistwo) | John Simpson |
+| May-13 | [<span style="color:blue">Machine learning in Julia with Flux</span>]({{ site.baseurl }}/tools/ml#machine-learning-in-julia-with-flux) | Marie-Hélène Burle |
+| May-27 | [<span style="color:blue">Mining Twitter data for research (part 2)</span>]({{ site.baseurl }}/domains/dh#twitterapistwo) | John Simpson |
 
 
 

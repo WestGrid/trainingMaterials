@@ -36,14 +36,14 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Sep-18 | [<span style="color:blue">*Batch visualization on Compute Canada clusters*</span>]({{ site.baseurl }}/tools/visualization#batch-visualization-on-compute-canada-clusters) | Alex Razoumov |
-| Oct-16 | [<span style="color:blue">*Working with Python DASK library*</span>]({{ site.baseurl }}/programming#parallel-libraries) | Chris Want |
-| Oct-30 | [<span style="color:blue">*File access control approaches and best practices*</span>]({{ site.baseurl }}/tools/rdm#acl) | Sergiy Stepanenko |
-| Nov-13 | [<span style="color:blue">*Building a bioinformatics QC pipeline*</span>]({{ site.baseurl }}/domains/bioinfo) | Brian McConeghy |
-| Nov-27 | [<span style="color:blue">*Tips & tools for mining Twitter data for research*</span>]({{ site.baseurl }}/domains/dh#twitterapis) | John Simpson |
-| Dec-11 | [<span style="color:blue">*Geospatial analysis with HPC*</span>]({{ site.baseurl }}/domains/geo#geospatial) | Ian Percel |
+| Sep-18 | [<span style="color:blue">Batch visualization on Compute Canada clusters</span>]({{ site.baseurl }}/tools/visualization#batch-visualization-on-compute-canada-clusters) | Alex Razoumov |
+| Oct-16 | [<span style="color:blue">Working with Python DASK library</span>]({{ site.baseurl }}/programming#parallel-libraries) | Chris Want |
+| Oct-30 | [<span style="color:blue">File access control approaches and best practices</span>]({{ site.baseurl }}/tools/rdm#acl) | Sergiy Stepanenko |
+| Nov-13 | [<span style="color:blue">Building a bioinformatics QC pipeline</span>]({{ site.baseurl }}/domains/bioinfo) | Brian McConeghy |
+| Nov-27 | [<span style="color:blue">Tips & tools for mining Twitter data for research</span>]({{ site.baseurl }}/domains/dh#twitterapis) | John Simpson |
+| Dec-11 | [<span style="color:blue">Geospatial analysis with HPC</span>]({{ site.baseurl }}/domains/geo#geospatial) | Ian Percel |
 
-<!-- | TBD | *Introduction to Machine Learning tools on CC clusters* || -->
+<!-- | TBD | Introduction to Machine Learning tools on CC clusters || -->
 
 <!-- this page http://bit.ly/wg2019b -->
 <!-- still available: Oct-02 -->
