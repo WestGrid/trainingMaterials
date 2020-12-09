@@ -47,6 +47,20 @@ The recording and the presentation materials will be posted within 1-2 days.
 
 **Webinar** (2019-Dec-11) by Ian Percel
 
+This webinar provides an introduction to basic tools of spatial data analysis and modelling that are available as open
+source libraries in Python. It consists of two parts: GeoPandas and the parallelization of spatial joins.
+
+The first portion of the talk introduces the core API of GeoPandas and emphasizes how it can be used to link relational
+data structures to geometric objects that represent spatial subsets. This includes a brief introduction to loading data
+from geodatabases, mapping, aggregating, spatial filtering, and simple spatial joins. The second portion of the talk
+focuses on how to implement parallel versions of spatial join operations. This examines alternatives that have been
+developed in the data science community for providing more efficient handling of GEOS pointers and subclassing Dask
+DataFrames.
+
+
+
+
+
 * [PDF slides]({{ site.baseurl }}/materials/spatialAnalysis20191211.pdf)
 
 <div class="flex-video">
