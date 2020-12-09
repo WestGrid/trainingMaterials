@@ -11,6 +11,32 @@ permalink: "/domains/geo/"
 
 ## Webinars
 
+
+
+
+
+
+---
+
+#### *"GIS with R"*
+
+**Webinar** (2020-Dec-09) by Marie-Hélène Burle
+
+The recording and the presentation materials will be posted within 1-2 days.
+
+<!-- * [presentation materials](https://westgrid-cli.netlify.app/webinars/gis_r) -->
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 <a name="geospatial"></a>
