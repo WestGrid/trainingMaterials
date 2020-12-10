@@ -24,9 +24,15 @@ permalink: "/domains/geo/"
 
 In this webinar, we introduce simple GIS tasks as well as map production in R using the packages `sf` and `tmap`.
 
-The recording and the presentation materials will be posted within 1-2 days.
-
+The link to the presentation materials will be posted shortly.
 <!-- * [presentation materials](https://westgrid-cli.netlify.app/webinars/gis_r) -->
+
+<div class="flex-video">
+	<iframe width="684" height="428" src="https://www.youtube.com/embed/vWwbwROqn6w" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+	
 
 
 

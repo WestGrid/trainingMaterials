@@ -35,13 +35,13 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-20 | SciVis Contest, ParaView Cinema | Alex Razoumov |
-| Feb-03 | R topic (TBD) | Marie-Hélène Burle |
+| Jan-20 | Visualization topic (TBD) | Alex Razoumov |
+| Feb-03 | GIS in R - part 2 | Marie-Hélène Burle |
 | Feb-17 | Topic TBA | |
 | Mar-03 | Topic TBA | |
 | Mar-17 | Parallel Julia | Marie-Hélène Burle and Alex Razoumov |
 | Mar-31 | Topic TBA | |
-| Apr-14 | fast.ai | Marie-Hélène Burle |
+| Apr-14 | Fast.ai | Marie-Hélène Burle |
 | Apr-28 | Visualization topic (TBD) | Alex Razoumov |
 | May-12 | Exploration of tools and approaches for Humanists | Megan Meredith-Lobay |
 | May-26 | Topic TBA | |
