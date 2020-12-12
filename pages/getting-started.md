@@ -18,7 +18,9 @@ permalink: "/getting-started/"
 
 
 [Table of Contents](#table-of-contents):
-&nbsp; [RAC 2021](#rac-2021)
+&nbsp; [Latest WestGrid Town Hall](#westgrid-town-hall)
+• [Tips & tricks on getting programming help](#tricks)
+• [RAC 2021](#rac-2021)
 • [Introduction to WestGrid, Compute Canada, and HPC](#introduction-to-westgrid-compute-canada-and-hpc)
 • [Linux command line](#linux-command-line)
 • [Git version control](#git-version-control)
@@ -28,7 +30,19 @@ permalink: "/getting-started/"
 
 
 
+#### *"WestGrid Town Hall"*
 
+2020-12-11
+
+<div class="flex-video">
+	<iframe width="684" height="385" src="https://www.youtube.com/embed/zI9r9d1X3Ig" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
+---
+
+<a name="tricks"></a>
 #### *"Tips & tricks on getting programming help"*
 
 **Webinar** (2020-11-13) by Marie-Hélène Burle
