@@ -36,7 +36,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
 | Jan-20 | Visualization topic (TBD) | Alex Razoumov |
-| Feb-03 | GIS in R - part 2 | Marie-Hélène Burle |
+| Feb-03 | GIS mapping in R (part 2) | Marie-Hélène Burle |
 | Feb-17 | Topic TBA | |
 | Mar-03 | Topic TBA | |
 | Mar-17 | Parallel Julia | Marie-Hélène Burle and Alex Razoumov |
@@ -56,11 +56,12 @@ To view recordings and slides from past sessions, click on the linked title.
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Jan-14 | Tips & tricks on getting programming help online | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Feb-11 | Topic TBA | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Feb-16 to Feb-19 | [Compute Canada's Humanities and Social Sciences series](https://hss-series.netlify.app) | <span style="color:#0033cc">Online</span> |
 | Feb-22 to Mar-03 | [NVIDIA GPU Hackathon @SFU](https://www.gpuhackathons.org/event/simon-fraser-university-gpu-hackathon) | <span style="color:#0033cc">Online</span> |
 | Mar-11 | Extending Julia codes to multiple CPU cores | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| Apr-08 | GIS in R | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Apr-08 | Basics of GIS mapping in R | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | May-13 | Topic TBA | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| April to June | WestGrid research computing modules | <span style="color:#0033cc">Online</span> |
+| starting in April | WestGrid research computing modules | <span style="color:#0033cc">Online</span> |
 
 <!-- November[^1] -->
 <!-- [^1]: Exact dates TBA. -->
