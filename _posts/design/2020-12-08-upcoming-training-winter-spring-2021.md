@@ -42,7 +42,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Mar-17 | Parallel Julia | Marie-Hélène Burle and Alex Razoumov |
 | Mar-31 | Topic TBA | |
 | Apr-14 | fastai | Marie-Hélène Burle |
-| Apr-28 | Visualization topic (TBD) | Alex Razoumov |
+| Apr-28 | NVIDIA's IndeX and OptiX | NVIDIA |
 | May-12 | Exploration of tools and approaches for Humanists | Megan Meredith-Lobay |
 | May-26 | Topic TBA | |
 
