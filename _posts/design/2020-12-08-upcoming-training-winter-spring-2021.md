@@ -40,11 +40,13 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-17 | Topic TBA | |
 | Mar-03 | Topic TBA | |
 | Mar-17 | Parallel Julia | Marie-Hélène Burle and Alex Razoumov |
-| Mar-31 | Using Singularity containers in VMs and HPC | Venkat Mahadevan |
+| Mar-31 | Exploring the state of a Slurm cluster | Kamil Marcinkowski |
 | Apr-14 | fastai | Marie-Hélène Burle |
 | Apr-28 | NVIDIA's IndeX and OptiX | NVIDIA |
 | May-12 | Exploration of tools and approaches for Humanists | Megan Meredith-Lobay |
-| May-26 | Topic TBA | Alex Razoumov |
+| May-26 | Using Singularity containers in VMs and HPC | Venkat Mahadevan |
+
+<!-- | ??? | Topic TBA | Alex Razoumov | -->
 
 <!-- Nov-13[^1] -->
 <!-- [^1]: Note the different day of the week (Friday). -->
