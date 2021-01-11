@@ -38,7 +38,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Jan-20 | Workflows with Programmable Filter / Source in ParaView | Alex Razoumov |
 | Feb-03 | GIS mapping in R (part 2) | Marie-Hélène Burle |
 | Feb-17 | Topic TBA | |
-| Mar-03 | Topic TBA | |
+| Mar-03 | Linking databases to code repositories with Throughput | Simon Goring |
 | Mar-17 | Parallel Julia | Marie-Hélène Burle and Alex Razoumov |
 | Mar-31 | Exploring the state of a Slurm cluster | Kamil Marcinkowski |
 | Apr-14 | fastai | Marie-Hélène Burle |
