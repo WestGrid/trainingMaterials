@@ -55,7 +55,7 @@ To view recordings and slides from past sessions, click on the linked title.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Jan-14 | [Tips & tricks on getting programming help online](https://libcal.library.ubc.ca/calendar/vancouver/finding-technical-help-online) | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| Feb-11 | [Automating your backups in Linux and MacOS](Here is the event https://libcal.library.ubc.ca/calendar/vancouver/unix-backups) | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Feb-11 | [Automating your backups in Linux and MacOS](https://libcal.library.ubc.ca/calendar/vancouver/unix-backups) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Feb-16 to Feb-19 | [Compute Canada's Humanities and Social Sciences series](https://hss-series.netlify.app) | <span style="color:#0033cc">Online</span> |
 | Feb-22 to Mar-03 | [NVIDIA GPU Hackathon @SFU](https://www.gpuhackathons.org/event/simon-fraser-university-gpu-hackathon) | <span style="color:#0033cc">Online</span> |
 | Mar-11 | Extending Julia codes to multiple CPU cores | <span style="color:#049A80">Online for UBC Research Commons</span> |
