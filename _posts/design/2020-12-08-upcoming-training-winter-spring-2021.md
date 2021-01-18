@@ -37,7 +37,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | ------------- | --------------- | ----------------- |
 | Jan-20 | [Workflows with Programmable Filter / Source in ParaView](https://www.eventbrite.ca/e/westgrid-webinar-workflows-with-programmable-filter-source-in-paraview-registration-136365355449) | Alex Razoumov |
 | Feb-03 | [GIS mapping in R (part 2)](https://www.eventbrite.ca/e/westgrid-webinar-gis-mapping-in-r-part-2-registration-136871818293) | Marie-Hélène Burle |
-| Feb-17 | Topic TBA | |
+| Feb-17 | Automating your backups in Linux and MacOS | Alex Razoumov |
 | Mar-03 | [Linking databases to code repositories with Throughput](https://www.eventbrite.ca/e/westgrid-webinar-linking-databases-to-code-repositories-with-throughput-registration-136875830293) | Simon Goring |
 | Mar-17 | [Parallel Julia](https://www.eventbrite.ca/e/westgrid-webinar-parallel-julia-registration-136878369889) | Marie-Hélène Burle and Alex Razoumov |
 | Mar-31 | [Exploring the state of a Slurm cluster](https://www.eventbrite.ca/e/westgrid-webinar-exploring-the-state-of-a-slurm-cluster-registration-136878849323) | Kamil Marcinkowski |
