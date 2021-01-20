@@ -31,7 +31,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"The Topology ToolKit (TTK)"</em>](#the-topology-toolkit-ttk)
+[<em>"Workflows with Programmable Filter / Source in ParaView"</em>](#programmable)
+• [<em>"The Topology ToolKit (TTK)"</em>](#the-topology-toolkit-ttk)
 • [<em>"Intermediate VMD topics: trajectories, movies, scripting"</em>](#intermediate-vmd-topics-trajectories-movies-scripting)
 • [<em>"Web-based 3D scientific visualization"</em>](#web-based-3d-scientific-visualization)
 • [<em>"Scientific graphics with gnuplot"</em>](#scientific-graphics-with-gnuplot)
@@ -57,6 +58,16 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 
 
+
+---
+
+<a name="programmable"></a>
+#### *"Workflows with Programmable Filter / Source in ParaView"*
+
+**Webinar** (2021-Jan-20) by Alex Razoumov
+
+* [PDF slides]({{ site.baseurl }}/materials/programmable20210120.pdf)
+* [gzipped ZIP file with scripts]({{ site.baseurl }}/materials/programmable20210120.zip)
 
 ---
 
