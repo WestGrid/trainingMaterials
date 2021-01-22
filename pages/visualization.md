@@ -69,6 +69,13 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 * [PDF slides]({{ site.baseurl }}/materials/programmable20210120.pdf)
 * [gzipped ZIP file with scripts]({{ site.baseurl }}/materials/programmable20210120.zip)
 
+
+<div class="flex-video">
+	<iframe width="590" height="301" src="https://www.youtube.com/embed/MBXP7hmYatc" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 ---
 
 #### *"The Topology ToolKit (TTK)"*
