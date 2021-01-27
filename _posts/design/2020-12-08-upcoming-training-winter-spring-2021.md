@@ -36,7 +36,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
 | Jan-20 | [<span style="color:blue">Workflows with Programmable Filter / Source in ParaView</span>]({{ site.baseurl }}/tools/visualization/#programmable) | Alex Razoumov |
-| Feb-03 | [GIS mapping in R (part 2)](https://www.eventbrite.com/e/136871818293) | Marie-Hélène Burle |
+| Feb-03 | [Advanced GIS mapping in R](https://www.eventbrite.com/e/136871818293) | Marie-Hélène Burle |
 | Feb-17 | [Automating your backups in Linux and MacOS](https://www.eventbrite.com/e/137835781533) | Alex Razoumov |
 | Mar-03 | [Linking databases to code repositories with Throughput](https://www.eventbrite.com/e/136875830293) | Simon Goring |
 | Mar-17 | [Parallel Julia](https://www.eventbrite.com/e/136878369889) | Marie-Hélène Burle and Alex Razoumov |
