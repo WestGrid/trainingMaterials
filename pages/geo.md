@@ -20,6 +20,10 @@ permalink: "/domains/geo/"
 
 **Webinar** (2021-Feb-03) by Marie-Hélène Burle
 
+In this webinar we show how to create inset maps, faceted maps, animated maps, interactive mapping applications,
+cartograms, raster maps, and bridge over from R to QGIS with packages `sf`, `tmap`, `raster`, `leaflet`, `shiny`,
+`ggplot2`, `ggmap`, `grid`, `mapview`, `cartogram`, and `qgisprocess`.
+
 * [presentation materials](https://westgrid-cli.netlify.app/webinars/adv_gis_r)
 
 
@@ -36,7 +40,6 @@ permalink: "/domains/geo/"
 
 In this webinar, we introduce simple GIS tasks as well as map production in R using the packages `sf` and `tmap`.
 
-The link to the presentation materials will be posted shortly.
 * [presentation materials](https://westgrid-cli.netlify.app/webinars/gis_r)
 
 <div class="flex-video">
