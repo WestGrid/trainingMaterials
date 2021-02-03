@@ -16,16 +16,27 @@ permalink: "/domains/geo/"
 
 
 
+#### *"Advanced GIS mapping in R"*
+
+**Webinar** (2021-Feb-03) by Marie-Hélène Burle
+
+* [presentation materials](https://westgrid-cli.netlify.app/webinars/adv_gis_r)
+
+
+
+
+
+
 ---
 
-#### *"GIS with R"*
+#### *"Basics of GIS mapping in R"*
 
 **Webinar** (2020-Dec-09) by Marie-Hélène Burle
 
 In this webinar, we introduce simple GIS tasks as well as map production in R using the packages `sf` and `tmap`.
 
 The link to the presentation materials will be posted shortly.
-<!-- * [presentation materials](https://westgrid-cli.netlify.app/webinars/gis_r) -->
+* [presentation materials](https://westgrid-cli.netlify.app/webinars/gis_r)
 
 <div class="flex-video">
 	<iframe width="684" height="428" src="https://www.youtube.com/embed/vWwbwROqn6w" frameborder="0"
