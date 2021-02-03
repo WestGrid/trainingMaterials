@@ -29,6 +29,7 @@ permalink: "/domains/geo/"
 
 ---
 
+<a name="gis-with-r"></a>
 #### *"Basics of GIS mapping in R"*
 
 **Webinar** (2020-Dec-09) by Marie-Hélène Burle
