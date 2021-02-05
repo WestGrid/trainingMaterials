@@ -26,6 +26,11 @@ cartograms, raster maps, and bridge over from R to QGIS with packages `sf`, `tma
 
 * [presentation materials](https://westgrid-cli.netlify.app/webinars/adv_gis_r)
 
+<div class="flex-video">
+	<iframe width="951" height="535" src="https://www.youtube.com/embed/7QoccXWqeUs" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 
 
