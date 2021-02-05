@@ -30,12 +30,11 @@ permalink: "/getting-started/"
 
 
 
-#### *"WestGrid Town Hall"*
+#### *WestGrid Town Hall* - February 5<sup>th</sup>, 2021
 
-2020-12-11
-
+<br>
 <div class="flex-video">
-	<iframe width="684" height="385" src="https://www.youtube.com/embed/zI9r9d1X3Ig" frameborder="0"
+	<iframe width="951" height="535" src="https://www.youtube.com/embed/h9_8YLNYAEc" frameborder="0"
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
