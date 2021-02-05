@@ -41,7 +41,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Mar-03 | [Linking databases to code repositories with Throughput](https://www.eventbrite.com/e/136875830293) | Simon Goring |
 | Mar-17 | [Parallel Julia](https://www.eventbrite.com/e/136878369889) | Marie-Hélène Burle and Alex Razoumov |
 | Mar-31 | [Exploring the state of a Slurm cluster](https://www.eventbrite.com/e/136878849323) | Kamil Marcinkowski |
-| Apr-14 | [fastai](https://www.eventbrite.com/e/136910455859) | Marie-Hélène Burle |
+| Apr-14 | [Introduction to deep learning with fastai](https://www.eventbrite.com/e/136910455859) | Marie-Hélène Burle |
 | Apr-28 | [NVIDIA's IndeX and OptiX](https://www.eventbrite.com/e/136922854945) | NVIDIA |
 | May-12 | [Exploration of tools and approaches for Humanists](https://www.eventbrite.com/e/136922955245) | Megan Meredith-Lobay |
 | May-26 | [Using Singularity containers in VMs and HPC](https://www.eventbrite.com/e/136923023449) | Venkat Mahadevan |
