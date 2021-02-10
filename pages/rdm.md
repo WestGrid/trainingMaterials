@@ -23,8 +23,8 @@ permalink: "/tools/rdm/"
 
 **Webinar** (2021-Feb-11) by Alex Razoumov
 
-* PDF slides
-* script `functions.sh` with all function definitions
+* [PDF slides]({{ site.baseurl }}/materials/backup202102.pdf)
+* [script]({{ site.baseurl }}/materials/functions202102.sh) with all function definitions
 
 ---
 
