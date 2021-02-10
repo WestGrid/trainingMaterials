@@ -13,6 +13,21 @@ permalink: "/tools/rdm/"
 
 
 
+
+
+
+
+
+<a name="backups"></a>
+#### *"Automating your backups in Linux and MacOS"*
+
+**Webinar** (2021-Feb-11) by Alex Razoumov
+
+* PDF slides
+* script `functions.sh` with all function definitions
+
+---
+
 <a name="xarray"></a>
 #### *"Working with multidimensional datasets in xarray"*
 
