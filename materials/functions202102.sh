@@ -1,6 +1,6 @@
 function pack() {
     BREF='/Users/razoumov/tmp'
-    BSRC='-g test'   # cannot use an absolute path
+    BSRC='-g workspace'   # cannot use an absolute path
     BDEST=/Users/razoumov/tmp/backups
     BTAG=all
     FLAGS=(-s 5G -zbzip2 -asecu -w -X "*~" -X "*.o")   # bash array with some flags
