@@ -93,6 +93,7 @@ function backup() {
     elif [ $1 == 'dar' ]; then
 	BSRC='-g tmp/workspace -g Documents/notes -g Documents/projects -g Desktop'
 	FLAGS=(-s 5G -zbzip2 -asecu -w -X "*~" -X "*.o")   # bash array with some flags
+	FLAGS+=( --verbose=messages )           # show what DAR is doing
 	FLAGS+=(-P "Documents/notes/.git")      # exclude everything in this subdirectory
 	if [ -e /Volumes/gdrive ]; then
 	    BDEST=/Volumes/gdrive/test001 && BTAG=boa

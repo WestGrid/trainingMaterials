@@ -21,7 +21,7 @@ permalink: "/tools/rdm/"
 <a name="backups"></a>
 #### *"Automating your backups in Linux and MacOS"*
 
-**Webinar** (2021-Feb-11) by Alex Razoumov
+**Webinar** (2021-Feb-17) by Alex Razoumov
 
 * [PDF slides]({{ site.baseurl }}/materials/backup202102.pdf)
 * [script]({{ site.baseurl }}/materials/functions202102.sh) with all function definitions
