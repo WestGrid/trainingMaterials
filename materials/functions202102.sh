@@ -154,16 +154,16 @@ function backup() {
 	    echo unknown option ...; return 1
 	fi
     elif [ $1 == 'borgremote' ]; then
-	BSRC=(~/Documents ~/Desktop ~/Pictures)   # bash array
-	BEXCL=(-e ~/Documents/resources -e ~/Documents/preprints)
-	BDEST='user@name.domain.ca:/path/to/backups'
-	BPATH='--remote-path=/path/to/borg-env/bin/borg'
+	BSRC=(~/Documents/notes ~/Desktop)   # bash array
+	BEXCL=(-e ~/Documents/notes/.git -e ~/Documents/notes/oldNotes)
+	BDEST='ubuntu@206.12.95.234:backups'
+	BREMOTE='--remote-path=/home/ubuntu/borg-env/bin/borg'
 	echo backing up `echo "${BSRC[@]}" | sed -e 's|/Users/razoumov/||g'` to $BDEST
 	if [ "${#BEXCL[@]}" -gt 0 ]; then
 	    echo excluding "${BEXCL[@]}"
 	fi
 	name=$(date "+%Y%b%d%H%M")
-	borg $BPATH create --stats --list "${BEXCL[@]}" --filter='AM' --compression=lz4 $BDEST::$name "${BSRC[@]}"
+	borg $BREMOTE create --stats --list "${BEXCL[@]}" --filter='AM' --compression=lz4 $BDEST::$name "${BSRC[@]}"
     elif [ $1 == 'darupload' ]; then
 	if [ -e /Volumes/gdrive ]; then
 	    BSRC=/Volumes/gdrive/test001 && BTAG=boa
