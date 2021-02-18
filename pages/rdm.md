@@ -26,6 +26,12 @@ permalink: "/tools/rdm/"
 * [PDF slides]({{ site.baseurl }}/materials/backup202102.pdf)
 * [script]({{ site.baseurl }}/materials/functions202102.sh) with all function definitions
 
+<div class="flex-video">
+	<iframe width="578" height="295" src="https://www.youtube.com/embed/VF-gijhrcYE" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 ---
 
 <a name="xarray"></a>
