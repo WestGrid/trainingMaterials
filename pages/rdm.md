@@ -16,24 +16,18 @@ permalink: "/tools/rdm/"
 
 
 
-<a name="backups"></a>
+<a name="throughput"></a>
 #### *"Linking databases to code repositories with Throughput"*
 
 **Webinar** (2021-Mar-03) by Simon Goring
 
 * [PDF slides]({{ site.baseurl }}/materials/throughput20210303.pdf)
+* [Throughput DB documentation](https://throughput-ec.github.io/throughput_docs)
 
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
 
 ---
-
-
-
-
-
-
-
 
 <a name="backups"></a>
 #### *"Automating your backups in Linux and MacOS"*

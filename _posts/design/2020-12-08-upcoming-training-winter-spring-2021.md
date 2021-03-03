@@ -38,7 +38,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Jan-20 | [<span style="color:blue">Workflows with Programmable Filter / Source in ParaView</span>]({{ site.baseurl }}/tools/visualization/#programmable) | Alex Razoumov |
 | Feb-03 | [<span style="color:blue">Advanced GIS mapping in R</span>]({{ site.baseurl }}/domains/geo/#advanced-gis-mapping-in-r) | Marie-Hélène Burle |
 | Feb-17 | [<span style="color:blue">Automating your backups in Linux and MacOS</span>]({{ site.baseurl }}/tools/rdm/#backups) | Alex Razoumov |
-| Mar-03 | [Linking databases to code repositories with Throughput](https://www.eventbrite.com/e/136875830293) | Simon Goring |
+| Mar-03 | [<span style="color:blue">Linking databases to code repositories with Throughput</span>]({{ site.baseurl }}/tools/rdm/#throughput) | Simon Goring |
 | Mar-17 | [Parallel Julia](https://www.eventbrite.com/e/136878369889) | Marie-Hélène Burle and Alex Razoumov |
 | Mar-31 | [Exploring the state of a Slurm cluster](https://www.eventbrite.com/e/136878849323) | Kamil Marcinkowski |
 | Apr-14 | [Introduction to deep learning with fastai](https://www.eventbrite.com/e/136910455859) | Marie-Hélène Burle |
