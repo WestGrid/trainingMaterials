@@ -24,8 +24,11 @@ permalink: "/tools/rdm/"
 * [PDF slides]({{ site.baseurl }}/materials/throughput20210303.pdf)
 * [Throughput DB documentation](https://throughput-ec.github.io/throughput_docs)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="739" height="416" src="https://www.youtube.com/embed/WVFfRV2X0HI" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
