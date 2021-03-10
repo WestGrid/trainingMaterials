@@ -58,9 +58,10 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-11 | [Automating your backups in Linux and MacOS](https://libcal.library.ubc.ca/calendar/vancouver/unix-backups) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Feb-16 to Feb-19 | [Compute Canada's Humanities and Social Sciences series](https://hss-series.netlify.app) | <span style="color:#0033cc">Online</span> |
 | Feb-22 to Mar-03 | [NVIDIA GPU Hackathon @SFU](https://www.gpuhackathons.org/event/simon-fraser-university-gpu-hackathon) | <span style="color:#0033cc">Online</span> |
-| moved | Extending Julia codes to multiple CPU cores | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| moved | Parallel programming in Julia | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| May-29 to May-30 | Workshops for the GIWS @USask | Online |
 | Apr-08 | Basics of GIS mapping in R | <span style="color:#049A80">Online for UBC Research Commons</span> |
-<!-- | April 19 or 26 | Spatial Analysis/GIS in R | UBC | -->
+| end of April | Spatial Analysis/GIS in R | UBC |
 | May-13 | Topic TBA | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | starting in April | WestGrid research computing modules | <span style="color:#0033cc">Online</span> |
 
