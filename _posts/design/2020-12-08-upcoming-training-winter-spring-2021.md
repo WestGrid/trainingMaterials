@@ -60,7 +60,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-22 to Mar-03 | [NVIDIA GPU Hackathon @SFU](https://www.gpuhackathons.org/event/simon-fraser-university-gpu-hackathon) | <span style="color:#0033cc">Online</span> |
 | Mar-29 to Mar-30 | Workshops for the GIWS @USask | Online |
 | Apr-08 | [Basics of GIS mapping in R](https://libcal.library.ubc.ca/calendar/vancouver/gis-mapping-r) | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| end of April | Spatial Analysis/GIS in R | UBC |
+| Apr-19 | Spatial Analysis/GIS in R | UBC |
 | May-13 | [Parallel programming in Julia](https://libcal.library.ubc.ca/calendar/vancouver/parallel-programming-julia) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | starting in April | WestGrid research computing modules | <span style="color:#0033cc">Online</span> |
 
