@@ -39,7 +39,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-03 | [<span style="color:blue">Advanced GIS mapping in R</span>]({{ site.baseurl }}/domains/geo/#advanced-gis-mapping-in-r) | Marie-Hélène Burle |
 | Feb-17 | [<span style="color:blue">Automating your backups in Linux and MacOS</span>]({{ site.baseurl }}/tools/rdm/#backups) | Alex Razoumov |
 | Mar-03 | [<span style="color:blue">Linking databases to code repositories with Throughput</span>]({{ site.baseurl }}/tools/rdm/#throughput) | Simon Goring |
-| Mar-17 | [Parallel Julia](https://www.eventbrite.com/e/136878369889) | Marie-Hélène Burle and Alex Razoumov |
+| Mar-17 | [<span style="color:blue">Parallel Julia</span>]({{ site.baseurl }}/programming/#julia) | Alex Razoumov and Marie-Hélène Burle |
 | Mar-31 | [Exploring the state of a Slurm cluster](https://www.eventbrite.com/e/136878849323) | Kamil Marcinkowski |
 | Apr-14 | [Introduction to deep learning with fastai](https://www.eventbrite.com/e/136910455859) | Marie-Hélène Burle |
 | Apr-28 | [NVIDIA's IndeX and OptiX](https://www.eventbrite.com/e/136922854945) | NVIDIA |
@@ -59,9 +59,9 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-16 to Feb-19 | [Compute Canada's Humanities and Social Sciences series](https://hss-series.netlify.app) | <span style="color:#0033cc">Online</span> |
 | Feb-22 to Mar-03 | [NVIDIA GPU Hackathon @SFU](https://www.gpuhackathons.org/event/simon-fraser-university-gpu-hackathon) | <span style="color:#0033cc">Online</span> |
 | Mar-29 to Mar-30 | Workshops for the GIWS @USask | Online |
-| Apr-08 | Basics of GIS mapping in R | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Apr-08 | [Basics of GIS mapping in R](https://libcal.library.ubc.ca/calendar/vancouver/gis-mapping-r) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | end of April | Spatial Analysis/GIS in R | UBC |
-| May-13 | Parallel programming in Julia | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| May-13 | [Parallel programming in Julia](https://libcal.library.ubc.ca/calendar/vancouver/parallel-programming-julia) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | starting in April | WestGrid research computing modules | <span style="color:#0033cc">Online</span> |
 
 <!-- November[^1] -->

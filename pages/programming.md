@@ -87,6 +87,10 @@ target="_blank">here</a>.)
 
 **Webinar** (2021-Mar-17) by Alex Razoumov and Marie-Hélène Burle
 
+In this webinar, we start with a quick review of Julia's multi-threading features but focus primarily on Distributed
+standard library and its large array of tools. We show parallelization using three problems: a slowly converging series,
+a Julia set, and an N-body solver. We run the examples on a multi-core laptop and an HPC cluster.
+
 * [PDF slides]({{ site.baseurl }}/materials/julia20210317.pdf)
 
 ---
