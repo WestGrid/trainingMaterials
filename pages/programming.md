@@ -83,6 +83,14 @@ target="_blank">here</a>.)
 
 ---
 
+#### *"Parallel programming in Julia"*
+
+**Webinar** (2021-Mar-17) by Alex Razoumov and Marie-Hélène Burle
+
+* [PDF slides]({{ site.baseurl }}/materials/julia20210317.pdf)
+
+---
+
 #### *"High-performance research computing with Julia"*
 
 **Webinar** (2020-Mar-04) by Marie-Hélène Burle
