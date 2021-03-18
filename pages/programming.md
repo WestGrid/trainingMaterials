@@ -93,6 +93,12 @@ a Julia set, and an N-body solver. We run the examples on a multi-core laptop an
 
 * [PDF slides]({{ site.baseurl }}/materials/julia20210317.pdf)
 
+<div class="flex-video">
+	<iframe width="739" height="404" src="https://www.youtube.com/embed/2SafLn0xJKY" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 ---
 
 #### *"High-performance research computing with Julia"*
