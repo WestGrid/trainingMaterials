@@ -40,7 +40,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-17 | [<span style="color:blue">Automating your backups in Linux and MacOS</span>]({{ site.baseurl }}/tools/rdm/#backups) | Alex Razoumov |
 | Mar-03 | [<span style="color:blue">Linking databases to code repositories with Throughput</span>]({{ site.baseurl }}/tools/rdm/#throughput) | Simon Goring |
 | Mar-17 | [<span style="color:blue">Parallel Julia</span>]({{ site.baseurl }}/programming/#julia) | Alex Razoumov and Marie-Hélène Burle |
-| Mar-31 | [Exploring the state of a Slurm cluster](https://www.eventbrite.com/e/136878849323) | Kamil Marcinkowski |
+| Mar-31 | [Exploring the state of a Slurm cluster with Clusterstats](https://www.eventbrite.com/e/136878849323) | Kamil Marcinkowski |
 | Apr-14 | [Introduction to deep learning with fastai](https://www.eventbrite.com/e/136910455859) | Marie-Hélène Burle |
 | Apr-28 | [NVIDIA's IndeX and OptiX](https://www.eventbrite.com/e/136922854945) | NVIDIA |
 | May-12 | [Exploration of tools and approaches for Humanists](https://www.eventbrite.com/e/136922955245) | Megan Meredith-Lobay |
