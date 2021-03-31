@@ -16,6 +16,25 @@ permalink: "/tools/scheduling/"
 Please check the [guide on running jobs on clusters](https://docs.computecanada.ca/wiki/Running_jobs) in
 Compute Canada&#8217;s technical wiki.
 
+
+
+
+---
+
+#### *"Exploring the state of a Slurm cluster with Clusterstats"*
+
+**Webinar** (2021-Mar-31) by Kamil Marcinkowski
+
+* [PDF slides]({{ site.baseurl }}/materials/clusterstats20210331.pdf)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
+
 ---
 
 #### *"Common Job Submission Errors and How to Avoid Them"*
