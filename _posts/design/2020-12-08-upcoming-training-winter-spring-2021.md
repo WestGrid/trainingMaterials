@@ -40,7 +40,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-17 | [<span style="color:blue">Automating your backups in Linux and MacOS</span>]({{ site.baseurl }}/tools/rdm/#backups) | Alex Razoumov |
 | Mar-03 | [<span style="color:blue">Linking databases to code repositories with Throughput</span>]({{ site.baseurl }}/tools/rdm/#throughput) | Simon Goring |
 | Mar-17 | [<span style="color:blue">Parallel Julia</span>]({{ site.baseurl }}/programming/#julia) | Alex Razoumov and Marie-Hélène Burle |
-| Mar-31 | [Exploring the state of a Slurm cluster with Clusterstats](https://www.eventbrite.com/e/136878849323) | Kamil Marcinkowski |
+| Mar-31 | [<span style="color:blue">Exploring the state of a Slurm cluster with Clusterstats</span>]({{ site.baseurl }}/tools/scheduling/#exploring-the-state-of-a-slurm-cluster-with-clusterstats) | Kamil Marcinkowski |
 | Apr-14 | [Introduction to deep learning with fastai](https://www.eventbrite.com/e/136910455859) | Marie-Hélène Burle |
 | Apr-28 | [NVIDIA's IndeX and OptiX](https://www.eventbrite.com/e/136922854945) | NVIDIA |
 | May-12 | [Exploration of tools and approaches for Humanists](https://www.eventbrite.com/e/136922955245) | Megan Meredith-Lobay |
@@ -60,7 +60,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Feb-22 to Mar-03 | [NVIDIA GPU Hackathon @SFU](https://www.gpuhackathons.org/event/simon-fraser-university-gpu-hackathon) | <span style="color:#0033cc">Online</span> |
 | Mar-29 to Mar-30 | Workshops for the GIWS @USask | Online |
 | Apr-08 | [Basics of GIS mapping in R](https://libcal.library.ubc.ca/calendar/vancouver/gis-mapping-r) | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| Apr-26 | Spatial Analysis/GIS in R | UBC |
+| Apr-26 | [Spatial Analysis/GIS in R](https://www.eventbrite.ca/e/introduction-to-gis-spatial-analysis-in-r-registration-148848631263) | UBC |
 | May-13 | [Parallel programming in Julia](https://libcal.library.ubc.ca/calendar/vancouver/parallel-programming-julia) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | starting in April | WestGrid research computing modules | <span style="color:#0033cc">Online</span> |
 

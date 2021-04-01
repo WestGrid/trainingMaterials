@@ -27,13 +27,11 @@ Compute Canada&#8217;s technical wiki.
 
 * [PDF slides]({{ site.baseurl }}/materials/clusterstats20210331.pdf)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="739" height="433" src="https://www.youtube.com/embed/6m9qlV4fIq0" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
