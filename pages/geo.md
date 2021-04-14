@@ -43,19 +43,6 @@ In this webinar, we introduce simple GIS tasks as well as map production in R us
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
-	
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -73,10 +60,6 @@ from geodatabases, mapping, aggregating, spatial filtering, and simple spatial j
 focuses on how to implement parallel versions of spatial join operations. This examines alternatives that have been
 developed in the data science community for providing more efficient handling of GEOS pointers and subclassing Dask
 DataFrames.
-
-
-
-
 
 * [PDF slides]({{ site.baseurl }}/materials/spatialAnalysis20191211.pdf)
 

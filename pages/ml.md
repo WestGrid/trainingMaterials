@@ -9,7 +9,7 @@ header:
 permalink: "/tools/ml/"
 ---
 
-(You can also browse all our materials on machine learning <a href="https://westgrid-ml.netlify.app/" target="_blank">here</a>.)
+(You can also browse all our machine learning materials <a href="https://westgrid-ml.netlify.app/" target="_blank">here</a>.)
 
 ## Webinars
 
@@ -18,8 +18,6 @@ permalink: "/tools/ml/"
 
 **Webinar** (2021-Apr-14) by Marie-Hélène Burle
 
-<!-- * <a href="https://westgrid-ml.netlify.app/webinars/flux.html" target="_blank">Webinar page</a> -->
-<!-- * <a href="https://westgrid-ml.netlify.app/webinars/flux.html#headline-4" target="_blank">Comments & questions</a> -->
 * <a href="https://westgrid-ml.netlify.app/webinars/fastai" target="_blank">Online slides</a>
 
 <!-- <div class="flex-video"> -->
@@ -40,33 +38,3 @@ permalink: "/tools/ml/"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
-
-<!-- --- -->
-
-<!-- <a name="dar"></a> -->
-<!-- #### *"Managing many files with Disk ARchiver (DAR)"* -->
-
-<!-- **Webinar** (2019-May-01) by Alex Razoumov -->
-
-<!-- * [ZIP file with slides and bash functions]({{ site.baseurl }}/materials/dar20190501.zip) -->
-
-<!-- <div class="flex-video"> -->
-<!-- 	<iframe width="782" height="440" src="https://www.youtube.com/embed/AeZSPa4aMnk" frameborder="0" -->
-<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
-<!-- 	allowfullscreen></iframe> -->
-<!-- </div> -->
-
-<!-- --- -->
-
-<!-- <a name="rdmToolsPlatforms"></a> -->
-<!-- #### *"Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers"* -->
-
-<!-- **Webinar** (2019-Mar-20) by Alex Garnett and Adam McKenzie -->
-
-<!-- * [PDF slides]({{ site.baseurl }}/materials/rdm20190320.pdf) -->
-
-<!-- <div class="flex-video"> -->
-<!-- 	<iframe width="966" height="543" src="https://www.youtube.com/embed/ZMl6bZT7ZU0" frameborder="0" -->
-<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
-<!-- 	allowfullscreen></iframe> -->
-<!-- </div> -->
