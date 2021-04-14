@@ -11,11 +11,6 @@ permalink: "/domains/geo/"
 
 ## Webinars
 
-
-
-
-
-
 #### *"Advanced GIS mapping in R"*
 
 **Webinar** (2021-Feb-03) by Marie-Hélène Burle
@@ -31,10 +26,6 @@ cartograms, raster maps, and bridge over from R to QGIS with packages `sf`, `tma
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
-
-
-
-
 
 ---
 
