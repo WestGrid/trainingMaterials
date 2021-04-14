@@ -20,7 +20,7 @@ permalink: "/tools/ml/"
 
 <!-- * <a href="https://westgrid-ml.netlify.app/webinars/flux.html" target="_blank">Webinar page</a> -->
 <!-- * <a href="https://westgrid-ml.netlify.app/webinars/flux.html#headline-4" target="_blank">Comments & questions</a> -->
-<!-- * <a href="https://westgrid-webinars.netlify.app/flux#" target="_blank">Online slides</a> -->
+* <a href="https://westgrid-ml.netlify.app/webinars/fastai" target="_blank">Online slides</a>
 
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
