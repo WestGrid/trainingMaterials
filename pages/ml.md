@@ -20,8 +20,11 @@ permalink: "/tools/ml/"
 
 * <a href="https://westgrid-ml.netlify.app/webinars/fastai" target="_blank">Online slides</a>
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/Q3__FzA6XLc" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
