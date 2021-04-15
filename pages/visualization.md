@@ -9,10 +9,6 @@ header:
 permalink: "/tools/visualization/"
 ---
 
-<!-- 1. Open `_config.yml` and work it through, it's well documented -->
-<!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
-<!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
-
 For full documentation, please check the <a href="https://docs.computecanada.ca/wiki/Visualization"
 target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wiki.
 
@@ -22,12 +18,6 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
   slides</a> (129 pages, last updated May 2017)
 * <a href="{{ site.baseurl }}/materials/dhsi.pdf" target="_blank">"3D visualization for the humanities"
   slides</a> (69 pages, last updated June 2019)
-
-
-
-
-
-
 
 [Table of Contents](#table-of-contents):
 &nbsp;
@@ -49,15 +39,6 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 • [<em>"CPU-based rendering with OSPRay"</em>](#cpu-based-rendering-with-ospray)
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -351,5 +332,3 @@ topologies that will be lost in 2D.
 **Webinar** (2016-Mar-22) by Alex Razoumov
 
 * [webinar notes](https://github.com/WestGrid/trainingMaterials/blob/gh-pages/materials/gephi.md)
-
-<!-- &nbsp; -->
