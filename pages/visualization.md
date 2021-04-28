@@ -53,12 +53,11 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 * [PDF slides]({{ site.baseurl }}/materials/Nick_Leaf-Scientific_Visualization_on_NVIDIA_GPUs-April_2021.pdf)
 
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
-
-
-
-
+<div class="flex-video">
+	<iframe width="739" height="416" src="https://www.youtube.com/embed/t9L8Q9jjGzo" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
