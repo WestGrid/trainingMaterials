@@ -40,6 +40,26 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
 
+
+
+
+---
+
+<a name="nvidia"></a>
+#### *"Scientific visualization on NVIDIA GPUs"*
+
+**Webinar** (2021-Apr-28) by Nick Leaf (NVIDIA)
+
+* [PDF slides]({{ site.baseurl }}/materials/Nick_Leaf-Scientific_Visualization_on_NVIDIA_GPUs-April_2021.pdf)
+
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
 ---
 
 <a name="programmable"></a>

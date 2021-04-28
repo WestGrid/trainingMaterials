@@ -16,10 +16,7 @@ permalink: "/tools/scheduling/"
 Please check the [guide on running jobs on clusters](https://docs.computecanada.ca/wiki/Running_jobs) in
 Compute Canada&#8217;s technical wiki.
 
-
-
-
----
+## Webinars
 
 #### *"Exploring the state of a Slurm cluster with Clusterstats"*
 
@@ -78,5 +75,3 @@ Part 3:
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/MZlNDAgmhq8" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
-<!-- &nbsp; -->

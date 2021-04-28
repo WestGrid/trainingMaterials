@@ -13,7 +13,7 @@ permalink: "/domains/md/"
 <!-- 1. [Read the documentation][1] to check out all features of *Feeling Responsive*. -->
 <!--  [1]: {{ site.url }}{{ site.baseurl }}/documentation/ -->
 
----
+## Webinars
 
 #### *"Intermediate VMD topics: trajectories, movies, scripting"*
 
@@ -67,5 +67,3 @@ permalink: "/domains/md/"
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/ZMiveX6n-1w" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
-<!-- &nbsp; -->
