@@ -24,13 +24,30 @@ are taught by our analysts and staff.
 
 
 [Table of Contents](#table-of-contents):
-&nbsp; [<em>"Tips &amp; tools for mining Twitter data for research"</em>](#twitterapis)
+&nbsp; [<em>"Exploration of tools and approaches for Humanists"</em>](#exploration)
+• [<em>"Tips &amp; tools for mining Twitter data for research"</em>](#twitterapis)
 • [<em>"Text parsing &amp; matching with High Performance Computing resources"</em>](#text-parsing--matching-with-high-performance-computing-resources)
 • [<em>"Getting started on the cloud"</em>](#getting-started-on-the-cloud)
 • [<em>"Tools for Handling Big Data &amp; Computing Demands in Humanities &amp; Social Science Research"</em>](#tools-for-handling-big-data--computing-demands-in-humanities--social-science-research)
 
 
 
+
+
+
+
+
+---
+
+<a name="exploration"></a>
+#### *"Exploration of tools and approaches for Humanists"*
+
+**Webinar** (2021-May-12) by Megan Meredith-Lobay
+
+* <a href="{{ site.baseurl }}/materials/explorationDH20210512.pdf" target="_blank">PDF slides</a>
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
 
 ---
 

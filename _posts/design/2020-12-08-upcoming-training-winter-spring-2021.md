@@ -43,7 +43,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Mar-31 | [<span style="color:blue">Exploring the state of a Slurm cluster with Clusterstats</span>]({{ site.baseurl }}/tools/scheduling/#exploring-the-state-of-a-slurm-cluster-with-clusterstats) | Kamil Marcinkowski |
 | Apr-14 | [<span style="color:blue">Introduction to deep learning with fastai</span>]({{ site.baseurl }}/tools/ml#fastai) | Marie-Hélène Burle |
 | Apr-28 | [<span style="color:blue">Scientific visualization on NVIDIA GPUs</span>]({{ site.baseurl }}/tools/visualization/#nvidia) | Nick Leaf (NVIDIA) |
-| May-12 | [Exploration of tools and approaches for Humanists](https://www.eventbrite.com/e/136922955245) | Megan Meredith-Lobay |
+| May-12 | [<span style="color:blue">Exploration of tools and approaches for Humanists</span>]({{ site.baseurl }}/domains/dh/#exploration) | Megan Meredith-Lobay |
 | May-26 | [Using Singularity containers in VMs and HPC](https://www.eventbrite.com/e/136923023449) | Venkat Mahadevan |
 
 <!-- Nov-13[^1] -->
