@@ -46,8 +46,11 @@ are taught by our analysts and staff.
 
 * <a href="{{ site.baseurl }}/materials/explorationDH20210512.pdf" target="_blank">PDF slides</a>
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="739" height="378" src="https://www.youtube.com/embed/wLU3dDkLokQ" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
