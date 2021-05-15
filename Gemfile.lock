@@ -44,7 +44,7 @@ GEM
       sassc (> 2.0.1, < 3.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -63,7 +63,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rouge (3.25.0)
     ruby2_keywords (0.0.2)
     safe_yaml (1.0.5)
@@ -86,6 +86,8 @@ DEPENDENCIES
   jekyll-asciidoc
   jekyll-gist
   jekyll-paginate
+  kramdown (>= 2.3.1)
+  rexml (>= 3.2.5)
 
 BUNDLED WITH
    1.17.2
