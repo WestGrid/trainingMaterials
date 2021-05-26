@@ -23,7 +23,7 @@ technical wiki.
 
 **Webinar** (2021-May-26) by Venkat Mahadevan
 
-<!-- * [main slides in PDF]({{ site.baseurl }}/materials/singularity20210526.pdf) -->
+* [main slides in PDF]({{ site.baseurl }}/materials/singularity20210526.pdf)
 * [TTK demo slides]({{ site.baseurl }}/materials/ttkContainerDemo20210526.pdf)
 
 <!-- <div class="flex-video"> -->
