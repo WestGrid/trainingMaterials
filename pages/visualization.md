@@ -21,7 +21,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Workflows with Programmable Filter / Source in ParaView"</em>](#programmable)
+[<em>"Scientific visualization on NVIDIA GPUs"</em>](#nvidia)
+• [<em>"Workflows with Programmable Filter / Source in ParaView"</em>](#programmable)
 • [<em>"The Topology ToolKit (TTK)"</em>](#the-topology-toolkit-ttk)
 • [<em>"Intermediate VMD topics: trajectories, movies, scripting"</em>](#intermediate-vmd-topics-trajectories-movies-scripting)
 • [<em>"Web-based 3D scientific visualization"</em>](#web-based-3d-scientific-visualization)
@@ -39,9 +40,6 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 • [<em>"CPU-based rendering with OSPRay"</em>](#cpu-based-rendering-with-ospray)
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
-
-
-
 
 ---
 
