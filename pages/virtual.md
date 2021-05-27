@@ -27,8 +27,11 @@ technical wiki.
 * [main slides in PDF]({{ site.baseurl }}/materials/singularity20210526.pdf)
 * [TTK demo slides]({{ site.baseurl }}/materials/ttkContainerDemo20210526.pdf)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/8QVzb78LUq4" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
