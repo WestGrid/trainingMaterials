@@ -23,13 +23,11 @@ image:
 mediaplayer: true
 ---
 
-<!-- For more information on each session, or to register, click on the links below. -->
-
 ## Webinars
 
-WestGrid's bi-weekly training webinars take place every second Wednesday at 10am Pacific / 11am Mountain / 12pm Central.
-
-To view recordings and slides from past sessions, click on the linked title.
+WestGrid's bi-weekly training webinars take place every second Wednesday at 10am Pacific / 11am Mountain / 12pm
+Central. For *upcoming sessions*, click the linked title to see more details or to register. For *past sessions*, click
+on the title to view recordings and slides.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
@@ -37,7 +35,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Sep-29 | TBA |  |
 | Oct-13 | TBA |  |
 | Oct-27 | TBA |  |
-| Nov-10 | "Highlights from the 2021 SciVis Contest" | Alex Razoumov |
+| Nov-10 | Highlights from the 2021 SciVis Contest | Alex Razoumov |
 | Nov-24 | TBA |  |
 | Dec-08 | TBA |  |
 
