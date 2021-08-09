@@ -25,8 +25,6 @@ mediaplayer: true
 
 <!-- For more information on each session, or to register, click on the links below. -->
 
-<!-- ========================================================================================== -->
-
 ## Webinars
 
 WestGrid's bi-weekly training webinars take place every second Wednesday at 10am Pacific / 11am Mountain / 12pm Central.
@@ -39,7 +37,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | Sep-29 | TBA |  |
 | Oct-13 | TBA |  |
 | Oct-27 | TBA |  |
-| Nov-10 | TBA |  |
+| Nov-10 | "Highlights from the 2021 SciVis Contest" | Alex Razoumov |
 | Nov-24 | TBA |  |
 | Dec-08 | TBA |  |
 
@@ -54,8 +52,6 @@ To view recordings and slides from past sessions, click on the linked title.
 
 <!-- Nov-13[^1] -->
 <!-- [^1]: Note the different day of the week (Friday). -->
-
-<!-- ========================================================================================== -->
 
 ## Other workshops
 
@@ -72,14 +68,5 @@ To view recordings and slides from past sessions, click on the linked title.
 
 <!-- November[^1] -->
 <!-- [^1]: Exact dates TBA. -->
-
-
-
-<!-- You might also find useful the following workshops taught by our partner Advanced Research Computing -->
-<!-- (ARC) teams at the WestGrid member institutions: -->
-<!-- * [Hands-on introduction to HPC](https://wiki.usask.ca/x/OgExY) at USask -->
-<!-- * [Research Computing Bootcamps](https://ist.ualberta.ca/blog/events/research-computing-bootcamps-are-back) at UofA -->
-
-<!-- ========================================================================================== -->
 
 As always, we welcome requests for other training topics and events. Please email suggestions to training@westgrid.ca.
