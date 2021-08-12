@@ -33,10 +33,10 @@ on the title to view recordings and slides.
 | ------------- | --------------- | ----------------- |
 | Sep-15 | TBA |  |
 | Sep-29 | TBA |  |
-| Oct-13 | TBA |  |
-| Oct-27 | TBA | Marie-Helene Burle |
+| Oct-13 | Topic TBA | Tannistha Nandi |
+| Oct-27 | Topic TBA | Marie-Helene Burle |
 | Nov-10 | Highlights from the 2021 SciVis Contest | Alex Razoumov |
-| Nov-24 | TBA | Marie-Helene Burle |
+| Nov-24 | Topic TBA | Marie-Helene Burle |
 | Dec-08 | TBA |  |
 
 <!-- | Feb-17 | [<span style="color:blue">Automating your backups in Linux and MacOS</span>]({{ site.baseurl }}/tools/rdm/#backups) | Alex Razoumov | -->
