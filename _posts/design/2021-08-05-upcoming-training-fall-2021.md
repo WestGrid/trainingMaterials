@@ -37,7 +37,7 @@ on the title to view recordings and slides.
 | Oct-27 | Topic TBA | Marie-Helene Burle |
 | Nov-10 | Highlights from the 2021 SciVis Contest | Alex Razoumov |
 | Nov-24 | Topic TBA | Marie-Helene Burle |
-| Dec-08 | TBA |  |
+| Dec-08 | Topic TBA | Ata Roudgar | <!-- either HubZero or Databases on Cedar/Graham -->
 
 <!-- | Feb-17 | [<span style="color:blue">Automating your backups in Linux and MacOS</span>]({{ site.baseurl }}/tools/rdm/#backups) | Alex Razoumov | -->
 <!-- | Mar-03 | [<span style="color:blue">Linking databases to code repositories with Throughput</span>]({{ site.baseurl }}/tools/rdm/#throughput) | Simon Goring | -->
