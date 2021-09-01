@@ -45,8 +45,8 @@ on the title to view recordings and slides.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Sep-23 | [Taking Git one step further - collaborating through GitHub](https://libcal.library.ubc.ca/event/3629630) | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| Oct-14 | Programming with Julia part 2 | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Oct-14 | A more detailed look at multi-processing in Julia | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Nov-18 | ML topic | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| Dec-09 | Working with the Arbutus cloud | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Dec-09 | Working with shared and distributed arrays in Julia | <span style="color:#049A80">Online for UBC Research Commons</span> |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to training@westgrid.ca.
