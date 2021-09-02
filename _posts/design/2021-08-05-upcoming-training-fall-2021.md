@@ -33,9 +33,9 @@ on the title to view recordings and slides.
 | ------------- | --------------- | ----------------- |
 | Sep-29 | Remote visualization on Compute Canada clusters | Alex Razoumov |
 | Oct-13 | Container-based approach to bioinformatics applications | Tannistha Nandi |
-| Oct-27 | Topic TBA | Marie-Helene Burle |
+| Oct-27 | Dask-inspired out-of-core execution in Julia: Dagger.jl  | Marie-Helene Burle |
 | Nov-10 | Highlights from the 2021 SciVis Contest | Alex Razoumov |
-| Nov-24 | Topic TBA | Marie-Helene Burle |
+| Nov-24 | Upscaling with PyTorch | Marie-Helene Burle |
 | Dec-08 | Topic TBA | Ata Roudgar | <!-- either HubZero or Databases on Cedar/Graham -->
 
 <!-- Nov-13[^1] -->
