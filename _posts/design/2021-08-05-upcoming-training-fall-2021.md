@@ -45,10 +45,10 @@ on the title to view recordings and slides.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Sep-23 | [Taking Git one step further - collaborating through GitHub](https://libcal.library.ubc.ca/event/3629630) | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| Oct-{04,05} | Visualization with Paraview (EN) | National training workshop |
+| Oct-{04,05} | Visualization with Paraview (EN) | <span style="color:#3339ff">National training workshop</span> |
 | Oct-14 | A more detailed look at multi-processing in Julia | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Oct-{18,19} | Parallel Julia workshop | Invited for a 3rd party |
-| Nov-{02,03} | Visualization with Paraview (FR) | National training workshop |
+| Nov-{02,03} | Visualization with Paraview (FR) | <span style="color:#3339ff">National training workshop</span> |
 | Nov-18 | ML topic | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Dec-09 | Working with shared and distributed arrays in Julia | <span style="color:#049A80">Online for UBC Research Commons</span> |
 
