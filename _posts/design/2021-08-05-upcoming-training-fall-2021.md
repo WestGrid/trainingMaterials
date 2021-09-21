@@ -45,10 +45,11 @@ on the title to view recordings and slides.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Sep-23 | [Taking Git one step further - collaborating through GitHub](https://libcal.library.ubc.ca/event/3629630) | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| Oct-{04,05} | [Visualization with Paraview (EN)](https://www.eventbrite.ca/e/171338226247) | <span style="color:#3339ff">National training workshop</span> |
+| Sep-27 to Oct-25 | [UofA's Fall Research Computing Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2021/fall-2021-research-computing-bootcamp.html) | Online by the UofA |
+| Oct-04 and Oct-05 | [Visualization with Paraview (EN)](https://www.eventbrite.ca/e/171338226247) | <span style="color:#3339ff">National training workshop</span> |
 | Oct-14 | [Multi-processing in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-1) | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| Oct-{18,19} | Parallel Julia workshop | Invited for a 3rd party |
-| Nov-{02,03} | [Visualization with Paraview (FR)](https://www.eventbrite.ca/e/172208820217) | <span style="color:#3339ff">National training workshop</span> |
+| Oct-18 and Oct-19 | Parallel Julia workshop | Invited for a 3rd party |
+| Nov-02 and Nov-03 | [Visualization with Paraview (FR)](https://www.eventbrite.ca/e/172208820217) | <span style="color:#3339ff">National training workshop</span> |
 | Nov-18 | ML topic | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Dec-09 | [Working with shared and distributed arrays in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-2) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 
