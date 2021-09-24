@@ -44,6 +44,20 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 ---
 
 <a name="nvidia"></a>
+#### *"Remote visualization on Compute Canada clusters"*
+
+**Webinar** (2021-Sep-29) by Alex Razoumov
+
+coming up
+<!-- * [PDF slides]({{ site.baseurl }}/materials/remote20210929.pdf) -->
+<!-- * [ZIP file with scripts]({{ site.baseurl }}/materials/remote20210929.zip) -->
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+---
+
+<a name="nvidia"></a>
 #### *"Scientific visualization on NVIDIA GPUs"*
 
 **Webinar** (2021-Apr-28) by Nick Leaf (NVIDIA)
@@ -65,8 +79,7 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 **Webinar** (2021-Jan-20) by Alex Razoumov
 
 * [PDF slides]({{ site.baseurl }}/materials/programmable20210120.pdf)
-* [gzipped ZIP file with scripts]({{ site.baseurl }}/materials/programmable20210120.zip)
-
+* [ZIP file with scripts]({{ site.baseurl }}/materials/programmable20210120.zip)
 
 <div class="flex-video">
 	<iframe width="590" height="301" src="https://www.youtube.com/embed/MBXP7hmYatc" frameborder="0"
