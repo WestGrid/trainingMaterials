@@ -21,7 +21,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Scientific visualization on NVIDIA GPUs"</em>](#nvidia)
+[<em>"Remote visualization on Compute Canada clusters"</em>](#remote-visualization-on-compute-canada-clusters)
+• [<em>"Scientific visualization on NVIDIA GPUs"</em>](#nvidia)
 • [<em>"Workflows with Programmable Filter / Source in ParaView"</em>](#programmable)
 • [<em>"The Topology ToolKit (TTK)"</em>](#the-topology-toolkit-ttk)
 • [<em>"Intermediate VMD topics: trajectories, movies, scripting"</em>](#intermediate-vmd-topics-trajectories-movies-scripting)
@@ -51,8 +52,11 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 * [PDF slides]({{ site.baseurl }}/materials/remote20210929.pdf)
 * [ZIP file with scripts]({{ site.baseurl }}/materials/remote20210929.zip)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="739" height="404" src="https://www.youtube.com/embed/VtAfV6V6Ob4" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 

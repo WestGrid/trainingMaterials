@@ -31,7 +31,7 @@ on the title to view recordings and slides.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Sep-29 | [Remote visualization on Compute Canada clusters](https://www.eventbrite.com/e/173694985377) | Alex Razoumov |
+| Sep-29 | [<span style="color:blue">Remote visualization on Compute Canada clusters</span>]({{ site.baseurl }}/tools/visualization/#remote-visualization-on-compute-canada-clusters) | Alex Razoumov |
 | Oct-13 | [Container-based approach to bioinformatics applications](https://www.eventbrite.com/e/173703019407) | Tannistha Nandi |
 | Oct-27 | [Dask-inspired out-of-core execution in Julia: Dagger.jl](https://www.eventbrite.com/e/173720030287) | Marie-Helene Burle |
 | Nov-10 | [Highlights from the 2021 SciVis Contest](https://www.eventbrite.com/e/173722758447) | Alex Razoumov |
