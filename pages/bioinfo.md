@@ -14,13 +14,9 @@ permalink: "/domains/bioinfo/"
 Browse the forum, ask a question, or request one-on-one support in
 [Compute Canada&#8217;s Bioinformatics Helpdesk](https://bioinformatics.computecanada.ca).
 
-
-
-
-
-
 [Table of Contents](#table-of-contents):
-&nbsp; [<em>Building a bioinformatics QC pipeline</em>](#building-a-bioinformatics-qc-pipeline)
+&nbsp; [<em>Container-based approach to bioinformatics applications</em>](#container-based-approach-to-bioinformatics-applications)
+• [<em>Building a bioinformatics QC pipeline</em>](#building-a-bioinformatics-qc-pipeline)
 • [<em>"Short read DNA sequencing alignment and visualization"</em>](#short-read-dna-sequencing-alignment-and-visualization)
 • [<em>"Tools for automating analysis pipelines"</em>](#tools-for-automating-analysis-pipelines)
 • [<em>"The Human Variant Database"</em>](#the-human-variant-database)
@@ -32,13 +28,27 @@ Browse the forum, ask a question, or request one-on-one support in
 • [<em>"Bioinformatics Series: Introduction to Bioinformatics"</em>](#bioinformatics-series-introduction-to-bioinformatics)
 
 
-
-
-
-
-
-
 ## Webinars
+
+---
+
+#### *Container-based approach to bioinformatics applications*
+
+**Webinar** (2021-Oct-13) by Tannistha Nandi
+
+Slides and recording will be posted shortly.
+
+<!-- * [PDF slides]({{ site.baseurl }}/materials/bioinfoPipeline20191113.pdf) -->
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
+
+
 
 ---
 
