@@ -36,10 +36,9 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2021-Oct-13) by Tannistha Nandi
 
-Slides and recording will be posted shortly.
-
 * [PDF slides]({{ site.baseurl }}/materials/TannisthaNandi_SingularityContainers_I.pdf)
 
+The recording will be posted shortly.
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
 
