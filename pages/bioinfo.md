@@ -42,13 +42,6 @@ The recording will be posted shortly.
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
 
-
-
-
-
-
-
-
 ---
 
 #### *Building a bioinformatics QC pipeline*
