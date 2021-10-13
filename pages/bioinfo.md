@@ -38,7 +38,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 Slides and recording will be posted shortly.
 
-<!-- * [PDF slides]({{ site.baseurl }}/materials/bioinfoPipeline20191113.pdf) -->
+* [PDF slides]({{ site.baseurl }}/materials/TannisthaNandi_SingularityContainers_I.pdf)
 
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
