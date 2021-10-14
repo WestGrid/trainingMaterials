@@ -38,9 +38,11 @@ Browse the forum, ask a question, or request one-on-one support in
 
 * [PDF slides]({{ site.baseurl }}/materials/TannisthaNandi_SingularityContainers_I.pdf)
 
-The recording will be posted shortly.
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/MXQBUkotZ8Y" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
