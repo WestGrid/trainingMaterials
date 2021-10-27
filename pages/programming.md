@@ -76,6 +76,42 @@ target="_blank">here</a>.)
 
 ---
 
+#### *"Easier parallel Julia workflow with Dagger.jl"*
+
+**Webinar** (2021-Oct-27) by Marie-Hélène Burle
+
+Designed specifically for HPC and inspired by the [Python library Dask](https://docs.dask.org/en/latest), Dagger is a
+distributed framework with a scheduler built on top of Distributed.jl for efficient parallel and out-of-core execution
+of tasks represented by a [directed acyclic graph (DAG)](https://en.wikipedia.org/wiki/Directed_acyclic_graph). Dask
+supports computing with multiple threads, multiple processes, and on GPUs. Checkpoints are easy to create if you need to
+interrupt and resume computations. Finally, Dagger provides some debugging and runtime profiling tools.
+
+The slides are recording will be added shortly.
+
+
+
+
+
+
+
+
+<!-- * [PDF slides]({{ site.baseurl }}/materials/julia20210317.pdf) -->
+
+<!-- <div class="flex-video"> -->
+<!-- 	<iframe width="739" height="404" src="https://www.youtube.com/embed/2SafLn0xJKY" frameborder="0" -->
+<!-- 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" -->
+<!-- 	allowfullscreen></iframe> -->
+<!-- </div> -->
+
+
+
+
+
+
+
+
+---
+
 #### *"Parallel programming in Julia"*
 
 **Webinar** (2021-Mar-17) by Alex Razoumov and Marie-Hélène Burle
