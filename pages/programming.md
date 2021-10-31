@@ -86,29 +86,11 @@ of tasks represented by a [directed acyclic graph (DAG)](https://en.wikipedia.or
 supports computing with multiple threads, multiple processes, and on GPUs. Checkpoints are easy to create if you need to
 interrupt and resume computations. Finally, Dagger provides some debugging and runtime profiling tools.
 
-The slides are recording will be added shortly.
-
-
-
-
-
-
-
-
-<!-- * [PDF slides]({{ site.baseurl }}/materials/julia20210317.pdf) -->
-
-<!-- <div class="flex-video"> -->
-<!-- 	<iframe width="739" height="404" src="https://www.youtube.com/embed/2SafLn0xJKY" frameborder="0" -->
-<!-- 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" -->
-<!-- 	allowfullscreen></iframe> -->
-<!-- </div> -->
-
-
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="856" height="482" src="https://www.youtube.com/embed/VrqzOsav61w" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
