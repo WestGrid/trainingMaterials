@@ -50,7 +50,7 @@ on the title to view recordings and slides.
 | Oct-14 | [Multi-processing in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-1) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Oct-18 and Oct-19 | Parallel Julia workshop | Invited for a 3rd party |
 | Nov-02 and Nov-03 | [Visualization with Paraview (FR)](https://www.eventbrite.ca/e/172208820217) | <span style="color:#3339ff">National training workshop</span> |
-| Nov-18 | ML topic | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Nov-18 | [Using Deep Learning to increase image resolution](https://libcal.library.ubc.ca/calendar/vancouver/deep-learning-image-processing) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Dec-09 | [Working with shared and distributed arrays in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-2) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to training@westgrid.ca.
