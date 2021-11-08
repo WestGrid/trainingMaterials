@@ -36,7 +36,7 @@ on the title to view recordings and slides.
 | Oct-27 | [<span style="color:blue">Easier parallel Julia workflow with Dagger.jl</span>]({{ site.baseurl }}/programming/#julia) | Marie-Helene Burle |
 | Nov-10 | [Highlights from the 2021 SciVis Contest](https://www.eventbrite.com/e/173722758447) | Alex Razoumov |
 | Nov-24 | [Upscaling with PyTorch](https://www.eventbrite.com/e/173723400367) | Marie-Helene Burle |
-| Dec-08 | Topic TBA | Ata Roudgar | <!-- either HubZero or Databases on Cedar/Graham https://www.eventbrite.com/e/173723921927 -->
+| Dec-08 | [Installing software using EasyBuild in your cluster home directory](https://www.eventbrite.ca/e/173723921927) | Ata Roudgar | <!-- earlier possibilities: HubZero or Databases on Cedar/Graham -->
 
 <!-- Nov-13[^1] -->
 <!-- [^1]: Note the different day of the week (Friday). -->
