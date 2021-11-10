@@ -21,7 +21,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Remote visualization on Compute Canada clusters"</em>](#remote-visualization-on-compute-canada-clusters)
+[<em>"Highlights from the 2021 SciVis Contest"</em>](#highlights-from-the-2021-scivis-contest)
+• [<em>"Remote visualization on Compute Canada clusters"</em>](#remote-visualization-on-compute-canada-clusters)
 • [<em>"Scientific visualization on NVIDIA GPUs"</em>](#nvidia)
 • [<em>"Workflows with Programmable Filter / Source in ParaView"</em>](#programmable)
 • [<em>"The Topology ToolKit (TTK)"</em>](#the-topology-toolkit-ttk)
@@ -41,6 +42,19 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 • [<em>"CPU-based rendering with OSPRay"</em>](#cpu-based-rendering-with-ospray)
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
+
+---
+
+<a name="nvidia"></a>
+#### *"Highlights from the 2021 SciVis Contest"*
+
+**Webinar** (2021-Nov-10) by Alex Razoumov
+
+* [PDF slides]({{ site.baseurl }}/materials/scivis21.pdf)
+
+The recording will be posted shortly.
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
 
 ---
 
