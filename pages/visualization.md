@@ -52,6 +52,9 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 * [PDF slides]({{ site.baseurl }}/materials/scivis21.pdf)
 
+Please note that the short clips shared in the webinar were not recorded smoothly by Zoom, so it is best to watch these
+animations inside the presentations linked from the [Contest website](https://scivis2021.netlify.app/results).
+
 The recording will be posted shortly.
 <!-- <div class="flex-video"> -->
 <!-- </div> -->

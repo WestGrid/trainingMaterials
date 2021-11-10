@@ -34,7 +34,7 @@ on the title to view recordings and slides.
 | Sep-29 | [<span style="color:blue">Remote visualization on Compute Canada clusters</span>]({{ site.baseurl }}/tools/visualization/#remote-visualization-on-compute-canada-clusters) | Alex Razoumov |
 | Oct-13 | [<span style="color:blue">Container-based approach to bioinformatics applications</span>]({{ site.baseurl }}/domains/bioinfo/#container-based-approach-to-bioinformatics-applications) | Tannistha Nandi |
 | Oct-27 | [<span style="color:blue">Easier parallel Julia workflow with Dagger.jl</span>]({{ site.baseurl }}/programming/#julia) | Marie-Helene Burle |
-| Nov-10 | [Highlights from the 2021 SciVis Contest](https://www.eventbrite.com/e/173722758447) | Alex Razoumov |
+| Nov-10 | [<span style="color:blue">Highlights from the 2021 SciVis Contest</span>]({{ site.baseurl }}/tools/visualization/#highlights-from-the-2021-scivis-contest) | Alex Razoumov |
 | Nov-24 | [Upscaling with PyTorch](https://www.eventbrite.com/e/173723400367) | Marie-Helene Burle |
 | Dec-08 | [Installing software using EasyBuild in your cluster home directory](https://www.eventbrite.ca/e/173723921927) | Ata Roudgar | <!-- earlier possibilities: HubZero or Databases on Cedar/Graham -->
 
