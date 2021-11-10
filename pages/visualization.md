@@ -55,7 +55,6 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 Please note that the short clips shared in the webinar were not recorded smoothly by Zoom, so it is best to watch these
 animations inside the presentations linked from the [Contest website](https://scivis2021.netlify.app/results).
 
-The recording will be posted shortly.
 <div class="flex-video">
 	<iframe width="932" height="524" src="https://www.youtube.com/embed/FmVOdcOoajM" title="YouTube video player"
 	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
