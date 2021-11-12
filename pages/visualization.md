@@ -50,6 +50,14 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 **Webinar** (2021-Nov-10) by Alex Razoumov
 
+The 2021 SciVis Contest organized jointly by IEEE and Compute Canada wrapped up on October 28th, with the official
+announcement of awards at the IEEE Vis conference. This Contest dataset was a numerical simulation of convection in the
+Earth's mantle containing 251 timesteps covering 500 Myr of geological time, data courtesy of the Pysklywec Lab (Russell
+Pysklywec and Hosein Shahnas) at the University of Toronto. The simulation was conducted using Compute Canada’s Niagara
+cluster. The Contest challenge was to identify various flow features and visualize them clearly as they evolve in
+time. We saw many good submissions and a ton of innovative visualization ideas. In this webinar we talked about some of
+the ideas suggested in the submissions.
+
 * [PDF slides]({{ site.baseurl }}/materials/scivis21.pdf)
 
 Please note that the short clips shared in the webinar were not recorded smoothly by Zoom, so it is best to watch these
