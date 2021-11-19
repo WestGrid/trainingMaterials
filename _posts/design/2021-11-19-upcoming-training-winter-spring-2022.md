@@ -18,7 +18,7 @@ image:
     title: car.png
     thumb: car.png
     homepage:
-    caption: image rendered with ParaView
+    caption: Image rendered with ParaView
     caption_url: https://www.paraview.org
 mediaplayer: true
 ---
@@ -33,6 +33,17 @@ on the title to view recordings and slides.
 
 <!-- | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | -->
 <!-- | ------------- | --------------- | ----------------- | -->
+<!-- | Jan-19 | [Title](Link) | Presenter | -->
+
+<!-- 2021 -->
+<!-- December 1s 8w 15s 22w 29s -->
+<!-- 2022 -->
+<!-- January 5w 12s 19w 26s -->
+<!-- February 2w 9s 16w 23s -->
+<!-- March 2w 9s 16w 23s 30w -->
+<!-- April 6s 13w 20s 27w -->
+<!-- May 4s 11w 18s 25w -->
+
 <!-- | Sep-29 | [<span style="color:blue">Remote visualization on Compute Canada clusters</span>]({{ site.baseurl }}/tools/visualization/#remote-visualization-on-compute-canada-clusters) | Alex Razoumov | -->
 <!-- | Oct-13 | [<span style="color:blue">Container-based approach to bioinformatics applications</span>]({{ site.baseurl }}/domains/bioinfo/#container-based-approach-to-bioinformatics-applications) | Tannistha Nandi | -->
 <!-- | Oct-27 | [<span style="color:blue">Easier parallel Julia workflow with Dagger.jl</span>]({{ site.baseurl }}/programming/#julia) | Marie-Helene Burle | -->

@@ -18,7 +18,7 @@ image:
     title: vt19vorticity.png
     thumb: vt19vorticity.png
     homepage:
-    caption: image rendered with ParaView
+    caption: Image rendered with ParaView
     caption_url: https://www.paraview.org
 mediaplayer: true
 ---

@@ -18,7 +18,7 @@ image:
     title: ytFilaments.png
     thumb: ytFilaments.png
     homepage:
-    caption: image rendered with yt
+    caption: Image rendered with yt
     caption_url: http://yt-project.org
 mediaplayer: true
 ---

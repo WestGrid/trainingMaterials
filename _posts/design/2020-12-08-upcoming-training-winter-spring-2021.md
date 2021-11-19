@@ -18,7 +18,7 @@ image:
     title: morseSimplification.png
     thumb: morseSimplification.png
     homepage:
-    caption: topological simplification with TTK
+    caption: Topological simplification with TTK
     caption_url: https://topology-tool-kit.github.io
 mediaplayer: true
 ---

@@ -18,7 +18,7 @@ image:
     title: vmdMethods.png
     thumb: vmdMethods.png
     homepage:
-    caption: image rendered with VMD
+    caption: Image rendered with VMD
     caption_url: https://www.ks.uiuc.edu/Research/vmd
 mediaplayer: true
 ---

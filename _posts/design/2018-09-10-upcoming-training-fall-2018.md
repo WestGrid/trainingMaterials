@@ -18,7 +18,7 @@ image:
     title: tempsalt.png
     thumb: tempsalt.png
     homepage:
-    caption: image rendered with ParaView
+    caption: Image rendered with ParaView
     caption_url: /trainingMaterials/tools/visualization/
 mediaplayer: true
 ---

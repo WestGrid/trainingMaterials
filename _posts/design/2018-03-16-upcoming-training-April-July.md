@@ -18,7 +18,7 @@ image:
     title: a06.png
     thumb: a06.png
     homepage: a06-narrow.png
-    caption: image rendered with ParaView
+    caption: Image rendered with ParaView
     caption_url: /trainingMaterials/tools/visualization/
 mediaplayer: true
 ---
