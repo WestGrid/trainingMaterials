@@ -13,6 +13,30 @@ permalink: "/tools/ml/"
 
 ## Webinars
 
+
+
+
+
+
+#### *"Upscaling with PyTorch"*
+
+**Webinar** (2021-Nov-24) by Marie-Hélène Burle
+
+Super-resolution (the process of recreating high-resolution images from low-resolution ones) is an old field, but deep
+neural networks have seen a sudden surge of new and very impressive methods over the past 10 years, from SRCNN to SRGAN
+to Transformers. This webinar provides a quick overview of these methods and shows how the latest state-of-the-art model
+— [SwinIR](https://github.com/jingyunliang/swinir) — performs on a few test images using [PyTorch](https://pytorch.org)
+as our framework.
+
+* [PDF slides]({{ site.baseurl }}/materials/upscalingPyTorch20211124.pdf)
+
+
+
+
+
+
+---
+
 <a name="fastai"></a>
 #### *"Introduction to deep learning with fastai"*
 
