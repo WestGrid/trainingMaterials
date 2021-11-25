@@ -30,10 +30,11 @@ as our framework.
 
 * [PDF slides]({{ site.baseurl }}/materials/upscalingPyTorch20211124.pdf)
 
-
-
-
-
+<div class="flex-video">
+	<iframe width="657" height="370" src="https://www.youtube.com/embed/vtuSFQ_0u0M" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 

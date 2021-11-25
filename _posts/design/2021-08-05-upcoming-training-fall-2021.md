@@ -35,7 +35,7 @@ on the title to view recordings and slides.
 | Oct-13 | [<span style="color:blue">Container-based approach to bioinformatics applications</span>]({{ site.baseurl }}/domains/bioinfo/#container-based-approach-to-bioinformatics-applications) | Tannistha Nandi |
 | Oct-27 | [<span style="color:blue">Easier parallel Julia workflow with Dagger.jl</span>]({{ site.baseurl }}/programming/#julia) | Marie-Helene Burle |
 | Nov-10 | [<span style="color:blue">Highlights from the 2021 SciVis Contest</span>]({{ site.baseurl }}/tools/visualization/#highlights-from-the-2021-scivis-contest) | Alex Razoumov |
-| Nov-24 | [Upscaling with PyTorch](https://www.eventbrite.com/e/173723400367) | Marie-Helene Burle |
+| Nov-24 | [<span style="color:blue">Upscaling with PyTorch</span>]({{ site.baseurl }}/tools/ml/#upscaling-with-pytorch) | Marie-Helene Burle |
 | Dec-08 | [Installing software using EasyBuild in your cluster home directory](https://www.eventbrite.ca/e/173723921927) | Ata Roudgar | <!-- earlier possibilities: HubZero or Databases on Cedar/Graham -->
 
 <!-- Nov-13[^1] -->
