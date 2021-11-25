@@ -33,12 +33,17 @@ on the title to view recordings and slides.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-19 | Topic TBA | Marie-Hélène Burle |
+| Jan-19 | Everything you wanted to know (and more) about PyTorch tensors | Marie-Hélène Burle |
 | Feb-02 | Topic TBA | TBC |
 | Feb-16 | Topic TBA | Alex Razoumov |
 | Mar-02 | Image/data upscaling: training and parallel workflows | Alex Razoumov and Marie-Hélène Burle |
 | Mar-16 | Topic TBA | TBC |
 | Mar-30 | Topic TBA | TBC |
+
+<!-- Apr-13 - after the transition -->
+<!-- Apr-27 - after the transition -->
+<!-- May-11 - after the transition -->
+<!-- May-25 - after the transition -->
 
 <!-- Nov-08[^1] -->
 <!-- [^1]: Note the different day of the week (Friday). -->
