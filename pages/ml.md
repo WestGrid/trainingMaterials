@@ -13,11 +13,6 @@ permalink: "/tools/ml/"
 
 ## Webinars
 
-
-
-
-
-
 #### *"Upscaling with PyTorch"*
 
 **Webinar** (2021-Nov-24) by Marie-Hélène Burle
