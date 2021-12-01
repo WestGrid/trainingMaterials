@@ -86,7 +86,7 @@ packages such as R, Python and Matlab on the clusters, as well as best practices
 
 <details>
 <summary>
-<a>&nbsp;&nbsp;<font size="+1">Introduction to scientific visualization with ParaView: plotting, interactive 3D, scripting, animation, large datasets</font></a>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to scientific visualization with ParaView</font></a>
 </summary>
 <p>
 <br>
@@ -124,23 +124,6 @@ GPUs.
 
 <details>
 <summary>
-<a>&nbsp;&nbsp;<font size="+1">Foundations of parallel programming and the Chapel programming language</font></a>
-</summary>
-<p>
-<br>
-This course is a general introduction to the main concepts of parallel programming and the
-Chapel programming language. Chapel is a relatively new language for both shared and distributed-memory
-programming, with easy-to-use, high-level abstractions for both task and data parallelism that make it
-ideal for learning parallel programming for a novice HPC user. Chapel is incredibly intuitive, striving
-to merge the ease-of-use of Python and the performance of traditional compiled languages such as C and
-Fortran. Parallel constructs that typically take tens of lines of MPI code can be expressed in only a few
-lines of Chapel code. Chapel is open source and can run on any Unix-like operating system, with hardware
-support from laptops to large HPC systems.
-</p>
-</details>
-
-<details>
-<summary>
 <a>&nbsp;&nbsp;<font size="+1">Introduction to programming in Julia</font></a>
 </summary>
 <p>
@@ -159,6 +142,41 @@ really enjoyable to use.<br>
 In this workshop, which does not require any prior experience in Julia (experience in another language such as R or
 Python would be ideal), we will start with the basics of Julia's syntax and its packaging system, and then we will look
 at running Julia in parallel for large-scale problems.
+</p>
+</details>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to multi-threading and multi-processing in Julia</font></a>
+</summary>
+<p>
+<br>
+Julia is a high-level programming language well suited for scientific computing and data science. Just-in-time
+compilation, among other things, makes Julia really fast yet interactive. For heavy computations, Julia supports
+multi-threaded and multi-process parallelism, both natively and via a number of external packages. It also supports
+memory arrays distributed across multiple processes either on the same or different nodes. In this hands-on workshop, we
+will start with a detailed look at multi-threaded programming in Julia, with many hands-on examples. We will next study
+multi-processing with the Distributed standard library and its large array of tools. Finally, we will work with large
+data structures on multiple processes using DistributedArrays and SharedArrays libraries. We will demo parallelization
+using several problems: a slowly converging series, a Julia set, a linear algebra solver, and an N-body solver. We will
+run examples on a multi-core laptop and an HPC cluster.
+</p>
+</details>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Foundations of parallel programming and the Chapel programming language</font></a>
+</summary>
+<p>
+<br>
+This course is a general introduction to the main concepts of parallel programming and the
+Chapel programming language. Chapel is a relatively new language for both shared and distributed-memory
+programming, with easy-to-use, high-level abstractions for both task and data parallelism that make it
+ideal for learning parallel programming for a novice HPC user. Chapel is incredibly intuitive, striving
+to merge the ease-of-use of Python and the performance of traditional compiled languages such as C and
+Fortran. Parallel constructs that typically take tens of lines of MPI code can be expressed in only a few
+lines of Chapel code. Chapel is open source and can run on any Unix-like operating system, with hardware
+support from laptops to large HPC systems.
 </p>
 </details>
 
@@ -184,7 +202,7 @@ This two-day workshop introduces version control with Git and covers the most co
 
 <!-- ========================================================================================== -->
 
-## Short courses
+## Shorter courses
 
 ---
 
@@ -200,6 +218,7 @@ This two-day workshop introduces version control with Git and covers the most co
 * Parallel programing with OpenMP
 * Volumetric visualization and data analysis with *yt*
 * Plotting with plot.ly
+* Plotting with matplotlib
 * Automating your workflows with *make*
 * Code optimization
 * Introduction to shell scripting
