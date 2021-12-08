@@ -166,6 +166,20 @@ the shell in a HPC context</a>.
 
 ---
 
+#### *"Installing software using EasyBuild in your cluster home directory"*
+
+**Webinar** (2021-12-08) by Ata Roudgar
+
+* [PDF slides]({{ site.baseurl }}/materials/easybuild20211208.pdf)
+
+<!-- <div class="flex-video"> -->
+<!-- 	<iframe width="684" height="385" src="https://www.youtube.com/embed/38AuEQ7Jxn4" frameborder="0" -->
+<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
+<!-- 	allowfullscreen></iframe> -->
+<!-- </div> -->
+
+---
+
 #### *"Building software on Compute Canada clusters using EasyBuild"*
 
 **Webinar** (2020-04-15) by Ali Kerrache
