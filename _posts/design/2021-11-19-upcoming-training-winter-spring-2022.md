@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "all training"
-title: "Events for winter/spring 2022"
+title: "Events for winter 2022"
 teaser: ""
 categories:
   - events

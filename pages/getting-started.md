@@ -172,11 +172,11 @@ the shell in a HPC context</a>.
 
 * [PDF slides]({{ site.baseurl }}/materials/easybuild20211208.pdf)
 
-<!-- <div class="flex-video"> -->
-<!-- 	<iframe width="684" height="385" src="https://www.youtube.com/embed/38AuEQ7Jxn4" frameborder="0" -->
-<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
-<!-- 	allowfullscreen></iframe> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="739" height="416" src="https://www.youtube.com/embed/l3Vo9ATA3qQ" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
