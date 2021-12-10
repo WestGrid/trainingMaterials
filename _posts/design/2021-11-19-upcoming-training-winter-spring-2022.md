@@ -51,10 +51,10 @@ on the title to view recordings and slides.
 ## Other workshops
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Jan-27 | Working with PyTorch tensors | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Feb-14,16,18 | Parallel Julia | <span style="color:#3339ff">National training workshop</span> |
 | Mar-7,9,11 | Parallel Chapel | <span style="color:#3339ff">National training workshop</span> |
 
-<!-- | Sep-23 | [Taking Git one step further - collaborating through GitHub](https://libcal.library.ubc.ca/event/3629630) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
 <!-- | Sep-27 to Oct-25 | [UofA's Fall Research Computing Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2021/fall-2021-research-computing-bootcamp.html) | Online by the UofA | -->
 <!-- | Oct-14 | [Multi-processing in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-1) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
 <!-- | Oct-18 and Oct-19 | Parallel Julia workshop | Invited for a 3rd party | -->
