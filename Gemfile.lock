@@ -7,9 +7,9 @@ GEM
     coderay (1.1.1)
     colorator (1.1.0)
     concurrent-ruby (1.1.9)
-    em-websocket (0.5.2)
+    em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
-      http_parser.rb (~> 0.6.0)
+      http_parser.rb (~> 0)
     eventmachine (1.2.7)
     faraday (1.8.0)
       faraday-em_http (~> 1.0)
@@ -32,8 +32,8 @@ GEM
     faraday-rack (1.0.0)
     ffi (1.15.4)
     forwardable-extended (2.6.0)
-    http_parser.rb (0.6.0)
-    i18n (1.8.10)
+    http_parser.rb (0.8.0)
+    i18n (1.8.11)
       concurrent-ruby (~> 1.0)
     jekyll (4.2.1)
       addressable (~> 2.4)
@@ -80,7 +80,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
-    rouge (3.26.1)
+    rouge (3.27.0)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
     sassc (2.4.0)
@@ -109,4 +109,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.22
+   2.3.0

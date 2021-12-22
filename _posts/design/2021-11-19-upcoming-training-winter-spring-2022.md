@@ -34,8 +34,8 @@ on the title to view recordings and slides.
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
 | Jan-19 | Everything you wanted to know (and more) about PyTorch tensors | Marie-Hélène Burle |
-| Feb-02 | Topic TBA | TBC |
-| Feb-16 | Topic TBA | Alex Razoumov |
+| Feb-02 | ThreadsX.jl: alternative implementation of multiprocessing in Julia | Alex Razoumov |
+| Feb-16 | no webinar: national Julia workshop | see below |
 | Mar-02 | Image/data upscaling: training and parallel workflows | Alex Razoumov and Marie-Hélène Burle |
 | Mar-16 | Topic TBA | TBC |
 | Mar-30 | Topic TBA | TBC |
