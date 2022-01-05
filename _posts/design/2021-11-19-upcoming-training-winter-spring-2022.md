@@ -36,8 +36,8 @@ on the title to view recordings and slides.
 | Jan-19 | Everything you wanted to know (and more) about PyTorch tensors | Marie-Hélène Burle |
 | Feb-02 | ThreadsX.jl: alternative implementation of multiprocessing in Julia | Alex Razoumov |
 | Feb-16 | no webinar: national Julia workshop | see below |
-| Mar-02 | Image/data upscaling: training and parallel workflows | Alex Razoumov and Marie-Hélène Burle |
-| Mar-16 | Topic TBA | TBC |
+| Mar-02 | Topic TBA | TBC |
+| Mar-16 | Image/data upscaling: training and parallel workflows | Alex Razoumov and Marie-Hélène Burle |
 | Mar-30 | Topic TBA | TBC |
 
 <!-- Apr-13 - after the transition -->
@@ -52,8 +52,8 @@ on the title to view recordings and slides.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Jan-27 | Working with PyTorch tensors | <span style="color:#049A80">Online for UBC Research Commons</span> |
-| Feb-14,16,18 | Parallel Julia | <span style="color:#3339ff">National training workshop</span> |
-| Mar-7,9,11 | Parallel Chapel | <span style="color:#3339ff">National training workshop</span> |
+| Feb-14,16,18 | [Parallel Julia](https://parallel-programming-in-julia.eventbrite.ca) | <span style="color:#3339ff">National training workshop</span> |
+| Mar-7,9,11 | [Parallel Chapel](https://parallel-programming-in-chapel.eventbrite.ca) | <span style="color:#3339ff">National training workshop</span> |
 
 <!-- | Sep-27 to Oct-25 | [UofA's Fall Research Computing Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2021/fall-2021-research-computing-bootcamp.html) | Online by the UofA | -->
 <!-- | Oct-14 | [Multi-processing in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-1) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
