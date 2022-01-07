@@ -51,6 +51,7 @@ on the title to view recordings and slides.
 ## Other workshops
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| January | [UofA Winter Research Computing Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2022/winter-research-computing-bootcamp-starts-january-17.html) | online |
 | Jan-27 | Working with PyTorch tensors | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Feb-14,16,18 | [Parallel Julia](https://parallel-programming-in-julia.eventbrite.ca) | <span style="color:#3339ff">National training workshop</span> |
 | Mar-7,9,11 | [Parallel Chapel](https://parallel-programming-in-chapel.eventbrite.ca) | <span style="color:#3339ff">National training workshop</span> |
