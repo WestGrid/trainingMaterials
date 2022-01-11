@@ -52,15 +52,10 @@ on the title to view recordings and slides.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | January | [UofA Winter Research Computing Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2022/winter-research-computing-bootcamp-starts-january-17.html) | online |
-| Jan-27 | Working with PyTorch tensors | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| Jan-27 | Everything you wanted to know (and more) about PyTorch tensors | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Feb-14,16,18 | [Parallel Julia](https://parallel-programming-in-julia.eventbrite.ca) | <span style="color:#3339ff">National training workshop</span> |
+| Feb-17 | Collaborating through Git and GitHub | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Mar-7,9,11 | [Parallel Chapel](https://parallel-programming-in-chapel.eventbrite.ca) | <span style="color:#3339ff">National training workshop</span> |
-
-<!-- | Sep-27 to Oct-25 | [UofA's Fall Research Computing Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2021/fall-2021-research-computing-bootcamp.html) | Online by the UofA | -->
-<!-- | Oct-14 | [Multi-processing in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-1) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
-<!-- | Oct-18 and Oct-19 | Parallel Julia workshop | Invited for a 3rd party | -->
-<!-- | Nov-02 and Nov-03 | [Visualization with Paraview (FR)](https://www.eventbrite.ca/e/172208820217) | <span style="color:#3339ff">National training workshop</span> | -->
-<!-- | Nov-18 | [Using Deep Learning to increase image resolution](https://libcal.library.ubc.ca/calendar/vancouver/deep-learning-image-processing) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
-<!-- | Dec-09 | [Working with shared and distributed arrays in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-2) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
+| Mar-24 | Bash scripting for beginners | <span style="color:#049A80">Online for UBC Research Commons</span> |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to training@westgrid.ca.
