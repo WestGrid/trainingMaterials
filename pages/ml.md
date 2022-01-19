@@ -21,7 +21,10 @@ permalink: "/tools/ml/"
 **Webinar** (2022-Jan-19) by Marie-Hélène Burle
 
 * [Online slides](https://westgrid-slides.netlify.app/torchtensors_webinar)
-* [PDF slides]({{ site.baseurl }}/materials/torchtensors20220119.pdf}
+* [PDF slides]({{ site.baseurl }}/materials/torchtensors20220119.pdf)
+
+
+
 
 
 
