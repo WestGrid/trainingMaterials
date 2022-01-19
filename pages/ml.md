@@ -13,6 +13,21 @@ permalink: "/tools/ml/"
 
 ## Webinars
 
+
+
+
+#### *"Everything you wanted to know (and more) about PyTorch tensors"*
+
+**Webinar** (2022-Jan-19) by Marie-Hélène Burle
+
+* [Online slides](https://westgrid-slides.netlify.app/torchtensors_webinar)
+* [PDF slides]({{ site.baseurl }}/materials/torchtensors20220119.pdf}
+
+
+
+
+
+
 #### *"Upscaling with PyTorch"*
 
 **Webinar** (2021-Nov-24) by Marie-Hélène Burle
