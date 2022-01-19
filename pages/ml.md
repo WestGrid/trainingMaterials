@@ -20,6 +20,13 @@ permalink: "/tools/ml/"
 
 **Webinar** (2022-Jan-19) by Marie-Hélène Burle
 
+Python already has several multidimensional array structures -- the most popular of which being NumPy's `ndarray` -- but the
+particularities of deep learning call for special characteristics: the ability to run operations on GPUs and/or in a
+distributed fashion, as well as the ability to keep track of computation graphs for automatic differentiation.
+
+PyTorch tensors provide these and much more, can be easily converted to/from NumPy's `ndarray` and integrate well with
+other Python libraries such as Pandas.
+
 * [Online slides](https://westgrid-slides.netlify.app/torchtensors_webinar)
 * [PDF slides]({{ site.baseurl }}/materials/torchtensors20220119.pdf)
 
