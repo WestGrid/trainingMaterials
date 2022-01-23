@@ -76,6 +76,14 @@ target="_blank">here</a>.)
 
 ---
 
+#### *"ThreadsX.jl: easier multithreading in Julia"*
+
+**Webinar** (2022-Feb-02) by Alex Razoumov
+
+Slides will be posted shortly before the webinar.
+
+---
+
 #### *"Easier parallel Julia workflow with Dagger.jl"*
 
 **Webinar** (2021-Oct-27) by Marie-Hélène Burle
