@@ -28,9 +28,11 @@ other Python libraries such as Pandas.
 * [Online slides](https://westgrid-slides.netlify.app/torchtensors_webinar)
 * [PDF slides]({{ site.baseurl }}/materials/torchtensors20220119.pdf)
 
-The recording will be posted shortly.
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="747" height="420" src="https://www.youtube.com/embed/n-3h9ucTN4w" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 #### *"Upscaling with PyTorch"*
 
