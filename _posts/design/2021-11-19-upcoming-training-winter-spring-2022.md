@@ -33,7 +33,7 @@ on the title to view recordings and slides.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-26[^1] | [Everything you wanted to know (and more) about PyTorch tensors](https://www.eventbrite.ca/e/241330103837) | Marie-Hélène Burle |
+| Jan-26[^1] | [<span style="color:blue">Everything you wanted to know (and more) about PyTorch tensors</span>]({{ site.baseurl }}/tools/ml/#pytorch-tensors) | Marie-Hélène Burle |
 | Feb-02 | [ThreadsX.jl: easier multithreading in Julia](https://www.eventbrite.ca/e/241328799937) | Alex Razoumov |
 | Feb-16 | no webinar: national Julia workshop | see below |
 | Mar-02 | Topic TBA | TBC |
