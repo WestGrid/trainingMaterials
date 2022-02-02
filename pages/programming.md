@@ -80,7 +80,7 @@ target="_blank">here</a>.)
 
 **Webinar** (2022-Feb-02) by Alex Razoumov
 
-Slides will be posted shortly before the webinar.
+* [PDF slides]({{ site.baseurl }}/materials/threadsx20220202.pdf)
 
 ---
 
