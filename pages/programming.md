@@ -76,11 +76,18 @@ target="_blank">here</a>.)
 
 ---
 
+<a name="threadsx"></a>
 #### *"ThreadsX.jl: easier multithreading in Julia"*
 
 **Webinar** (2022-Feb-02) by Alex Razoumov
 
 * [PDF slides]({{ site.baseurl }}/materials/threadsx20220202.pdf)
+
+<div class="flex-video">
+	<iframe width="710" height="433" src="https://www.youtube.com/embed/ZYzlhp-W0a8" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 ---
 

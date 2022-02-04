@@ -34,7 +34,7 @@ on the title to view recordings and slides.
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
 | Jan-26[^1] | [<span style="color:blue">Everything you wanted to know (and more) about PyTorch tensors</span>]({{ site.baseurl }}/tools/ml/#pytorch-tensors) | Marie-Hélène Burle |
-| Feb-02 | [ThreadsX.jl: easier multithreading in Julia](https://www.eventbrite.ca/e/241328799937) | Alex Razoumov |
+| Feb-02 | [<span style="color:blue">ThreadsX.jl: easier multithreading in Julia</span>]({{ site.baseurl }}/programming#threadsx) | Alex Razoumov |
 | Feb-16 | no webinar: national Julia workshop | see below |
 | Mar-02 | Topic TBA | TBC |
 | Mar-16 | [Image/data upscaling: training and parallel workflows](https://www.eventbrite.ca/e/241331006537) | Alex Razoumov and Marie-Hélène Burle |
