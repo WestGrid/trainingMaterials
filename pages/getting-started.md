@@ -145,6 +145,20 @@ the shell in a HPC context</a>.
 	allowfullscreen></iframe>
 </div>
 
+#### *"A few of our favourite tools"*
+
+**Webinar** (2022-03-16) by Marie-Hélène Burle and Alex Razoumov
+
+* [PDF slides]({{ site.baseurl }}/materials/favouriteCLITools20220316.pdf)
+* [Online slides](https://westgrid-slides.netlify.app/tools/#)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
 
 
 
