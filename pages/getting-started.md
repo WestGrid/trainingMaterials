@@ -149,11 +149,30 @@ the shell in a HPC context</a>.
 
 **Webinar** (2022-03-16) by Marie-Hélène Burle and Alex Razoumov
 
+In this webinar we talk about the following command-line tools:
+
+1. [lazygit](https://github.com/jesseduffield/lazygit) a wonderful terminal UI for Git,
+1. [bat](https://github.com/sharkdp/bat): a great syntax highlighter,
+1. [ripgrep](https://github.com/BurntSushi/ripgrep): a fast alternative to grep,
+1. [fd](https://github.com/sharkdp/fd): a really fast alternative to find, and
+1. [pass](https://www.passwordstore.org): a command line password manager.
+
+In the presentation, we also use a few other neat command-line tools such as
+[hyperfine](https://github.com/sharkdp/hyperfine) - for sophisticated benchmarking - and
+[diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - which makes your diffs a lot more readable. For the Emacs
+users, we finish the workshop with two Emacs utilities:
+
+1. [TRAMP](https://www.emacswiki.org/emacs/TrampMode): a remote file access system,
+1. [Helm](https://github.com/emacs-helm/helm): a "framework for incremental completions and narrowing selections".
+
 * [PDF slides]({{ site.baseurl }}/materials/favouriteCLITools20220316.pdf)
 * [Online slides](https://westgrid-slides.netlify.app/tools/#)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="711" height="400" src="https://www.youtube.com/embed/nshNKPFDrV8" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
 
 
 
