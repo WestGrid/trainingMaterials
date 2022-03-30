@@ -19,6 +19,21 @@ technical wiki.
 
 ---
 
+<a name="cloudSecurity"></a>
+#### *"Best practices for securing your own OpenStack VM / Amazon instances / Containers"*
+
+**Webinar** (2022-Mar-30) by Ken Bigelow
+
+* [PDF slides]({{ site.baseurl }}/materials/securingCloud20220330.pdf)
+
+<div class="flex-video">
+	<iframe width="663" height="373" src="https://www.youtube.com/embed/5PMi6aqGwN4" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
+---
+
 <a name="venkatSingularity"></a>
 #### *"Using Singularity containers in VMs and HPC"*
 

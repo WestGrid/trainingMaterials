@@ -36,7 +36,7 @@ on the title to view recordings and slides.
 | Jan-26 | [<span style="color:blue">Everything you wanted to know (and more) about PyTorch tensors</span>]({{ site.baseurl }}/tools/ml/#pytorch-tensors) | Marie-Hélène Burle |
 | Feb-02 | [<span style="color:blue">ThreadsX.jl: easier multithreading in Julia</span>]({{ site.baseurl }}/programming#threadsx) | Alex Razoumov |
 | Mar-16[^1] | [<span style="color:blue">A few of our favourite tools</span>]({{ site.baseurl }}/getting-started#a-few-of-our-favourite-tools) | Marie-Hélène Burle and Alex Razoumov |
-| Mar-30 | [Best practices for securing your own OpenStack VM / Amazon instances / Containers](https://www.eventbrite.ca/e/298270514137) | Ken Bigelow |
+| Mar-30 | [<span style="color:blue">Best practices for securing your own OpenStack VM / Amazon instances / Containers</span>]({{ site.baseurl }}/tools/virtual/#cloudSecurity) | Ken Bigelow |
 
 [^1]: We are postponing the "Image/data upscaling" webinar until further notice.
 
