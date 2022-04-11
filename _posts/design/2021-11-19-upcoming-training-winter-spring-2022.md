@@ -58,5 +58,7 @@ on the title to view recordings and slides.
 | Feb-17 | [Collaborating through Git and GitHub](https://libcal.library.ubc.ca/event/3653471) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 | Mar-7,9,11 | [Parallel Chapel](https://parallel-programming-in-chapel.eventbrite.ca) | <span style="color:#3339ff">National training workshop</span> |
 | Mar-24 | [Bash scripting for beginners](https://libcal.library.ubc.ca/event/3653491) | <span style="color:#049A80">Online for UBC Research Commons</span> |
+| mid-May to mid-July | Western Canada Research Computing summer school | online |
 
-As always, we welcome requests for other training topics and events. Please email suggestions to training@westgrid.ca.
+As always, we welcome requests for other training topics and events. Please email suggestions to `rc dash training at
+sfu dot ca`.

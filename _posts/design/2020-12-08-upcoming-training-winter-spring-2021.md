@@ -76,4 +76,4 @@ To view recordings and slides from past sessions, click on the linked title.
 
 <!-- ========================================================================================== -->
 
-As always, we welcome requests for other training topics and events. Please email suggestions to training@westgrid.ca.
+<!-- As always, we welcome requests for other training topics and events. Please email suggestions to training@westgrid.ca. -->

@@ -20,9 +20,9 @@ widget2:
   image: ccLogo.jpg
 widget3:
   title: "Upcoming sessions"
-  url: 'https://www.westgrid.ca/events'
+  url: '/events/upcoming-training-winter-spring-2022'
   image: header_unsplash_7.jpg
-  text: 'WestGrid hosts training webinars and workshops year-round to help you build skills in computational research. Check out our upcoming training events.'
+  text: 'We host training webinars and workshops year-round to help you build skills in computational research. Check out our upcoming training events.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -34,8 +34,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://www.westgrid.ca
-  text: See the latest WestGrid news  ›
+  url: https://alliancecan.ca
+  text: See the latest news  ›
   style: alert
 permalink: /index.html
 #

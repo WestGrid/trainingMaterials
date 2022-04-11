@@ -18,9 +18,7 @@ permalink: "/getting-started/"
 
 
 [Table of Contents](#table-of-contents):
-&nbsp; [Latest WestGrid Town Hall](#westgrid-town-hall)
-• [Tips & tricks on getting programming help](#tricks)
-• [RAC 2021](#rac-2021)
+&nbsp; [Tips & tricks on getting programming help](#tricks)
 • [Introduction to WestGrid, Compute Canada, and HPC](#introduction-to-westgrid-compute-canada-and-hpc)
 • [Linux command line](#linux-command-line)
 • [Git version control](#git-version-control)
@@ -30,17 +28,6 @@ permalink: "/getting-started/"
 
 
 
-#### *WestGrid Town Hall*
-
-February 5<sup>th</sup>, 2021
-
-<div class="flex-video">
-	<iframe width="951" height="535" src="https://www.youtube.com/embed/h9_8YLNYAEc" frameborder="0"
-	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-	allowfullscreen></iframe>
-</div>
-
----
 
 <a name="tricks"></a>
 #### *"Tips & tricks on getting programming help"*
@@ -51,21 +38,6 @@ February 5<sup>th</sup>, 2021
 
 <div class="flex-video">
 	<iframe width="1158" height="660" src="https://www.youtube.com/embed/mZjyf84Gbhg" frameborder="0"
-	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-	allowfullscreen></iframe>
-</div>
-
-## RAC 2021
-
----
-
-* [Compute Canada’s Resource Allocation Competition 2021: Best Practices]({{ site.baseurl }}/materials/rac2021.pdf) (PDF slides)
-
-This is a combined presentation for both parts of the RAC: RRG and RPP/Cloud. The second part (RPP/Cloud) starts at
-1h06m into the video.
-
-<div class="flex-video">
-	<iframe width="995" height="560" src="https://www.youtube.com/embed/Fu7oPkXThJI" frameborder="0"
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>

@@ -7,4 +7,4 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-Please use [our official contact page](https://www.westgrid.ca/contact).
+You can reach us at `rc dash training at sfu dot ca`.
