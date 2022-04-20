@@ -12,7 +12,7 @@ credits: '<p>Created by Western Canada Research Computing using <a href="http://
 
 # Main author of the website
 # See > authors.yml
-author: WestGrid
+author: Western Canada Research Computing
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -97,7 +97,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: WestGrid   # Default author for pages
+      author: Western Canada Research Computing   # Default author for pages
   -
     scope:
       path: ''
@@ -106,7 +106,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: WestGrid     # Default author for posts
+      author: Western Canada Research Computing     # Default author for posts
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
