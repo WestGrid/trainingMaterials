@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "all training"
-title: "Events for winter 2022"
+title: "Events for winter/spring 2022"
 teaser: ""
 categories:
   - events
@@ -59,13 +59,13 @@ on the title to view recordings and slides.
 | Mar-7,9,11 | [Parallel Chapel](https://parallel-programming-in-chapel.eventbrite.ca) | <span style="color:#3339ff">National training workshop</span> |
 | Mar-24 | [Bash scripting for beginners](https://libcal.library.ubc.ca/event/3653491) | <span style="color:#049A80">Online for UBC Research Commons</span> |
 
-## Western Canada Research Computing summer school
+<!-- ## Western Canada Research Computing summer school -->
 
-WestGrid ceased its operations on March 31, 2022. Since April 1, 2022 the advanced research computing / HPC training in
-Western Canada is coordinated by the Digital Research Alliance of Canada and Simon Fraser University, in collaboration
-with other universities. Consequently, "WestGrid summer school" has been renamed "Western Canada Research Computing
-summer school". It will run online from mid-May to mid-July, 2022. The course details and the registration information
-will be published soon.
+<!-- WestGrid ceased its operations on March 31, 2022. Since April 1, 2022 the advanced research computing / HPC training in -->
+<!-- Western Canada is coordinated by the Digital Research Alliance of Canada and Simon Fraser University, in collaboration -->
+<!-- with other universities. Consequently, "WestGrid summer school" has been renamed "Western Canada Research Computing -->
+<!-- summer school". It will run online from mid-May to mid-July, 2022. The course details and the registration information -->
+<!-- will be published soon. -->
 
-As always, we welcome requests for other training topics and events. Please email suggestions to `rc dash training at
-sfu dot ca`.
+<!-- As always, we welcome requests for other training topics and events. Please email suggestions to `arc dash training at -->
+<!-- sfu dot ca`. -->
