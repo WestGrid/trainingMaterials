@@ -7,4 +7,4 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-You can reach us at `rc dash training at sfu dot ca`.
+You can reach us at `arc dash training at sfu dot ca`.
