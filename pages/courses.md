@@ -15,14 +15,14 @@ We run regular workshops each year: summer schools around May–August and winte
 
 **In addition to our regular events, we offer on-demand workshops and customized training.**
 
-If you would like to host a workshop, please let us know at `rc dash training at sfu dot ca`. We design the workshop,
+If you would like to host a workshop, please let us know at `arc dash training at sfu dot ca`. We design the workshop,
 coordinate the preparations, advertise the event, and provide the instruction. For in-person training, we expect the
 host to provide an auditorium or classroom space and help with advertising the session locally. For workshops in partner
 institutions, we also expect the host to allow any member of the research community to attend the sessions (i.e. this
 may include researchers from outside your institution).
 
 If you are seeking training for your team, or prefer to run a small, invite-only session for a select audience, please
-contact us to discuss (`rc dash training at sfu dot ca`).
+contact us to discuss (`arc dash training at sfu dot ca`).
 
 <!-- All our services are free to researchers and groups from -->
 <!-- [WestGrid Member institutions or Associate Member organizations](https://www.westgrid.ca/become_member). -->
