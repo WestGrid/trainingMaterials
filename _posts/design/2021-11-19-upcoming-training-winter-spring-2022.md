@@ -67,5 +67,4 @@ on the title to view recordings and slides.
 <!-- summer school". It will run online from mid-May to mid-July, 2022. The course details and the registration information -->
 <!-- will be published soon. -->
 
-<!-- As always, we welcome requests for other training topics and events. Please email suggestions to `arc dash training at -->
-<!-- sfu dot ca`. -->
+<!-- As always, we welcome requests for other training topics and events. Please email suggestions to `training at westdri dot ca`. -->
