@@ -9,15 +9,15 @@ header:
 permalink: "/tools/visualization/"
 ---
 
-For full documentation, please check the <a href="https://docs.computecanada.ca/wiki/Visualization"
+For full documentation, please check the <a href="https://docs.alliancecan.ca/wiki/Visualization"
 target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wiki.
 
 * <a href="{{ site.baseurl }}/materials/paraviewWorkshop.pdf" target="_blank">ParaView full-day workshop
-  slides</a> (121 pages, last updated April 2021)
+  slides</a> (127 pages, last updated July 2022)
 * <a href="{{ site.baseurl }}/materials/visitWorkshop.pdf" target="_blank">VisIt full-day workshop
   slides</a> (129 pages, last updated May 2017)
 * <a href="{{ site.baseurl }}/materials/dhsi.pdf" target="_blank">"3D visualization for the humanities"
-  slides</a> (69 pages, last updated June 2019)
+  slides</a> (82 pages, last updated June 2022)
 
 [Table of Contents](#table-of-contents):
 &nbsp;
