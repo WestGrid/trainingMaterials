@@ -25,9 +25,12 @@ mediaplayer: true
 
 ## Webinars
 
-WestGrid's bi-weekly training webinars take place every second Wednesday at 10am Pacific / 11am Mountain / 12pm
-Central. For *upcoming sessions*, click the linked title to see more details or to register. For *past sessions*, click
-on the title to view recordings and slides.
+WestGrid's bi-weekly training webinars take place every second Wednesday at 10am Pacific / 11am Mountain /
+12pm Central.
+
+We will open registration in early September.
+<!-- For *upcoming webinars*, click the linked title to see more details or to register. For *past -->
+<!-- sessions*, click on the title to view recordings and slides. -->
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
@@ -42,13 +45,26 @@ on the title to view recordings and slides.
 <!-- Nov-13[^1] -->
 <!-- [^1]: Note the different day of the week (Friday). -->
 
-## Other workshops
 
-| DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| Sep-29 | Automation and scripting in bash for absolute beginners | <span style="color:#CE0834">SFU Research Commons</span> |
-| Oct-27 | What format to choose to save your data | <span style="color:#CE0834">SFU Research Commons</span> |
-| mid-November | WestDRI fall school | Online |
-| Nov-24 | Authoring scientific documents with Markdown and Quarto | <span style="color:#CE0834">SFU Research Commons</span> |
+
+
+
+## Research Commons workshops
+
+<!-- For upcoming workshops, click a date to see more details or to register. -->
+We will open registration in early September.
+
+|---
+| TOPIC | 1st run&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 2nd run&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+|-|-|-
+| Automation and scripting in bash for absolute beginners | Friday, Sep-23 at<br> <span style="color:#049A80">UBC Research Commons</span> | Thursday, Sep-29 at<br> <span style="color:#CE0834">SFU Research Commons</span>
+| What format to choose to save your data | Thursday, Oct-27 at<br> <span style="color:#CE0834">SFU Research Commons</span> | Friday, Nov-04 at<br> <span style="color:#049A80">UBC Research Commons</span>
+| Authoring scientific documents with Markdown and Quarto | Thursday, Nov-24 at<br> <span style="color:#CE0834">SFU Research Commons</span> | Friday, Dec-02 at<br> <span style="color:#049A80">UBC Research Commons</span>
+
+
+
+
+
 
 
 
@@ -59,5 +75,17 @@ on the title to view recordings and slides.
 <!-- | Nov-02 and Nov-03 | [Visualization with Paraview (FR)](https://www.eventbrite.ca/e/172208820217) | <span style="color:#3339ff">National training workshop</span> | -->
 <!-- | Nov-18 | [Using Deep Learning to increase image resolution](https://libcal.library.ubc.ca/calendar/vancouver/deep-learning-image-processing) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
 <!-- | Dec-09 | [Working with shared and distributed arrays in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-2) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
+
+
+
+
+## Autumn school
+
+We will announce the dates at the start of the academic year.
+
+| DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| mid-November | WestDRI autumn school | Online |
+
+
 
 <!-- As always, we welcome requests for other training topics and events. Please email suggestions to training@westgrid.ca. -->
