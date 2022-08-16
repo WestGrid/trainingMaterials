@@ -39,7 +39,7 @@ We will open registration in early September.
 | Oct-12 | | |
 | Oct-26 | | |
 | Nov-09 | | |
-| Nov-23 | | |
+| Nov-23 | Turbo boost your interactive experience on the cluster with Tmux | Chris Want |
 | Dec-07 | Topic TBA | Alex Razoumov or Marie-Hélène Burle |
 
 <!-- Nov-13[^1] -->
