@@ -51,6 +51,7 @@ We will open registration in early September.
 
 ## Research Commons workshops
 
+These workshops are in-person only. Students, staff and faculty are all welcome to attend.
 <!-- For upcoming workshops, click a date to see more details or to register. -->
 To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 
