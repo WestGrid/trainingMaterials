@@ -52,14 +52,16 @@ We will open registration in early September.
 ## Research Commons workshops
 
 <!-- For upcoming workshops, click a date to see more details or to register. -->
-We will open registration in early September.
+To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 
 |---
 | TOPIC | 1st run&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 2nd run&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 |-|-|-
-| Automation and scripting in bash for absolute beginners | Friday, Sep-23 at<br> <span style="color:#049A80">UBC Research Commons</span> | Thursday, Sep-29 at<br> <span style="color:#CE0834">SFU Research Commons</span>
-| What format to choose to save your data | Thursday, Oct-27 at<br> <span style="color:#CE0834">SFU Research Commons</span> | Friday, Nov-04 at<br> <span style="color:#049A80">UBC Research Commons</span>
-| Authoring scientific documents with Markdown and Quarto | Thursday, Nov-24 at<br> <span style="color:#CE0834">SFU Research Commons</span> | Friday, Dec-02 at<br> <span style="color:#049A80">UBC Research Commons</span>
+| Automation and scripting in bash for absolute beginners | [Friday, Sep-23 at<br> <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3683923) | Thursday, Sep-29 at<br> <span style="color:#CE0834">SFU Research Commons</span>
+| What format to choose to save your data | Thursday, Oct-27 at<br> <span style="color:#CE0834">SFU Research Commons</span> | [Friday, Nov-04 at<br> <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3683941)
+| Authoring scientific documents with Markdown and Quarto | Thursday, Nov-24 at<br> <span style="color:#CE0834">SFU Research Commons</span> | [Friday, Dec-02 at<br> <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3683985)
+
+
 
 
 
@@ -70,11 +72,11 @@ We will open registration in early September.
 
 <!-- | Sep-27 to Oct-25 | [UofA's Fall Research Computing Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2021/fall-2021-research-computing-bootcamp.html) | Online by the UofA | -->
 <!-- | Oct-04 and Oct-05 | [Visualization with Paraview (EN)](https://www.eventbrite.ca/e/171338226247) | <span style="color:#3339ff">National training workshop</span> | -->
-<!-- | Oct-14 | [Multi-processing in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-1) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
+<!-- | Oct-14 | [Multi-processing in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-1) | <span style="color:#005CA7">Online for UBC Research Commons</span> | -->
 <!-- | Oct-18 and Oct-19 | Parallel Julia workshop | Invited for a 3rd party | -->
 <!-- | Nov-02 and Nov-03 | [Visualization with Paraview (FR)](https://www.eventbrite.ca/e/172208820217) | <span style="color:#3339ff">National training workshop</span> | -->
-<!-- | Nov-18 | [Using Deep Learning to increase image resolution](https://libcal.library.ubc.ca/calendar/vancouver/deep-learning-image-processing) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
-<!-- | Dec-09 | [Working with shared and distributed arrays in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-2) | <span style="color:#049A80">Online for UBC Research Commons</span> | -->
+<!-- | Nov-18 | [Using Deep Learning to increase image resolution](https://libcal.library.ubc.ca/calendar/vancouver/deep-learning-image-processing) | <span style="color:#005CA7">Online for UBC Research Commons</span> | -->
+<!-- | Dec-09 | [Working with shared and distributed arrays in Julia](https://libcal.library.ubc.ca/calendar/vancouver/julia-part-2) | <span style="color:#005CA7">Online for UBC Research Commons</span> | -->
 
 
 
