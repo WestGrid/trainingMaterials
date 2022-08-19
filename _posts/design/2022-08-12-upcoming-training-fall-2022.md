@@ -36,7 +36,7 @@ We will open registration in early September.
 | ------------- | --------------- | ----------------- |
 | Sep-14 | In-situ visualization with ParaView Catalyst2 | Alex Razoumov |
 | Sep-28 | Data visualization with Makie in Julia | Marie-Hélène Burle |
-| Oct-12 | | |
+| Oct-12 | TensorBoard for objection detection models | Jillian Anderson |
 | Oct-26 | | |
 | Nov-09 | | |
 | Nov-23 | Turbo boost your interactive experience on the cluster with Tmux | Chris Want |
@@ -44,6 +44,7 @@ We will open registration in early September.
 
 <!-- Nov-13[^1] -->
 <!-- [^1]: Note the different day of the week (Friday). -->
+
 
 
 
