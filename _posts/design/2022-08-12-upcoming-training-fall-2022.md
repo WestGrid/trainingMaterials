@@ -34,11 +34,10 @@ We will open registration in early September.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Sep-14 | In-situ visualization with ParaView Catalyst2 | Alex Razoumov |
-| Sep-28 | Data visualization with Makie in Julia | Marie-Hélène Burle |
+| Sep-28 | In-situ visualization with ParaView Catalyst2 | Alex Razoumov |
 | Oct-12 | TensorBoard for objection detection models | Jillian Anderson |
-| Oct-26 | | |
-| Nov-09 | | |
+| Oct-26 | Data visualization with Makie in Julia | Marie-Hélène Burle |
+| Nov-09 | TBC | TBC |
 | Nov-23 | Turbo boost your interactive experience on the cluster with Tmux | Chris Want |
 | Dec-07 | Topic TBA | Alex Razoumov or Marie-Hélène Burle |
 
@@ -60,6 +59,7 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 | TOPIC | 1st run&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 2nd run&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 |-|-|-
 | Automation and scripting in bash for absolute beginners | [Friday, Sep-23 at<br> <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3683923) | Thursday, Sep-29 at<br> <span style="color:#CE0834">SFU Research Commons</span>
+| 1/2-day Git workshop | [Tuesday, Oct-04 at<br> <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/help/publish/research-data-management/version-control-git-github-workshop) |
 | What format to choose to save your data | Thursday, Oct-27 at<br> <span style="color:#CE0834">SFU Research Commons</span> | [Friday, Nov-04 at<br> <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3683941)
 | Authoring scientific documents with Markdown and Quarto | Thursday, Nov-24 at<br> <span style="color:#CE0834">SFU Research Commons</span> | [Friday, Dec-02 at<br> <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3683985)
 
