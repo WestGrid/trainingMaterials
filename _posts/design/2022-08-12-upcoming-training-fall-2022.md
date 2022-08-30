@@ -71,6 +71,7 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Location |
 | Sep-16 to Oct-03 | University of Alberta |
+| Sep-27 | University of Victoria |
 
 
 
