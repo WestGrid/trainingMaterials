@@ -49,7 +49,7 @@ We will open registration in early September.
 
 
 
-## Research Commons workshops
+## UBC / SFU Research Commons workshops
 
 These workshops are in-person only. Students, staff and faculty are all welcome to attend.
 <!-- For upcoming workshops, click a date to see more details or to register. -->
@@ -85,7 +85,7 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 
 ## Autumn school
 
-We will announce the dates at the start of the academic year.
+We will announce the dates in September, with registration opening in October.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | mid-November | WestDRI autumn school | Online |
