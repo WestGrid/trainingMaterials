@@ -34,12 +34,12 @@ We will open registration in early September.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Sep-28 | In-situ visualization with ParaView Catalyst2 | Alex Razoumov |
-| Oct-12 | TensorBoard for objection detection models | Jillian Anderson |
-| Oct-26 | Data visualization with Makie in Julia | Marie-Hélène Burle |
+| Sep-28 | In-situ visualization with ParaView Catalyst2 | Alex Razoumov (SFU) |
+| Oct-12 | TensorBoard for objection detection models | Jillian Anderson (SFU) |
+| Oct-26 | Data visualization with Makie in Julia | Marie-Hélène Burle (SFU) |
 | Nov-09 | TBC | TBC |
-| Nov-23 | Turbo boost your interactive experience on the cluster with Tmux | Chris Want |
-| Dec-07 | Topic TBA | Alex Razoumov or Marie-Hélène Burle |
+| Nov-23 | Turbo boost your interactive experience on the cluster with Tmux | Chris Want (UofA) |
+| Dec-07 | Topic TBA | Alex Razoumov or Marie-Hélène Burle (SFU) |
 
 <!-- Nov-13[^1] -->
 <!-- [^1]: Note the different day of the week (Friday). -->
@@ -67,6 +67,12 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 
 
 
+## Local bootcamps and workshops
+
+| DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Location |
+| Sep-16 to Oct-03 | University of Alberta |
+
+
 
 
 
@@ -83,7 +89,7 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 
 
 
-## Autumn school
+## WestDRI autumn school
 
 We will announce the dates in September, with registration opening in October.
 
