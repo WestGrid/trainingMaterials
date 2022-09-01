@@ -34,9 +34,9 @@ We will open registration in early September.
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Sep-28 | In-situ visualization with ParaView Catalyst2 | Alex Razoumov (SFU) |
-| Oct-12 | TensorBoard for objection detection models | Jillian Anderson (SFU) |
-| Oct-26 | Data visualization with Makie in Julia | Marie-Hélène Burle (SFU) |
+| Sep-28 | [In-situ visualization with ParaView Catalyst2](https://www.eventbrite.ca/e/411375805107) | Alex Razoumov (SFU) |
+| Oct-12 | [TensorBoard for objection detection models](https://www.eventbrite.ca/e/412037313697) | Jillian Anderson (SFU) |
+| Oct-26 | [Data visualization with Makie in Julia](https://www.eventbrite.ca/e/412088416547) | Marie-Hélène Burle (SFU) |
 | Nov-09 | TBC | TBC |
 | Nov-23 | Turbo boost your interactive experience on the cluster with Tmux | Chris Want (UofA) |
 | Dec-07 | Topic TBA | Alex Razoumov or Marie-Hélène Burle (SFU) |
