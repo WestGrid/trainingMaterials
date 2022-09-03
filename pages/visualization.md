@@ -21,7 +21,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Highlights from the 2021 SciVis Contest"</em>](#highlights-from-the-2021-scivis-contest)
+[<em>"In-situ visualization with ParaView Catalyst2"</em>](#in-situ-visualization-with-paraview-catalyst2)
+• [<em>"Highlights from the 2021 SciVis Contest"</em>](#highlights-from-the-2021-scivis-contest)
 • [<em>"Remote visualization on Compute Canada clusters"</em>](#remote-visualization-on-compute-canada-clusters)
 • [<em>"Scientific visualization on NVIDIA GPUs"</em>](#nvidia)
 • [<em>"Workflows with Programmable Filter / Source in ParaView"</em>](#programmable)
@@ -42,6 +43,29 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 • [<em>"CPU-based rendering with OSPRay"</em>](#cpu-based-rendering-with-ospray)
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
+
+---
+
+<a name="nvidia"></a>
+#### *"In-situ visualization with ParaView Catalyst2"*
+
+**Webinar** (2022-Sep-28) by Alex Razoumov
+
+Catalyst lets you perform analysis and visualization of your simulation data while your simulation is running,
+using familiar ParaView visualization pipelines. In this webinar I focus on Catalyst2 which is a significant
+rewrite of the original Catalyst framework. Catalyst2 provides an API for describing and passing data arrays —
+computational meshes and fields — from your simulation to the Catalyst2 library which in turn converts these
+arrays into appropriate VTK data objects, without you having to know the VTK data model (unlike with the
+original Catalyst), and without duplicating these data arrays in memory. Catalyst2 framework can scale to very
+large datasets and thousands of CPU cores via MPI.
+
+I show examples of instrumenting a C simulation code with Catalyst2 and applying various Catalyst Python
+scripts to generate data and images on the fly while the simulation is running. These Catalyst Python scripts
+in turn can be easily generated with Extractors which have been part of ParaView since version 5.9. I also
+demo ParaView Live connecting from the ParaView GUI to a live simulation to modify an existing visualization
+pipeline while the simulation is running. This lets you interactively explore large datasets in memory without
+having to write them to disk. Even though I demo Catalyst2 with C codes, it can be used from C, C++, Fortran,
+Python, and has also been demonstrated to work well with Julia simulation codes.
 
 ---
 
