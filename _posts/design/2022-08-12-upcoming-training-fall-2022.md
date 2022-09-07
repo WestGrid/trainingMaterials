@@ -23,12 +23,22 @@ image:
 mediaplayer: true
 ---
 
+## New mailing list
+
+<!-- While WestGrid ceased its operations on March 31, 2022, research computing training in Western Canada remains -->
+<!-- -- coordinated by the same team, now based at Simon Fraser University, with participation from HPC analysts -->
+<!-- across the BC DRI Group and the Prairies DRI Group (former WestGrid space). -->
+
+To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
+[subscribe here](http://eepurl.com/h-yBFL){:target="_blank"}. Going forward, this new list will be our primary
+way to reach academic researchers in Western Canada (and elsewhere).
+
 ## Webinars
 
-WestGrid's bi-weekly training webinars take place every second Wednesday at 10am Pacific / 11am Mountain /
-12pm Central.
+BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Wednesday at 10am Pacific
+/ 11am Mountain / 12pm Central.
 
-We will open registration in early September.
+<!-- We will open registration in early September. -->
 <!-- For *upcoming webinars*, click the linked title to see more details or to register. For *past -->
 <!-- sessions*, click on the title to view recordings and slides. -->
 
@@ -99,4 +109,5 @@ We will announce the dates in September, with registration opening in October.
 
 
 
-<!-- As always, we welcome requests for other training topics and events. Please email suggestions to training@westgrid.ca. -->
+As always, we welcome requests for other training topics and events. Please email suggestions to `training at
+westdri dot ca`.
