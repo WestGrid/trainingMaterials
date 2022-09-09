@@ -80,7 +80,7 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 ## Local bootcamps and workshops
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Location |
-| Sep-16 to Oct-03 | University of Alberta |
+| Sep-16 to Oct-03 | [University of Alberta's Fall Research Computing Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2022/fall-research-computing-bootcamp-starts-september-16.html){:target="_blank"} |
 | Sep-27 | University of Victoria |
 
 
