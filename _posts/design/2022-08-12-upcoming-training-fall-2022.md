@@ -44,10 +44,10 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Sep-28 | [In-situ visualization with ParaView Catalyst2](https://www.eventbrite.ca/e/411375805107) | Alex Razoumov (SFU) |
-| Oct-12 | [TensorBoard for objection detection models](https://www.eventbrite.ca/e/412037313697) | Jillian Anderson (SFU) |
-| Oct-26 | [Data visualization in Julia with the Makie ecosystem](https://www.eventbrite.ca/e/412088416547) | Marie-Hélène Burle (SFU) |
-| Nov-09 | [Storage options for cloud computing](https://www.eventbrite.ca/e/425556118807) | Sarah Huber (UVic) |
+| Sep-28 | [In-situ visualization with ParaView Catalyst2](https://www.eventbrite.ca/e/411375805107){:target="_blank"} | Alex Razoumov (SFU) |
+| Oct-12 | [TensorBoard for objection detection models](https://www.eventbrite.ca/e/412037313697){:target="_blank"} | Jillian Anderson (SFU) |
+| Oct-26 | [Data visualization in Julia with the Makie ecosystem](https://www.eventbrite.ca/e/412088416547){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Nov-09 | [Storage options for cloud computing](https://www.eventbrite.ca/e/425556118807){:target="_blank"} | Sarah Huber (UVic) |
 | Nov-23 | Turbo boost your interactive experience on the cluster with Tmux | Chris Want (UofA) |
 | Dec-07 | Topic TBA | Alex Razoumov or Marie-Hélène Burle (SFU) |
 
