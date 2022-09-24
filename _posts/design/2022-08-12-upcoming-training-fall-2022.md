@@ -102,12 +102,17 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 
 ## WestDRI autumn school
 
-We will announce the dates in September, with registration opening in October.
+In our 2022 autumn school we decided to focus on a small subset of our courses, leaving more advanced topics
+to spring (March) and summer (May-June) schools.
 
-| DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Event | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| mid-November | WestDRI autumn school | Online |
+Registration for the autumn school will start in October.
 
-
+| DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Course | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Nov-08 | Linux command line | Online |
+| Nov-10 | Intro to HPC | Online |
+| Nov-15 | Intro to Python | Online |
+| Nov-17 | Intro to R | Online |
+| Nov-22 | GPU Python (NVIDIA) | Online |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to `training at
 westdri dot ca`.
