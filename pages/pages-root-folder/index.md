@@ -10,14 +10,14 @@ header:
 widget1:
   title: "Getting started"
   url: '/getting-started/'
-  image: widget-1-302x182.jpg
+  image: deskTopView.png
   text: 'If you are new to using clusters, or not sure how to compile codes or submit Slurm jobs, this page is a
   good starting point.'
 widget2:
   title: "Online documentation"
   url: 'https://docs.computecanada.ca/wiki/Compute_Canada_Documentation'
   text: 'Check out Compute Canada&#8217;s technical documentation wiki, the primary source for information on Compute Canada resources and services.'
-  image: ccLogo.jpg
+  image: ancientLibrary.png
 widget3:
   title: "Upcoming sessions"
   url: '/events/upcoming-training-fall-2022'
