@@ -110,8 +110,8 @@ Registration for the autumn school will start in October.
 | DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Course | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Nov-08 | Linux command line | Online |
 | Nov-10 | Intro to HPC | Online |
-| Nov-15 | Intro to Python | Online |
-| Nov-17 | Intro to R | Online |
+| Nov-15 | Python level 1 | Online |
+| Nov-17 | R level 1 | Online |
 | Nov-22 | GPU Python (NVIDIA) | Online |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to `training at
