@@ -67,6 +67,9 @@ pipeline while the simulation is running. This lets you interactively explore la
 having to write them to disk. Even though I demo Catalyst2 with C codes, it can be used from C, C++, Fortran,
 Python, and has also been demonstrated to work well with Julia simulation codes.
 
+* [PDF slides]({{ site.baseurl }}/materials/catalyst20220928.pdf)
+* [ZIP file with scripts and instructions]({{ site.baseurl }}/materials/catalyst20220928.zip)
+
 ---
 
 <a name="nvidia"></a>
