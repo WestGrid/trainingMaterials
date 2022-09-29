@@ -70,6 +70,12 @@ Python, and has also been demonstrated to work well with Julia simulation codes.
 * [PDF slides]({{ site.baseurl }}/materials/catalyst20220928.pdf)
 * [ZIP file with scripts and instructions]({{ site.baseurl }}/materials/catalyst20220928.zip)
 
+<div class="flex-video">
+	<iframe width="932" height="524" src="https://www.youtube.com/embed/g3cvXeKbt1o" title="YouTube video player"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
 ---
 
 <a name="nvidia"></a>
