@@ -42,7 +42,7 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 <!-- For *upcoming webinars*, click the linked title to see more details or to register. For *past -->
 <!-- sessions*, click on the title to view recordings and slides. -->
 
-| DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TOPIC | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| DATE&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; | TOPIC | Speaker&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
 | Sep-28 | [<span style="color:blue">In-situ visualization with ParaView Catalyst2</span>]({{ site.baseurl }}/tools/visualization/#in-situ-visualization-with-paraview-catalyst2) | Alex Razoumov (SFU) |
 | Oct-12 | [TensorBoard for objection detection models](https://www.eventbrite.ca/e/412037313697){:target="_blank"} | Jillian Anderson (SFU) |
@@ -79,7 +79,7 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 
 ## Local bootcamps and workshops
 
-| DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title | Location |
+| DATE&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; | Title | Location |
 | Sep-16 to Oct-03 | [Fall Research Computing Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2022/fall-research-computing-bootcamp-starts-september-16.html){:target="_blank"} | University of Alberta |
 | Sep-29 | [Workshop: Introduction to machine learning under the Alliance resources](https://onlineacademiccommunity.uvic.ca/rcs/2022/09/09/workshop-introduction-to-machine-learning-under-the-alliance-resources){:target="_blank"} | University of Victoria |
 
@@ -107,12 +107,12 @@ to spring (March) and summer (May-June) schools.
 
 Registration for the autumn school will start in October.
 
-| DATE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Course | Location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| Nov-08 | Linux command line | Online |
-| Nov-10 | Python level 1 | Online |
-| Nov-15 | Intro to HPC | Online |
-| Nov-17 | R level 1 | Online |
-| Nov-22 | GPU Python (NVIDIA) | Online |
+| DATE&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; | Course | Location&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; |
+| Nov-08 | [Linux command line](https://autumnschool2022.netlify.app/bash-menu){:target="_blank"} | Online |
+| Nov-10 | [Python level 1](https://autumnschool2022.netlify.app/python-menu){:target="_blank"} | Online |
+| Nov-15 | [Intro to HPC](https://autumnschool2022.netlify.app/hpc-menu){:target="_blank"} | Online |
+| Nov-17 | [R level 1](https://autumnschool2022.netlify.app/r-menu){:target="_blank"} | Online |
+| Nov-22 | [GPU Python (NVIDIA)](https://autumnschool2022.netlify.app/gpu-menu){:target="_blank"} | Online |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to `training at
 westdri dot ca`.
