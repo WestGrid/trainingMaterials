@@ -105,7 +105,7 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 In our 2022 autumn school we decided to focus on a small subset of our courses, leaving more advanced topics
 to spring (March) and summer (May-June) schools.
 
-Registration for the autumn school will start in October.
+Registration for the autumn school is [now open](https://forms.gle/NZhzRU5o8ti8VhVJ7){:target="_blank"}.
 
 | DATE&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; | Course | Location&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; |
 | Nov-08 | [Linux command line](https://autumnschool2022.netlify.app/bash-menu){:target="_blank"} | Online |
