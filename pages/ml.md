@@ -13,6 +13,40 @@ permalink: "/tools/ml/"
 
 ## Webinars
 
+
+
+
+
+<a name="tensorboard"></a>
+#### *"TensorBoard for objection detection models"*
+
+**Webinar** (2022-Oct-12) by Jillian Anderson
+
+TensorFlow remains one of the most popular machine learning frameworks for researchers from across
+disciplines. The TensorFlow ecosystem's size & flexibility makes it a powerful solution for tasks such as
+machine translation, image classification, and voice recognition. However, the same things that make the
+TensorFlow ecosystem powerful can also make it intimidating for new users. In this webinar we focus on one
+part of the TensorFlow ecosystem - TensorBoard.
+
+TensorBoard is a toolkit that allows users to monitor training and evaluate trained models through a visual
+interface. In other words, with TensorBoard you can explore your models and their performance by looking at
+graphs and images rather than by combing through logs.
+
+In this webinar, I introduce how TensorBoard can be used on the Digital Research Alliance's HPC clusters to
+(1) monitor a model during training and (2) evaluate and compare models once training is complete. This
+webinar focuses on the TensorBoard tools specifically relevant to object detection models, with examples from
+a project in ecological monitoring that utilized the Cedar cluster for training. However, the general concept
+of using TensorBoard for model monitoring is applicable to projects from across disciplines and HPC clusters.
+
+* [PDF slides]({{ site.baseurl }}/materials/tensorBoard20221012.pdf)
+
+
+
+
+
+
+
+
 <a name="pytorch-tensors"></a>
 #### *"Everything you wanted to know (and more) about PyTorch tensors"*
 
