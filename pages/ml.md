@@ -40,12 +40,11 @@ of using TensorBoard for model monitoring is applicable to projects from across 
 
 * [PDF slides]({{ site.baseurl }}/materials/tensorBoard20221012.pdf)
 
-
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="843" height="474" src="https://www.youtube.com/embed/y4YGqMcsIxc" title="TensorBoard for
+	objection detection models" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <a name="pytorch-tensors"></a>
 #### *"Everything you wanted to know (and more) about PyTorch tensors"*
