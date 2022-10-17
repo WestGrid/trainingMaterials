@@ -102,8 +102,8 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 
 ## WestDRI autumn school
 
-In our 2022 autumn school we decided to focus on a small subset of our courses, leaving more advanced topics
-to spring (March) and summer (May-June) schools.
+In our [2022 autumn school](https://autumnschool2022.netlify.app){:target="_blank"} we decided to focus on a
+small subset of our courses, leaving more advanced topics to spring (March) and summer (May-June) schools.
 
 Registration for the autumn school is [now open](https://forms.gle/NZhzRU5o8ti8VhVJ7){:target="_blank"}.
 
