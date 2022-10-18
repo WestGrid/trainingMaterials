@@ -102,17 +102,17 @@ To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
 
 ## WestDRI autumn school
 
-In our [2022 autumn school](https://autumnschool2022.netlify.app){:target="_blank"} we decided to focus on a
+In our [2022 autumn school](https://autumnschool2022.westdri.ca){:target="_blank"} we decided to focus on a
 small subset of our courses, leaving more advanced topics to spring (March) and summer (May-June) schools.
 
 Registration for the autumn school is [now open](https://forms.gle/NZhzRU5o8ti8VhVJ7){:target="_blank"}.
 
 | DATE&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; | Course | Location&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; |
-| Nov-08 | [Linux command line](https://autumnschool2022.netlify.app/bash-menu){:target="_blank"} | Online |
-| Nov-10 | [Python level 1](https://autumnschool2022.netlify.app/python-menu){:target="_blank"} | Online |
-| Nov-15 | [Intro to HPC](https://autumnschool2022.netlify.app/hpc-menu){:target="_blank"} | Online |
-| Nov-17 | [R level 1](https://autumnschool2022.netlify.app/r-menu){:target="_blank"} | Online |
-| Nov-22 | [GPU Python (NVIDIA)](https://autumnschool2022.netlify.app/gpu-menu){:target="_blank"} | Online |
+| Nov-08 | [Linux command line](https://autumnschool2022.westdri.ca/bash-menu){:target="_blank"} | Online |
+| Nov-10 | [Python level 1](https://autumnschool2022.westdri.ca/python-menu){:target="_blank"} | Online |
+| Nov-15 | [Intro to HPC](https://autumnschool2022.westdri.ca/hpc-menu){:target="_blank"} | Online |
+| Nov-17 | [R level 1](https://autumnschool2022.westdri.ca/r-menu){:target="_blank"} | Online |
+| Nov-22 | [GPU Python (NVIDIA)](https://autumnschool2022.westdri.ca/gpu-menu){:target="_blank"} | Online |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to `training at
 westdri dot ca`.
