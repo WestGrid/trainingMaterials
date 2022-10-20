@@ -11,7 +11,9 @@ permalink: "/courses/"
 
 We offer training on a wide range of topics related to scientific programming, high-performance computing, data analysis, and visualization. These courses can take any form, from one hour to multiple days, online or in person.
 
-We run regular workshops each year: summer schools around May–August and winter schools around November–March. Traditionally, these are hosted by universities in southwest BC (Vancouver or Victoria) and east of the Rockies (Alberta, Saskatchewan, or Manitoba). Due to Covid-19, they have moved online for the time being.
+We run regular workshops each year: summer schools around May–August and winter schools around
+November–March. Traditionally, these are hosted by universities in southwest BC (Vancouver or Victoria) and
+east of the Rockies (Alberta, Saskatchewan, or Manitoba), and some schools are taught online.
 
 **In addition to our regular events, we offer on-demand workshops and customized training.**
 
@@ -215,6 +217,8 @@ This two-day workshop introduces version control with Git and covers the most co
 * Introduction to cloud computing (setting a VM in Compute Canada's cloud)
 * Debugging
 * Memory debugging
+* Singularity / Apptainer containers
+* In-situ visualization
 * 3D visualization for humanities and social sciences
 * Research data management
 * Bioinformatics workflows in HPC
