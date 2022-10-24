@@ -34,7 +34,7 @@ permalink: "/getting-started/"
 
 **Webinar** (2020-11-13) by Marie-Hélène Burle
 
-* <a href="https://westgrid-cli.netlify.app/webinars/getting_help" target="_blank">Webinar page</a>
+* <a href="https://prog.westdri.ca/webinars/getting_help" target="_blank">Webinar page</a>
 
 <div class="flex-video">
 	<iframe width="1158" height="660" src="https://www.youtube.com/embed/mZjyf84Gbhg" frameborder="0"
@@ -138,7 +138,7 @@ users, we finish the workshop with two Emacs utilities:
 1. [Helm](https://github.com/emacs-helm/helm): a "framework for incremental completions and narrowing selections".
 
 * [PDF slides]({{ site.baseurl }}/materials/favouriteCLITools20220316.pdf)
-* [Online slides](https://westgrid-slides.netlify.app/tools/#)
+* [Online slides](https://slides.westdri.ca/tools/#)
 
 <div class="flex-video">
 	<iframe width="711" height="400" src="https://www.youtube.com/embed/nshNKPFDrV8" title="YouTube video player"

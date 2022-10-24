@@ -19,7 +19,7 @@ In this webinar we show how to create inset maps, faceted maps, animated maps, i
 cartograms, raster maps, and bridge over from R to QGIS with packages `sf`, `tmap`, `raster`, `leaflet`, `shiny`,
 `ggplot2`, `ggmap`, `grid`, `mapview`, `cartogram`, and `qgisprocess`.
 
-* [presentation materials](https://westgrid-cli.netlify.app/webinars/adv_gis_r)
+* [presentation materials](https://prog.westdri.ca/webinars/adv_gis_r)
 
 <div class="flex-video">
 	<iframe width="951" height="535" src="https://www.youtube.com/embed/7QoccXWqeUs" frameborder="0"
@@ -36,7 +36,7 @@ cartograms, raster maps, and bridge over from R to QGIS with packages `sf`, `tma
 
 In this webinar, we introduce simple GIS tasks as well as map production in R using the packages `sf` and `tmap`.
 
-* [presentation materials](https://westgrid-cli.netlify.app/webinars/gis_r)
+* [presentation materials](https://prog.westdri.ca/webinars/gis_r)
 
 <div class="flex-video">
 	<iframe width="684" height="428" src="https://www.youtube.com/embed/vWwbwROqn6w" frameborder="0"

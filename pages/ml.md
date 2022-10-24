@@ -9,7 +9,7 @@ header:
 permalink: "/tools/ml/"
 ---
 
-(You can also browse all our machine learning materials <a href="https://westgrid-ml.netlify.app/" target="_blank">here</a>.)
+(You can also browse all our machine learning materials <a href="https://ml.westdri.ca/" target="_blank">here</a>.)
 
 ## Webinars
 
@@ -58,7 +58,7 @@ distributed fashion, as well as the ability to keep track of computation graphs 
 PyTorch tensors provide these and much more, can be easily converted to/from NumPy's `ndarray` and integrate well with
 other Python libraries such as Pandas.
 
-* [Online slides](https://westgrid-slides.netlify.app/torchtensors_webinar)
+* [Online slides](https://slides.westdri.ca/torchtensors_webinar)
 * [PDF slides]({{ site.baseurl }}/materials/torchtensors20220119.pdf)
 
 <div class="flex-video">
@@ -102,7 +102,7 @@ and data processing techniques in terms of decoupled abstractions.
 
 This webinar takes a closer look at the features and functionality of fastai.
 
-* <a href="https://westgrid-ml.netlify.app/webinars/fastai" target="_blank">Online slides</a>
+* <a href="https://ml.westdri.ca/webinars/fastai" target="_blank">Online slides</a>
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/Q3__FzA6XLc" title="YouTube video player"
@@ -116,8 +116,8 @@ This webinar takes a closer look at the features and functionality of fastai.
 
 **Webinar** (2020-May-13) by Marie-Hélène Burle
 
-* <a href="https://westgrid-ml.netlify.app/webinars/flux.html" target="_blank">Webinar page</a>
-* <a href="https://westgrid-ml.netlify.app/webinars/flux.html#headline-4" target="_blank">Comments & questions</a>
+* <a href="https://ml.westdri.ca/webinars/flux.html" target="_blank">Webinar page</a>
+* <a href="https://ml.westdri.ca/webinars/flux.html#headline-4" target="_blank">Comments & questions</a>
 * <a href="https://westgrid-webinars.netlify.app/flux#" target="_blank">Online slides</a>
 
 <div class="flex-video">
