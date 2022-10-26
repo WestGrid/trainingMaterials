@@ -60,11 +60,14 @@ layouts, and extensibility. Makie comes with multiple backends. In this workshop
 interactive 2D and 3D plotting), WGLMakie (an equivalent that runs within browsers), and CairoMakie (best for
 high-quality vector graphics). We also show how to run Makie in the Alliance clusters.
 
-<!-- * [PDF slides]({{ site.baseurl }}/materials/.pdf) -->
+* [PDF slides]({{ site.baseurl }}/materials/makie20221026.pdf)
 * [Online slides](https://julia.westdri.ca/webinars/makie){:target="_blank"}
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="817" height="460" src="https://www.youtube.com/embed/nmAv2bW9Y2I" title="Data visualization
+	in Julia with the Makie ecosystem" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
