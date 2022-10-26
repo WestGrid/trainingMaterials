@@ -46,7 +46,7 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 | ------------- | --------------- | ----------------- |
 | Sep-28 | [<span style="color:blue">In-situ visualization with ParaView Catalyst2</span>]({{ site.baseurl }}/tools/visualization/#in-situ-visualization-with-paraview-catalyst2) | Alex Razoumov (SFU) |
 | Oct-12 | [<span style="color:blue">TensorBoard for objection detection models</span>]({{ site.baseurl }}/tools/ml/#tensorboard) | Jillian Anderson (SFU) |
-| Oct-26 | [Data visualization in Julia with the Makie ecosystem](https://www.eventbrite.ca/e/412088416547){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Oct-26 | [<span style="color:blue">Data visualization in Julia with the Makie ecosystem</span>]({{ site.baseurl }}/tools/visualization/#data-visualization-in-julia-with-the-makie-ecosystem) | Marie-Hélène Burle (SFU) |
 | Nov-09 | [Storage options for cloud computing](https://www.eventbrite.ca/e/425556118807){:target="_blank"} | Sarah Huber (UVic) |
 | Nov-23 | Turbo boost your interactive experience on the cluster with Tmux | Chris Want (UofA) |
 | Dec-07 | Topic TBA | Alex Razoumov or Marie-Hélène Burle (SFU) |
