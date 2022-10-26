@@ -21,7 +21,8 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"In-situ visualization with ParaView Catalyst2"</em>](#in-situ-visualization-with-paraview-catalyst2)
+[<em>"Data visualization in Julia with the Makie ecosystem"</em>](#data-visualization-in-julia-with-the-makie-ecosystem)
+• [<em>"In-situ visualization with ParaView Catalyst2"</em>](#in-situ-visualization-with-paraview-catalyst2)
 • [<em>"Highlights from the 2021 SciVis Contest"</em>](#highlights-from-the-2021-scivis-contest)
 • [<em>"Remote visualization on Compute Canada clusters"</em>](#remote-visualization-on-compute-canada-clusters)
 • [<em>"Scientific visualization on NVIDIA GPUs"</em>](#nvidia)
@@ -46,7 +47,32 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 ---
 
-<a name="nvidia"></a>
+
+
+#### *"Data visualization in Julia with the Makie ecosystem"*
+
+**Webinar** (2022-Oct-26) by Marie-Hélène Burle
+
+There are several popular data visualization libraries for the Julia programming language, e.g. Plots, Gadfly,
+VegaLite, Makie. They vary in their precompilation time, time to first plot, layout capabilities, ability to
+handle 3D data, ease of use, and syntax style. In this landscape, Makie focuses on high performance, fancy
+layouts, and extensibility. Makie comes with multiple backends. In this workshop, we cover GLMakie (ideal for
+interactive 2D and 3D plotting), WGLMakie (an equivalent that runs within browsers), and CairoMakie (best for
+high-quality vector graphics). We also show how to run Makie in the Alliance clusters.
+
+<!-- * [PDF slides]({{ site.baseurl }}/materials/.pdf) -->
+* [Online slides](https://julia.westdri.ca/webinars/makie){:target="_blank"}
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
+
+
+
 #### *"In-situ visualization with ParaView Catalyst2"*
 
 **Webinar** (2022-Sep-28) by Alex Razoumov
@@ -78,7 +104,6 @@ Python, and has also been demonstrated to work well with Julia simulation codes.
 
 ---
 
-<a name="nvidia"></a>
 #### *"Highlights from the 2021 SciVis Contest"*
 
 **Webinar** (2021-Nov-10) by Alex Razoumov
@@ -104,7 +129,6 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 ---
 
-<a name="nvidia"></a>
 #### *"Remote visualization on Compute Canada clusters"*
 
 **Webinar** (2021-Sep-29) by Alex Razoumov
