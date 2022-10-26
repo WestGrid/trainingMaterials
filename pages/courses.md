@@ -132,6 +132,26 @@ GPUs.
 
 <details>
 <summary>
+<a>&nbsp;&nbsp;<font size="+1">3D visualization for humanities and social sciences</font></a>
+</summary>
+<p>
+<br>
+What would you like to do with your data in 3D? 3D visualization has been used in traditional scientific
+computing domains for the past several decades to visualize results of multidimensional numerical
+simulations. In humanities 3D visualizations have been mostly restricted to specialized areas such as game
+engines, architectural renderings, virtual environments, photogrammetric processing, and visualization of
+point cloud data — workflows that tend to use very specific tools. In this full-day course we will approach 3D
+visualization from a more general perspective, treating it as an extension of interactive 2D plotting into the
+third dimension. In the first 80% of the workshop we will teach you how to use 3D general-purpose scientific
+visualization tools for interactive 3D analysis of humanities data, walking through a series of simple
+hands-on problems designed specifically for this course. In the remaining 20% we will show you how to put
+these (and more general polygon-based) visualizations on the web, using state-of-the-start in-browser
+visualization techniques. No prior visualization experience is needed.
+</p>
+</details>
+
+<details>
+<summary>
 <a>&nbsp;&nbsp;<font size="+1">Introduction to programming in Julia</font></a>
 </summary>
 <p>
@@ -219,7 +239,6 @@ This two-day workshop introduces version control with Git and covers the most co
 * Memory debugging
 * Singularity / Apptainer containers
 * In-situ visualization
-* 3D visualization for humanities and social sciences
 * Research data management
 * Bioinformatics workflows in HPC
 * Introduction to GPU programming with CUDA
