@@ -49,7 +49,7 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 | Oct-26 | [<span style="color:blue">Data visualization in Julia with the Makie ecosystem</span>]({{ site.baseurl }}/tools/visualization/#data-visualization-in-julia-with-the-makie-ecosystem) | Marie-Hélène Burle (SFU) |
 | Nov-09 | [Storage options for cloud computing](https://www.eventbrite.ca/e/425556118807){:target="_blank"} | Sarah Huber (UVic) |
 | Nov-23 | Turbo boost your interactive experience on the cluster with tmux | Chris Want (UofA) |
-| Dec-07 | Lesser known but incredibly useful features of Bash | Alex Razoumov and Marie-Hélène Burle (SFU) |
+| Dec-07 | Lesser known but very useful Bash features | Alex Razoumov and Marie-Hélène Burle (SFU) |
 
 <!-- Nov-13[^1] -->
 <!-- [^1]: Note the different day of the week (Friday). -->
