@@ -23,8 +23,6 @@ image:
 mediaplayer: true
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_931e1c03612d34e93731445887914964ac4c406fd45b3c4e024af73264391906%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## New mailing list
 
 <!-- While WestGrid ceased its operations on March 31, 2022, research computing training in Western Canada remains -->
