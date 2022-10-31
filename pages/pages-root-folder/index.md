@@ -33,10 +33,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://alliancecan.ca
-  text: See the latest news  ›
-  style: alert
+#callforaction:
+#  url: https://alliancecan.ca
+#  text: See the latest news  ›
+#  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
