@@ -63,7 +63,7 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 
 These workshops are in-person only. Students, staff and faculty are all welcome to attend.
 <!-- For upcoming workshops, click a date to see more details or to register. -->
-To register, click on an event in the 2nd or 3rd column (not open for SFU yet).
+To register, click on an event in the 2nd or 3rd column.
 
 |---
 | TOPIC | 1st run&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 2nd run&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
