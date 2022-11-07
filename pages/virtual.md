@@ -20,6 +20,23 @@ technical wiki.
 ---
 
 <a name="cloudSecurity"></a>
+#### *"Storage options for cloud computing"*
+
+**Webinar** (2022-Nov-09) by Sarah Huber
+
+* [PDF slides]({{ site.baseurl }}/materials/.pdf)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
+
+---
+
+<a name="cloudSecurity"></a>
 #### *"Best practices for securing your own OpenStack VM / Amazon instances / Containers"*
 
 **Webinar** (2022-Mar-30) by Ken Bigelow
