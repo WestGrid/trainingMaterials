@@ -24,7 +24,7 @@ technical wiki.
 
 **Webinar** (2022-Nov-09) by Sarah Huber
 
-* [PDF slides]({{ site.baseurl }}/materials/20221109CloudStorage.pdf.pdf)
+* [PDF slides]({{ site.baseurl }}/materials/20221109CloudStorage.pdf)
 
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
