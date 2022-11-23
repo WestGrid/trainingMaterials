@@ -47,8 +47,6 @@ target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wi
 
 ---
 
-
-
 #### *"Data visualization in Julia with the Makie ecosystem"*
 
 **Webinar** (2022-Oct-26) by Marie-Hélène Burle
@@ -69,12 +67,7 @@ high-quality vector graphics). We also show how to run Makie in the Alliance clu
 	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-
-
-
-
-
+---
 
 #### *"In-situ visualization with ParaView Catalyst2"*
 

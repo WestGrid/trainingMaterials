@@ -24,13 +24,10 @@ technical wiki.
 
 **Webinar** (2022-Nov-09) by Sarah Huber
 
-
-
-
 As opposed to a cluster computing environment, projects in Infrastructure-as-a-Service clouds like those in
 the Alliance are responsible for selecting and administering their project's storage systems. Several types of
 cloud storage are available, enabling users to choose the storage type(s) best suited for their use case. In
-this workshop (not recorded, only slides available), we discuss the storage options available:
+this webinar (not recorded, only slides available), we discuss the storage options available:
 
 - volume storage,
 - ephemeral disc storage,

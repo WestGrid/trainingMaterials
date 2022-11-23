@@ -19,7 +19,7 @@ permalink: "/getting-started/"
 
 [Table of Contents](#table-of-contents):
 &nbsp; [Tips & tricks on getting programming help](#tricks)
-• [Introduction to WestGrid, Compute Canada, and HPC](#introduction-to-westgrid-compute-canada-and-hpc)
+• [Introduction to HPC](#introduction-to-hpc)
 • [Linux command line](#linux-command-line)
 • [Git version control](#git-version-control)
 • [Building software with EasyBuild](#building-software-with-easybuild)
@@ -42,18 +42,16 @@ permalink: "/getting-started/"
 	allowfullscreen></iframe>
 </div>
 
-## Introduction to WestGrid, Compute Canada, and HPC
+## Introduction to HPC
 
----
-
-* [Supercomputing in Canada: An Introduction to WestGrid & Compute Canada]({{ site.baseurl }}/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
+* [Supercomputing in Canada: An Introduction]({{ site.baseurl }}/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
 * [High Performance Computing: Short Introduction]({{ site.baseurl }}/materials/hpcUMan20190920.pdf) - Univ. of Manitoba perspective (PDF slides)
 
-#### Quick guides
+<!-- #### Quick guides -->
 
-* [WestGrid Backgrounder](https://www.westgrid.ca/files/WestGrid.Backgrounder.2018.pdf) (one-page PDF)
-* [Getting Started with WestGrid & Compute Canada](https://www.westgrid.ca/files/Getting%20Started%20with%20WestGrid%20%26%20Compute%20Canada.pdf)
-  (two-page PDF)
+<!-- * [WestGrid Backgrounder](https://www.westgrid.ca/files/WestGrid.Backgrounder.2018.pdf) (one-page PDF) -->
+<!-- * [Getting Started with WestGrid & Compute Canada](https://www.westgrid.ca/files/Getting%20Started%20with%20WestGrid%20%26%20Compute%20Canada.pdf) -->
+<!--   (two-page PDF) -->
 
 ---
 
@@ -88,8 +86,6 @@ Browse the latest materials from WestGrid's [Introductory HPC course](http://bit
 
 ## Linux command line
 
----
-
 <!-- Browse the materials from our Introduction to Linux: Command Line Basics (delivered Sept 2017): -->
 <!-- - [View the slides]({{ site.baseurl }}/materials/introLinuxCommandLine20170926.pdf) -->
 <!-- - [Watch the recording](https://www.youtube.com/watch?v=vOrk0OuEU04) -->
@@ -116,6 +112,8 @@ the shell in a HPC context</a>.
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+
+---
 
 #### *"A few of our favourite tools"*
 
@@ -146,6 +144,12 @@ users, we finish the workshop with two Emacs utilities:
 	allowfullscreen></iframe>
 </div>
 
+---
+
+#### *"Turbo boost your interactive experience on the cluster with tmux"*
+
+**Webinar** (2022-11-23) by Chris Want
+
 
 
 
@@ -156,8 +160,6 @@ users, we finish the workshop with two Emacs utilities:
 
 
 ## Git version control
-
----
 
 * <a href="https://westgrid-cli.netlify.com/workshops/github-colab.html" target="_blank">Taking Git one step further: collaborating through GitHub</a>
 * <a href="https://westgrid-cli.netlify.com/workshops/github-contrib.html" target="_blank">Contributing to GitHub projects</a>
