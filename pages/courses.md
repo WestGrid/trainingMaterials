@@ -260,7 +260,7 @@ This two-day workshop introduces version control with Git and covers the most co
 ---
 
 Join our training webinars every second Wednesday at 10am Pacific / 11am Mountain. For more details, check
-[our events](/trainingMaterials/blog).
+[our events](/blog).
 
 <!-- For more details, look -->
 <!-- for *online* events in <a href="https://www.westgrid.ca/events/westgrid-training-events" -->
