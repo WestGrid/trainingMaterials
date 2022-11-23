@@ -105,9 +105,9 @@ To register, click on an event in the 2nd or 3rd column.
 In our [2022 autumn school](https://autumnschool2022.westdri.ca){:target="_blank"} we decided to focus on a
 small subset of our courses, leaving more advanced topics to spring (March) and summer (May-June) schools.
 
-Registration for the autumn school is [now
-open](https://forms.gle/NZhzRU5o8ti8VhVJ7){:target="_blank"}. You will need a Canadian academic email address
-to register.
+<!-- Registration for the autumn school is [now -->
+<!-- open](https://forms.gle/NZhzRU5o8ti8VhVJ7){:target="_blank"}. You will need a Canadian academic email address -->
+<!-- to register. -->
 
 | DATE&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; | Course | Location&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; |
 | Nov-08 | [Linux command line](https://autumnschool2022.westdri.ca/bash-menu){:target="_blank"} | Online |

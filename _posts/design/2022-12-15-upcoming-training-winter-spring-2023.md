@@ -56,7 +56,7 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 <!-- These workshops are in-person only. Students, staff and faculty are all welcome to attend. -->
 <!-- To register, click on an event in the 2nd or 3rd column (not open for SFU yet). -->
 
-More details will be posted by early January.
+More details will be posted in early January.
 
 
 
@@ -64,11 +64,16 @@ More details will be posted by early January.
 
 ## Local bootcamps and workshops
 
-More details will be posted by early January.
+More details will be posted in early January.
 
 
 
 
-## WestDRI spring school
+## WestDRI spring and summer schools
 
-In 2023 we will run an online spring school in March.
+| DATE&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; | Course | Location&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; |
+| early March | spring school | Online |
+| June-19 to June-23 <br> (5 days) | summer school | SFU's Big Data Hub |
+
+As always, we welcome requests for other training topics and events. Please email suggestions to `training at
+westdri dot ca`.
