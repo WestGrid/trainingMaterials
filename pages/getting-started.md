@@ -146,12 +146,24 @@ users, we finish the workshop with two Emacs utilities:
 
 ---
 
+<a name="tmux"></a>
 #### *"Turbo boost your interactive experience on the cluster with tmux"*
 
 **Webinar** (2022-11-23) by Chris Want
 
+Have you experienced issues with unstable SSH connections that prevent you from being productive on your
+favourite cluster?
 
+Do you sometimes wish you had an extra terminal open so that you could run additional programs while waiting
+for tasks to complete?
 
+tmux is a terminal multiplexer (installed on the clusters) that can provide solutions to both connectivity and
+productivity sore points. It keeps your work session alive (even under the worst network conditions) while
+also providing you with the power to turn your terminal into a tiled window interface.
+
+This talk walks through some of the best features that will help you get work done on the cluster.
+
+* [PDF slides]({{ site.baseurl }}/materials/tmux20221123.pdf)
 
 
 

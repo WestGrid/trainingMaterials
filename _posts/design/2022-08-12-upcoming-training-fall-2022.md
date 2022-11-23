@@ -48,7 +48,7 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 | Oct-12 | [<span style="color:blue">TensorBoard for objection detection models</span>]({{ site.baseurl }}/tools/ml/#tensorboard) | Jillian Anderson (SFU) |
 | Oct-26 | [<span style="color:blue">Data visualization in Julia with the Makie ecosystem</span>]({{ site.baseurl }}/tools/visualization/#data-visualization-in-julia-with-the-makie-ecosystem) | Marie-Hélène Burle (SFU) |
 | Nov-09 | [<span style="color:blue">Storage options for cloud computing</span>]({{ site.baseurl }}/tools/virtual#storage-options-for-cloud-computing) | Sarah Huber (UVic) |
-| Nov-23 | [Turbo boost your interactive experience on the cluster with tmux](https://docs.google.com/forms/d/e/1FAIpQLScDoydLYHeGiGEh63akn2WW_aAzTrAPK1QLYS8ZsTabqy-yGA/viewform){:target="_blank"} | Chris Want (UofA) |
+| Nov-23 | [<span style="color:blue">Turbo boost your interactive experience on the cluster with tmux</span>]({{ site.baseurl }}/getting-started#tmux) | Chris Want (UofA) |
 | Dec-07 | [Lesser known but very useful Bash features](https://docs.google.com/forms/d/e/1FAIpQLSchiREqcsgxqLGHOJiCe6qPavPcsqGQtYqHY1yp7eSLqkS0GA/viewform){:target="_blank"} | Alex Razoumov & <br> Marie-Hélène Burle (SFU) |
 
 <!-- Nov-13[^1] -->
