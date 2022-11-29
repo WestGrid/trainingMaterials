@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-subheadline: "Western Canada Research Computing Training Materials"
+subheadline: "WestDRI Training Materials"
 teaser: "We offer in-person and online training sessions on topics such as getting started with clusters, programming languages, specialized software, research data management, and data visualization tools. Contact us at `training at westdri dot ca` to request a session at your university or to suggest a topic for an online webinar."
 permalink: "/info/"
 header:
