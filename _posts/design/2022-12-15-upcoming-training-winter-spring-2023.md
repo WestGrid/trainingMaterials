@@ -35,8 +35,11 @@ way to reach academic researchers in Western Canada (and elsewhere).
 
 ## Webinars
 
-BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Wednesday at 10am Pacific
-/ 11am Mountain / 12pm Central.
+BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Tuesday at 11am Pacific
+/ noon Mountain / 1pm Central.
+
+
+
 
 <!-- We will open registration in early September. -->
 <!-- For *upcoming webinars*, click the linked title to see more details or to register. For *past -->
@@ -44,9 +47,16 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 
 | DATE&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; | TOPIC | Speaker&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-xx | Container overlays for managing multiple files | Alex Razoumov (SFU) |
-| Jan-xx | TBA | Marie-Hélène Burle (SFU) |
-
+| Jan-17 | Container overlays for managing multiple files | Alex Razoumov (SFU) |
+| Jan-31 | Speeding up your computations with parallel R | Marie-Hélène Burle (SFU) |
+| Feb-14 | TBA | - |
+| Feb-28 | TBA | - |
+| Mar-14 | TBA | - |
+| Mar-28 | TBA | - |
+| Apr-11 | TBA | - |
+| Apr-25 | TBA | - |
+| May-09 | TBA | - |
+| May-23 |  TBA | Alex Razoumov and/or Marie-Hélène Burle (SFU) |
 
 
 
