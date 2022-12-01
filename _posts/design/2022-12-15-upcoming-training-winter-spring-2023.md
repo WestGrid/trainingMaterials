@@ -23,15 +23,15 @@ image:
 mediaplayer: true
 ---
 
-## New mailing list
+<!-- ## New mailing list -->
 
 <!-- While WestGrid ceased its operations on March 31, 2022, research computing training in Western Canada remains -->
 <!-- -- coordinated by the same team, now based at Simon Fraser University, with participation from HPC analysts -->
 <!-- across the BC DRI Group and the Prairies DRI Group (former WestGrid space). -->
 
-To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
-[subscribe here](http://eepurl.com/h-yBFL){:target="_blank"}. Going forward, this new list will be our primary
-way to reach academic researchers in Western Canada (and elsewhere).
+<!-- To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please -->
+<!-- [subscribe here](http://eepurl.com/h-yBFL){:target="_blank"}. Going forward, this new list will be our primary -->
+<!-- way to reach academic researchers in Western Canada (and elsewhere). -->
 
 ## Webinars
 
@@ -47,16 +47,16 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 
 | DATE&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; | TOPIC | Speaker&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-17 | Container overlays for managing multiple files | Alex Razoumov (SFU) |
+| Jan-17 | Managing large number of files with container overlays | Alex Razoumov (SFU) |
 | Jan-31 | Speeding up your computations with parallel R | Marie-Hélène Burle (SFU) |
-| Feb-14 | TBA | - |
+| Feb-14 | Data management with DataLad | Ian Percel (UofCalgary) |
 | Feb-28 | TBA | - |
-| Mar-14 | TBA | - |
+| Mar-14 | TBA | Olivier Fisette (USask) |
 | Mar-28 | TBA | - |
 | Apr-11 | TBA | - |
 | Apr-25 | TBA | - |
 | May-09 | TBA | - |
-| May-23 |  TBA | Alex Razoumov and/or Marie-Hélène Burle (SFU) |
+| May-23 | TBA | Alex Razoumov and/or Marie-Hélène Burle (SFU) |
 
 
 
