@@ -23,15 +23,15 @@ image:
 mediaplayer: true
 ---
 
-## New mailing list
+<!-- ## New mailing list -->
 
 <!-- While WestGrid ceased its operations on March 31, 2022, research computing training in Western Canada remains -->
 <!-- -- coordinated by the same team, now based at Simon Fraser University, with participation from HPC analysts -->
 <!-- across the BC DRI Group and the Prairies DRI Group (former WestGrid space). -->
 
-To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
-[subscribe here](http://eepurl.com/h-yBFL){:target="_blank"}. Going forward, this new list will be our primary
-way to reach academic researchers in Western Canada (and elsewhere).
+<!-- To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please -->
+<!-- [subscribe here](http://eepurl.com/h-yBFL){:target="_blank"}. Going forward, this new list will be our primary -->
+<!-- way to reach academic researchers in Western Canada (and elsewhere). -->
 
 ## Webinars
 
