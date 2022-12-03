@@ -15,11 +15,11 @@ tags:
 #
 header: no
 image:
-    title: mandelbulb.png
-    thumb: mandelbulb.png
+    title: stainedGlass.png
+    thumb: stainedGlass.png
     homepage:
-    caption: Power-8 Mandelbulb in ParaView
-    caption_url: https://ccvis.netlify.app/gallery/mandelbulb
+    caption: 2D image of domain decomposition around an airfoil rendered as thin glass in ParaView
+    caption_url: 
 mediaplayer: true
 ---
 
@@ -50,12 +50,12 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 | Jan-17 | Managing large number of files with container overlays | Alex Razoumov (SFU) |
 | Jan-31 | Speeding up your computations with parallel R | Marie-Hélène Burle (SFU) |
 | Feb-14 | Data management with DataLad | Ian Percel (UofCalgary) |
-| Feb-28 | TBA | - |
+| Feb-28 | TBA | TBC |
 | Mar-14 | TBA | Olivier Fisette (USask) |
-| Mar-28 | TBA | - |
-| Apr-11 | TBA | - |
-| Apr-25 | TBA | - |
-| May-09 | TBA | - |
+| Mar-28 | TBA | TBC |
+| Apr-11 | TBA | TBC |
+| Apr-25 | TBA | TBC |
+| May-09 | TBA | John Simpson |
 | May-23 | TBA | Alex Razoumov and/or Marie-Hélène Burle (SFU) |
 
 
