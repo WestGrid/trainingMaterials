@@ -1,10 +1,10 @@
 - name: GitHub
-  url: http://github.com/WestGrid
+  url: https://github.com/WestDRI
   class: icon-github
   title: Code etc.
 
 - name: YouTube
-  url: http://www.youtube.com/WGSeminarSeries
+  url: https://www.youtube.com/WGSeminarSeries
   class: icon-youtube
   title: "WestDRI on YouTube"
 
