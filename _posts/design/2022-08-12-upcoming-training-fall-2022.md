@@ -29,9 +29,8 @@ mediaplayer: true
 <!-- -- coordinated by the same team, now based at Simon Fraser University, with participation from HPC analysts -->
 <!-- across the BC DRI Group and the Prairies DRI Group (former WestGrid space). -->
 
-<!-- To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please -->
-<!-- [subscribe here](http://eepurl.com/h-yBFL){:target="_blank"}. Going forward, this new list will be our primary -->
-<!-- way to reach academic researchers in Western Canada (and elsewhere). -->
+To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
+[subscribe here](/contact).
 
 ## Webinars
 
@@ -118,11 +117,3 @@ small subset of our courses, leaving more advanced topics to spring (March) and 
 
 As always, we welcome requests for other training topics and events. Please email suggestions to `training at
 westdri dot ca`.
-
-
-
-## Join our mailing list
-
-<iframe id="iframeform" src="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1889522&ac=gk59"
-frameborder="0" data-acc-id="gk59" height="200" width="510" scrolling="no">If you can see this, your browser
-does not support IFRAME. Please use a supported browser</iframe>
