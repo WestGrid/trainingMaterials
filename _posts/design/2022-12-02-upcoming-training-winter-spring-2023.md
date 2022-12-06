@@ -33,6 +33,10 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 <!-- Going forward, this new list will be our primary way to reach academic researchers in Western Canada (and -->
 <!-- elsewhere). -->
 
+
+
+
+
 ## Webinars
 
 BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Tuesday at 11am Pacific /
@@ -46,13 +50,17 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | Jan-17 | Managing large number of files with container overlays | Alex Razoumov (SFU) |
 | Jan-31 | Speeding up your computations with parallel R | Marie-Hélène Burle (SFU) |
 | Feb-14 | Data management with DataLad | Ian Percel (UofCalgary) |
-| Feb-28 | TBA | TBC |
+| Feb-28 | How to create and access MySQL and PostgreSQL on DRI | Gemma Hoad (SFU) |
 | Mar-14 | TBA | Olivier Fisette (USask) |
 | Mar-28 | TBA | TBC |
 | Apr-11 | TBA | TBC |
 | Apr-25 | TBA | TBC |
-| May-09 | TBA | John Simpson |
+| May-09 | Regular expressions | John Simpson (UofA) |
 | May-23 | TBA | Alex Razoumov and/or Marie-Hélène Burle (SFU) |
+
+
+
+
 
 
 
