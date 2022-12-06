@@ -35,13 +35,9 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 
 ## Webinars
 
-BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Tuesday at 11am Pacific
-/ noon Mountain / 1pm Central.
+BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Tuesday at 11am Pacific /
+noon Mountain / 1pm Central. We will open registration by early January.
 
-
-
-
-<!-- We will open registration in early September. -->
 <!-- For *upcoming webinars*, click the linked title to see more details or to register. For *past -->
 <!-- sessions*, click on the title to view recordings and slides. -->
 
@@ -57,6 +53,22 @@ BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every sec
 | Apr-25 | TBA | TBC |
 | May-09 | TBA | John Simpson |
 | May-23 | TBA | Alex Razoumov and/or Marie-Hélène Burle (SFU) |
+
+
+
+## WestDRI online courses
+
+Starting in early February, 2023, we will offer weekly online sessions on advanced research computing. These
+sessions will take place every Thursday from 10am to noon Pacific. Most courses will span 3 weeks, but of
+course some courses may be shorter or longer. We will post the program here by early January.
+
+Please note that these sessions will not be recorded, as we want to encourage attendance and live
+interaction. And we are planning to repeat the most popular / introductory sessions throughout the year.
+
+
+
+
+
 
 
 
@@ -79,10 +91,11 @@ More details will be posted in early January.
 
 
 
-## WestDRI spring and summer schools
+
+
+## WestDRI summer school
 
 | DATE&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; | Course | Location&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; |
-| early March | spring school | Online |
 | June-19 to June-23 <br> (5 days) | summer school | SFU's Big Data Hub |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to `training at
