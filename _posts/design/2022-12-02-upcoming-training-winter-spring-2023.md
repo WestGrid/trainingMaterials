@@ -56,7 +56,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | Apr-11 | TBA | TBC |
 | Apr-25 | TBA | TBC |
 | May-09 | Regular expressions | John Simpson (UofA) |
-| May-23 | TBA | Alex Razoumov and/or Marie-Hélène Burle (SFU) |
+| May-23 | Managing large hierarchical datasets with PyTables | Alex Razoumov (SFU) |
 
 
 
