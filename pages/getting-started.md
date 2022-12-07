@@ -187,8 +187,11 @@ topics.
 
 * [Webinar notes](https://wgpages.netlify.app/bashfeatures){:target="_blank"}
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/3rzd7yISWVQ" title="Lesser known but
+	very useful Bash features" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
