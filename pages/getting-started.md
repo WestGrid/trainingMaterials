@@ -167,6 +167,31 @@ the cluster.
 	clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+---
+
+<a name="bashfeatures"></a>
+#### *"Lesser known but very useful Bash features"*
+
+**Webinar** (2022-12-07) by Alex Razoumov and Marie-Hélène Burle
+
+Knowing basic Linux commands is essential for researchers using remote systems such as HPC clusters. Bash is
+the most commonly used Linux shell, which you will use by default on most Alliance hardware. Although we teach
+Bash basics in various online schools and in-person workshops many times a year, there are some useful Bash
+features and tricks that we never get to teach, due to our usual time constraints. Finally we can share some
+of them with you in this webinar!
+
+In this presentation, we talk about running commands in a subshell, subsetting string variables, Bash arrays,
+modifying separators with IFS, running Python code from inside self-contained Bash functions, editing your
+command history, running unaliased versions of commands, handy use of bracket expansion, and a few other
+topics.
+
+* [Webinar notes](https://wgpages.netlify.app/bashfeatures){:target="_blank"}
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
 
 
 
