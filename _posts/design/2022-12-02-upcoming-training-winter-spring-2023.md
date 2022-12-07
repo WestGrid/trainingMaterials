@@ -50,7 +50,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | Jan-17 | Managing large number of files with container overlays | Alex Razoumov (SFU) |
 | Jan-31 | Speeding up your computations with parallel R | Marie-Hélène Burle (SFU) |
 | Feb-14 | Data management with DataLad | Ian Percel (UofCalgary) |
-| Feb-28 | How to create and access MySQL and PostgreSQL on DRI | Gemma Hoad (SFU) |
+| Feb-28 | How to create and access MySQL and PostgreSQL databases on DRI systems | Gemma Hoad (SFU) |
 | Mar-14 | TBA | Olivier Fisette (USask) |
 | Mar-28 | TBA | TBC |
 | Apr-11 | TBA | TBC |
@@ -58,7 +58,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | May-09 | Regular expressions | John Simpson (UofA) |
 | May-23 | Managing large hierarchical datasets with PyTables | Alex Razoumov (SFU) |
 
-
+<!-- [text](link){:target="_blank"} -->
 
 
 
