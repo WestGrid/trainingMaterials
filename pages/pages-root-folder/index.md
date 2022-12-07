@@ -57,5 +57,10 @@ homepage: true
 </div>
 
 <br>
-To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
+- To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
 [subscribe here](/contact).
+
+- Check out the <a
+href="https://alliancecan.ca/en/services/advanced-research-computing/technical-support/training-calendar"
+target="_blank">National (the Alliance's) training calendar</a> that includes events from WestDRI, Compute
+Ontario, Calcul Québec and ACENET.
