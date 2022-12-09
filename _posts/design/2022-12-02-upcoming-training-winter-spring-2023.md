@@ -47,10 +47,10 @@ noon Mountain / 1pm Central. We will open registration by early January.
 
 | DATE&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; | TOPIC | Speaker&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-17 | Managing large numbers of files with container overlays | Alex Razoumov (SFU) |
-| Jan-31 | High-performance research computing in R | Marie-Hélène Burle (SFU) |
-| Feb-14 | Data management with DataLad | Ian Percel (UofCalgary) |
-| Feb-28 | How to create and access MySQL and PostgreSQL databases on DRI systems | Gemma Hoad (SFU) |
+| Jan-17 | [Managing large numbers of files with container overlays](https://docs.google.com/forms/d/e/1FAIpQLSc-EIvJ-sgIeZOxw_R1Umy0cPeDlLNdlQyCwrvTvV2BkciIVA/viewform){:target="_blank"} | Alex Razoumov (SFU) |
+| Jan-31 | [High-performance research computing in R](https://docs.google.com/forms/d/e/1FAIpQLSe4rY2AS2koNp01cxV63OA42w3Rd7X9kAvVTbA2JSzJ4mokAA/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Feb-14 | [Data management with DataLad](https://docs.google.com/forms/d/e/1FAIpQLSfNdxZt1N7GfBbWdHX9BYwLY-lbYnt8FulCcl_atwPSEjTojw/viewform){:target="_blank"} | Ian Percel (UofCalgary) |
+| Feb-28 | [How to create and access MySQL and PostgreSQL databases on DRI systems](https://docs.google.com/forms/d/e/1FAIpQLSdCCpGtdh9fn95aHH_5h11lwxk2YZ06EqoisLGlNsXzv94gNw/viewform){:target="_blank"} | Gemma Hoad (SFU) |
 | Mar-14 | TBA | Olivier Fisette (USask) |
 | Mar-28 | TBA | TBC |
 | Apr-11 | TBA | TBC |
@@ -59,6 +59,9 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | May-23 | Managing large hierarchical datasets with PyTables | Alex Razoumov (SFU) |
 
 <!-- [text](link){:target="_blank"} -->
+
+
+
 
 
 
