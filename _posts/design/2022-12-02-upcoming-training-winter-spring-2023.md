@@ -47,7 +47,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 
 | DATE&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; | TOPIC | Speaker&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; |
 | ------------- | --------------- | ----------------- |
-| Jan-17 | Managing large number of files with container overlays | Alex Razoumov (SFU) |
+| Jan-17 | Managing large numbers of files with container overlays | Alex Razoumov (SFU) |
 | Jan-31 | High-performance research computing in R | Marie-Hélène Burle (SFU) |
 | Feb-14 | Data management with DataLad | Ian Percel (UofCalgary) |
 | Feb-28 | How to create and access MySQL and PostgreSQL databases on DRI systems | Gemma Hoad (SFU) |
