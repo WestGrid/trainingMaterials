@@ -45,12 +45,12 @@ noon Mountain / 1pm Central. We will open registration by early January.
 <!-- For *upcoming webinars*, click the linked title to see more details or to register. For *past -->
 <!-- sessions*, click on the title to view recordings and slides. -->
 
-| DATE&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; | TOPIC | Speaker&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; |
+| DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Jan-17 | Managing large numbers of files with container overlays | Alex Razoumov (SFU) |
-| Jan-31 | Introduction to high-performance research computing in R | Marie-Hélène Burle (SFU) |
-| Feb-14 | Data management with DataLad | Ian Percel (UofCalgary) |
-| Feb-28 | How to create and access MySQL and PostgreSQL databases on DRI systems | Gemma Hoad (SFU) |
+| Jan-17 | [Managing large numbers of files with container overlays](https://docs.google.com/forms/d/e/1FAIpQLSc-EIvJ-sgIeZOxw_R1Umy0cPeDlLNdlQyCwrvTvV2BkciIVA/viewform){:target="_blank"} | Alex Razoumov (SFU) |
+| Jan-31 | [Introduction to high-performance research computing in R](https://docs.google.com/forms/d/e/1FAIpQLSe4rY2AS2koNp01cxV63OA42w3Rd7X9kAvVTbA2JSzJ4mokAA/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Feb-14 | [Data management with DataLad](https://docs.google.com/forms/d/e/1FAIpQLSfNdxZt1N7GfBbWdHX9BYwLY-lbYnt8FulCcl_atwPSEjTojw/viewform){:target="_blank"} | Ian Percel (UofCalgary) |
+| Feb-28 | [How to create and access MySQL and PostgreSQL databases on DRI systems](https://docs.google.com/forms/d/e/1FAIpQLSdCCpGtdh9fn95aHH_5h11lwxk2YZ06EqoisLGlNsXzv94gNw/viewform){:target="_blank"} | Gemma Hoad (SFU) |
 | Mar-14 | TBA | Olivier Fisette (USask) |
 | Mar-28 | TBA | TBC |
 | Apr-11 | TBA | TBC |
@@ -64,14 +64,33 @@ noon Mountain / 1pm Central. We will open registration by early January.
 
 
 
+
+
+
 ## WestDRI online courses
 
 Starting in early February, 2023, we will offer weekly online sessions on advanced research computing. These
 sessions will take place every Thursday from 10am to noon Pacific. Most courses will span 3 weeks, but of
-course some courses may be shorter or longer. We will post the program here by early January.
+course some courses may be shorter or longer.
+
+<!-- We will post the program here by early January. -->
 
 Please note that these sessions will not be recorded, as we want to encourage attendance and live
 interaction. And we are planning to repeat the most popular / introductory sessions throughout the year.
+
+| COURSE | DATES | INSTRUCTOR |
+| ------------- | --------------- | ----------------- |
+| Introduction to Bash command line | Feb-02, Feb-09 | Alex Razoumov <br> Marie-Hélène Burle |
+| Scientific Python | Feb-16, Feb-23 | Alex Razoumov |
+| Parallel R | Mar-02, Mar-09, Mar-16 | Marie-Hélène Burle |
+| Introduction to Apptainer containers | Mar-23 | Alex Razoumov |
+| 3D scientific visualization with ParaView | Mar-30, Apr-06 | Alex Razoumov |
+| Parallel Julia | Apr-13, Apr-20, Apr-27 | Marie-Hélène Burle <br> Alex Razoumov |
+
+<!-- May-04 May-11 May-18 May-25 -->
+
+
+
 
 
 
@@ -101,9 +120,10 @@ More details will be posted in early January.
 
 
 
-## WestDRI summer school
+## WestDRI in-person summer schools
 
-| DATE&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; | Course | Location&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; |
+| DATE | COURSE | LOCATION |
+| TBA (5 days) | summer school | UVic |
 | June-19 to June-23 <br> (5 days) | summer school | SFU's Big Data Hub |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to `training at
