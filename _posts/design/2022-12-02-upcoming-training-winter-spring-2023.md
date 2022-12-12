@@ -48,7 +48,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Jan-17 | [Managing large numbers of files with container overlays](https://docs.google.com/forms/d/e/1FAIpQLSc-EIvJ-sgIeZOxw_R1Umy0cPeDlLNdlQyCwrvTvV2BkciIVA/viewform){:target="_blank"} | Alex Razoumov (SFU) |
-| Jan-31 | [High-performance research computing in R](https://docs.google.com/forms/d/e/1FAIpQLSe4rY2AS2koNp01cxV63OA42w3Rd7X9kAvVTbA2JSzJ4mokAA/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Jan-31 | [Introduction to high-performance research computing in R](https://docs.google.com/forms/d/e/1FAIpQLSe4rY2AS2koNp01cxV63OA42w3Rd7X9kAvVTbA2JSzJ4mokAA/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Feb-14 | [Data management with DataLad](https://docs.google.com/forms/d/e/1FAIpQLSfNdxZt1N7GfBbWdHX9BYwLY-lbYnt8FulCcl_atwPSEjTojw/viewform){:target="_blank"} | Ian Percel (UofCalgary) |
 | Feb-28 | [How to create and access MySQL and PostgreSQL databases on DRI systems](https://docs.google.com/forms/d/e/1FAIpQLSdCCpGtdh9fn95aHH_5h11lwxk2YZ06EqoisLGlNsXzv94gNw/viewform){:target="_blank"} | Gemma Hoad (SFU) |
 | Mar-14 | TBA | Olivier Fisette (USask) |
