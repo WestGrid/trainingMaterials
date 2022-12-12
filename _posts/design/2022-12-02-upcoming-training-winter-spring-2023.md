@@ -53,7 +53,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | Feb-28 | [How to create and access MySQL and PostgreSQL databases on DRI systems](https://docs.google.com/forms/d/e/1FAIpQLSdCCpGtdh9fn95aHH_5h11lwxk2YZ06EqoisLGlNsXzv94gNw/viewform){:target="_blank"} | Gemma Hoad (SFU) |
 | Mar-14 | TBA | Olivier Fisette (USask) |
 | Mar-28 | TBA | TBC |
-| Apr-11 | TBA | TBC |
+| Apr-11 | TBA | Michael Nesrallah (UBC) |
 | Apr-25 | TBA | TBC |
 | May-09 | Regular expressions | John Simpson (UofA) |
 | May-23 | Managing large hierarchical datasets with PyTables | Alex Razoumov (SFU) |
