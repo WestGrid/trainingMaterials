@@ -81,13 +81,13 @@ interaction. And we are planning to repeat the most popular / introductory sessi
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
 | Introduction to Bash command line | Feb-02, Feb-09 | Alex Razoumov <br> Marie-Hélène Burle |
-| Scientific Python | Feb-16, Feb-23 | Alex Razoumov |
-| Parallel R | Mar-02, Mar-09, Mar-16 | Marie-Hélène Burle |
-| Introduction to Apptainer containers | Mar-23 | Alex Razoumov |
-| 3D scientific visualization with ParaView | Mar-30, Apr-06 | Alex Razoumov |
-| Parallel Julia | Apr-13, Apr-20, Apr-27 | Marie-Hélène Burle <br> Alex Razoumov |
+| Scientific Python | Feb-23, Mar-02 | Alex Razoumov |
+| Parallel R | Mar-09, Mar-16, Mar-23 | Marie-Hélène Burle |
+| Introduction to Apptainer containers | Mar-30 | Alex Razoumov |
+| 3D scientific visualization with ParaView | Apr-06, Apr-13 | Alex Razoumov |
+| Parallel Julia | Apr-20, Apr-27, May-04 | Marie-Hélène Burle <br> Alex Razoumov |
 
-<!-- May-04 May-11 May-18 May-25 -->
+<!-- remaining dates: May-11 May-18 May-25 -->
 
 
 
@@ -102,10 +102,23 @@ interaction. And we are planning to repeat the most popular / introductory sessi
 
 ## UBC / SFU Research Commons workshops
 
-<!-- These workshops are in-person only. Students, staff and faculty are all welcome to attend. -->
+These workshops are in-person only. Students, staff and faculty are all welcome to attend.
 <!-- To register, click on an event in the 2nd or 3rd column (not open for SFU yet). -->
+Registration links will be posted in early January.
 
-More details will be posted in early January.
+|---
+| TOPIC | SPEAKER | 1st RUN | 2nd RUN |
+|-|-|-
+| Searching the Git history | Marie-Hélène Burle | Friday, Jan-20 at<br> <span style="color:#005CA7">UBC Research Commons</span> | |
+| Version control of scientific datasets with DataLad | Alex Razoumov | Friday, Feb-24 at<br> <span style="color:#005CA7">UBC Research Commons</span> | |
+| Finding pre-trained models for transfer learning and fine tuning | Marie-Hélène Burle | Friday, Mar-17 at<br> <span style="color:#005CA7">UBC Research Commons</span> | |
+| Managing large hierarchical datasets with PyTables | Alex Razoumov | Friday, Apr-28 at<br> <span style="color:#005CA7">UBC Research Commons</span> | |
+
+
+<!-- UBC Fridays 1:00pm–2:30pm -->
+
+
+
 
 
 
