@@ -52,9 +52,9 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | Feb-14 | [Data management with DataLad](https://docs.google.com/forms/d/e/1FAIpQLSfNdxZt1N7GfBbWdHX9BYwLY-lbYnt8FulCcl_atwPSEjTojw/viewform){:target="_blank"} | Ian Percel (UofCalgary) |
 | Feb-28 | [How to create and access MySQL and PostgreSQL databases on DRI systems](https://docs.google.com/forms/d/e/1FAIpQLSdCCpGtdh9fn95aHH_5h11lwxk2YZ06EqoisLGlNsXzv94gNw/viewform){:target="_blank"} | Gemma Hoad (SFU) |
 | Mar-14 | TBA | Olivier Fisette (USask) |
-| Mar-28 | TBA | TBC |
-| Apr-11 | TBA | Michael Nesrallah (UBC) |
-| Apr-25 | TBA | TBC |
+| Mar-28 | TBA | - |
+| Apr-11 | TBA | - |
+| Apr-25 | Cybersecurity webinar (TBC) | - |
 | May-09 | Regular expressions | John Simpson (UofA) |
 | May-23 | Managing large hierarchical datasets with PyTables | Alex Razoumov (SFU) |
 
@@ -109,7 +109,7 @@ Registration links will be posted in early January.
 |---
 | TOPIC | SPEAKER | 1st RUN | 2nd RUN |
 |-|-|-
-| Searching the Git history | Marie-Hélène Burle | Friday, Jan-20 at <span style="color:#005CA7">UBC Research Commons</span> | |
+| Searching the Git history | Marie-Hélène Burle | [Friday, Jan-20 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3706627){:target="_blank"} | |
 | Introduction to Python | Marie-Hélène Burle and Alex Razoumov | Thursday, Jan-26 at <span style="color:#CE0834">SFU Research Commons</span> | |
 | Version control of scientific datasets with DataLad | Alex Razoumov | Thursday, Feb-23 at <span style="color:#CE0834">SFU Research Commons</span> | Friday, Feb-24 at <span style="color:#005CA7">UBC Research Commons</span> |
 | Finding pre-trained models for transfer learning and fine tuning | Marie-Hélène Burle | Friday, Mar-17 at <span style="color:#005CA7">UBC Research Commons</span> | Thursday, Mar-23 at <span style="color:#CE0834">SFU Research Commons</span> |
@@ -136,6 +136,7 @@ Registration links will be posted in early January.
 
 
 
+<a name="bootcamps"></a>
 ## Local bootcamps and workshops
 
 More details will be posted in early January.
