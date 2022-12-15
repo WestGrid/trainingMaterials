@@ -111,9 +111,9 @@ Registration links will be posted in early January.
 |-|-|-
 | Searching the Git history | Marie-Hélène Burle | [Friday, Jan-20 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3706627){:target="_blank"} | |
 | Introduction to Python | Marie-Hélène Burle and Alex Razoumov | Thursday, Jan-26 at <span style="color:#CE0834">SFU Research Commons</span> | |
-| Version control of scientific datasets with DataLad | Alex Razoumov | Thursday, Feb-23 at <span style="color:#CE0834">SFU Research Commons</span> | Friday, Feb-24 at <span style="color:#005CA7">UBC Research Commons</span> |
-| Finding pre-trained models for transfer learning | Marie-Hélène Burle | Friday, Mar-17 at <span style="color:#005CA7">UBC Research Commons</span> | Thursday, Mar-23 at <span style="color:#CE0834">SFU Research Commons</span> |
-| Managing large hierarchical datasets with PyTables | Alex Razoumov | Thursday, Apr-27 at <span style="color:#CE0834">SFU Research Commons</span> | Friday, Apr-28 at <span style="color:#005CA7">UBC Research Commons</span> |
+| Version control of scientific datasets with DataLad | Alex Razoumov | Thursday, Feb-23 at <span style="color:#CE0834">SFU Research Commons</span> | [Friday, Feb-24 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3707077){:target="_blank"} |
+| Finding pre-trained models for transfer learning | Marie-Hélène Burle | [Friday, Mar-17 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3707039){:target="_blank"} | Thursday, Mar-23 at <span style="color:#CE0834">SFU Research Commons</span> |
+| Managing large hierarchical datasets with PyTables | Alex Razoumov | Thursday, Apr-27 at <span style="color:#CE0834">SFU Research Commons</span> | [Friday, Apr-28 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3707080){:target="_blank"} |
 
 <!-- UBC Fridays 1:00pm–2:30pm -->
 <!-- Python will similat to https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/36876 -->
