@@ -82,7 +82,7 @@ interaction. And we are planning to repeat the most popular / introductory sessi
 | ------------- | --------------- | ----------------- |
 | Introduction to Bash command line | Feb-02, Feb-09 | Alex Razoumov <br> Marie-Hélène Burle |
 | Scientific Python | Feb-23, Mar-02 | Alex Razoumov |
-| Parallel R | Mar-09, Mar-16, Mar-23 | Marie-Hélène Burle |
+| Efficient and parallel computing in R | Mar-09, Mar-16, Mar-23 | Marie-Hélène Burle |
 | Introduction to Apptainer containers | Mar-30 | Alex Razoumov |
 | 3D scientific visualization with ParaView | Apr-06, Apr-13 | Alex Razoumov |
 | Parallel Julia | Apr-20, Apr-27, May-04 | Marie-Hélène Burle <br> Alex Razoumov |
