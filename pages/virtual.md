@@ -17,9 +17,26 @@ For more information, please check the [cloud computing page](https://docs.compu
 and the [Singularity page](https://docs.computecanada.ca/wiki/Singularity) in Compute Canada&#8217;s
 technical wiki.
 
+
+
+
 ---
 
-<a name="cloudSecurity"></a>
+<a name="manyFilesInOverlays"></a>
+#### *"Hiding large numbers of files in container overlays"*
+
+**Webinar** (2023-Jan-17) by Alex Razoumov
+
+<!-- * [PDF slides]({{ site.baseurl }}/materials/20221109CloudStorage.pdf) -->
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+---
+
 #### *"Storage options for cloud computing"*
 
 **Webinar** (2022-Nov-09) by Sarah Huber
@@ -35,9 +52,6 @@ this webinar (not recorded, only slides available), we discuss the storage optio
 - shared filesystem storage.
 
 * [PDF slides]({{ site.baseurl }}/materials/20221109CloudStorage.pdf)
-
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
 
 ---
 
