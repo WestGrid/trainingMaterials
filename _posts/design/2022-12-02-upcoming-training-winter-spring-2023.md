@@ -122,6 +122,13 @@ Registration links will be posted in early January.
 
 
 
+<a name="bootcamps"></a>
+## Other local bootcamps and workshops
+
+| DATE | EVENT |
+| Jan-20 to Feb-09 | [UofA Winter Bootcamps](https://www.ualberta.ca/information-services-and-technology/news/2022/winter-research-computing-bootcamp-starts-january-20.html){:target="_blank"} |
+
+
 
 
 
@@ -133,13 +140,6 @@ Registration links will be posted in early January.
 | June | DHSI (Digital Humanities <br> Summer Institute) | TBC |
 
 
-
-
-
-<a name="bootcamps"></a>
-## Local bootcamps and workshops
-
-More details will be posted in early January.
 
 
 
