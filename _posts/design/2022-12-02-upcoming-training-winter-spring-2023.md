@@ -66,7 +66,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 
 
 
-
+<a name="courses"></a>
 ## WestDRI online courses
 
 Starting in early February, 2023, we will offer weekly online sessions on advanced research computing. These
