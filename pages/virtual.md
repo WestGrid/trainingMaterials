@@ -27,6 +27,17 @@ technical wiki.
 
 **Webinar** (2023-Jan-17) by Alex Razoumov
 
+Many unoptimized HPC cluster workflows result in writing large numbers of files to distributed filesystems
+which can create significant problems for the performance of these shared filesystems. One of the ways to
+alleviate this is to organize write operations inside a persistent overlay directory attached to an immutable
+read-only container with your scientific software. These output files will be stored separately from the base
+container image, and to the host filesystem an overlay appears as a single large file. In this presentation,
+we demo running parallel OpenFOAM simulations where all output goes into overlay images, and the total number
+of files on the host filesystem is reduced from several million to several dozen or less. The same approach
+can be used in post-processing and visualization, where you can read simulation data from multiple overlays
+both in serial and in parallel. In this webinar we walk you through all stages of creating and using
+overlays. We assume no prior knowledge of the container technology.
+
 <!-- * [PDF slides]({{ site.baseurl }}/materials/20221109CloudStorage.pdf) -->
 
 <!-- <div class="flex-video"> -->
