@@ -37,6 +37,22 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 
 
 
+[Table of Contents](#table-of-contents):
+&nbsp;
+[<em>Webinars</em>](#webinars)
+• [<em>Online courses</em>](#online-courses)
+• [<em>SFU / UBC Research Commons workshops</em>](#commons)
+• [<em>Other local bootcamps and workshops</em>](#bootcamps)
+• [<em>Humanities and social sciences training</em>](#dh)
+• [<em>In-person spring / summer schools</em>](#schools)
+
+
+
+
+
+
+
+
 ## Webinars
 
 BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Tuesday at 11am Pacific /
@@ -67,7 +83,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 
 
 <a name="courses"></a>
-## WestDRI online courses
+## Online courses
 
 Starting in early February, 2023, we will offer weekly online sessions on advanced research computing. These
 sessions will take place every Thursday from 10am to noon Pacific. Most courses will span 3 weeks, but of
@@ -85,7 +101,7 @@ interaction. And we are planning to repeat the most popular / introductory sessi
 | [Speeding up computations with parallel R](https://docs.google.com/forms/d/e/1FAIpQLScak0rRbCelfFTF1NNrO55u0Mv_YDSlGhGGIWNSscnf6-xRMQ/viewform){:target="_blank"} | Mar-09, Mar-16, Mar-23 | Marie-Hélène Burle |
 | Introduction to Apptainer containers | Mar-30 | Alex Razoumov |
 | 3D scientific visualization with ParaView | Apr-06, Apr-13 | Alex Razoumov |
-| Parallel Julia | Apr-20, Apr-27, May-04 | Marie-Hélène Burle <br> Alex Razoumov |
+| Parallel Julia | Apr-20, Apr-27, May-11 | Marie-Hélène Burle <br> Alex Razoumov |
 
 <!-- remaining dates: May-11 May-18 May-25 -->
 
@@ -100,7 +116,7 @@ interaction. And we are planning to repeat the most popular / introductory sessi
 
 
 <a name="commons"></a>
-## UBC / SFU Research Commons workshops
+## SFU / UBC Research Commons workshops
 
 These workshops are in-person only. Students, staff and faculty are all welcome to attend.
 <!-- To register, click on an event in the 2nd or 3rd column (not open for SFU yet). -->
@@ -133,6 +149,7 @@ Registration links will be posted in early January.
 
 
 
+<a name="dh"></a>
 ## Humanities and social sciences training
 
 | DATE | EVENT | VENUE |
@@ -145,12 +162,12 @@ Registration links will be posted in early January.
 
 
 
-
-## WestDRI in-person summer schools
+<a name="schools"></a>
+## In-person spring / summer schools
 
 | DATE | COURSE | LOCATION |
-| TBA (5 days) | summer school | UVic |
-| June-19 to June-23 <br> (5 days) | summer school | SFU's Big Data Hub |
+| May 1-5 <br> (5 days) | UVic spring school | UVic (details TBA) |
+| June 19-23 <br> (5 days) | SFU summer school | SFU's Big Data Hub |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to `training at
 westdri dot ca`.
