@@ -44,7 +44,7 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 • [<em>SFU / UBC Research Commons workshops</em>](#commons)
 • [<em>Other local bootcamps and workshops</em>](#bootcamps)
 • [<em>Humanities and social sciences training</em>](#dh)
-• [<em>In-person spring / summer schools</em>](#schools)
+• [<em>In-person schools</em>](#schools)
 
 
 
@@ -163,7 +163,7 @@ Registration links will be posted in early January.
 
 
 <a name="schools"></a>
-## In-person spring / summer schools
+## In-person schools
 
 | DATE | COURSE | LOCATION |
 | May 1-5 <br> (5 days) | UVic spring school | UVic (details TBA) |
