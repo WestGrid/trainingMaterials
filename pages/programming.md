@@ -10,14 +10,27 @@ permalink: "/programming/"
 ---
 
 [Table of Contents](#table-of-contents):
-&nbsp; [Parallel Libraries](#parallel-libraries)
-• [Debugging and memory debugging](#debugging-and-memory-debugging)
+&nbsp; [Python](#python)
+• [R](#r-language)
 • [Julia](#julia)
 • [Chapel](#chapel)
+• [MPI](#mpi)
 • [OpenMP](#openmp)
+• [Debugging and memory debugging](#debugging-and-memory-debugging)
 • [MATLAB](#matlab)
 
-## Parallel Libraries
+
+
+
+
+
+
+
+
+## Python
+
+We give many Python-based workshops -- you can find quite a few of them in the [visualization section]({{
+site.baseurl }}/tools/visualization).
 
 ---
 
@@ -37,33 +50,53 @@ permalink: "/programming/"
 
 ---
 
-#### *"A Brief Introduction to the Boost MPI Library"*
+<a name="xarray"></a>
+#### *"Working with multidimensional datasets in xarray"*
 
-**Webinar** (2018-May-09) by Patrick Mann
+**Webinar** (2020-Sep-30) by Alex Razoumov
 
-* [PDF slides]({{ site.baseurl }}/materials/boostMPI20180509.pdf)
-* <a href="https://github.com/WestGrid/boostWebinar" target="_blank">repository with example codes</a>
+* [PDF slides]({{ site.baseurl }}/materials/xarray20200930.pdf)
 
 <div class="flex-video">
-	<iframe width="780" height="585" src="https://www.youtube.com/embed/P3kMdyka0XI" frameborder="0"
-	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="1158" height="660" src="https://www.youtube.com/embed/xdrcMi_FB8Q" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
 </div>
 
-## Debugging and memory debugging
+
+
+
+
+
+
+
+
+<a name="r-language"></a>
+## R
 
 ---
 
-#### *"Memory debugging with Valgrind"*
+<a name="threadsx"></a>
+#### *"Introduction to high-performance research computing in R"*
 
-**Webinar** (2019-Feb-20) by Tyson Whitehead
+**Webinar** (2023-Jan-31) by Marie-Hélène Burle
 
-* [ZIP file with slides, handout, and code examples]({{ site.baseurl }}/materials/valgrind20190220.zip)
+The programming language R is not known for its speed. However, with some code optimization, R can be used for
+relatively heavy computations. Additional speedup can be achieved through various parallel techniques, both
+with multi-threading and distributed computing. This workshop introduces you to working with R from the
+command line on the Alliance clusters with a focus on performance. We discuss code profiling and benchmarking,
+various packages for parallelization, as well as using C++ from inside R to speed up your calculations.
 
-<div class="flex-video">
-	<iframe width="966" height="543" src="https://www.youtube.com/embed/-VDiEe9hxC4" frameborder="0"
-	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-	allowfullscreen></iframe>
-</div>
+* [PDF slides]({{ site.baseurl }}/materials/threadsx20220202.pdf)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
+
 
 
 
@@ -144,6 +177,9 @@ a Julia set, and an N-body solver. We run the examples on a multi-core laptop an
 
 
 
+
+
+
 ## Chapel
 
 ---
@@ -219,6 +255,32 @@ write efficient large-scale numerical codes.
 
 As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Parallel programming in Chapel* course](https://hpc-carpentry.github.io/hpc-chapel). The materials and exercises presented in this course can be presented as a full-day workshop. If you have questions about the materials, please contact Alex Razoumov - alex.razoumov@westgrid.ca.
 
+
+
+
+
+
+## MPI
+
+---
+
+#### *"A Brief Introduction to the Boost MPI Library"*
+
+**Webinar** (2018-May-09) by Patrick Mann
+
+* [PDF slides]({{ site.baseurl }}/materials/boostMPI20180509.pdf)
+* <a href="https://github.com/WestGrid/boostWebinar" target="_blank">repository with example codes</a>
+
+<div class="flex-video">
+	<iframe width="780" height="585" src="https://www.youtube.com/embed/P3kMdyka0XI" frameborder="0"
+	allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
+
+
+
+
 ## OpenMP
 
 ---
@@ -240,6 +302,33 @@ The topics covered include:
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/LL3TAHpxOig" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+
+
+
+
+
+## Debugging and memory debugging
+
+---
+
+#### *"Memory debugging with Valgrind"*
+
+**Webinar** (2019-Feb-20) by Tyson Whitehead
+
+* [ZIP file with slides, handout, and code examples]({{ site.baseurl }}/materials/valgrind20190220.zip)
+
+<div class="flex-video">
+	<iframe width="966" height="543" src="https://www.youtube.com/embed/-VDiEe9hxC4" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
+
+
+
+
+
 
 ## MATLAB
 
