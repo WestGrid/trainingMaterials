@@ -87,7 +87,8 @@ with multi-threading and distributed computing. This workshop introduces you to 
 command line on the Alliance clusters with a focus on performance. We discuss code profiling and benchmarking,
 various packages for parallelization, as well as using C++ from inside R to speed up your calculations.
 
-* [PDF slides]({{ site.baseurl }}/materials/threadsx20220202.pdf)
+* [Online slides](https://mint.westdri.ca/r/hpc_intro_slides.html#/title-slide) (use left/right arrow keys to navigate)
+
 
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
@@ -104,7 +105,7 @@ various packages for parallelization, as well as using C++ from inside R to spee
 ## Julia
 
 <br>
-(You can also browse all our materials on Julia programming <a href="https://westgrid-julia.netlify.com"
+(You can also browse some of our Julia programming materials <a href="https://westgrid-julia.netlify.com"
 target="_blank">here</a>.)
 
 ---
