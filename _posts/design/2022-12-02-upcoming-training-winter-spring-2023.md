@@ -70,11 +70,12 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | Mar-14 | TBA | Olivier Fisette (USask) |
 | Mar-28 | TBA | - |
 | Apr-11 | TBA | - |
-| Apr-25 | Cybersecurity webinar (TBC) | - |
+| Apr-25 | The Beauty of the Bigdata Realm | Belaid Moa (UVic) |
 | May-09 | Regular expressions | John Simpson (UofA) |
 | May-23 | Managing large hierarchical datasets with PyTables | Alex Razoumov (SFU) |
 
 <!-- [text](link){:target="_blank"} -->
+<!-- | Apr-25 | Cybersecurity webinar (TBC) | - | -->
 
 
 
