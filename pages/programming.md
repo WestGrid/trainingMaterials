@@ -87,7 +87,7 @@ with multi-threading and distributed computing. This workshop introduces you to 
 command line on the Alliance clusters with a focus on performance. We discuss code profiling and benchmarking,
 various packages for parallelization, as well as using C++ from inside R to speed up your calculations.
 
-* [Online slides](https://mint.westdri.ca/r/hpc_intro_slides.html#/title-slide) (use ←/→ keys to navigate)
+* <a href="https://mint.westdri.ca/r/hpc_intro_slides.html#/title-slide" target="_blank">Online slides</a> (use ←/→ keys to navigate)
 
 <div class="flex-video">
 	<iframe width="1631" height="926" src="https://www.youtube.com/embed/VU8MBt_E5eE" title="Introduction to
