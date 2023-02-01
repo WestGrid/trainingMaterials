@@ -90,7 +90,7 @@ various packages for parallelization, as well as using C++ from inside R to spee
 * <a href="https://mint.westdri.ca/r/hpc_intro_slides.html#/title-slide" target="_blank">Online slides</a> (use ←/→ keys to navigate)
 
 <div class="flex-video">
-	<iframe width="1631" height="926" src="https://www.youtube.com/embed/VU8MBt_E5eE" title="Introduction to
+	<iframe width="896" height="504" src="https://www.youtube.com/embed/mxkhOHdN2Hw" title="Introduction to
 	high-performance research computing in R" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
