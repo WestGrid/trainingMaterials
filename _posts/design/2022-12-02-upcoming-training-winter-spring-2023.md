@@ -67,7 +67,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | Jan-31 | [<span style="color:blue">Introduction to high-performance research computing in R</span>]({{ site.baseurl }}/programming#introduction-to-high-performance-research-computing-in-r) | Marie-Hélène Burle (SFU) |
 | Feb-14 | [Data management with DataLad](https://docs.google.com/forms/d/e/1FAIpQLSfNdxZt1N7GfBbWdHX9BYwLY-lbYnt8FulCcl_atwPSEjTojw/viewform){:target="_blank"} | Ian Percel (UofCalgary) |
 | Feb-28 | [How to create and access MySQL and PostgreSQL databases on DRI systems](https://docs.google.com/forms/d/e/1FAIpQLSdCCpGtdh9fn95aHH_5h11lwxk2YZ06EqoisLGlNsXzv94gNw/viewform){:target="_blank"} | Gemma Hoad (SFU) |
-| Mar-14 | Automating the GROMACS analysis tools on HPC systems | Olivier Fisette (USask) |
+| Mar-14 | [Automating the GROMACS analysis tools on HPC systems](https://docs.google.com/forms/d/e/1FAIpQLSe6MsQ1zxYH_o6fyE6lcDhZDACpoSGDl59ldNeAzwIk6qZznw/viewform){:target="_blank"} | Olivier Fisette (USask) |
 | Mar-28 | TBA | - |
 | Apr-11 | TBA | - |
 | Apr-25 | The Beauty of the Bigdata Realm | Belaid Moa (UVic) |
