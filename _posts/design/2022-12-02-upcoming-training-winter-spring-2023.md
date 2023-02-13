@@ -155,7 +155,7 @@ Registration links will be posted in early January.
 ## Humanities and social sciences training
 
 | DATE | EVENT | VENUE |
-| Feb-14 to Feb-17 | HSS Winter Series | online |
+| Feb-14 to Feb-17 | [HSS Winter Series](https://hss23.netlify.app){:target="_blank"} | online |
 | June | DHSI (Digital Humanities <br> Summer Institute) | TBC |
 
 
