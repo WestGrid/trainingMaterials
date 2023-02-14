@@ -15,6 +15,28 @@ permalink: "/tools/rdm/"
 
 
 
+<a name="datalad"></a>
+#### *"Data management with DataLad"*
+
+**Webinar** (2023-Feb-14) with Ian Percel
+
+This talk is a brief introduction to version controlling data and data processing workflows. Three
+illustrative use cases -- taken from neuroimaging, geophysics, and workflows for analyzing housing data
+respectively -- are used to provide an introduction to the main concepts of git-based file management,
+collaboration, and analysis.
+
+* [PDF slides]({{ site.baseurl }}/materials/datalad_for_hpc_1_1.pdf)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+---
+
+
+
+
+
+
 
 <a name="throughput"></a>
 #### *"Linking databases to code repositories with Throughput"*
