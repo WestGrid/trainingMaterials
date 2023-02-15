@@ -27,16 +27,13 @@ collaboration, and analysis.
 
 * [PDF slides]({{ site.baseurl }}/materials/datalad_for_hpc_1_1.pdf)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="928" height="431" src="https://www.youtube.com/embed/IZGlxfdRRno" title="Data management
+	with DataLad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+	picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
-
-
-
-
-
-
 
 <a name="throughput"></a>
 #### *"Linking databases to code repositories with Throughput"*
