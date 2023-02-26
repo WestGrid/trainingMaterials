@@ -9,11 +9,14 @@ header:
 permalink: "/courses/"
 ---
 
-We offer training on a wide range of topics related to scientific programming, high-performance computing, data analysis, and visualization. These courses can take any form, from one hour to multiple days, online or in person.
+We offer training on a wide range of topics related to scientific programming, high-performance computing,
+data analysis, and visualization. These courses can take any form, from one hour to multiple days, and can be
+conducted online or in person.
 
-We run regular workshops each year: summer schools around May–August and winter schools around
-November–March. Traditionally, these are hosted by universities in southwest BC (Vancouver or Victoria) and
-east of the Rockies (Alberta, Saskatchewan, or Manitoba), and some schools are taught online.
+We hold regular workshops throughout the year, including summer schools from May to August and winter schools
+from November to March. These workshops are traditionally hosted by universities located in southwest British
+Columbia (Vancouver or Victoria) and east of the Rockies (Alberta, Saskatchewan, or Manitoba). Additionally,
+some schools are taught online.
 
 **In addition to our regular events, we offer on-demand workshops and customized training.**
 
@@ -24,7 +27,7 @@ institutions, we also expect the host to allow any member of the research commun
 may include researchers from outside your institution).
 
 If you are seeking training for your team, or prefer to run a small, invite-only session for a select audience, please
-contact us to discuss (`training at westdri dot ca`).
+contact us at `training at westdri dot ca` to discuss.
 
 <!-- All our services are free to researchers and groups from -->
 <!-- [WestGrid Member institutions or Associate Member organizations](https://www.westgrid.ca/become_member). -->
