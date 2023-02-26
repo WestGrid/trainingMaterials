@@ -231,6 +231,17 @@ This two-day workshop introduces version control with Git and covers the most co
 </p>
 </details>
 
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Singularity / Apptainer containers and overlays</font></a>
+</summary>
+<p>
+<br>
+This full-day course is a hands-on introduction to working with Singularity/Apptainer containers in an HPC
+environment, as well as working with data stored inside container overlays.
+</p>
+</details>
+
 <!-- ========================================================================================== -->
 
 ## Shorter courses
@@ -240,7 +251,6 @@ This two-day workshop introduces version control with Git and covers the most co
 * Introduction to cloud computing (setting a VM in Compute Canada's cloud)
 * Debugging
 * Memory debugging
-* Singularity / Apptainer containers
 * In-situ visualization
 * Research data management
 * Bioinformatics workflows in HPC
@@ -255,6 +265,7 @@ This two-day workshop introduces version control with Git and covers the most co
 * Code optimization
 * Introduction to shell scripting
 * Introduction and advanced topics in R programming
+* Version control of large and distributed datasets with DataLad
 
 <!-- ========================================================================================== -->
 
@@ -262,7 +273,7 @@ This two-day workshop introduces version control with Git and covers the most co
 
 ---
 
-Join our training webinars every second Wednesday at 10am Pacific / 11am Mountain. For more details, check
+Join our training webinars every second Tuesday at 11am Pacific / noon Mountain. For more details, check
 [our events](/blog).
 
 <!-- For more details, look -->
