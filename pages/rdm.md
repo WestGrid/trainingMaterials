@@ -24,8 +24,11 @@ permalink: "/tools/rdm/"
 
 * [PDF slides]({{ site.baseurl }}/materials/databases20230228.pdf)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="929" height="542" src="https://www.youtube.com/embed/3uHSXXQwJpQ" title="How to create and
+	access MySQL and PostgreSQL databases on DRI systems" frameborder="0" allow="accelerometer; autoplay;
+	clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 
