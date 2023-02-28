@@ -66,7 +66,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | Jan-17 | [<span style="color:blue">Hiding large numbers of files in container overlays</span>]({{ site.baseurl }}/tools/virtual#manyFilesInOverlays) | Alex Razoumov (SFU) |
 | Jan-31 | [<span style="color:blue">Introduction to high-performance research computing in R</span>]({{ site.baseurl }}/programming#introduction-to-high-performance-research-computing-in-r) | Marie-Hélène Burle (SFU) |
 | Feb-14 | [<span style="color:blue">Data management with DataLad</span>]({{ site.baseurl }}/tools/rdm#datalad){:target="_blank"} | Ian Percel (UofCalgary) |
-| Feb-28 | [How to create and access MySQL and PostgreSQL databases on DRI systems](https://docs.google.com/forms/d/e/1FAIpQLSdCCpGtdh9fn95aHH_5h11lwxk2YZ06EqoisLGlNsXzv94gNw/viewform){:target="_blank"} | Gemma Hoad (SFU) |
+| Feb-28 | [<span style="color:blue">How to create and access MySQL and PostgreSQL databases on DRI systems</span>]({{ site.baseurl }}/tools/rdm#sql) | Gemma Hoad (SFU) |
 | Mar-14 | [Automating the GROMACS analysis tools on HPC systems](https://docs.google.com/forms/d/e/1FAIpQLSe6MsQ1zxYH_o6fyE6lcDhZDACpoSGDl59ldNeAzwIk6qZznw/viewform){:target="_blank"} | Olivier Fisette (USask) |
 | Mar-28 | Distributed datasets with DataLad | Alex Razoumov (SFU) |
 | Apr-11 | Authoring dynamic scientific documents with Markdown & Quarto | Marie-Hélène Burle (SFU) |

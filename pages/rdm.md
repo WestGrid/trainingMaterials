@@ -15,6 +15,27 @@ permalink: "/tools/rdm/"
 
 
 
+
+<a name="sql"></a>
+#### *"Automating the GROMACS analysis tools on HPC systems"*
+
+**Webinar** (2023-Feb-28) with Gemma Hoad
+
+
+* [PDF slides]({{ site.baseurl }}/materials/databases20230228.pdf)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
+
+
+
+---
+
 <a name="datalad"></a>
 #### *"Data management with DataLad"*
 
