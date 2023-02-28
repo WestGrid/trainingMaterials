@@ -17,7 +17,7 @@ permalink: "/tools/rdm/"
 
 
 <a name="sql"></a>
-#### *"Automating the GROMACS analysis tools on HPC systems"*
+#### *"How to create and access MySQL and PostgreSQL databases on DRI systems"*
 
 **Webinar** (2023-Feb-28) with Gemma Hoad
 
