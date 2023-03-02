@@ -171,7 +171,7 @@ Registration links will be posted in early January.
 ## In-person schools
 
 | DATE | COURSE | LOCATION |
-| May 1-5 <br> (5 days) | UVic spring school | UVic (details TBA) |
+| May 1-5 <br> (5 days) | [UVic spring school](https://2023uvic.netlify.app){:target="_blank"} | UVic (details TBA) |
 | June 19-23 <br> (5 days) | SFU summer school | SFU's Big Data Hub |
 
 As always, we welcome requests for other training topics and events. Please email suggestions to `training at
