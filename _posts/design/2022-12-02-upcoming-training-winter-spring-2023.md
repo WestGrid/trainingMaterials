@@ -102,7 +102,7 @@ interaction. And we are planning to repeat the most popular / introductory sessi
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
 | <span style="color:gray">Introduction to Bash command line</span> | Feb-02, Feb-09 | Alex Razoumov <br> Marie-Hélène Burle |
-| [Scientific Python](https://docs.google.com/forms/d/e/1FAIpQLScTvlacToFHiYj0O1E5Dam283vEu-4ZgvKE7LlqMxxHGoUMsw/viewform){:target="_blank"} | Feb-23, Mar-02 | Alex Razoumov |
+| <span style="color:gray">Scientific Python</span> | Feb-23, Mar-02 | Alex Razoumov |
 | [Speeding up computations with parallel R](https://docs.google.com/forms/d/e/1FAIpQLScak0rRbCelfFTF1NNrO55u0Mv_YDSlGhGGIWNSscnf6-xRMQ/viewform){:target="_blank"} | Mar-09, Mar-16, Mar-23 | Marie-Hélène Burle |
 | Introduction to Apptainer containers | Mar-30 | Alex Razoumov |
 | 3D scientific visualization with ParaView | Apr-06, Apr-13 | Alex Razoumov |
