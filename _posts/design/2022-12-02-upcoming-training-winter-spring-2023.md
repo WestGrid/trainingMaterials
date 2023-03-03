@@ -68,8 +68,8 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | Feb-14 | [<span style="color:blue">Data management with DataLad</span>]({{ site.baseurl }}/tools/rdm#datalad){:target="_blank"} | Ian Percel (UofCalgary) |
 | Feb-28 | [<span style="color:blue">How to create and access MySQL and PostgreSQL databases on DRI systems</span>]({{ site.baseurl }}/tools/rdm#sql) | Gemma Hoad (SFU) |
 | Mar-14 | [Automating the GROMACS analysis tools on HPC systems](https://docs.google.com/forms/d/e/1FAIpQLSe6MsQ1zxYH_o6fyE6lcDhZDACpoSGDl59ldNeAzwIk6qZznw/viewform){:target="_blank"} | Olivier Fisette (USask) |
-| Mar-28 | Distributed datasets with DataLad | Alex Razoumov (SFU) |
-| Apr-11 | Authoring dynamic scientific documents with Markdown & Quarto | Marie-Hélène Burle (SFU) |
+| Mar-28 | [Distributed datasets with DataLad](https://docs.google.com/forms/d/e/1FAIpQLScTrNPWH-InFHCk5XQzpS13iGhVhUs9jF7nt0agpoPlRxgJZQ/viewform){:target="_blank"} | Alex Razoumov (SFU) |
+| Apr-11 | [The new R Markdown: authoring dynamic scientific documents with Quarto](https://docs.google.com/forms/d/e/1FAIpQLSeTmIGVoEp6n0pNKshPzCWXYmYqax_gVcrWtrblBa3HLwqU8A/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Apr-25 | The Beauty of the Bigdata Realm | Belaid Moa (UVic) |
 | May-09 | Regular expressions | John Simpson (UofA) |
 | May-23 | Managing large hierarchical datasets with PyTables | Alex Razoumov (SFU) |
