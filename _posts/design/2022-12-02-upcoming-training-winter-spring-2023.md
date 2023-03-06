@@ -159,8 +159,7 @@ Registration links will be posted in early January.
 
 | DATE | EVENT | VENUE |
 | Feb-14 to Feb-17 | [HSS Winter Series](https://hss23.netlify.app){:target="_blank"} | online |
-| June | DHSI (Digital Humanities <br> Summer Institute) | TBC |
-
+| June 5-9 and 12-16 | [DHSI](https://dhsi.org){:target="_blank"} <br> (Digital Humanities Summer Institute) | TBC |
 
 
 
