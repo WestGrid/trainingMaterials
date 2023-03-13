@@ -15,6 +15,30 @@ permalink: "/domains/md/"
 
 ## Webinars
 
+
+
+
+#### *"Automating the GROMACS analysis tools on HPC systems"*
+
+**Webinar** (2023-Mar-14) by Olivier Fisette
+
+* [PDF slides]({{ site.baseurl }}/materials/gmxtools.pdf)
+* [script archive]({{ site.baseurl }}/materials/gmxtools.tar.gz)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+---
+
+
+
+
+
+
+
+
+
+
 #### *"Intermediate VMD topics: trajectories, movies, scripting"*
 
 **Webinar** (2020-Oct-28) by Olivier Fisette
