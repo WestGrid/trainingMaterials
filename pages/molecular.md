@@ -25,19 +25,13 @@ permalink: "/domains/md/"
 * [PDF slides]({{ site.baseurl }}/materials/gmxtools.pdf)
 * [script archive]({{ site.baseurl }}/materials/gmxtools.tar.gz)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="609" height="381" src="https://www.youtube.com/embed/r8DXH7bH8-4" title="Automating the
+	GROMACS analysis tools on HPC systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
-
-
-
-
-
-
-
-
-
 
 #### *"Intermediate VMD topics: trajectories, movies, scripting"*
 

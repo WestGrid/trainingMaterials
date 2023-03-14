@@ -67,7 +67,7 @@ noon Mountain / 1pm Central. We will open registration by early January.
 | Jan-31 | [<span style="color:blue">Introduction to high-performance research computing in R</span>]({{ site.baseurl }}/programming#introduction-to-high-performance-research-computing-in-r) | Marie-Hélène Burle (SFU) |
 | Feb-14 | [<span style="color:blue">Data management with DataLad</span>]({{ site.baseurl }}/tools/rdm#datalad){:target="_blank"} | Ian Percel (UofCalgary) |
 | Feb-28 | [<span style="color:blue">How to create and access MySQL and PostgreSQL databases on DRI systems</span>]({{ site.baseurl }}/tools/rdm#sql) | Gemma Hoad (SFU) |
-| Mar-14 | [Automating the GROMACS analysis tools on HPC systems](https://docs.google.com/forms/d/e/1FAIpQLSe6MsQ1zxYH_o6fyE6lcDhZDACpoSGDl59ldNeAzwIk6qZznw/viewform){:target="_blank"} | Olivier Fisette (USask) |
+| Mar-14 | [<span style="color:blue">Automating the GROMACS analysis tools on HPC systems</span>]({{ site.baseurl }}/domains/md#automating-the-gromacs-analysis-tools-on-hpc-systems) | Olivier Fisette (USask) |
 | Mar-28 | [Distributed datasets with DataLad](https://docs.google.com/forms/d/e/1FAIpQLScTrNPWH-InFHCk5XQzpS13iGhVhUs9jF7nt0agpoPlRxgJZQ/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Apr-11 | [The new R Markdown: authoring dynamic scientific documents with Quarto](https://docs.google.com/forms/d/e/1FAIpQLSeTmIGVoEp6n0pNKshPzCWXYmYqax_gVcrWtrblBa3HLwqU8A/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Apr-25 | The Beauty of the Bigdata Realm | Belaid Moa (UVic) |
