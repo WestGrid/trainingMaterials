@@ -56,7 +56,9 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 ## Webinars
 
 BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Tuesday at 11am Pacific /
-noon Mountain / 1pm Central. We will open registration by early January.
+noon Mountain / 1pm Central.
+
+<!-- We will open registration by early January. -->
 
 <!-- For *upcoming webinars*, click the linked title to see more details or to register. For *past -->
 <!-- sessions*, click on the title to view recordings and slides. -->
@@ -123,9 +125,11 @@ interaction. And we are planning to repeat the most popular / introductory sessi
 <a name="commons"></a>
 ## SFU / UBC Research Commons workshops
 
-These workshops are in-person only. Students, staff and faculty are all welcome to attend.
+We try to run these workshops in-person but sometimes they take place online. Students, staff and faculty are
+all welcome to attend.
+
 <!-- To register, click on an event in the 2nd or 3rd column (not open for SFU yet). -->
-Registration links will be posted in early January.
+<!-- Registration links will be posted in early January. -->
 
 |---
 | TOPIC | SPEAKER | 1st RUN | 2nd RUN |
