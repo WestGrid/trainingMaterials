@@ -105,7 +105,7 @@ interaction. And we are planning to repeat the most popular / introductory sessi
 | ------------- | --------------- | ----------------- |
 | <span style="color:gray">Introduction to Bash command line</span> | Feb-02, Feb-09 | Alex Razoumov <br> Marie-Hélène Burle |
 | <span style="color:gray">Scientific Python</span> | Feb-23, Mar-02 | Alex Razoumov |
-| [Speeding up computations with parallel R](https://docs.google.com/forms/d/e/1FAIpQLScak0rRbCelfFTF1NNrO55u0Mv_YDSlGhGGIWNSscnf6-xRMQ/viewform){:target="_blank"} | Mar-09, Mar-16, Mar-23 | Marie-Hélène Burle |
+| <span style="color:gray">Speeding up computations with parallel R</span> | Mar-09, Mar-16, Mar-23 | Marie-Hélène Burle |
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLScSIB_aOf_cOUSD90kj2nsDKURCAG0-PGukS0xqFgjttTexaQ/viewform){:target="_blank"} | Mar-30 | Alex Razoumov |
 | [3D scientific visualization with ParaView](https://docs.google.com/forms/d/e/1FAIpQLSeXNV1a3u2ngsacJ7ORjVeb_gkyavKISh-xMy87s8d8dIuwiw/viewform){:target="_blank"} | Apr-06, Apr-13 | Alex Razoumov |
 | Parallel Julia | Apr-20, Apr-27, May-11 | Marie-Hélène Burle <br> Alex Razoumov |
@@ -137,12 +137,12 @@ all welcome to attend.
 | Searching the Git history | Marie-Hélène Burle | [Friday, Jan-20 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3706627){:target="_blank"} | |
 | Introduction to Python <br> (full day) | Marie-Hélène Burle and Alex Razoumov | [Thursday, Jan-26 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37740){:target="_blank"} | |
 | Version control of scientific datasets with DataLad | Alex Razoumov | [Thursday, Feb-23 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37739){:target="_blank"} | [Friday, Feb-24 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3707077){:target="_blank"} |
-| Finding pre-trained models for transfer learning | Marie-Hélène Burle | [Friday, May-19 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3707039){:target="_blank"} | [Thursday, Mar-23 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37741){:target="_blank"} |
 | Managing large hierarchical datasets with PyTables | Alex Razoumov | [Thursday, Apr-27 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37742){:target="_blank"} | [Friday, Apr-28 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3707080){:target="_blank"} |
+| Finding pre-trained models for transfer learning | Marie-Hélène Burle | [Friday, May-19 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3707039){:target="_blank"} | |
 
 <!-- UBC Fridays 1:00pm–2:30pm -->
 <!-- Python will similat to https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/36876 -->
-
+<!-- [Thursday, Mar-23 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37741){:target="_blank"} -->
 
 
 
