@@ -16,11 +16,35 @@ permalink: "/tools/rdm/"
 
 
 
+#### *"Distributed datasets with DataLad"*
+
+**Webinar** (2023-Mar-28) with Alex Razoumov
+
+This webinar provides a more beginner-oriented tutorial to version control of large data files with
+DataLad. We start with a textbook introduction to DalaLad showing its main features on top of Git and
+git-annex. Next we demonstrate several simple but useful workflows:
+
+1. two users on a shared cluster filesystem working with the same dataset stored in `/project`,
+1. one user, one dataset spread over multiple drives, with data redundancy,
+1. publishing a dataset on GitHub with annexed files in a special private remote,
+1. publishing a dataset on GitHub with publicly-accessible annexed files on the Alliance's Nextcloud, and
+1. managing multiple Git repositories under one dataset.
+
+* [Online notes](https://wgpages.netlify.app/datalad)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
+---
+
 <a name="sql"></a>
 #### *"How to create and access MySQL and PostgreSQL databases on DRI systems"*
 
 **Webinar** (2023-Feb-28) with Gemma Hoad
-
 
 * [PDF slides]({{ site.baseurl }}/materials/databases20230228.pdf)
 
@@ -29,13 +53,6 @@ permalink: "/tools/rdm/"
 	access MySQL and PostgreSQL databases on DRI systems" frameborder="0" allow="accelerometer; autoplay;
 	clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-
-
-
-
-
-
 
 ---
 
