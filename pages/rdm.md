@@ -22,7 +22,8 @@ permalink: "/tools/rdm/"
 
 This webinar provides a more beginner-oriented tutorial to version control of large data files with
 DataLad. We start with a textbook introduction to DalaLad showing its main features on top of Git and
-git-annex. Next we demonstrate several simple but useful workflows:
+git-annex. Next we demonstrate several simple but useful workflows (not everything fit into the 50-min
+presentation, but the notes below contain everything):
 
 1. two users on a shared cluster filesystem working with the same dataset stored in `/project`,
 1. one user, one dataset spread over multiple drives, with data redundancy,
@@ -32,8 +33,11 @@ git-annex. Next we demonstrate several simple but useful workflows:
 
 * [Online notes](https://wgpages.netlify.app/datalad)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="830" height="505" src="https://www.youtube.com/embed/itXkNB9Pq30" title="Distributed
+	datasets with DataLad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 
