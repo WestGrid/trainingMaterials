@@ -106,7 +106,7 @@ interaction. And we are planning to repeat the most popular / introductory sessi
 | <span style="color:gray">Introduction to Bash command line</span> | Feb-02, Feb-09 | Alex Razoumov <br> Marie-Hélène Burle |
 | <span style="color:gray">Scientific Python</span> | Feb-23, Mar-02 | Alex Razoumov |
 | <span style="color:gray">Speeding up computations with parallel R</span> | Mar-09, Mar-16, Mar-23 | Marie-Hélène Burle |
-| [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLScSIB_aOf_cOUSD90kj2nsDKURCAG0-PGukS0xqFgjttTexaQ/viewform){:target="_blank"} | Mar-30 | Alex Razoumov |
+| <span style="color:gray">Introduction to Apptainer containers</span> | Mar-30 | Alex Razoumov |
 | [3D scientific visualization with ParaView](https://docs.google.com/forms/d/e/1FAIpQLSeXNV1a3u2ngsacJ7ORjVeb_gkyavKISh-xMy87s8d8dIuwiw/viewform){:target="_blank"} | Apr-06, Apr-13 | Alex Razoumov |
 | Parallel Julia | Apr-20, Apr-27, May-11 | Marie-Hélène Burle <br> Alex Razoumov |
 
