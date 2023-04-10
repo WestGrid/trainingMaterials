@@ -92,14 +92,14 @@ noon Mountain / 1pm Central.
 <a name="courses"></a>
 ## Online courses
 
-Starting in early February, 2023, we will offer weekly online sessions on advanced research computing. These
-sessions will take place every Thursday from 10am to noon Pacific. Most courses will span 3 weeks, but of
-course some courses may be shorter or longer.
+We offer weekly online sessions on advanced research computing. These sessions take place every Thursday from
+10am to noon Pacific and are open to all academic researchers across Canada. Most courses span 3 weeks,
+although some courses may be shorter or longer.
 
 <!-- We will post the program here by early January. -->
 
-Please note that these sessions will not be recorded, as we want to encourage attendance and live
-interaction. And we are planning to repeat the most popular / introductory sessions throughout the year.
+Please note that these sessions are not recorded, as we want to encourage attendance and live interaction, and
+we are planning to repeat the most popular / introductory sessions throughout the year.
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
