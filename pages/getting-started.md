@@ -24,7 +24,7 @@ permalink: "/getting-started/"
 • [Git version control](#git-version-control)
 • [Building software with EasyBuild](#building-software-with-easybuild)
 • [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
-
+• [Scientific documents and static site generators](#authoring-scientific-documents-and-static-site-generators)
 
 
 
@@ -262,3 +262,32 @@ causes, workarounds, bad workflows, best practices.
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+
+
+
+
+
+
+## Authoring scientific documents and static site generators
+
+---
+
+<a name="quarto"></a>
+#### *"The new R Markdown: authoring dynamic scientific documents with Quarto"*
+
+**Webinar** (2023-04-11) by Marie-Hélène Burle
+
+This webinar shows how you can easily create beautiful publications -- webpages, PDFs, websites,
+presentations, books, etc, complete with formatted text, dynamic code and figures -- with Quarto. Quarto is
+the successor to R Markdown. By combining the powers of Jupyter or knitr with Pandoc, it works with R, but
+also with Python and Julia code blocks, adding new functionality to the old tool.
+
+<!-- * <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html" target="_blank">Webinar page</a> -->
+<!-- * <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html#headline-4" target="_blank">Comments & questions</a> -->
+<!-- * <a href="https://westgrid-webinars.netlify.com/cli_tools#/" target="_blank">Online slides</a> -->
+
+<!-- <div class="flex-video"> -->
+<!-- 	<iframe width="681" height="383" src="https://www.youtube.com/embed/BFKT7aj-i80" frameborder="0" -->
+<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
+<!-- 	allowfullscreen></iframe> -->
+<!-- </div> -->

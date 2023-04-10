@@ -82,6 +82,12 @@ noon Mountain / 1pm Central.
 
 
 
+<!-- | Apr-11 | [<span style="color:blue">The new R Markdown: authoring dynamic scientific documents with Quarto</span>]({{ site.baseurl }}/getting-started#quarto) | Marie-Hélène Burle (SFU) | -->
+
+
+
+
+
 
 
 
