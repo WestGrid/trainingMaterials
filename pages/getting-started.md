@@ -251,14 +251,15 @@ topics.
 
 ---
 
-Presentation on dealing with hardware and software instabilities on Cedar from a user's perspective:
-causes, workarounds, bad workflows, best practices.
+Presentation on dealing with hardware and software instabilities on Cedar from a user's perspective: causes,
+workarounds, bad workflows, and best practices. It was part of a larger WestGrid's March 2019 Town Hall -- the
+embedded video below starts at the relevant section.
 
-* [combined PDF slides from all presenters]({{ site.baseurl }}/materials/wgTownHall20190301.pdf) from
+* [Combined PDF slides from all presenters]({{ site.baseurl }}/materials/wgTownHall20190301.pdf) from
   WestGrid's March 2019 Town Hall
 
 <div class="flex-video">
-	<iframe width="1200" height="675" src="https://www.youtube.com/embed/kSWwu_fDraw" frameborder="0"
+	<iframe width="1200" height="675" src="https://www.youtube.com/embed/kSWwu_fDraw?start=1350" frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
@@ -282,9 +283,14 @@ presentations, books, etc, complete with formatted text, dynamic code and figure
 the successor to R Markdown. By combining the powers of Jupyter or knitr with Pandoc, it works with R, but
 also with Python and Julia code blocks, adding new functionality to the old tool.
 
+* <a href="https://mint.westdri.ca/tools/quarto_webinar.html" target="_blank">Online slides</a>
+* <a href="https://quarto.org/docs/guide" target="_blank">Quarto documentation</a>
+
+
+
+
 <!-- * <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html" target="_blank">Webinar page</a> -->
 <!-- * <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html#headline-4" target="_blank">Comments & questions</a> -->
-<!-- * <a href="https://westgrid-webinars.netlify.com/cli_tools#/" target="_blank">Online slides</a> -->
 
 <!-- <div class="flex-video"> -->
 <!-- 	<iframe width="681" height="383" src="https://www.youtube.com/embed/BFKT7aj-i80" frameborder="0" -->

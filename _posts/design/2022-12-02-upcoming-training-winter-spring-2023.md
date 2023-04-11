@@ -71,7 +71,7 @@ noon Mountain / 1pm Central.
 | Feb-28 | [<span style="color:blue">How to create and access MySQL and PostgreSQL databases on DRI systems</span>]({{ site.baseurl }}/tools/rdm#sql) | Gemma Hoad (SFU) |
 | Mar-14 | [<span style="color:blue">Automating the GROMACS analysis tools on HPC systems</span>]({{ site.baseurl }}/domains/md#automating-the-gromacs-analysis-tools-on-hpc-systems) | Olivier Fisette (USask) |
 | Mar-28 | [<span style="color:blue">Distributed datasets with DataLad</span>]({{ site.baseurl }}/tools/rdm#distributed-datasets-with-datalad) | Alex Razoumov (SFU) |
-| Apr-11 | [The new R Markdown: authoring dynamic scientific documents with Quarto](https://docs.google.com/forms/d/e/1FAIpQLSeTmIGVoEp6n0pNKshPzCWXYmYqax_gVcrWtrblBa3HLwqU8A/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Apr-11 | [<span style="color:blue">The new R Markdown: authoring dynamic scientific documents with Quarto</span>]({{ site.baseurl }}/getting-started#quarto) | Marie-Hélène Burle (SFU) |
 | Apr-25 | The Beauty of the Bigdata Realm | Belaid Moa (UVic) |
 | May-09 | Regular expressions | John Simpson (UofA) |
 | May-23 | Managing large hierarchical datasets with PyTables | Alex Razoumov (SFU) |
@@ -82,7 +82,7 @@ noon Mountain / 1pm Central.
 
 
 
-<!-- | Apr-11 | [<span style="color:blue">The new R Markdown: authoring dynamic scientific documents with Quarto</span>]({{ site.baseurl }}/getting-started#quarto) | Marie-Hélène Burle (SFU) | -->
+
 
 
 
