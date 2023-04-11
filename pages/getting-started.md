@@ -286,14 +286,8 @@ also with Python and Julia code blocks, adding new functionality to the old tool
 * <a href="https://mint.westdri.ca/tools/quarto_webinar.html" target="_blank">Online slides</a>
 * <a href="https://quarto.org/docs/guide" target="_blank">Quarto documentation</a>
 
-
-
-
-<!-- * <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html" target="_blank">Webinar page</a> -->
-<!-- * <a href="https://westgrid-cli.netlify.com/webinars/cli_tools.html#headline-4" target="_blank">Comments & questions</a> -->
-
-<!-- <div class="flex-video"> -->
-<!-- 	<iframe width="681" height="383" src="https://www.youtube.com/embed/BFKT7aj-i80" frameborder="0" -->
-<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
-<!-- 	allowfullscreen></iframe> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="830" height="505" src="https://www.youtube.com/embed/0NtyFuA_yNU" title="Distributed
+	datasets with DataLad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
