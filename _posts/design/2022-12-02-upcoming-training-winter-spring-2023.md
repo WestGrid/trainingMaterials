@@ -72,9 +72,10 @@ noon Mountain / 1pm Central.
 | Mar-14 | [<span style="color:blue">Automating the GROMACS analysis tools on HPC systems</span>]({{ site.baseurl }}/domains/md#automating-the-gromacs-analysis-tools-on-hpc-systems) | Olivier Fisette (USask) |
 | Mar-28 | [<span style="color:blue">Distributed datasets with DataLad</span>]({{ site.baseurl }}/tools/rdm#distributed-datasets-with-datalad) | Alex Razoumov (SFU) |
 | Apr-11 | [<span style="color:blue">The new R Markdown: authoring dynamic scientific documents with Quarto</span>]({{ site.baseurl }}/getting-started#quarto) | Marie-Hélène Burle (SFU) |
-| Apr-25 | [The Beauty of the Bigdata Realm](https://docs.google.com/forms/d/e/1FAIpQLSdwXJ05GhpywfpiAwEIWjKvM8u5xKWmcqVaSzAXrLdBM6AeRQ/viewform){:target="_blank"} | Belaid Moa (UVic) |
 | May-09 | Regular expressions | John Simpson (UofA) |
-| May-23 | Managing large hierarchical datasets with PyTables | Alex Razoumov (SFU) |
+| May-23 | Managing large hierarchical datasets with HDF5 and PyTables | Alex Razoumov (SFU) |
+
+<!-- | Apr-25 | [The Beauty of the Bigdata Realm](https://docs.google.com/forms/d/e/1FAIpQLSdwXJ05GhpywfpiAwEIWjKvM8u5xKWmcqVaSzAXrLdBM6AeRQ/viewform){:target="_blank"} | Belaid Moa (UVic) | -->
 
 <!-- [text](link){:target="_blank"} -->
 <!-- | Apr-25 | Cybersecurity webinar (TBC) | - | -->
