@@ -158,7 +158,9 @@ all welcome to attend.
 <a name="bootcamps"></a>
 ## Other local bootcamps and workshops
 
-| [UofA Winter Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2022/winter-research-computing-bootcamp-starts-january-20.html){:target="_blank"} | [UofA Spring Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2023/spring-research-computing-bootcamp.html){:target="_blank"} |
+| Jan-20 to Feb-09 | [UofA Winter Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2022/winter-research-computing-bootcamp-starts-january-20.html){:target="_blank"} |
+| May-04 to Jun-21 | [UofA Spring Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2023/spring-research-computing-bootcamp.html){:target="_blank"} |
+
 
 
 
