@@ -35,6 +35,26 @@ are taught by our analysts and staff.
 
 
 
+---
+
+<a name="regexpchatgpt"></a>
+#### *"Learning Regular Expressions with Smart Tools"*
+
+**Webinar** (2023-May-09) by John Simpson
+
+* <a href="https://bit.ly/westdri-regex-may2023" target="_blank">Google Doc</a> (read-only) with links
+  and workshop notes
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
+
+
+
 
 
 ---
