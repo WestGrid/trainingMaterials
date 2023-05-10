@@ -45,17 +45,11 @@ are taught by our analysts and staff.
 * <a href="https://bit.ly/westdri-regex-may2023" target="_blank">Google Doc</a> (read-only) with links
   and workshop notes
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
-
-
-
-
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="733" height="376" src="https://www.youtube.com/embed/f8-7MBc8BRs" title="Learning Regular
+	Expressions with Smart Tools" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
