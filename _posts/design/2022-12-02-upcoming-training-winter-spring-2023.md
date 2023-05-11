@@ -116,7 +116,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Speeding up computations with parallel R</span> | Mar-09, Mar-16, Mar-23 | Marie-Hélène Burle |
 | <span style="color:gray">Introduction to Apptainer containers</span> | Mar-30 | Alex Razoumov |
 | <span style="color:gray">3D scientific visualization with ParaView</span> | Apr-06, Apr-13 | Alex Razoumov |
-| [Parallel computing in Julia](https://docs.google.com/forms/d/e/1FAIpQLSd_h4S3BUENDYFDBDErzEigkB9-KddVLOX1FT1mB2obFiE2tA/viewform){:target="_blank"} | Apr-20, Apr-27, May-11 | Alex Razoumov |
+| <span style="color:gray">Parallel computing in Julia</span> | Apr-20, Apr-27, May-11 | Alex Razoumov |
 | [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSdBC0yGSzqcm0kGdD2AAnyVSSOWw35aFWlOMQxNccBftYTCxQ/viewform){:target="_blank"} | May-18, May-25 | Marie-Hélène Burle |
 
 <!-- remaining dates: May-11 May-18 May-25 -->
