@@ -10,7 +10,7 @@ permalink: "/tools/visualization/"
 ---
 
 For full documentation, please check the <a href="https://docs.alliancecan.ca/wiki/Visualization"
-target="_blank">Visualization section</a> in Compute Canada&#8217;s technical wiki.
+target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
 * <a href="{{ site.baseurl }}/materials/paraviewWorkshop.pdf" target="_blank">ParaView full-day workshop
   slides</a> (127 pages, last updated July 2022)
