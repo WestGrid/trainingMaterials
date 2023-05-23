@@ -9,12 +9,33 @@ header:
 permalink: "/tools/rdm/"
 ---
 
+
+
+
+
+
+
+<a name="pytables"></a>
+#### *"Managing large hierarchical datasets with PyTables"*
+
+**Webinar** (2023-May-23) with Alex Razoumov
+
+PyTables is a free and open-source Python library for managing large hierarchical datasets. It is built on top
+of NumPy and the HDF5 scientific dataset library and it focuses both on performance and interactive analysis
+of very large datasets. For large data streams (think multi-dimensional arrays or billions of records), it
+outperforms databases in terms of speed, memory usage, and I/O bandwidth. That said, PyTables is not a
+replacement for traditional relational databases because it does not support broad relationships between
+dataset variables. PyTables can even be used to organize a workflow with many (thousands to millions) of small
+files, as you can create a PyTables database of nodes that can be used like regular opened files in
+Python. This lets you store a large number of arbitrary files in a PyTables database with on-the-fly
+compression, making it very efficient for handling huge amounts of data.
+
+* [Online notes](https://wgpages.netlify.app/pytables)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
 ---
-
-
-
-
-
 
 #### *"Distributed datasets with DataLad"*
 
