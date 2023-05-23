@@ -32,8 +32,11 @@ compression, making it very efficient for handling huge amounts of data.
 
 * [Online notes](https://wgpages.netlify.app/pytables)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="817" height="499" src="https://www.youtube.com/embed/iFzKWIgZEds" title="Managing large
+	hierarchical datasets with PyTables" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
