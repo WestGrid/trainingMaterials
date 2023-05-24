@@ -51,7 +51,7 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 
 
 
-regexpchatgpt
+
 
 
 ## Webinars
