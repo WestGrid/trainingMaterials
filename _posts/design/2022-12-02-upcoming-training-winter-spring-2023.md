@@ -117,7 +117,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Introduction to Apptainer containers</span> | Mar-30 | Alex Razoumov |
 | <span style="color:gray">3D scientific visualization with ParaView</span> | Apr-06, Apr-13 | Alex Razoumov |
 | <span style="color:gray">Parallel computing in Julia</span> | Apr-20, Apr-27, May-11 | Alex Razoumov |
-| [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSdBC0yGSzqcm0kGdD2AAnyVSSOWw35aFWlOMQxNccBftYTCxQ/viewform){:target="_blank"} | May-18, May-25 | Marie-Hélène Burle |
+| <span style="color:gray">Introduction to Bash command line</span> | May-18, May-25 | Marie-Hélène Burle |
 
 <!-- remaining dates: May-11 May-18 May-25 -->
 
