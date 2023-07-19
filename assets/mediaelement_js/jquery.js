@@ -45,7 +45,7 @@ var
 	// List of deleted data cache ids, so we can reuse them
 	core_deletedIds = [],
 
-	core_version = "3.5.0",
+	core_version = "1.9.1",
 
 	// Save a reference to some core methods
 	core_concat = core_deletedIds.concat,
@@ -349,8 +349,9 @@ jQuery.extend = jQuery.fn.extend = function() {
 				src = target[ name ];
 				copy = options[ name ];
 
+				// Prevent Object.prototype pollution
 				// Prevent never-ending loop
-				if ( target === copy ) {
+				if ( name === "__proto__" || target === copy ) {
 					continue;
 				}
 
@@ -8204,6 +8205,11 @@ function ajaxConvert( s, response ) {
 			// Convert response if prev dataType is non-auto and differs from current
 			if ( prev !== "*" && prev !== current ) {
 
+				// Mitigate possible XSS vulnerability (gh-2432)
+				if ( s.crossDomain && current === "script" ) {
+					continue;
+				}
+				
 				// Seek a direct converter
 				conv = converters[ prev + " " + current ] || converters[ "* " + current ];
 
