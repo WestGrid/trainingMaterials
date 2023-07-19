@@ -67,11 +67,11 @@ sessions*, click on the title to view recordings and slides.
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Sep-19 | Launching *Visualize This* 2023 contest | Alex Razoumov (SFU) |
-| Oct-03 | TBA | TBA |
-| Oct-17 | TBA | TBA |
-| Oct-31 | Image-based approach to large-scale visualization | Alex Razoumov (SFU) |
+| Oct-03 | A map of current machine learning frameworks | Marie-Hélène Burle (SFU) |
+| Oct-17 | Image-based approach to large-scale visualization | Alex Razoumov (SFU) |
+| Oct-31 | Emacs as a programming IDE for Python, R, and Julia | Marie-Hélène Burle (SFU) |
 | Nov-14 | TBA | TBA |
-| Nov-28 | TBA | TBA |
+| Nov-28 | Put your ML data & models under version control with [DVC](https://github.com/iterative/dvc) | Marie-Hélène Burle (SFU) |
 | Dec-12 | TBD | Alex Razoumov (SFU) |
 
 
