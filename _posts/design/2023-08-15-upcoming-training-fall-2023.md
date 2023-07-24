@@ -115,22 +115,22 @@ We offer weekly online sessions on advanced research computing. These sessions t
 10am to noon Pacific and are open to all academic researchers across Canada. Most courses span 3 weeks,
 although some courses may be shorter or longer.
 
-We will post the program here by early September.
+<!-- We will post the program here by early September. -->
 
-<!-- Please note that these sessions are not recorded, as we want to encourage attendance and live interaction, and -->
-<!-- we are planning to repeat the most popular / introductory sessions throughout the year. -->
+Please note that these sessions are not recorded, as we want to encourage attendance and live interaction, and
+we are planning to repeat the most popular / introductory sessions throughout the year.
 
-<!-- | COURSE | DATES | INSTRUCTOR | -->
-<!-- | ------------- | --------------- | ----------------- | -->
-<!-- | <span style="color:gray">Introduction to Bash command line</span> | Feb-02, Feb-09 | Alex Razoumov <br> Marie-Hélène Burle | -->
-<!-- | <span style="color:gray">Scientific Python</span> | Feb-23, Mar-02 | Alex Razoumov | -->
-<!-- | <span style="color:gray">Speeding up computations with parallel R</span> | Mar-09, Mar-16, Mar-23 | Marie-Hélène Burle | -->
-<!-- | <span style="color:gray">Introduction to Apptainer containers</span> | Mar-30 | Alex Razoumov | -->
-<!-- | <span style="color:gray">3D scientific visualization with ParaView</span> | Apr-06, Apr-13 | Alex Razoumov | -->
-<!-- | <span style="color:gray">Parallel computing in Julia</span> | Apr-20, Apr-27, May-11 | Alex Razoumov | -->
-<!-- | [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSdBC0yGSzqcm0kGdD2AAnyVSSOWw35aFWlOMQxNccBftYTCxQ/viewform){:target="_blank"} | May-18, May-25 | Marie-Hélène Burle | -->
+| COURSE | DATES | INSTRUCTOR |
+| ------------- | --------------- | ----------------- |
+| Introduction to Bash command line | Sep-14, Sep-21 | Alex Razoumov <br> Marie-Hélène Burle |
+| Scientific Python | Sep-28, Oct-05 | Alex Razoumov |
+| Speeding up computations with parallel R | Oct-12, Oct-19, Oct-26 | Marie-Hélène Burle |
+| Introduction to Apptainer containers | Nov-02 | Alex Razoumov |
+| Parallel computing in Chapel | Nov-09, Nov-16 | Alex Razoumov |
+| Machine learning | Nov-23, Nov-30 | Marie-Hélène Burle |
+| Introduction to Bash command line | Dec-07, Dec-14 | Alex Razoumov <br> Marie-Hélène Burle |
 
-
+<!-- | Parallel computing in Julia | Apr-20, Apr-27, May-11 | Alex Razoumov | -->
 
 
 
