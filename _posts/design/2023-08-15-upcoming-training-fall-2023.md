@@ -15,11 +15,11 @@ tags:
 #
 header: no
 image:
-    title: stainedGlass.png
-    thumb: stainedGlass.png
+    title: tensorsAsSpheres.png
+    thumb: tensorsAsSpheres.png
     homepage:
-    caption: 2D image of domain decomposition around an airfoil rendered as thin glass in ParaView
-    caption_url: 
+    caption: Point Gaussian representation in ParaView 
+    caption_url: https://www.paraview.org
 mediaplayer: true
 ---
 
@@ -43,7 +43,7 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 • [<em>Online courses</em>](#online-courses)
 • [<em>SFU / UBC Research Commons workshops</em>](#commons)
 • [<em>Other local bootcamps and workshops</em>](#bootcamps)
-• [<em>Humanities and social sciences training</em>](#dh)
+<!-- • [<em>Humanities and social sciences training</em>](#dh) -->
 • [<em>In-person schools</em>](#schools)
 
 
@@ -178,8 +178,8 @@ all welcome to attend.
 
 
 
-<a name="dh"></a>
-## Humanities and social sciences training
+<!-- <a name="dh"></a> -->
+<!-- ## Humanities and social sciences training -->
 
 <!-- | DATE | EVENT | VENUE | -->
 <!-- | Feb-14 to Feb-17 | [HSS Winter Series](https://hss23.netlify.app){:target="_blank"} | online | -->
