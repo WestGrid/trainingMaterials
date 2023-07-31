@@ -115,7 +115,7 @@ We offer weekly online sessions on advanced research computing. These sessions t
 10am to noon Pacific and are open to all academic researchers across Canada. Most courses span 3 weeks,
 although some courses may be shorter or longer.
 
-<!-- We will post the program here by early September. -->
+Course registration will open in early September.
 
 Please note that these sessions are not recorded, as we want to encourage attendance and live interaction, and
 we are planning to repeat the most popular / introductory sessions throughout the year.
@@ -146,6 +146,8 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 We try to run these workshops in-person but sometimes they take place online. Students, staff and faculty are
 all welcome to attend.
+
+We will post the program here by early September.
 
 <!-- To register, click on an event in the 2nd or 3rd column (not open for SFU yet). -->
 <!-- Registration links will be posted in early January. -->
