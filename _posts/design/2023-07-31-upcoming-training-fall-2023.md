@@ -139,8 +139,6 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 
 
-
-
 <a name="commons"></a>
 ## SFU / UBC Research Commons workshops
 
@@ -152,18 +150,18 @@ We will post the program here by early September.
 <!-- To register, click on an event in the 2nd or 3rd column (not open for SFU yet). -->
 <!-- Registration links will be posted in early January. -->
 
-<!-- |--- -->
-<!-- | TOPIC | SPEAKER | 1st RUN | 2nd RUN | -->
-<!-- |-|-|- -->
-<!-- | Searching the Git history | Marie-Hélène Burle | [Friday, Jan-20 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3706627){:target="_blank"} | | -->
-<!-- | Introduction to Python <br> (full day) | Marie-Hélène Burle and Alex Razoumov | [Thursday, Jan-26 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37740){:target="_blank"} | | -->
-<!-- | Version control of scientific datasets with DataLad | Alex Razoumov | [Thursday, Feb-23 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37739){:target="_blank"} | [Friday, Feb-24 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3707077){:target="_blank"} | -->
-<!-- | Managing large hierarchical datasets with PyTables | Alex Razoumov | [Thursday, Apr-27 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37742){:target="_blank"} | [Friday, Apr-28 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3707080){:target="_blank"} | -->
-<!-- | Finding pre-trained models for transfer learning | Marie-Hélène Burle | [Friday, May-19 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3707039){:target="_blank"} | | -->
+| TOPIC | SPEAKER | 1st RUN | 2nd RUN |
+|-|-|-
+| Introduction to Python (basic concepts and data structures) | Marie-Hélène Burle and Alex Razoumov | Friday, Sep-29 at <span style="color:#CE0834">SFU Research Commons</span> | |
+| Introduction to scientific Python (numpy, pandas, xarrays) | Marie-Hélène Burle and Alex Razoumov | Friday, Oct-20 at <span style="color:#CE0834">SFU Research Commons</span> | |
+| Python for simple data visualization | Marie-Hélène Burle and Alex Razoumov | Friday, Nov-17 at <span style="color:#CE0834">SFU Research Commons</span> | |
+| Web scraping with Python | Marie-Hélène Burle and Alex Razoumov | Friday, Dec-01 at <span style="color:#CE0834">SFU Research Commons</span> | |
 
 <!-- UBC Fridays 1:00pm–2:30pm -->
 <!-- Python will similat to https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/36876 -->
-<!-- [Thursday, Mar-23 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37741){:target="_blank"} -->
+<!-- [Thursday, Jan-26 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37740){:target="_blank"} -->
+
+
 
 
 
