@@ -152,14 +152,16 @@ We will post the program here by early September.
 
 | TOPIC | SPEAKER | 1st RUN | 2nd RUN |
 |-|-|-
-| Introduction to Python (basic concepts and data structures) | Marie-Hélène Burle and Alex Razoumov | Friday, Sep-29 at <span style="color:#CE0834">SFU Research Commons</span> | Friday, Oct-06 at <span style="color:#005CA7">UBC Research Commons</span> |
-| Introduction to scientific Python (numpy, pandas, xarrays) | Marie-Hélène Burle and Alex Razoumov | Friday, Oct-20 at <span style="color:#CE0834">SFU Research Commons</span> | Friday, Oct-27 at <span style="color:#005CA7">UBC Research Commons</span> |
-| Python for simple data visualization | Marie-Hélène Burle and Alex Razoumov | Friday, Nov-17 at <span style="color:#CE0834">SFU Research Commons</span> | Friday, Nov-24 at <span style="color:#005CA7">UBC Research Commons</span> |
-| Web scraping with Python | Marie-Hélène Burle and Alex Razoumov | Friday, Dec-01 at <span style="color:#CE0834">SFU Research Commons</span> | Friday, Dec-08 at <span style="color:#005CA7">UBC Research Commons</span> |
+| Introduction to Python (basic concepts and data structures) | Marie-Hélène Burle and Alex Razoumov | Friday, Sep-29 at <span style="color:#CE0834">SFU Research Commons</span> | [Friday, Oct-06 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3748911){:target="_blank"} |
+| Introduction to scientific Python (numpy, pandas, xarrays) | Marie-Hélène Burle and Alex Razoumov | Friday, Oct-20 at <span style="color:#CE0834">SFU Research Commons</span> | [Friday, Oct-27 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3748918){:target="_blank"} |
+| Python for simple data visualization | Marie-Hélène Burle and Alex Razoumov | Friday, Nov-17 at <span style="color:#CE0834">SFU Research Commons</span> | [Friday, Nov-24 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3748919){:target="_blank"} |
+| Web scraping with Python | Marie-Hélène Burle and Alex Razoumov | Friday, Dec-01 at <span style="color:#CE0834">SFU Research Commons</span> | [Friday, Dec-08 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3748920){:target="_blank"} |
 
 <!-- UBC Fridays 1:00pm–2:30pm -->
 <!-- Python will similat to https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/36876 -->
 <!-- [Thursday, Jan-26 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37740){:target="_blank"} -->
+
+
 
 
 
