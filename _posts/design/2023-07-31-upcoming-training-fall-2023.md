@@ -142,13 +142,9 @@ we are planning to repeat the most popular / introductory sessions throughout th
 <a name="commons"></a>
 ## SFU / UBC Research Commons workshops
 
-We try to run these workshops in-person but sometimes they take place online. Students, staff and faculty are
-all welcome to attend.
+This fall the SFU workshops will be taught in-person, and the UBC workshops will be online via Zoom. To
+register, click on an event in the 3rd or 4th column. Students, staff and faculty are all welcome to attend.
 
-<!-- We will post the program here by early September. -->
-
-<!-- To register, click on an event in the 2nd or 3rd column (not open for SFU yet). -->
-<!-- Registration links will be posted in early January. -->
 
 | TOPIC | SPEAKER | 1st RUN | 2nd RUN |
 |-|-|-
