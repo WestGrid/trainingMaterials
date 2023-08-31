@@ -145,7 +145,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 We try to run these workshops in-person but sometimes they take place online. Students, staff and faculty are
 all welcome to attend.
 
-We will post the program here by early September.
+<!-- We will post the program here by early September. -->
 
 <!-- To register, click on an event in the 2nd or 3rd column (not open for SFU yet). -->
 <!-- Registration links will be posted in early January. -->
@@ -181,6 +181,8 @@ We will post the program here by early September.
 
 <a name="bootcamps"></a>
 ## Other local bootcamps and workshops
+
+We will be adding workshops here as they are announced at other Western Canadian universities.
 
 <!-- | Jan-20 to Feb-09 | [UofA Winter Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2022/winter-research-computing-bootcamp-starts-january-20.html){:target="_blank"} | -->
 <!-- | May-04 to Jun-21 | [UofA Spring Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2023/spring-research-computing-bootcamp.html){:target="_blank"} | -->
