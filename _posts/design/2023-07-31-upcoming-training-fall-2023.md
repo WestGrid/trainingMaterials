@@ -23,6 +23,12 @@ image:
 mediaplayer: true
 ---
 
+
+<!-- deployment status https://github.com/WestGrid/trainingMaterials/actions -->
+
+
+
+
 <!-- While WestGrid ceased its operations on March 31, 2022, research computing training in Western Canada remains -->
 <!-- -- coordinated by the same team, now based at Simon Fraser University, with participation from HPC analysts -->
 <!-- across the BC DRI Group and the Prairies DRI Group (former WestGrid space). -->
@@ -66,13 +72,21 @@ Webinar registration will open in early September.
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Sep-19 | Launching *Visualize This* 2023 contest | Alex Razoumov (SFU) |
-| Oct-03 | A map of current machine learning frameworks | Marie-Hélène Burle (SFU) |
-| Oct-17 | [Image-based approach](https://cinemascience.github.io){:target="_blank"} to large-scale visualization | Alex Razoumov (SFU) |
-| Oct-31 | Hydrological simulations with HPC | Marcos Cunha-Cordeiro and Befekadu Woldegiorgis (Univ. of Manitoba) |
+| Sep-19 | [Launching *Visualize This* 2023 contest](https://docs.google.com/forms/d/e/1FAIpQLSe-ykOhJVvqxJzL8gOeyBH8tcGKMJ_40bG9qqazHwTDrPLw_w/viewform){:target="_blank"} | Alex Razoumov (SFU) |
+| Oct-03 | [A map of current machine learning frameworks](https://docs.google.com/forms/d/e/1FAIpQLSeSRnX0lfYDzvHKWnF2zjONf4gvkb9YHT3Zcs78UIe0tGds-w/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Oct-17 | [Image-based approach to large-scale visualization](https://docs.google.com/forms/d/e/1FAIpQLSfjxflKzVT_t4XnUyS1wc2PoybSs6Ih3-sjltOqut3n-WYUiA/viewform){:target="_blank"} | Alex Razoumov (SFU) |
+| Oct-31 | [Hydrological simulations with HPC](https://docs.google.com/forms/d/e/1FAIpQLSel8rhrb6Xx4tYOiEwvuFj46s25dl3rZjIjQRlHYDDsiGJN0Q/viewform){:target="_blank"} | Marcos Cunha-Cordeiro and Befekadu Woldegiorgis (Univ. of Manitoba) |
 | Nov-14 | Emacs as a programming IDE for Python, R, and Julia | Marie-Hélène Burle (SFU) |
 | Nov-28 | TBD | Alex Razoumov (SFU) |
 | Dec-12 | Put your ML data & models under version control with [DVC](https://github.com/iterative/dvc){:target="_blank"} | Marie-Hélène Burle (SFU) |
+
+
+
+
+
+
+
+
 
 
 
