@@ -72,7 +72,7 @@ Webinar registration will open in early September.
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Sep-19 | [Launching *Visualize This* 2023 contest](https://docs.google.com/forms/d/e/1FAIpQLSe-ykOhJVvqxJzL8gOeyBH8tcGKMJ_40bG9qqazHwTDrPLw_w/viewform){:target="_blank"} | Alex Razoumov (SFU) |
+| Sep-19 | [Launching 2023 *Visualize This* contest](https://docs.google.com/forms/d/e/1FAIpQLSe-ykOhJVvqxJzL8gOeyBH8tcGKMJ_40bG9qqazHwTDrPLw_w/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Oct-03 | [A map of current machine learning frameworks](https://docs.google.com/forms/d/e/1FAIpQLSeSRnX0lfYDzvHKWnF2zjONf4gvkb9YHT3Zcs78UIe0tGds-w/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Oct-17 | [Image-based approach to large-scale visualization](https://docs.google.com/forms/d/e/1FAIpQLSfjxflKzVT_t4XnUyS1wc2PoybSs6Ih3-sjltOqut3n-WYUiA/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Oct-31 | [Hydrological simulations with HPC](https://docs.google.com/forms/d/e/1FAIpQLSel8rhrb6Xx4tYOiEwvuFj46s25dl3rZjIjQRlHYDDsiGJN0Q/viewform){:target="_blank"} | Marcos Cunha-Cordeiro and Befekadu Woldegiorgis (Univ. of Manitoba) |
