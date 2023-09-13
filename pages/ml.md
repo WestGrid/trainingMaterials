@@ -38,7 +38,7 @@ webinar focuses on the TensorBoard tools specifically relevant to object detecti
 a project in ecological monitoring that utilized the Cedar cluster for training. However, the general concept
 of using TensorBoard for model monitoring is applicable to projects from across disciplines and HPC clusters.
 
-* [PDF slides]({{ site.baseurl }}/materials/tensorBoard20221012.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/tensorBoard20221012.pdf)
 
 <div class="flex-video">
 	<iframe width="843" height="474" src="https://www.youtube.com/embed/y4YGqMcsIxc" title="TensorBoard for
@@ -59,7 +59,7 @@ PyTorch tensors provide these and much more, can be easily converted to/from Num
 other Python libraries such as Pandas.
 
 * [Online slides](https://slides.westdri.ca/torchtensors_webinar)
-* [PDF slides]({{ site.baseurl }}/materials/torchtensors20220119.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/torchtensors20220119.pdf)
 
 <div class="flex-video">
 	<iframe width="747" height="420" src="https://www.youtube.com/embed/n-3h9ucTN4w" title="YouTube video player"
@@ -77,7 +77,7 @@ to Transformers. This webinar provides a quick overview of these methods and sho
 — [SwinIR](https://github.com/jingyunliang/swinir) — performs on a few test images using [PyTorch](https://pytorch.org)
 as our framework.
 
-* [PDF slides]({{ site.baseurl }}/materials/upscalingPyTorch20211124.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/upscalingPyTorch20211124.pdf)
 
 <div class="flex-video">
 	<iframe width="657" height="370" src="https://www.youtube.com/embed/vtuSFQ_0u0M" title="YouTube video player"

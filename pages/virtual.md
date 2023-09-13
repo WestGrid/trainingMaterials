@@ -40,7 +40,7 @@ can be used in post-processing and visualization, where you can read simulation 
 both in serial and in parallel. In this webinar we walk you through all stages of creating and using
 overlays. We assume no prior knowledge of the container technology.
 
-* [PDF slides]({{ site.baseurl }}/materials/overlays20230117.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/overlays20230117.pdf)
 
 <div class="flex-video">
 	<iframe width="1017" height="545" src="https://www.youtube.com/embed/XGFE0gddMX4" title="Hiding large
@@ -64,7 +64,7 @@ this webinar (not recorded, only slides available), we discuss the storage optio
 - object storage, and
 - shared filesystem storage.
 
-* [PDF slides]({{ site.baseurl }}/materials/20221109CloudStorage.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/20221109CloudStorage.pdf)
 
 ---
 
@@ -73,7 +73,7 @@ this webinar (not recorded, only slides available), we discuss the storage optio
 
 **Webinar** (2022-Mar-30) by Ken Bigelow
 
-* [PDF slides]({{ site.baseurl }}/materials/securingCloud20220330.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/securingCloud20220330.pdf)
 
 <div class="flex-video">
 	<iframe width="663" height="373" src="https://www.youtube.com/embed/5PMi6aqGwN4" title="YouTube video player"
@@ -88,8 +88,8 @@ this webinar (not recorded, only slides available), we discuss the storage optio
 
 **Webinar** (2021-May-26) by Venkat Mahadevan
 
-* [main slides in PDF]({{ site.baseurl }}/materials/singularity20210526.pdf)
-* [TTK demo slides]({{ site.baseurl }}/materials/ttkContainerDemo20210526.pdf)
+* [main slides in PDF](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/singularity20210526.pdf)
+* [TTK demo slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/ttkContainerDemo20210526.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/8QVzb78LUq4" title="YouTube video player"
@@ -103,7 +103,7 @@ this webinar (not recorded, only slides available), we discuss the storage optio
 
 **Webinar** (2020-Feb-05) by Grigory Shamov
 
-* [PDF slides]({{ site.baseurl }}/materials/singularity20200205.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/singularity20200205.pdf)
 
 <div class="flex-video">
 	<iframe width="681" height="383" src="https://www.youtube.com/embed/z-RtotX0i_0" frameborder="0"
@@ -117,7 +117,7 @@ this webinar (not recorded, only slides available), we discuss the storage optio
 
 **Webinar** (2018-Nov-28) by John Simpson
 
-* [PDF slides]({{ site.baseurl }}/materials/gettingStartedCloud20181128.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/gettingStartedCloud20181128.pdf)
 
 We edited out the first few minutes of this video (lots of background noise), jumping straight into the
 section in which John explains cloud computing and its difference from traditional HPC.

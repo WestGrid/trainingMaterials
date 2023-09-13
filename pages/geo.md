@@ -61,7 +61,7 @@ focuses on how to implement parallel versions of spatial join operations. This e
 developed in the data science community for providing more efficient handling of GEOS pointers and subclassing Dask
 DataFrames.
 
-* [PDF slides]({{ site.baseurl }}/materials/spatialAnalysis20191211.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/spatialAnalysis20191211.pdf)
 
 <div class="flex-video">
 	<iframe width="711" height="400" src="https://www.youtube.com/embed/wRmRnVMjKXM" frameborder="0"

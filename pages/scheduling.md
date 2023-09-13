@@ -22,7 +22,7 @@ Compute Canada&#8217;s technical wiki.
 
 **Webinar** (2021-Mar-31) by Kamil Marcinkowski
 
-* [PDF slides]({{ site.baseurl }}/materials/clusterstats20210331.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/clusterstats20210331.pdf)
 
 <div class="flex-video">
 	<iframe width="739" height="433" src="https://www.youtube.com/embed/6m9qlV4fIq0" title="YouTube video player"
@@ -38,7 +38,7 @@ Compute Canada&#8217;s technical wiki.
 
 This webinar is intended for users who are already familiar with the basic Slurm scheduler commands.
 
-* [PDF slides]({{ site.baseurl }}/materials/schedulingKamil/schedulingProblems20181003.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/schedulingKamil/schedulingProblems20181003.pdf)
 
 <div class="flex-video">
 	<iframe width="966" height="543" src="https://www.youtube.com/embed/UGSi0vung8Q" frameborder="0"
@@ -53,10 +53,10 @@ This webinar is intended for users who are already familiar with the basic Slurm
 
 This three-part webinar is a beginner-level introduction to working with Slurm.
 
-* [PDF slides]({{ site.baseurl }}/materials/schedulingKamil/scheduling201710.pdf)
-* [Slurm cheatsheet]({{ site.baseurl }}/materials/schedulingKamil/slurmCheatsheet.pdf)
-* [Session questions]({{ site.baseurl }}/materials/schedulingKamil/slurmWorksheet.pdf)
-* [Workshop questions and answers]({{ site.baseurl }}/materials/schedulingKamil/answers.tar.gz) (gzipped tar archive)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/schedulingKamil/scheduling201710.pdf)
+* [Slurm cheatsheet](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/schedulingKamil/slurmCheatsheet.pdf)
+* [Session questions](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/schedulingKamil/slurmWorksheet.pdf)
+* [Workshop questions and answers](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/schedulingKamil/answers.tar.gz) (gzipped tar archive)
 
 Part 1:
 <div class="flex-video">

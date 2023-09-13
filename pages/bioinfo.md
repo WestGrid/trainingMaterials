@@ -36,7 +36,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2021-Oct-13) by Tannistha Nandi
 
-* [PDF slides]({{ site.baseurl }}/materials/TannisthaNandi_SingularityContainers_I.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/TannisthaNandi_SingularityContainers_I.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/MXQBUkotZ8Y" title="YouTube video player"
@@ -50,7 +50,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2019-Nov-13) by Brian McConeghy
 
-* [PDF slides]({{ site.baseurl }}/materials/bioinfoPipeline20191113.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/bioinfoPipeline20191113.pdf)
 * workshop <a href="https://github.com/bmcconeghy/bioinformatics_pipeline_with_snakemake_2019-06-27"
   target="_blank">GitHub page</a>
 
@@ -66,7 +66,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2019-Apr-03) by Phillip Richmond
 
-* [PDF slides]({{ site.baseurl }}/materials/shortReadMapping20190403.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/shortReadMapping20190403.pdf)
 
 <div class="flex-video">
 	<iframe width="654" height="368" src="https://www.youtube.com/embed/_SDiZjVliBk" frameborder="0"
@@ -80,7 +80,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2018-Oct-17) by Jamie Rosner
 
-* [PDF slides]({{ site.baseurl }}/materials/automatingAnalysisPipelines20181017.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/automatingAnalysisPipelines20181017.pdf)
 
 <div class="flex-video">
 	<iframe width="966" height="543" src="https://www.youtube.com/embed/i30PZq60vfM" frameborder="0"
@@ -93,7 +93,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2018-Apr-11) by Mya Warren
 
-* [PDF slides]({{ site.baseurl }}/materials/humanVariantDatabase20180411.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/humanVariantDatabase20180411.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/xm6yMk85jd4" frameborder="0"
@@ -106,7 +106,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2017-Feb-14) by Karen Mungall
 
-* [PDF slides]({{ site.baseurl }}/materials/detectingStructuralVariants.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/detectingStructuralVariants.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/DX0OXXzyRRs" frameborder="0"
@@ -119,7 +119,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2018-Jan-17) by Kane Tse
 
-* [PDF slides]({{ site.baseurl }}/materials/qualityControlOfNGSData.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/qualityControlOfNGSData.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/7g-WeGl3Oik" frameborder="0"
@@ -132,7 +132,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2017-Dec-06) by Richard Corbett
 
-* [PDF slides]({{ site.baseurl }}/materials/WestGridwebinar-20171206-FFPE.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/WestGridwebinar-20171206-FFPE.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/_c3KHGDhTcQ" frameborder="0"
@@ -145,7 +145,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2017-Nov-08) by Yussanne Ma
 
-* [PDF slides]({{ site.baseurl }}/materials/WestGridwebinar_GSCdesigningNGSstudy_20171107.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/WestGridwebinar_GSCdesigningNGSstudy_20171107.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/uOypCEAL9rM" frameborder="0"
@@ -158,7 +158,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2017-Sept-28) by Simon Chan
 
-* [PDF slides]({{ site.baseurl }}/materials/benchmarkingSimonChan201709.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/benchmarkingSimonChan201709.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/FbTjuOejojk" frameborder="0"
@@ -171,7 +171,7 @@ Browse the forum, ask a question, or request one-on-one support in
 
 **Webinar** (2017-June-28) by Richard Corbett
 
-* [PDF slides]({{ site.baseurl }}/materials/introBioinformatics20170628.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introBioinformatics20170628.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/lnRkKopf6GU" frameborder="0"

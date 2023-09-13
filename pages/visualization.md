@@ -13,9 +13,9 @@ For full documentation, please check the <a href="https://docs.alliancecan.ca/wi
 target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
 * <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/paraviewWorkshop.pdf" target="_blank">ParaView full-day workshop slides</a> (127 pages, last updated July 2022)
-* <a href="{{ site.baseurl }}/materials/visitWorkshop.pdf" target="_blank">VisIt full-day workshop
+* <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/visitWorkshop.pdf" target="_blank">VisIt full-day workshop
   slides</a> (129 pages, last updated May 2017)
-* <a href="{{ site.baseurl }}/materials/dhsi.pdf" target="_blank">"3D visualization for the humanities"
+* <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dhsi.pdf" target="_blank">"3D visualization for the humanities"
   slides</a> (82 pages, last updated June 2022)
 
 [Table of Contents](#table-of-contents):
@@ -57,7 +57,7 @@ layouts, and extensibility. Makie comes with multiple backends. In this workshop
 interactive 2D and 3D plotting), WGLMakie (an equivalent that runs within browsers), and CairoMakie (best for
 high-quality vector graphics). We also show how to run Makie in the Alliance clusters.
 
-* [PDF slides]({{ site.baseurl }}/materials/makie20221026.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/makie20221026.pdf)
 * [Online slides](https://julia.westdri.ca/webinars/makie){:target="_blank"}
 
 <div class="flex-video">
@@ -88,8 +88,8 @@ pipeline while the simulation is running. This lets you interactively explore la
 having to write them to disk. Even though I demo Catalyst2 with C codes, it can be used from C, C++, Fortran,
 Python, and has also been demonstrated to work well with Julia simulation codes.
 
-* [PDF slides]({{ site.baseurl }}/materials/catalyst20220928.pdf)
-* [ZIP file with scripts and instructions]({{ site.baseurl }}/materials/catalyst20220928.zip)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/catalyst20220928.pdf)
+* [ZIP file with scripts and instructions](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/catalyst20220928.zip)
 
 <div class="flex-video">
 	<iframe width="932" height="524" src="https://www.youtube.com/embed/g3cvXeKbt1o" title="YouTube video player"
@@ -128,8 +128,8 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2021-Sep-29) by Alex Razoumov
 
-* [PDF slides]({{ site.baseurl }}/materials/remote20210929.pdf)
-* [ZIP file with scripts]({{ site.baseurl }}/materials/remote20210929.zip)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/remote20210929.pdf)
+* [ZIP file with scripts](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/remote20210929.zip)
 
 <div class="flex-video">
 	<iframe width="739" height="404" src="https://www.youtube.com/embed/VtAfV6V6Ob4" title="YouTube video player"
@@ -144,7 +144,7 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2021-Apr-28) by Nick Leaf (NVIDIA)
 
-* [PDF slides]({{ site.baseurl }}/materials/Nick_Leaf-Scientific_Visualization_on_NVIDIA_GPUs-April_2021.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/Nick_Leaf-Scientific_Visualization_on_NVIDIA_GPUs-April_2021.pdf)
 
 
 <div class="flex-video">
@@ -160,8 +160,8 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2021-Jan-20) by Alex Razoumov
 
-* [PDF slides]({{ site.baseurl }}/materials/programmable20210120.pdf)
-* [ZIP file with scripts]({{ site.baseurl }}/materials/programmable20210120.zip)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/programmable20210120.pdf)
+* [ZIP file with scripts](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/programmable20210120.zip)
 
 <div class="flex-video">
 	<iframe width="590" height="301" src="https://www.youtube.com/embed/MBXP7hmYatc" frameborder="0"
@@ -175,8 +175,8 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2020-Nov-25) by Alex Razoumov
 
-* [PDF slides]({{ site.baseurl }}/materials/ttk20201125.pdf)
-* [gzipped tar file with ParaView state files]({{ site.baseurl }}/materials/states20201125.tar.gz)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/ttk20201125.pdf)
+* [gzipped tar file with ParaView state files](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/states20201125.tar.gz)
 
 <div class="flex-video">
 	<iframe width="951" height="520" src="https://www.youtube.com/embed/M9T04jj6HD4" frameborder="0"
@@ -205,7 +205,7 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2020-Apr-29) by Alex Razoumov
 
-* [PDF slides]({{ site.baseurl }}/materials/webvis20200429.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/webvis20200429.pdf)
 
 <div class="flex-video">
 	<iframe width="699" height="393" src="https://www.youtube.com/embed/7aOF8BYll5A" frameborder="0"
@@ -219,8 +219,8 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2020-Apr-01) by Dmitri Rozmanov
 
-* [PDF slides]({{ site.baseurl }}/materials/gnuplotSlides20200401.pdf)
-* [gzipped tar file with examples]({{ site.baseurl }}/materials/gnuplotExamples20200401.tar.gz)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/gnuplotSlides20200401.pdf)
+* [gzipped tar file with examples](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/gnuplotExamples20200401.tar.gz)
 
 <div class="flex-video">
 	<iframe width="720" height="405" src="https://www.youtube.com/embed/js4KgC_Jucs" frameborder="0"
@@ -248,7 +248,7 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2019-Sep-18) by Alex Razoumov
 
-* [ZIP file]({{ site.baseurl }}/materials/batch20190918.zip) with slides and scripts
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/batch20190918.zip) with slides and scripts
 
 <div class="flex-video">
 	<iframe width="711" height="400" src="https://www.youtube.com/embed/VCUAObVUKj8" frameborder="0"
@@ -281,7 +281,7 @@ package for analyzing multi-resolution volumetric and particle data. Initially w
 astrophysical simulation data, YT is now widely used across many disciplines dealing with 3D simulation
 or observational/experimental data.
 
-* [PDF slides]({{ site.baseurl }}/materials/yt20181121.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/yt20181121.pdf)
 
 <div class="flex-video">
 	<iframe width="951" height="535" src="https://www.youtube.com/embed/gkUbVjImv20" frameborder="0"
@@ -354,7 +354,7 @@ contest submissions:
 
 **Webinar** (2017-Oct-03) by Alex Razoumov
 
-* [ZIP file]({{ site.baseurl }}/materials/remote20171003.zip) with slides and other files
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/remote20171003.zip) with slides and other files
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/vXamgZWTs0g" frameborder="0"
@@ -372,7 +372,7 @@ for running a visualization in a web browser. This talk gave an introduction to 
 overview ofJavaScript Web Visualizer's main features, and explained how to build simple ParaViewWeb apps
 from scratch.
 
-* [ZIP file]({{ site.baseurl }}/materials/pvweb20170529.zip) with slides and other files
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/pvweb20170529.zip) with slides and other files
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/IUN5ln_XnA8" frameborder="0"
@@ -391,7 +391,7 @@ rendering tasks including processing time-dependent datasets and creating animat
 at several other interesting topics in VisIt workflows such as visualizing the terrain in 3D and
 rendering molecules.
 
-* [ZIP file]({{ site.baseurl }}/materials/visitScripting.zip) with slides and other files
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/visitScripting.zip) with slides and other files
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/REJEmgmz7xw" frameborder="0"
@@ -410,7 +410,7 @@ for running your simulations. In this session, we take a look at OSPRay inside P
 and on a GPU-less cluster node, discuss benchmarks and compare the resulting images built with and
 without the OSPRay engine.
 
-* [PDF slides]({{ site.baseurl }}/materials/ospray.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/ospray.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/23kOj1UkQ-o" frameborder="0"
@@ -430,7 +430,7 @@ expectation that in 3D complex networks will look messy, with some structures oc
 other hand, in 3D layouts we can encode three independent attributes and visualize some unique connection
 topologies that will be lost in 2D.
 
-* [ZIP file]({{ site.baseurl }}/materials/3dgraphs.zip) with PDF slides and Python scripts
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/3dgraphs.zip) with PDF slides and Python scripts
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/BsK_WwoSKDM" frameborder="0"

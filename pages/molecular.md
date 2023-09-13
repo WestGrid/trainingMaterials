@@ -22,8 +22,8 @@ permalink: "/domains/md/"
 
 **Webinar** (2023-Mar-14) by Olivier Fisette
 
-* [PDF slides]({{ site.baseurl }}/materials/gmxtools.pdf)
-* [script archive]({{ site.baseurl }}/materials/gmxtools.tar.gz)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/gmxtools.pdf)
+* [script archive](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/gmxtools.tar.gz)
 
 <div class="flex-video">
 	<iframe width="609" height="381" src="https://www.youtube.com/embed/r8DXH7bH8-4" title="Automating the
@@ -37,7 +37,7 @@ permalink: "/domains/md/"
 
 **Webinar** (2020-Oct-28) by Olivier Fisette
 
-* [PDF slides]({{ site.baseurl }}/materials/vmd20201028.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/vmd20201028.pdf)
 * [tar file](https://nextcloud.computecanada.ca/index.php/s/kcHgbbEgwS3GkHM/download) with data and scripts
 
 <div class="flex-video">
@@ -52,7 +52,7 @@ permalink: "/domains/md/"
 
 **Webinar** (2019-Mar-06) by Dmitri Rozmanov
 
-* [PDF slides]({{ site.baseurl }}/materials/vmd20190306.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/vmd20190306.pdf)
 
 <div class="flex-video">
 	<iframe width="806" height="453" src="https://www.youtube.com/embed/_skmrS6X4Ys" frameborder="0"
@@ -66,7 +66,7 @@ permalink: "/domains/md/"
 
 **Webinar** (2017-Nov-01) by Ali Kerrache
 
-* [PDF slides]({{ site.baseurl }}/materials/introMDsimulations20171101.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introMDsimulations20171101.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/yaLPLRO1FLE" frameborder="0"
@@ -79,7 +79,7 @@ permalink: "/domains/md/"
 
 **Webinar** (2017-Mar-14) by Ali Kerrache
 
-* [PDF slides]({{ site.baseurl }}/materials/introMDSimulationsLAMMPS0.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introMDSimulationsLAMMPS0.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/ZMiveX6n-1w" frameborder="0"

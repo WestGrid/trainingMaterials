@@ -70,7 +70,7 @@ the 50-min presentation, but the notes below contain everything.
 
 **Webinar** (2023-Feb-28) with Gemma Hoad
 
-* [PDF slides]({{ site.baseurl }}/materials/databases20230228.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/databases20230228.pdf)
 
 <div class="flex-video">
 	<iframe width="929" height="542" src="https://www.youtube.com/embed/3uHSXXQwJpQ" title="How to create and
@@ -90,7 +90,7 @@ illustrative use cases -- taken from neuroimaging, geophysics, and workflows for
 respectively -- are used to provide an introduction to the main concepts of git-based file management,
 collaboration, and analysis.
 
-* [PDF slides]({{ site.baseurl }}/materials/datalad_for_hpc_1_1.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/datalad_for_hpc_1_1.pdf)
 
 <div class="flex-video">
 	<iframe width="928" height="431" src="https://www.youtube.com/embed/IZGlxfdRRno" title="Data management
@@ -116,7 +116,7 @@ can be used in post-processing and visualization, where you can read simulation 
 both in serial and in parallel. In this webinar we walk you through all stages of creating and using
 overlays. We assume no prior knowledge of the container technology.
 
-* [PDF slides]({{ site.baseurl }}/materials/overlays20230117.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/overlays20230117.pdf)
 
 <div class="flex-video">
 	<iframe width="1017" height="545" src="https://www.youtube.com/embed/XGFE0gddMX4" title="Hiding large
@@ -131,7 +131,7 @@ overlays. We assume no prior knowledge of the container technology.
 
 **Webinar** (2021-Mar-03) by Simon Goring
 
-* [PDF slides]({{ site.baseurl }}/materials/throughput20210303.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/throughput20210303.pdf)
 * [Throughput DB documentation](https://throughput-ec.github.io/throughput_docs)
 
 <div class="flex-video">
@@ -147,8 +147,8 @@ overlays. We assume no prior knowledge of the container technology.
 
 **Webinar** (2021-Feb-17) by Alex Razoumov
 
-* [PDF slides]({{ site.baseurl }}/materials/backup202102.pdf)
-* [script]({{ site.baseurl }}/materials/functions202102.sh) with all function definitions
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/backup202102.pdf)
+* [script](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/functions202102.sh) with all function definitions
 
 <div class="flex-video">
 	<iframe width="578" height="295" src="https://www.youtube.com/embed/VF-gijhrcYE" frameborder="0"
@@ -163,7 +163,7 @@ overlays. We assume no prior knowledge of the container technology.
 
 **Webinar** (2020-Sep-30) by Alex Razoumov
 
-* [PDF slides]({{ site.baseurl }}/materials/xarray20200930.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf)
 
 <div class="flex-video">
 	<iframe width="1158" height="660" src="https://www.youtube.com/embed/xdrcMi_FB8Q" frameborder="0"
@@ -178,7 +178,7 @@ overlays. We assume no prior knowledge of the container technology.
 
 **Webinar** (2019-Oct-30) by Sergiy Stepanenko
 
-* [PDF slides]({{ site.baseurl }}/materials/acl20191030.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/acl20191030.pdf)
 
 <div class="flex-video">
 	<iframe width="966" height="543" src="https://www.youtube.com/embed/h-iZ2Cz9OTA" frameborder="0"
@@ -193,7 +193,7 @@ overlays. We assume no prior knowledge of the container technology.
 
 **Webinar** (2019-May-01) by Alex Razoumov
 
-* [ZIP file with slides and bash functions]({{ site.baseurl }}/materials/dar20190501.zip)
+* [ZIP file with slides and bash functions](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dar20190501.zip)
 
 <div class="flex-video">
 	<iframe width="782" height="440" src="https://www.youtube.com/embed/AeZSPa4aMnk" frameborder="0"
@@ -208,7 +208,7 @@ overlays. We assume no prior knowledge of the container technology.
 
 **Webinar** (2019-Mar-20) by Alex Garnett and Adam McKenzie
 
-* [PDF slides]({{ site.baseurl }}/materials/rdm20190320.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/rdm20190320.pdf)
 
 <div class="flex-video">
 	<iframe width="966" height="543" src="https://www.youtube.com/embed/ZMl6bZT7ZU0" frameborder="0"

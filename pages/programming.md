@@ -55,7 +55,7 @@ site.baseurl }}/tools/visualization).
 
 **Webinar** (2020-Sep-30) by Alex Razoumov
 
-* [PDF slides]({{ site.baseurl }}/materials/xarray20200930.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf)
 
 <div class="flex-video">
 	<iframe width="1158" height="660" src="https://www.youtube.com/embed/xdrcMi_FB8Q" frameborder="0"
@@ -117,7 +117,7 @@ target="_blank">here</a>.)
 
 **Webinar** (2022-Feb-02) by Alex Razoumov
 
-* [PDF slides]({{ site.baseurl }}/materials/threadsx20220202.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/threadsx20220202.pdf)
 
 <div class="flex-video">
 	<iframe width="710" height="433" src="https://www.youtube.com/embed/ZYzlhp-W0a8" title="YouTube video player"
@@ -153,7 +153,7 @@ In this webinar, we start with a quick review of Julia's multi-threading feature
 standard library and its large array of tools. We show parallelization using three problems: a slowly converging series,
 a Julia set, and an N-body solver. We run the examples on a multi-core laptop and an HPC cluster.
 
-* [PDF slides]({{ site.baseurl }}/materials/julia20210317.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/julia20210317.pdf)
 
 <div class="flex-video">
 	<iframe width="739" height="404" src="https://www.youtube.com/embed/2SafLn0xJKY" frameborder="0"
@@ -229,7 +229,7 @@ write efficient large-scale numerical codes.
 
 **Webinar** (2019-Apr-17) by Alex Razoumov
 
-* [ZIP file]({{ site.baseurl }}/materials/unstructured20190417.zip) with slides and sample codes
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/unstructured20190417.zip) with slides and sample codes
 
 <div class="flex-video">
 	<iframe width="782" height="440" src="https://www.youtube.com/embed/UTu0z_W0-FM" frameborder="0"
@@ -244,7 +244,7 @@ write efficient large-scale numerical codes.
 
 **Webinar** (2020-Mar-18) by Alex Razoumov
 
-* [PDF slides]({{ site.baseurl }}/materials/cFromChapel20200318.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/cFromChapel20200318.pdf)
 
 <div class="flex-video">
 	<iframe width="1155" height="658" src="https://www.youtube.com/embed/zkTeKlZe2Ag" frameborder="0"
@@ -271,7 +271,7 @@ As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Para
 
 **Webinar** (2018-May-09) by Patrick Mann
 
-* [PDF slides]({{ site.baseurl }}/materials/boostMPI20180509.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/boostMPI20180509.pdf)
 * <a href="https://github.com/WestGrid/boostWebinar" target="_blank">repository with example codes</a>
 
 <div class="flex-video">
@@ -299,7 +299,7 @@ The topics covered include:
 - Loops
 - Reduction variables
 
-[View the slides]({{ site.baseurl }}/materials/introParallelProgrammingOpenMP201710.pdf)
+[View the slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introParallelProgrammingOpenMP201710.pdf)
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/LL3TAHpxOig" frameborder="0"
@@ -319,7 +319,7 @@ The topics covered include:
 
 **Webinar** (2019-Feb-20) by Tyson Whitehead
 
-* [ZIP file with slides, handout, and code examples]({{ site.baseurl }}/materials/valgrind20190220.zip)
+* [ZIP file with slides, handout, and code examples](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/valgrind20190220.zip)
 
 <div class="flex-video">
 	<iframe width="966" height="543" src="https://www.youtube.com/embed/-VDiEe9hxC4" frameborder="0"

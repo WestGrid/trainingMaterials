@@ -58,7 +58,7 @@ are taught by our analysts and staff.
 
 **Webinar** (2021-May-12) by Megan Meredith-Lobay
 
-* <a href="{{ site.baseurl }}/materials/explorationDH20210512.pdf" target="_blank">PDF slides</a>
+* <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/explorationDH20210512.pdf" target="_blank">PDF slides</a>
 
 <div class="flex-video">
 	<iframe width="739" height="378" src="https://www.youtube.com/embed/wLU3dDkLokQ" title="YouTube video player"
@@ -116,7 +116,7 @@ are taught by our analysts and staff.
 
 **Webinar** (2019-Feb-06) by Ian Percel
 
-* [PDF slides]({{ site.baseurl }}/materials/textParsing20190206.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/textParsing20190206.pdf)
 
 <div class="flex-video">
 	<iframe width="726" height="408" src="https://www.youtube.com/embed/iH0jxOY3YiI" frameborder="0"
@@ -130,7 +130,7 @@ are taught by our analysts and staff.
 
 **Webinar** (2018-Nov-28) by John Simpson
 
-* [PDF slides]({{ site.baseurl }}/materials/gettingStartedCloud20181128.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/gettingStartedCloud20181128.pdf)
 
 <div class="flex-video">
 	<iframe width="726" height="408" src="https://www.youtube.com/embed/dzrzjpXPC6M" frameborder="0"
@@ -144,7 +144,7 @@ are taught by our analysts and staff.
 
 **Webinar** (2017-Sep-21) by Megan Meredith-Lobay
 
-* [PDF slides]({{ site.baseurl }}/materials/ccToolsHumanitiesSocialSciences20170921.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/ccToolsHumanitiesSocialSciences20170921.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/5p201-BcVLo" frameborder="0"

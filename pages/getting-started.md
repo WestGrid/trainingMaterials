@@ -44,8 +44,8 @@ permalink: "/getting-started/"
 
 ## Introduction to HPC
 
-* [Supercomputing in Canada: An Introduction]({{ site.baseurl }}/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
-* [High Performance Computing: Short Introduction]({{ site.baseurl }}/materials/hpcUMan20190920.pdf) - Univ. of Manitoba perspective (PDF slides)
+* [Supercomputing in Canada: An Introduction](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introCCWestGridUWinnipeg201809.pdf) (PDF slides)
+* [High Performance Computing: Short Introduction](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/hpcUMan20190920.pdf) - Univ. of Manitoba perspective (PDF slides)
 
 <!-- #### Quick guides -->
 
@@ -59,7 +59,7 @@ permalink: "/getting-started/"
 
 **Webinar** (2018-Sep-19) - Introduction to working on our HPC systems for new users.
 
-* [webinar slides]({{ site.baseurl }}/materials/introRunningJobs20180919.pdf)
+* [webinar slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introRunningJobs20180919.pdf)
 
 <div class="flex-video">
 	<iframe width="781" height="439" src="https://www.youtube.com/embed/EY-NIGhCnhQ" frameborder="0"
@@ -87,7 +87,7 @@ Browse the latest materials from WestGrid's [Introductory HPC course](http://bit
 ## Linux command line
 
 <!-- Browse the materials from our Introduction to Linux: Command Line Basics (delivered Sept 2017): -->
-<!-- - [View the slides]({{ site.baseurl }}/materials/introLinuxCommandLine20170926.pdf) -->
+<!-- - [View the slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introLinuxCommandLine20170926.pdf) -->
 <!-- - [Watch the recording](https://www.youtube.com/watch?v=vOrk0OuEU04) -->
 <!-- - [Try the problemset](https://github.com/Phillip-a-richmond/ComputeCanada_EOT/blob/master/IntroToLinuxProblemSet.txt) -->
 
@@ -135,7 +135,7 @@ users, we finish the workshop with two Emacs utilities:
 1. [TRAMP](https://www.emacswiki.org/emacs/TrampMode): a remote file access system,
 1. [Helm](https://github.com/emacs-helm/helm): a "framework for incremental completions and narrowing selections".
 
-* [PDF slides]({{ site.baseurl }}/materials/favouriteCLITools20220316.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/favouriteCLITools20220316.pdf)
 * [Online slides](https://slides.westdri.ca/tools/#)
 
 <div class="flex-video">
@@ -159,7 +159,7 @@ can provide solutions to both connectivity and productivity sore points. It keep
 tiled window interface. This talk walks through some of the best features that will help you get work done on
 the cluster.
 
-* [PDF slides]({{ site.baseurl }}/materials/tmux20221123.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/tmux20221123.pdf)
 
 <div class="flex-video">
 	<iframe width="903" height="508" src="https://www.youtube.com/embed/Y1Of3S5iVog" title="Turbo boost your
@@ -217,7 +217,7 @@ topics.
 
 **Webinar** (2021-12-08) by Ata Roudgar
 
-* [PDF slides]({{ site.baseurl }}/materials/easybuild20211208.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/easybuild20211208.pdf)
 
 <div class="flex-video">
 	<iframe width="739" height="416" src="https://www.youtube.com/embed/l3Vo9ATA3qQ" title="YouTube video player"
@@ -231,8 +231,8 @@ topics.
 
 **Webinar** (2020-04-15) by Ali Kerrache
 
-* [PDF slides]({{ site.baseurl }}/materials/easybuild20200415.pdf)
-* [gzipped tar file with examples]({{ site.baseurl }}/materials/ebExamples20200415.tar.gz)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/easybuild20200415.pdf)
+* [gzipped tar file with examples](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/ebExamples20200415.tar.gz)
 
 <div class="flex-video">
 	<iframe width="684" height="385" src="https://www.youtube.com/embed/38AuEQ7Jxn4" frameborder="0"
@@ -255,7 +255,7 @@ Presentation on dealing with hardware and software instabilities on Cedar from a
 workarounds, bad workflows, and best practices. It was part of a larger WestGrid's March 2019 Town Hall -- the
 embedded video below starts at the relevant section.
 
-* [Combined PDF slides from all presenters]({{ site.baseurl }}/materials/wgTownHall20190301.pdf) from
+* [Combined PDF slides from all presenters](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/wgTownHall20190301.pdf) from
   WestGrid's March 2019 Town Hall
 
 <div class="flex-video">
