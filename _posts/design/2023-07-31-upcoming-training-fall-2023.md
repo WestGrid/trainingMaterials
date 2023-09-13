@@ -195,8 +195,8 @@ register, click on an event in the 3rd or 4th column. Students, staff and facult
 
 We will be adding workshops here as they are announced at other Western Canadian universities.
 
-<!-- | Jan-20 to Feb-09 | [UofA Winter Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2022/winter-research-computing-bootcamp-starts-january-20.html){:target="_blank"} | -->
-<!-- | May-04 to Jun-21 | [UofA Spring Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2023/spring-research-computing-bootcamp.html){:target="_blank"} | -->
+| DATE | EVENT | VENUE |
+| starts Sep-22 | [Univ. of Alberta Fall Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2023/fall-research-computing-bootcamp.html){:target="_blank"} | Online |
 
 <!-- watch https://www.ualberta.ca/information-services-and-technology/research-computing -->
 
