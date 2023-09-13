@@ -341,7 +341,7 @@ The topics covered include:
 
 **Webinar** (2018-Oct-31) by Sumit Tandon
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/e17df7cd12cfd22db8e4ddbeb71e6b58d75fd39c/materials/MATLAB20181031.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/MATLAB20181031.pdf)
 
 <div class="flex-video">
 	<iframe width="1425" height="629" src="https://www.youtube.com/embed/LFxTqte_Msc" frameborder="0"

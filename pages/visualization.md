@@ -12,8 +12,7 @@ permalink: "/tools/visualization/"
 For full documentation, please check the <a href="https://docs.alliancecan.ca/wiki/Visualization"
 target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
-* <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/e17df7cd12cfd22db8e4ddbeb71e6b58d75fd39c/materials/paraviewWorkshop.pdf" target="_blank">ParaView full-day workshop
-  slides</a> (127 pages, last updated July 2022)
+* <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/paraviewWorkshop.pdf" target="_blank">ParaView full-day workshop slides</a> (127 pages, last updated July 2022)
 * <a href="{{ site.baseurl }}/materials/visitWorkshop.pdf" target="_blank">VisIt full-day workshop
   slides</a> (129 pages, last updated May 2017)
 * <a href="{{ site.baseurl }}/materials/dhsi.pdf" target="_blank">"3D visualization for the humanities"
@@ -112,7 +111,7 @@ cluster. The Contest challenge was to identify various flow features and visuali
 time. We saw many good submissions and a ton of innovative visualization ideas. In this webinar we talked about some of
 the ideas suggested in the submissions.
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/e17df7cd12cfd22db8e4ddbeb71e6b58d75fd39c/materials/scivis21.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/scivis21.pdf)
 
 Please note that the short clips shared in the webinar were not recorded smoothly by Zoom, so it is best to watch these
 animations inside the presentations linked from the [Contest website](https://scivis2021.netlify.app/results).
@@ -191,7 +190,7 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2020-Oct-28) by Olivier Fisette
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/e17df7cd12cfd22db8e4ddbeb71e6b58d75fd39c/materials/vmd20201028.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/vmd20201028.pdf)
 * [tar file](https://nextcloud.computecanada.ca/index.php/s/kcHgbbEgwS3GkHM/download) with data and scripts
 
 <div class="flex-video">
@@ -235,7 +234,7 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2020-Jan-15) by Alex Razoumov
 
-* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/e17df7cd12cfd22db8e4ddbeb71e6b58d75fd39c/materials/pathtracer20200115.zip) with slides and other materials
+* [ZIP file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/pathtracer20200115.zip) with slides and other materials
 
 <div class="flex-video">
 	<iframe width="711" height="400" src="https://www.youtube.com/embed/oK35O03RSTw" frameborder="0"
@@ -263,7 +262,7 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2019-Mar-06) by Dmitri Rozmanov
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/e17df7cd12cfd22db8e4ddbeb71e6b58d75fd39c/materials/vmd20190306.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/vmd20190306.pdf)
 
 <div class="flex-video">
 	<iframe width="966" height="543" src="https://www.youtube.com/embed/_skmrS6X4Ys" frameborder="0"
@@ -301,7 +300,7 @@ In Part 2 we learn how to use <a href="https://yt-project.org" target="_blank">Y
 and manipulation, including creating isosurfaces and streamlines, exporting 3D scenes to interactive
 viewers such as ParaView and MeshLab, and subsetting data in many different ways.
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/e17df7cd12cfd22db8e4ddbeb71e6b58d75fd39c/materials/yt20190123.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/yt20190123.pdf)
 
 <div class="flex-video">
 	<iframe width="726" height="408" src="https://www.youtube.com/embed/enu7FcFmf6c" frameborder="0"
@@ -342,7 +341,7 @@ contest submissions:
 - coupling visualization with the SuperCollider server to produce on-the-fly audio from selected
   Q-criterion.
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/e17df7cd12cfd22db8e4ddbeb71e6b58d75fd39c/materials/novel20180131.pdf)
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/novel20180131.pdf)
 
 <div class="flex-video">
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/LAeiWHb3c70" frameborder="0"
