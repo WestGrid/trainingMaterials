@@ -20,7 +20,8 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Data visualization in Julia with the Makie ecosystem"</em>](#data-visualization-in-julia-with-the-makie-ecosystem)
+[<em>"Launching 2023 *Visualize This* contest"</em>](#launching-2023-visualize-this-contest)
+• [<em>"Data visualization in Julia with the Makie ecosystem"</em>](#data-visualization-in-julia-with-the-makie-ecosystem)
 • [<em>"In-situ visualization with ParaView Catalyst2"</em>](#in-situ-visualization-with-paraview-catalyst2)
 • [<em>"Highlights from the 2021 SciVis Contest"</em>](#highlights-from-the-2021-scivis-contest)
 • [<em>"Remote visualization on Compute Canada clusters"</em>](#remote-visualization-on-compute-canada-clusters)
@@ -43,6 +44,28 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 • [<em>"CPU-based rendering with OSPRay"</em>](#cpu-based-rendering-with-ospray)
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
+
+---
+
+#### *"Launching 2023 *Visualize This* contest"*
+
+**Webinar** (2023-Sep-19) by Alex Razoumov
+
+This fall we are running a Canada-wide
+[scientific visualization Contest](https://visualizethis.netlify.app){:target="_blank"}. The contest is
+targeting early-career researchers from Canadian universities, but anyone can participate irrespective of
+their affiliation or career stage. Participants can work on one of two geospatial datasets, one from a
+simulation of a storm in Eastern Canada, and the other from a compilation of the normalized difference
+vegetation index (NDVI) data over BC throughout 2022.
+
+In this webinar I go through both datasets, show how to load them into standalone Python and into ParaView and
+several possible techniques for visualizing these data, including manipulating variables via the Programmable
+Filter.
+
+* [Online notes](https://visualizethis.netlify.app/webinar){:target="_blank"}
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
 
 ---
 
