@@ -64,8 +64,11 @@ Filter.
 
 * [Online notes](https://visualizethis.netlify.app/webinar){:target="_blank"}
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="830" height="540" src="https://www.youtube.com/embed/MIlMQ3mcVW4" title="Launching 2023
+	Visualize This contest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
