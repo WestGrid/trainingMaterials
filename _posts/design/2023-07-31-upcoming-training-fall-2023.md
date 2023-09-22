@@ -136,7 +136,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSfM-ayDf3gdvf4SjZomMzjlByZ2N5FyuHcO-bKUAIRxKe4LoQ/viewform){:target="_blank"} | Sep-14, Sep-21 | Alex Razoumov <br> Marie-Hélène Burle |
+| <span style="color:gray">Introduction to Bash command line</span> | Sep-14, Sep-21 | Alex Razoumov <br> Marie-Hélène Burle |
 | [Scientific Python](https://docs.google.com/forms/d/e/1FAIpQLSc5u2bwaPWW53D9kijqQxyqRSoFqUTx55iWjPJpzjMFAR3Dag/viewform){:target="_blank"} | Sep-28, Oct-05 | Alex Razoumov |
 | [Speeding up computations with parallel R](https://docs.google.com/forms/d/e/1FAIpQLSceJ9KZIvKHgPyPwf7pkB5GQxx5eEBGy3jdjnVoLl0pTU09BA/viewform){:target="_blank"} | Oct-12, Oct-19, Oct-26 | Marie-Hélène Burle |
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Nov-02 | Alex Razoumov |
