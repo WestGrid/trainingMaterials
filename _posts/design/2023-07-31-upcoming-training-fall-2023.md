@@ -65,7 +65,7 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Tuesday at 11am Pacific /
 noon Mountain / 1pm Central.
 
-Webinar registration will open in early September.
+<!-- Webinar registration will open in early September. -->
 
 <!-- For *upcoming webinars*, click the linked title to see more details or to register. For *past -->
 <!-- sessions*, click on the title to view recordings and slides. -->
