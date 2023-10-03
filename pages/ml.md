@@ -16,6 +16,26 @@ permalink: "/tools/ml/"
 
 
 
+<a name="current-ml-frameworks"></a>
+#### *"A map of current machine learning frameworks"*
+
+**Webinar** (2023-Oct-03) by Marie-Hélène Burle
+
+We are in a period of active development of new deep learning techniques, adding to the already mature area of
+traditional machine learning. This is leading to a vast and ever evolving field of implementations which can
+be disorienting. This webinar guides you through a map of the current frameworks, organizing them based on
+their domain (machine learning vs deep learning) and the languages required to use them. We also talk about
+the various automatic differentiation options available. To narrow such a large topic, we are limiting the map
+to frameworks that can be used from Python, Julia, and R.
+
+* [Online slides](https://mint.westdri.ca/ml/frameworks)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
 
 <a name="tensorboard"></a>
 #### *"TensorBoard for objection detection models"*

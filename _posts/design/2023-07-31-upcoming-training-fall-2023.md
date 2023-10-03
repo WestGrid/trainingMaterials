@@ -73,7 +73,7 @@ noon Mountain / 1pm Central.
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Sep-19 | [<span style="color:blue">Launching 2023 *Visualize This* contest</span>]({{ site.baseurl }}/tools/visualization#launching-2023-visualize-this-contest) | Alex Razoumov (SFU) |
-| Oct-03 | [A map of current machine learning frameworks](https://docs.google.com/forms/d/e/1FAIpQLSeSRnX0lfYDzvHKWnF2zjONf4gvkb9YHT3Zcs78UIe0tGds-w/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Oct-03 | [<span style="color:blue">A map of current machine learning frameworks</span>]({{ site.baseurl }}/tools/ml#current-ml-frameworks) | Marie-Hélène Burle (SFU) |
 | Oct-17 | [Image-based approach to large-scale visualization](https://docs.google.com/forms/d/e/1FAIpQLSfjxflKzVT_t4XnUyS1wc2PoybSs6Ih3-sjltOqut3n-WYUiA/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Oct-31 | [Hydrological simulations with HPC](https://docs.google.com/forms/d/e/1FAIpQLSel8rhrb6Xx4tYOiEwvuFj46s25dl3rZjIjQRlHYDDsiGJN0Q/viewform){:target="_blank"} | Marcos Cunha-Cordeiro and Befekadu Woldegiorgis (Univ. of Manitoba) |
 | Nov-14 | Emacs as a programming IDE for Python, R, and Julia | Marie-Hélène Burle (SFU) |
