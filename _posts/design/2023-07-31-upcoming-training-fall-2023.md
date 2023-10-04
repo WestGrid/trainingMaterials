@@ -40,9 +40,6 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 <!-- elsewhere). -->
 
 
-
-
-
 [Table of Contents](#table-of-contents):
 &nbsp;
 [<em>Webinars</em>](#webinars)
@@ -51,6 +48,7 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 • [<em>Other local bootcamps and workshops</em>](#bootcamps)
 <!-- • [<em>Humanities and social sciences training</em>](#dh) -->
 • [<em>In-person schools</em>](#schools)
+
 
 
 
@@ -76,43 +74,14 @@ noon Mountain / 1pm Central.
 | Oct-03 | [<span style="color:blue">A map of current machine learning frameworks</span>]({{ site.baseurl }}/tools/ml#current-ml-frameworks) | Marie-Hélène Burle (SFU) |
 | Oct-17 | [Image-based approach to large-scale visualization](https://docs.google.com/forms/d/e/1FAIpQLSfjxflKzVT_t4XnUyS1wc2PoybSs6Ih3-sjltOqut3n-WYUiA/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Oct-31 | [Hydrological simulations with HPC](https://docs.google.com/forms/d/e/1FAIpQLSel8rhrb6Xx4tYOiEwvuFj46s25dl3rZjIjQRlHYDDsiGJN0Q/viewform){:target="_blank"} | Marcos Cunha-Cordeiro and Befekadu Woldegiorgis (Univ. of Manitoba) |
-| Nov-14 | Emacs as a programming IDE for Python, R, and Julia | Marie-Hélène Burle (SFU) |
+| Nov-14 | [Emacs as a programming IDE for Python, R, and Julia](https://docs.google.com/forms/d/e/1FAIpQLSeUVnHSyM4LbmYjrgcYGscStup9fG6AyppY27rnsPFP8GOt4w/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Nov-28 | TBD | Alex Razoumov (SFU) |
-| Dec-12 | Put your ML data & models under version control with [DVC](https://github.com/iterative/dvc){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Dec-12 | [Put your ML data & models under version control with DVC](https://docs.google.com/forms/d/e/1FAIpQLSdYh-tzvCnmbvK0fmgjJRsylIR67MC3x7BASdq5UohcvfCvzw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- | Jan-17 | [<span style="color:blue">Hiding large numbers of files in container overlays</span>]({{ site.baseurl }}/tools/virtual#manyFilesInOverlays) | Alex Razoumov (SFU) | -->
-<!-- | Jan-31 | [<span style="color:blue">Introduction to high-performance research computing in R</span>]({{ site.baseurl }}/programming#introduction-to-high-performance-research-computing-in-r) | Marie-Hélène Burle (SFU) | -->
-<!-- | Feb-14 | [<span style="color:blue">Data management with DataLad</span>]({{ site.baseurl }}/tools/rdm#datalad){:target="_blank"} | Ian Percel (UofCalgary) | -->
-<!-- | Feb-28 | [<span style="color:blue">How to create and access MySQL and PostgreSQL databases on DRI systems</span>]({{ site.baseurl }}/tools/rdm#sql) | Gemma Hoad (SFU) | -->
-<!-- | Mar-14 | [<span style="color:blue">Automating the GROMACS analysis tools on HPC systems</span>]({{ site.baseurl }}/domains/md#automating-the-gromacs-analysis-tools-on-hpc-systems) | Olivier Fisette (USask) | -->
-<!-- | Mar-28 | [<span style="color:blue">Distributed datasets with DataLad</span>]({{ site.baseurl }}/tools/rdm#distributed-datasets-with-datalad) | Alex Razoumov (SFU) | -->
-<!-- | Apr-11 | [<span style="color:blue">The new R Markdown: authoring dynamic scientific documents with Quarto</span>]({{ site.baseurl }}/getting-started#quarto) | Marie-Hélène Burle (SFU) | -->
-<!-- | May-09 | [<span style="color:blue">Learning Regular Expressions with Smart Tools</span>]({{ site.baseurl }}/domains/dh#regexpchatgpt) | John Simpson (UofA) | -->
-<!-- | May-23 | [<span style="color:blue">Managing large hierarchical datasets with PyTables</span>]({{ site.baseurl }}/tools/rdm#pytables) | Alex Razoumov (SFU) | -->
-
-<!-- | Apr-25 | [The Beauty of the Bigdata Realm](https://docs.google.com/forms/d/e/1FAIpQLSdwXJ05GhpywfpiAwEIWjKvM8u5xKWmcqVaSzAXrLdBM6AeRQ/viewform){:target="_blank"} | Belaid Moa (UVic) | -->
 
 <!-- [text](link){:target="_blank"} -->
 <!-- | Apr-25 | Cybersecurity webinar (TBC) | - | -->
 <!-- Belaid: It will be about the introduction to actual bigdata and its ecosystem, including Hadoop and Spark. -->
-
-
-
-
-
 
 
 
@@ -140,9 +109,9 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | [Scientific Python](https://docs.google.com/forms/d/e/1FAIpQLSc5u2bwaPWW53D9kijqQxyqRSoFqUTx55iWjPJpzjMFAR3Dag/viewform){:target="_blank"} | Sep-28, Oct-05 | Alex Razoumov |
 | [Speeding up computations with parallel R](https://docs.google.com/forms/d/e/1FAIpQLSceJ9KZIvKHgPyPwf7pkB5GQxx5eEBGy3jdjnVoLl0pTU09BA/viewform){:target="_blank"} | Oct-12, Oct-19, Oct-26 | Marie-Hélène Burle |
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Nov-02 | Alex Razoumov |
-| Parallel computing in Chapel | Nov-09, Nov-16 | Alex Razoumov |
-| Machine learning | Nov-23, Nov-30 | Marie-Hélène Burle |
-| Introduction to Bash command line | Dec-07, Dec-14 | Alex Razoumov <br> Marie-Hélène Burle |
+| [Parallel computing in Chapel](https://docs.google.com/forms/d/e/1FAIpQLSfc6eIB_C5x49e86ouF_UrHgbxiTwSP8v3Se1tq15q-bzbdaQ/viewform){:target="_blank"} | Nov-09, Nov-16 | Alex Razoumov |
+| [Introduction to deep learning with PyTorch](https://docs.google.com/forms/d/e/1FAIpQLSdBT2dFGxkgGJGFaNYkDu5eqYE5KGALeOoCk0DhVTNG8ntYxw/viewform){:target="_blank"} | Nov-23, Nov-30 | Marie-Hélène Burle |
+| [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSfXgCdKhKXRrUkhc9Q02UAyTV3ZukRUa9HzhaFmt-_KqPE8Ew/viewform){:target="_blank"} | Dec-07, Dec-14 | Alex Razoumov <br> Marie-Hélène Burle |
 
 <!-- | Parallel computing in Julia | Apr-20, Apr-27, May-11 | Alex Razoumov | -->
 
