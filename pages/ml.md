@@ -30,8 +30,11 @@ to frameworks that can be used from Python, Julia, and R.
 
 * [Online slides](https://mint.westdri.ca/ml/frameworks)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="1396" height="794" src="https://www.youtube.com/embed/XGtiCBz2gIg" title="A map of current
+	machine learning frameworks" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 
@@ -46,17 +49,14 @@ TensorFlow remains one of the most popular machine learning frameworks for resea
 disciplines. The TensorFlow ecosystem's size & flexibility makes it a powerful solution for tasks such as
 machine translation, image classification, and voice recognition. However, the same things that make the
 TensorFlow ecosystem powerful can also make it intimidating for new users. In this webinar we focus on one
-part of the TensorFlow ecosystem - TensorBoard.
-
-TensorBoard is a toolkit that allows users to monitor training and evaluate trained models through a visual
-interface. In other words, with TensorBoard you can explore your models and their performance by looking at
-graphs and images rather than by combing through logs.
-
-In this webinar, I introduce how TensorBoard can be used on the Digital Research Alliance's HPC clusters to
-(1) monitor a model during training and (2) evaluate and compare models once training is complete. This
-webinar focuses on the TensorBoard tools specifically relevant to object detection models, with examples from
-a project in ecological monitoring that utilized the Cedar cluster for training. However, the general concept
-of using TensorBoard for model monitoring is applicable to projects from across disciplines and HPC clusters.
+part of the TensorFlow ecosystem - TensorBoard. TensorBoard is a toolkit that allows users to monitor training
+and evaluate trained models through a visual interface. In other words, with TensorBoard you can explore your
+models and their performance by looking at graphs and images rather than by combing through logs. In this
+webinar, I introduce how TensorBoard can be used on the Digital Research Alliance's HPC clusters to (1)
+monitor a model during training and (2) evaluate and compare models once training is complete. This webinar
+focuses on the TensorBoard tools specifically relevant to object detection models, with examples from a
+project in ecological monitoring that utilized the Cedar cluster for training. However, the general concept of
+using TensorBoard for model monitoring is applicable to projects from across disciplines and HPC clusters.
 
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/tensorBoard20221012.pdf)
 
@@ -71,12 +71,11 @@ of using TensorBoard for model monitoring is applicable to projects from across 
 
 **Webinar** (2022-Jan-19) by Marie-Hélène Burle
 
-Python already has several multidimensional array structures -- the most popular of which being NumPy's `ndarray` -- but the
-particularities of deep learning call for special characteristics: the ability to run operations on GPUs and/or in a
-distributed fashion, as well as the ability to keep track of computation graphs for automatic differentiation.
-
-PyTorch tensors provide these and much more, can be easily converted to/from NumPy's `ndarray` and integrate well with
-other Python libraries such as Pandas.
+Python already has several multidimensional array structures -- the most popular of which being NumPy's
+`ndarray` -- but the particularities of deep learning call for special characteristics: the ability to run
+operations on GPUs and/or in a distributed fashion, as well as the ability to keep track of computation graphs
+for automatic differentiation. PyTorch tensors provide these and much more, can be easily converted to/from
+NumPy's `ndarray` and integrate well with other Python libraries such as Pandas.
 
 * [Online slides](https://slides.westdri.ca/torchtensors_webinar)
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/torchtensors20220119.pdf)
