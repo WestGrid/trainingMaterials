@@ -110,7 +110,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | [Speeding up computations with parallel R](https://docs.google.com/forms/d/e/1FAIpQLSceJ9KZIvKHgPyPwf7pkB5GQxx5eEBGy3jdjnVoLl0pTU09BA/viewform){:target="_blank"} | Oct-12, Oct-19, Oct-26 | Marie-Hélène Burle |
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Nov-02 | Alex Razoumov |
 | [Parallel computing in Chapel](https://docs.google.com/forms/d/e/1FAIpQLSfc6eIB_C5x49e86ouF_UrHgbxiTwSP8v3Se1tq15q-bzbdaQ/viewform){:target="_blank"} | Nov-09, Nov-16 | Alex Razoumov |
-| [Introduction to deep learning with PyTorch](https://docs.google.com/forms/d/e/1FAIpQLSdBT2dFGxkgGJGFaNYkDu5eqYE5KGALeOoCk0DhVTNG8ntYxw/viewform){:target="_blank"} | Nov-23, Nov-30 | Marie-Hélène Burle |
+| [Introduction to Jax, the new and fast deep learning framework](https://docs.google.com/forms/d/e/1FAIpQLSdBT2dFGxkgGJGFaNYkDu5eqYE5KGALeOoCk0DhVTNG8ntYxw/viewform){:target="_blank"} | Nov-23, Nov-30 | Marie-Hélène Burle |
 | [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSfXgCdKhKXRrUkhc9Q02UAyTV3ZukRUa9HzhaFmt-_KqPE8Ew/viewform){:target="_blank"} | Dec-07, Dec-14 | Alex Razoumov <br> Marie-Hélène Burle |
 
 <!-- | Parallel computing in Julia | Apr-20, Apr-27, May-11 | Alex Razoumov | -->
