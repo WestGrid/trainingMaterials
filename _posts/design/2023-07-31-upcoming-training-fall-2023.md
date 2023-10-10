@@ -105,13 +105,13 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| <span style="color:gray">Introduction to Bash command line</span> | Sep-14, Sep-21 | Alex Razoumov <br> Marie-Hélène Burle |
-| [Scientific Python](https://docs.google.com/forms/d/e/1FAIpQLSc5u2bwaPWW53D9kijqQxyqRSoFqUTx55iWjPJpzjMFAR3Dag/viewform){:target="_blank"} | Sep-28, Oct-05 | Alex Razoumov |
+| <span style="color:gray">Introduction to Bash command line</span> | Sep-14, Sep-21 | Marie-Hélène Burle <br> Alex Razoumov |
+| <span style="color:gray">Scientific Pythonline</span> | Sep-28, Oct-05 | Alex Razoumov |
 | [Speeding up computations with parallel R](https://docs.google.com/forms/d/e/1FAIpQLSceJ9KZIvKHgPyPwf7pkB5GQxx5eEBGy3jdjnVoLl0pTU09BA/viewform){:target="_blank"} | Oct-12, Oct-19, Oct-26 | Marie-Hélène Burle |
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Nov-02 | Alex Razoumov |
 | [Parallel computing in Chapel](https://docs.google.com/forms/d/e/1FAIpQLSfc6eIB_C5x49e86ouF_UrHgbxiTwSP8v3Se1tq15q-bzbdaQ/viewform){:target="_blank"} | Nov-09, Nov-16 | Alex Razoumov |
 | [Introduction to deep learning with PyTorch](https://docs.google.com/forms/d/e/1FAIpQLSdBT2dFGxkgGJGFaNYkDu5eqYE5KGALeOoCk0DhVTNG8ntYxw/viewform){:target="_blank"} | Nov-23, Nov-30 | Marie-Hélène Burle |
-| [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSfXgCdKhKXRrUkhc9Q02UAyTV3ZukRUa9HzhaFmt-_KqPE8Ew/viewform){:target="_blank"} | Dec-07, Dec-14 | Alex Razoumov <br> Marie-Hélène Burle |
+| [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSfXgCdKhKXRrUkhc9Q02UAyTV3ZukRUa9HzhaFmt-_KqPE8Ew/viewform){:target="_blank"} | Dec-07, Dec-14 | Marie-Hélène Burle <br> Alex Razoumov |
 
 <!-- | Parallel computing in Julia | Apr-20, Apr-27, May-11 | Alex Razoumov | -->
 
@@ -167,7 +167,7 @@ register, click on an event in the 3rd or 4th column. Students, staff and facult
 We will be adding workshops here as they are announced at other Western Canadian universities.
 
 | DATE | EVENT | VENUE |
-| starts Sep-22 | [Univ. of Alberta Fall Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2023/fall-research-computing-bootcamp.html){:target="_blank"} | Online |
+| Starts Sep-22 | [Univ. of Alberta Fall Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2023/fall-research-computing-bootcamp.html){:target="_blank"} | Online |
 
 <!-- watch https://www.ualberta.ca/information-services-and-technology/research-computing -->
 
