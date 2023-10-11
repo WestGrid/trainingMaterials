@@ -47,6 +47,27 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
 ---
 
+<a name="cinema"></a>
+#### *"Image-based approach to large-scale visualization"*
+
+**Webinar** (2023-Oct-17) by Alex Razoumov
+
+Cinema is an interactive image-based approach to data analysis and visualization targeting very large datasets
+that are difficult to visualize interactively due to their size. In Cinema you can store your visualization as
+a prerecorded database of images created, for instance, by a script that you run as a batch job on an HPC
+cluster. Once this database is built, you can import it into a Cinema-enabled environment to explore the
+visualization interactively as if you were rendering it live. The technique works equally well for simulation
+and experimental data. It potentially reduces data movement and storage since you don't store the original
+multidimensional datasets, but only the 2D images that you want to see. Optionally, you can use Cinema with
+ParaView Catalyst to render the images in-situ, right in your simulation software.
+
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/.pdf)
+
+
+
+
+---
+
 #### *"Launching 2023 *Visualize This* contest"*
 
 **Webinar** (2023-Sep-19) by Alex Razoumov
