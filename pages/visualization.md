@@ -20,7 +20,8 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Launching 2023 *Visualize This* contest"</em>](#launching-2023-visualize-this-contest)
+[<em>"Image-based approach to large-scale visualization"</em>](#cinema)
+• [<em>"Launching 2023 *Visualize This* contest"</em>](#launching-2023-visualize-this-contest)
 • [<em>"Data visualization in Julia with the Makie ecosystem"</em>](#data-visualization-in-julia-with-the-makie-ecosystem)
 • [<em>"In-situ visualization with ParaView Catalyst2"</em>](#in-situ-visualization-with-paraview-catalyst2)
 • [<em>"Highlights from the 2021 SciVis Contest"</em>](#highlights-from-the-2021-scivis-contest)
@@ -62,9 +63,6 @@ multidimensional datasets, but only the 2D images that you want to see. Optional
 ParaView Catalyst to render the images in-situ, right in your simulation software.
 
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/.pdf)
-
-
-
 
 ---
 
