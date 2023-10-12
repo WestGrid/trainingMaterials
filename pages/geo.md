@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Geographic Information Systems"
+title: "Earth Sciences and GIS"
 subheadline: ""
 teaser: ""
 header:
@@ -10,6 +10,26 @@ permalink: "/domains/geo/"
 ---
 
 ## Webinars
+
+#### *"Essentials of HPC for new users: A practical example using hydrological models"*
+
+**Webinar** (2023-Oct-31) by Marcos Cunha-Cordeiro & Befekadu Woldegiorgis
+
+Researchers from a variety of disciplines in natural sciences are becoming increasingly interested in
+High-Performance Computing (HPC). However, factors such as lack of know-how and apparently steep learning
+curve can hinder new users from moving into HPC. Adopting a workflow to run jobs, monitor their status, and
+postprocess their outputs can be challenging for new users or for those who have limited experience. This
+webinar tries to alleviate this issue by illustrating common steps typically required to run jobs in HPC
+environments. Using a simple yet real hydrological modelling example, the demonstration consists of running a
+parallel FORTRAN application using R, as well as retrieving and summarizing its results in the Cedar
+Cluster. The presentation demonstrates a practical workflow that encompasses:
+
+- preparing submission scripts,
+- testing parallel-computation jobs before submission,
+- debugging parallel-computation jobs that return an error, and
+- monitoring single or multiple jobs running at a time.
+
+---
 
 #### *"Advanced GIS mapping in R"*
 
