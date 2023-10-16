@@ -62,7 +62,7 @@ and experimental data. It potentially reduces data movement and storage since yo
 multidimensional datasets, but only the 2D images that you want to see. Optionally, you can use Cinema with
 ParaView Catalyst to render the images in-situ, right in your simulation software.
 
-<!-- * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/.pdf) -->
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/cinema20231017.pdf)
 
 ---
 
