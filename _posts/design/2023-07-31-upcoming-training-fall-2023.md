@@ -72,7 +72,7 @@ noon Mountain / 1pm Central.
 | ------------- | --------------- | ----------------- |
 | Sep-19 | [<span style="color:blue">Launching 2023 *Visualize This* contest</span>]({{ site.baseurl }}/tools/visualization#launching-2023-visualize-this-contest) | Alex Razoumov (SFU) |
 | Oct-03 | [<span style="color:blue">A map of current machine learning frameworks</span>]({{ site.baseurl }}/tools/ml#current-ml-frameworks) | Marie-Hélène Burle (SFU) |
-| Oct-17 | [Image-based approach to large-scale visualization](https://docs.google.com/forms/d/e/1FAIpQLSfjxflKzVT_t4XnUyS1wc2PoybSs6Ih3-sjltOqut3n-WYUiA/viewform){:target="_blank"} | Alex Razoumov (SFU) |
+| Oct-17 | [<span style="color:blue">Image-based approach to large-scale visualization</span>]({{ site.baseurl }}/tools/visualization#cinema) | Alex Razoumov (SFU) |
 | Oct-31 | [Essentials of High-Performance Computing for new users: A practical example using hydrological models](https://docs.google.com/forms/d/e/1FAIpQLSel8rhrb6Xx4tYOiEwvuFj46s25dl3rZjIjQRlHYDDsiGJN0Q/viewform){:target="_blank"} | Marcos Cunha-Cordeiro and Befekadu Woldegiorgis (Univ. of Manitoba) |
 | Nov-14 | [Emacs as a programming IDE for Python, R, and Julia](https://docs.google.com/forms/d/e/1FAIpQLSeUVnHSyM4LbmYjrgcYGscStup9fG6AyppY27rnsPFP8GOt4w/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Nov-28 | TBD | Alex Razoumov (SFU) |

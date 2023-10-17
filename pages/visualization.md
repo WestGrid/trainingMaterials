@@ -12,11 +12,15 @@ permalink: "/tools/visualization/"
 For full documentation, please check the <a href="https://docs.alliancecan.ca/wiki/Visualization"
 target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
-* <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/paraviewWorkshop.pdf" target="_blank">ParaView full-day workshop slides</a> (127 pages, last updated July 2022)
-* <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/visitWorkshop.pdf" target="_blank">VisIt full-day workshop
-  slides</a> (129 pages, last updated May 2017)
-* <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dhsi.pdf" target="_blank">"3D visualization for the humanities"
-  slides</a> (82 pages, last updated June 2022)
+* <a
+  href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/paraviewWorkshop.pdf"
+  target="_blank">ParaView full-day workshop slides</a> (127 pages, last updated July 2022)
+* <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/visitWorkshop.pdf"
+  target="_blank">VisIt full-day workshop slides</a> (129 pages, last updated May 2017)
+* <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dhsi.pdf"
+  target="_blank">"3D visualization for the humanities" slides</a> (82 pages, last updated June 2022)
+* <a href="https://github.com/acenet-arc/paraview-introduction" target="_blank">ACENET's Paraview
+  Introduction</a> by Angus Creech
 
 [Table of Contents](#table-of-contents):
 &nbsp;
