@@ -19,8 +19,9 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
   target="_blank">VisIt full-day workshop slides</a> (129 pages, last updated May 2017)
 * <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dhsi.pdf"
   target="_blank">"3D visualization for the humanities" slides</a> (82 pages, last updated June 2022)
-* <a href="https://github.com/acenet-arc/paraview-introduction" target="_blank">ACENET's Paraview
+* <a href="https://acenet-arc.github.io/paraview-introduction/" target="_blank">ACENET's Paraview
   Introduction</a> by Angus Creech
+<!-- repo https://github.com/acenet-arc/paraview-introduction/tree/master/_episodes -->
 
 [Table of Contents](#table-of-contents):
 &nbsp;
@@ -67,6 +68,12 @@ multidimensional datasets, but only the 2D images that you want to see. Optional
 ParaView Catalyst to render the images in-situ, right in your simulation software.
 
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/cinema20231017.pdf)
+
+<div class="flex-video">
+	<iframe width="1304" height="742" src="https://www.youtube.com/embed/m9f7fUBAoPk" title="Image-based
+	approach to large-scale visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
