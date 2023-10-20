@@ -18,7 +18,7 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 * <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/visitWorkshop.pdf"
   target="_blank">VisIt full-day workshop slides</a> (129 pages, last updated May 2017)
 * <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dhsi.pdf"
-  target="_blank">"3D visualization for the humanities" slides</a> (82 pages, last updated June 2022)
+  target="_blank">"3D visualization for the humanities" slides</a> (82 pages, last updated June 2023)
 * <a href="https://acenet-arc.github.io/paraview-introduction/" target="_blank">ACENET's Paraview
   Introduction</a> by Angus Creech
 <!-- repo https://github.com/acenet-arc/paraview-introduction/tree/master/_episodes -->
