@@ -107,7 +107,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | ------------- | --------------- | ----------------- |
 | <span style="color:gray">Introduction to Bash command line</span> | Sep-14, Sep-21 | Marie-Hélène Burle, <br> Alex Razoumov |
 | <span style="color:gray">Scientific Python</span> | Sep-28, Oct-05 | Alex Razoumov |
-| [Speeding up computations in R](https://docs.google.com/forms/d/e/1FAIpQLSceJ9KZIvKHgPyPwf7pkB5GQxx5eEBGy3jdjnVoLl0pTU09BA/viewform){:target="_blank"} | Oct-12, Oct-26, Nov-02 | Marie-Hélène Burle |
+| <span style="color:gray">Speeding up computations in R</span> | Oct-12, Oct-26, Nov-02 | Marie-Hélène Burle |
 | [Parallel computing in Chapel](https://docs.google.com/forms/d/e/1FAIpQLSfc6eIB_C5x49e86ouF_UrHgbxiTwSP8v3Se1tq15q-bzbdaQ/viewform){:target="_blank"} | Nov-09, Nov-16 | Alex Razoumov |
 | [Introduction to JAX, the new and fast deep learning framework](https://docs.google.com/forms/d/e/1FAIpQLSdBT2dFGxkgGJGFaNYkDu5eqYE5KGALeOoCk0DhVTNG8ntYxw/viewform){:target="_blank"} | Nov-23, Nov-30 | Marie-Hélène Burle |
 | [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSfXgCdKhKXRrUkhc9Q02UAyTV3ZukRUa9HzhaFmt-_KqPE8Ew/viewform){:target="_blank"} | Dec-07, Dec-14 | Marie-Hélène Burle, <br> Alex Razoumov |
