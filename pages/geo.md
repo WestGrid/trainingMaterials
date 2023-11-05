@@ -30,6 +30,14 @@ Cluster. The presentation demonstrates a practical workflow that encompasses:
 - debugging parallel-computation jobs that return an error, and
 - monitoring single or multiple jobs running at a time.
 
+
+<div class="flex-video">
+	<iframe width="866" height="487" src="https://www.youtube.com/embed/3fxENqHE5ao" title="Essentials of HPC
+	for new users: A practical example using hydrological models" frameborder="0" allow="accelerometer;
+	autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+	allowfullscreen></iframe>
+</div>
+
 ---
 
 #### *"Advanced GIS mapping in R"*
