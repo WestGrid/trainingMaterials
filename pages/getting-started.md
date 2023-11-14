@@ -25,6 +25,8 @@ permalink: "/getting-started/"
 • [Building software with EasyBuild](#building-software-with-easybuild)
 • [Managing Cluster Instability for Users](#managing-cluster-instability-for-users)
 • [Scientific documents and static site generators](#authoring-scientific-documents-and-static-site-generators)
+• [Emacs talks](#emacs)
+
 
 
 
@@ -291,3 +293,27 @@ also with Python and Julia code blocks, adding new functionality to the old tool
 	datasets with DataLad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
 	gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+
+
+
+
+
+## Emacs
+
+---
+
+#### *"Emacs as a programming IDE for Python, R, and Julia"*
+
+**Webinar** (2023-Nov-14) by Marie-Hélène Burle
+
+Once upon a time (not that long ago), powerful text editors such as Vim and Emacs were the only nice
+interfaces to work with code. Nowadays, there are countless sleek and more GUI-oriented tools such as VS Code,
+RStudio, or JupyterLab that provide amazing IDEs, without the learning curve. So why would one still use Emacs
+as a programming IDE? What does that even look like? In this webinar, I show some of the many reasons why I
+can't let go of Emacs, then show how it can be used as a programming IDE for Python, R, and Julia.
+
+- [Online slides](https://mint.westdri.ca/tools/emacs_prog_ide)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->

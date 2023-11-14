@@ -25,7 +25,8 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Image-based approach to large-scale visualization"</em>](#cinema)
+[<em>"Text analysis in 3D"</em>](#text-analysis-in-3d)
+• [<em>"Image-based approach to large-scale visualization"</em>](#cinema)
 • [<em>"Launching 2023 *Visualize This* contest"</em>](#launching-2023-visualize-this-contest)
 • [<em>"Data visualization in Julia with the Makie ecosystem"</em>](#data-visualization-in-julia-with-the-makie-ecosystem)
 • [<em>"In-situ visualization with ParaView Catalyst2"</em>](#in-situ-visualization-with-paraview-catalyst2)
@@ -50,6 +51,24 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 • [<em>"CPU-based rendering with OSPRay"</em>](#cpu-based-rendering-with-ospray)
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
+
+
+---
+
+<a name="cinema"></a>
+#### *"Text analysis in 3D"*
+
+**Webinar** (2023-Nov-28) by Alex Razoumov
+
+3D visualization is surprisingly little used to visualize data and connections in digital humanities, despite
+the fact that the 3rd dimension can provide many benefits, from decluttering your plot to encoding one of the
+variables. In this webinar I will present a workflow to analyze a text corpus consisting of works from
+multiple authors, and visualize the differences between their vocabularies in 3D. I will complement it with 3D
+graphs to link similar texts. Throughout this webinar I will be using only open-source tools -- Python and
+several 3rd-party Python libraries, ParaView, and VTK, and will show 3D visualizations that can easily scale
+to millions of texts and can work for any input language.
+
+<!-- * [PDF slides]() -->
 
 ---
 
