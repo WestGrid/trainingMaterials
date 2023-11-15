@@ -70,14 +70,14 @@ noon Mountain / 1pm Central.
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Jan-09 | | Alex Razoumov (SFU) |
+| Jan-09 | ImageMagick | Alex Razoumov (SFU) |
 | Jan-23 | | guest speaker? |
 | Feb-06 | | guest speaker? |
 | Feb-20 | | Alex Razoumov (SFU) | <!-- Marie away this week -->
 | Mar-05 | Creating packages | Marie-Hélène Burle (SFU) |
 | Mar-19 | | guest speaker? |
 | Apr-02 | Emacs topic TBA | Marie-Hélène Burle (SFU) |
-| Apr-16 | | Alex Razoumov (SFU) |
+| Apr-16 | Lossy data compression | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-30 | | guest speaker? |
 | May-14 | GitHub Copilot | Marie-Hélène Burle (SFU) |
 | May-28 | | guest speaker? |
