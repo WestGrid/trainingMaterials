@@ -70,24 +70,22 @@ noon Mountain / 1pm Central.
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Jan-09 | | |
-| Jan-23 | | |
-| Feb-06 | | |
-| Feb-20 | (Marie away this week) | Alex Razoumov (SFU) |
-| Mar-05 | Creating R packages | |
-| Mar-19 | | |
+| Jan-09 | | Alex Razoumov (SFU) |
+| Jan-23 | | guest speaker? |
+| Feb-06 | | guest speaker? |
+| Feb-20 | | Alex Razoumov (SFU) | <!-- Marie away this week -->
+| Mar-05 | Creating packages | Marie-Hélène Burle (SFU) |
+| Mar-19 | | guest speaker? |
 | Apr-02 | Emacs topic TBA | Marie-Hélène Burle (SFU) |
-| Apr-16 | | |
-| Apr-30 | | |
+| Apr-16 | | Alex Razoumov (SFU) |
+| Apr-30 | | guest speaker? |
 | May-14 | GitHub Copilot | Marie-Hélène Burle (SFU) |
-| May-28 | | |
-
+| May-28 | | guest speaker? |
 
 <!-- | TBA | [Emacs](){:target="_blank"} |  | -->
 <!-- | Feb-13 | HSS Winter Series week | | -->
 
-
-
+<!-- webinar ideas https://docs.google.com/document/d/15e2zc_f4lQ7HalWF12QyESSOV7zlsthgqI3mVffcKwM -->
 
 
 
@@ -128,7 +126,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Jan-25 | Alex Razoumov |
 | | Feb-01 | |
 | | Feb-08 | |
-| (Marie away this week) | Feb-22 | Alex Razoumov |
+| | Feb-22 | Alex Razoumov | <!-- Marie away this week -->
 | | Feb-29 | |
 | | Mar-07 | |
 | | Mar-14 | |
