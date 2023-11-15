@@ -78,7 +78,7 @@ noon Mountain / 1pm Central.
 | Mar-19 | | guest speaker? |
 | Apr-02 | Emacs topic TBA | Marie-Hélène Burle (SFU) |
 | Apr-16 | Lossy data compression | Alex Razoumov (SFU) | <!-- topological or ML -->
-| Apr-30 | | guest speaker? |
+| Apr-30 | Julia topic (TBC) | Paul Schrimpf (UBC) |
 | May-14 | GitHub Copilot | Marie-Hélène Burle (SFU) |
 | May-28 | | guest speaker? |
 
