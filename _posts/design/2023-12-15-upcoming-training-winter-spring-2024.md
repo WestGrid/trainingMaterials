@@ -71,14 +71,34 @@ noon Mountain / 1pm Central.
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | TBA | [Emacs](){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Jan-02 | | |
+| Jan-09 | first webinar? | |
+| Jan-16 | | |
+| Jan-23 | | |
+| Jan-30 | | |
+| Feb-06 | | |
+| Feb-13 | HSS Winter Series week | |
+| Feb-20 | | |
+| Feb-27 | | |
+| Mar-05 | | |
+| Mar-12 | | |
+| Mar-19 | | |
+| Mar-26 | | |
+| Apr-02 | | |
+| Apr-09 | | |
+| Apr-16 | | |
+| Apr-23 | | |
+| Apr-30 | | |
+| May-07 | | |
+| May-14 | | |
+| May-21 | | |
+| May-28 | | |
 
-<!-- | Sep-19 | [<span style="color:blue">Launching 2023 *Visualize This* contest</span>]({{ site.baseurl }}/tools/visualization#launching-2023-visualize-this-contest) | Alex Razoumov (SFU) | -->
-<!-- | Oct-03 | [<span style="color:blue">A map of current machine learning frameworks</span>]({{ site.baseurl }}/tools/ml#current-ml-frameworks) | Marie-Hélène Burle (SFU) | -->
-<!-- | Oct-17 | [<span style="color:blue">Image-based approach to large-scale visualization</span>]({{ site.baseurl }}/tools/visualization#cinema) | Alex Razoumov (SFU) | -->
-<!-- | Oct-31 | [<span style="color:blue">Essentials of High-Performance Computing for new users: A practical example using hydrological models</span>]({{ site.baseurl }}/domains/geo#hydrological) | Marcos Cunha-Cordeiro and Befekadu Woldegiorgis (Univ. of Manitoba) | -->
-<!-- | Nov-14 | [Emacs as a programming IDE for Python, R, and Julia](https://docs.google.com/forms/d/e/1FAIpQLSeUVnHSyM4LbmYjrgcYGscStup9fG6AyppY27rnsPFP8GOt4w/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) | -->
-<!-- | Nov-28 | [Text analysis in 3D](https://docs.google.com/forms/d/e/1FAIpQLSeZvhtNLr0_WZLWTygZO90VgZOKS0WFExqD8U_grrlfFfsSKQ/viewform){:target="_blank"} | Alex Razoumov (SFU) | -->
-<!-- | Dec-12 | [Put your ML data & models under version control with DVC](https://docs.google.com/forms/d/e/1FAIpQLSdYh-tzvCnmbvK0fmgjJRsylIR67MC3x7BASdq5UohcvfCvzw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) | -->
+
+
+
+
+
 
 
 <!-- [text](link){:target="_blank"} -->
@@ -109,16 +129,27 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | ------------- | --------------- | ----------------- |
 | [Introduction to HPC](){:target="_blank"} | Jan-11, Jan-18 | Alex Razoumov |
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Jan-25 | Alex Razoumov |
+| | Feb-01 | |
+| | Feb-08 | |
+| HSS Winter Series week | Feb-15 | |
+| | Feb-22 | |
+| | Feb-29 | |
+| | Mar-07 | |
+| | Mar-14 | |
+| | Mar-21 | |
+| | Mar-28 | |
+| | Apr-04 | |
+| | Apr-11 | |
+| | Apr-18 | |
+| | Apr-25 | |
+| | May-02 | |
+| | May-09 | |
+| | May-16 | |
+| | May-23 | |
+| | May-30 | |
 
-<!-- Feb-01 Feb-08 Feb-22 Feb-29 Mar-07 Mar-14 Mar-21 Mar-28 Apr-04 Apr-11 Apr-18 Apr-25 May-02 May-09 May-16 May-23 -->
-<!-- May-30 -->
 
 
-<!-- | Parallel computing in Julia | Apr-20, Apr-27, May-11 | Alex Razoumov | -->
-
-
-
-<!-- | -->
 
 
 
