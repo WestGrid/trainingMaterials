@@ -315,5 +315,8 @@ can't let go of Emacs, then show how it can be used as a programming IDE for Pyt
 
 - [Online slides](https://mint.westdri.ca/tools/emacs_prog_ide)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="817" height="460" src="https://www.youtube.com/embed/rt0SpxuOuUs" title="Emacs as a
+	programming IDE for Python, R, and Julia" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
