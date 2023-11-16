@@ -30,6 +30,8 @@ Cluster. The presentation demonstrates a practical workflow that encompasses:
 - debugging parallel-computation jobs that return an error, and
 - monitoring single or multiple jobs running at a time.
 
+- [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/hydrological20231031.pdf)
+- [Sample R code](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/HPC_demonstration_Befekadu.R)
 
 <div class="flex-video">
 	<iframe width="866" height="487" src="https://www.youtube.com/embed/3fxENqHE5ao" title="Essentials of HPC
