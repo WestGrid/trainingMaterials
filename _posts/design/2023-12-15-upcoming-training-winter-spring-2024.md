@@ -23,15 +23,7 @@ image:
 mediaplayer: true
 ---
 
-
 <!-- deployment status https://github.com/WestGrid/trainingMaterials/actions -->
-
-
-
-
-<!-- While WestGrid ceased its operations on March 31, 2022, research computing training in Western Canada remains -->
-<!-- -- coordinated by the same team, now based at Simon Fraser University, with participation from HPC analysts -->
-<!-- across the BC DRI Group and the Prairies DRI Group (former WestGrid space). -->
 
 To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
 [subscribe here](/contact).
@@ -55,9 +47,6 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 
 
 
-
-
-
 ## Webinars
 
 BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Tuesday at 11am Pacific /
@@ -71,31 +60,22 @@ noon Mountain / 1pm Central.
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Jan-09 | ImageMagick | Alex Razoumov (SFU) |
-| Jan-23 | | guest speaker? |
-| Feb-06 | | guest speaker? |
-| Feb-20 | | Alex Razoumov (SFU) | <!-- Marie away this week -->
+| Jan-23 | -- | guest speaker? |
+| Feb-06 | -- | guest speaker? |
+| Feb-20 | TBA | Alex Razoumov (SFU) | <!-- Marie away this week -->
 | Mar-05 | Creating packages | Marie-Hélène Burle (SFU) |
-| Mar-19 | | guest speaker? |
+| Mar-19 | -- | guest speaker? |
 | Apr-02 | Emacs topic TBA | Marie-Hélène Burle (SFU) |
 | Apr-16 | Lossy data compression | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-30 | Julia topic (TBC) | Paul Schrimpf (UBC) |
 | May-14 | GitHub Copilot | Marie-Hélène Burle (SFU) |
-| May-28 | | guest speaker? |
+| May-28 | -- | guest speaker? |
 
 <!-- | TBA | [Emacs](){:target="_blank"} |  | -->
 <!-- | Feb-13 | HSS Winter Series week | | -->
 
 <!-- ACTION ask Sarah Huber's SO -->
 <!-- webinar ideas https://docs.google.com/document/d/15e2zc_f4lQ7HalWF12QyESSOV7zlsthgqI3mVffcKwM -->
-
-
-
-
-
-
-
-
-
 
 <!-- [text](link){:target="_blank"} -->
 <!-- | Apr-25 | Cybersecurity webinar (TBC) | - | -->
@@ -125,31 +105,23 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | ------------- | --------------- | ----------------- |
 | [Introduction to HPC](){:target="_blank"} | Jan-11, Jan-18 | Alex Razoumov |
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Jan-25 | Alex Razoumov |
-| | Feb-01 | |
-| | Feb-08 | |
-| | Feb-22 | Alex Razoumov | <!-- Marie away this week -->
-| | Feb-29 | |
-| | Mar-07 | |
-| | Mar-14 | |
-| | Mar-21 | |
-| | Mar-28 | |
-| | Apr-04 | |
-| | Apr-11 | |
-| | Apr-18 | |
-| | Apr-25 | |
-| | May-02 | |
-| | May-09 | |
-| | May-16 | |
-| | May-23 | |
-| | May-30 | |
+| -- | Feb-01, Feb-08 | Marie-Hélène Burle |
+| 3D scientific visualization with ParaView | Feb-22, Feb-29 | Alex Razoumov | <!-- Marie away this week -->
+| Git version control | Mar-07 | |
+| Parallel computing in Julia | Mar-14, Mar-21 | Alex Razoumov |
+| -- | Mar-28, Apr-04 | |
+| Parallel computing in Python | Apr-11, Apr-18 | Alex Razoumov and Marie-Hélène Burle |
+| Introduction to Bash command line | Apr-25, May-02 | Marie-Hélène Burle and Alex Razoumov |
+| ML | May-09, May-16 | Marie-Hélène Burle |
+| Large-scale and remote visualization | May-23 | Alex Razoumov |
+| -- | May-30 | |
 
 
 <!-- | HSS Winter Series week | Feb-15 | | -->
 
+<!-- **We should teach**:  -->
 
-
-
-
+<!-- **We could teach:** Python intro,  -->
 
 
 
