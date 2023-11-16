@@ -15,10 +15,10 @@ tags:
 #
 header: no
 image:
-    title: tensorsAsSpheres.png
-    thumb: tensorsAsSpheres.png
+    title: halloweenStorm.png
+    thumb: halloweenStorm.png
     homepage:
-    caption: Point Gaussian representation in ParaView 
+    caption: Storm visualized in ParaView
     caption_url: https://www.paraview.org
 mediaplayer: true
 ---
