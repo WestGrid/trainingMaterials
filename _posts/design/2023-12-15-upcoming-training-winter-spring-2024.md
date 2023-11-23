@@ -64,7 +64,7 @@ noon Mountain / 1pm Central.
 | Feb-06 | -- | guest speaker? |
 | Feb-20 | TBA | Alex Razoumov (SFU) | <!-- Marie away this week -->
 | Mar-05 | Creating packages | Marie-Hélène Burle (SFU) |
-| Mar-19 | -- | guest speaker? |
+| Mar-19 | Using large-language models (LLMs) for writing proposals and other research documents (TBC) | Jillian Anderson (SFU) |
 | Apr-02 | Emacs topic TBA | Marie-Hélène Burle (SFU) |
 | Apr-16 | Lossy data compression | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-30 | Julia topic (TBC) | Paul Schrimpf (UBC) |
