@@ -24,7 +24,10 @@ are taught by our analysts and staff.
 
 
 [Table of Contents](#table-of-contents):
-&nbsp; [<em>"Exploration of tools and approaches for Humanists"</em>](#exploration)
+&nbsp;
+[<em>"Text analysis in 3D"</em>](#text-analysis-in-3d)
+• [<em>"Learning Regular Expressions with Smart Tools"</em>](#regexpchatgpt)
+• [<em>"Exploration of tools and approaches for Humanists"</em>](#exploration)
 • [<em>"Tips &amp; tools for mining Twitter data for research"</em>](#twitterapis)
 • [<em>"Text parsing &amp; matching with High Performance Computing resources"</em>](#text-parsing--matching-with-high-performance-computing-resources)
 • [<em>"Getting started on the cloud"</em>](#getting-started-on-the-cloud)
@@ -34,6 +37,22 @@ are taught by our analysts and staff.
 
 
 
+---
+
+<a name="cinema"></a>
+#### *"Text analysis in 3D"*
+
+**Webinar** (2023-Nov-28) by Alex Razoumov
+
+3D visualization is surprisingly little used to visualize data and connections in digital humanities, despite
+the fact that the 3rd dimension can provide many benefits, from decluttering your plot to encoding one of the
+variables. In this webinar I present a workflow to analyze a text corpus consisting of works from multiple
+authors, and visualize the differences between their vocabularies in 3D. I complement this visualization with
+3D graphs to link similar texts. Throughout this webinar I am using only open-source tools -- Python and
+several 3rd-party Python libraries, ParaView, and VTK, and show 3D visualizations that can easily scale to
+millions of texts and can work for any input language.
+
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/texts20231128.pdf)
 
 ---
 

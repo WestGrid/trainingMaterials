@@ -62,13 +62,13 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
 3D visualization is surprisingly little used to visualize data and connections in digital humanities, despite
 the fact that the 3rd dimension can provide many benefits, from decluttering your plot to encoding one of the
-variables. In this webinar I will present a workflow to analyze a text corpus consisting of works from
-multiple authors, and visualize the differences between their vocabularies in 3D. I will complement it with 3D
-graphs to link similar texts. Throughout this webinar I will be using only open-source tools -- Python and
-several 3rd-party Python libraries, ParaView, and VTK, and will show 3D visualizations that can easily scale
-to millions of texts and can work for any input language.
+variables. In this webinar I present a workflow to analyze a text corpus consisting of works from multiple
+authors, and visualize the differences between their vocabularies in 3D. I complement this visualization with
+3D graphs to link similar texts. Throughout this webinar I am using only open-source tools -- Python and
+several 3rd-party Python libraries, ParaView, and VTK, and show 3D visualizations that can easily scale to
+millions of texts and can work for any input language.
 
-<!-- * [PDF slides]() -->
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/texts20231128.pdf)
 
 ---
 

@@ -62,7 +62,7 @@ noon Mountain / 1pm Central.
 | Jan-09 | ImageMagick | Alex Razoumov (SFU) |
 | Jan-23 | -- | guest speaker? |
 | Feb-06 | -- | guest speaker? |
-| Feb-20 | TBA | Alex Razoumov (SFU) | <!-- Marie away this week -->
+| Feb-20 | Interactive graph visualization with gravis | Alex Razoumov (SFU) | <!-- Marie away this week -->
 | Mar-05 | Creating packages | Marie-Hélène Burle (SFU) |
 | Mar-19 | Using large-language models (LLMs) for writing proposals and other research documents (TBC) | Jillian Anderson (SFU) |
 | Apr-02 | Emacs topic TBA | Marie-Hélène Burle (SFU) |

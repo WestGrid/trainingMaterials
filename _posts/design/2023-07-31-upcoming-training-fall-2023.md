@@ -109,8 +109,8 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Scientific Python</span> | Sep-28, Oct-05 | Alex Razoumov |
 | <span style="color:gray">Speeding up computations in R</span> | Oct-12, Oct-26, Nov-02 | Marie-Hélène Burle |
 | <span style="color:gray">Parallel computing in Chapel</span> | Nov-09, Nov-16 | Alex Razoumov |
-| [Introduction to JAX, the new and fast deep learning framework](https://docs.google.com/forms/d/e/1FAIpQLSdBT2dFGxkgGJGFaNYkDu5eqYE5KGALeOoCk0DhVTNG8ntYxw/viewform){:target="_blank"} | Nov-30, TBD | Marie-Hélène Burle |
-| [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSfXgCdKhKXRrUkhc9Q02UAyTV3ZukRUa9HzhaFmt-_KqPE8Ew/viewform){:target="_blank"} | Dec-07, Dec-14 | Marie-Hélène Burle, <br> Alex Razoumov |
+| [Introduction to JAX, the new and fast deep learning framework](https://docs.google.com/forms/d/e/1FAIpQLSdBT2dFGxkgGJGFaNYkDu5eqYE5KGALeOoCk0DhVTNG8ntYxw/viewform){:target="_blank"} | Nov-30, Dec-07 | Marie-Hélène Burle |
+| [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSfXgCdKhKXRrUkhc9Q02UAyTV3ZukRUa9HzhaFmt-_KqPE8Ew/viewform){:target="_blank"} | Dec-14, Dec-21 | Marie-Hélène Burle, <br> Alex Razoumov |
 
 <!-- | Parallel computing in Julia | Apr-20, Apr-27, May-11 | Alex Razoumov | -->
 
