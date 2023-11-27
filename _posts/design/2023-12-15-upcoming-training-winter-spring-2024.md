@@ -59,7 +59,7 @@ noon Mountain / 1pm Central.
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Jan-09 | ImageMagick | Alex Razoumov (SFU) |
+| Jan-09 | [ImageMagick](https://docs.google.com/forms/d/e/1FAIpQLSdaDwLJAd43VNY8f3mrSpeUDyvhqgYG4vDfrM0SiQkdSQFd9Q/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Jan-23 | -- | guest speaker? |
 | Feb-06 | -- | guest speaker? |
 | Feb-20 | Interactive graph visualization with gravis | Alex Razoumov (SFU) | <!-- Marie away this week -->
@@ -103,7 +103,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| Introduction to HPC | Jan-11, Jan-18 | Alex Razoumov |
+| [Introduction to HPC](https://docs.google.com/forms/d/e/1FAIpQLSdbTBVHjNmJc1b984ewX2AnOMIeUgxpNlAzv6EiUaDe68LQLA/viewform){:target="_blank"} | Jan-11, Jan-18 | Alex Razoumov |
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Jan-25 | Alex Razoumov |
 | -- | Feb-01, Feb-08 | Marie-Hélène Burle |
 | 3D scientific visualization with ParaView | Feb-22, Feb-29 | Alex Razoumov | <!-- Marie away this week -->
