@@ -53,6 +53,7 @@ several 3rd-party Python libraries, ParaView, and VTK, and show 3D visualization
 millions of texts and can work for any input language.
 
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/texts20231128.pdf)
+- [All scripts](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/texts20231128.zip) from the presentation (ZIP file)
 
 ---
 
