@@ -60,15 +60,15 @@ noon Mountain / 1pm Central.
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Jan-09 | [ImageMagick](https://docs.google.com/forms/d/e/1FAIpQLSdaDwLJAd43VNY8f3mrSpeUDyvhqgYG4vDfrM0SiQkdSQFd9Q/viewform){:target="_blank"} | Alex Razoumov (SFU) |
-| Jan-23 | Emacs topic TBA | Marie-Hélène Burle (SFU) |
+| Jan-23 | Emacs Polymode: execute code blocks in markdown documents | Marie-Hélène Burle (SFU) |
 | Feb-06 | -- | guest speaker? |
 | Feb-20 | Interactive graph visualization with gravis | Alex Razoumov (SFU) | <!-- Marie away this week -->
-| Mar-05 | Creating packages | Marie-Hélène Burle (SFU) |
+| Mar-05 | Creating R packages | Marie-Hélène Burle (SFU) |
 | Mar-19 | Things researchers should know before using Generative AI | Jillian Anderson (SFU) |
-| Apr-02 | Introduction to JAX machine-learning framework | Marie-Hélène Burle |
+| Apr-02 | JAX: a framework for high-performance array computing | Marie-Hélène Burle |
 | Apr-16 | Lossy data compression | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-30 | Julia topic (TBC) | Paul Schrimpf (UBC) |
-| May-14 | GitHub Copilot | Marie-Hélène Burle (SFU) |
+| May-14 | AI code autocompletion with GitHub Copilot | Marie-Hélène Burle (SFU) |
 | May-28 | -- | guest speaker? |
 
 <!-- Original title: Using large-language models (LLMs) for writing proposals and other research documents -->
