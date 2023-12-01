@@ -76,7 +76,7 @@ noon Mountain / 1pm Central.
 | Oct-31 | [<span style="color:blue">Essentials of High-Performance Computing for new users: A practical example using hydrological models</span>]({{ site.baseurl }}/domains/geo#hydrological) | Marcos Cunha-Cordeiro and Befekadu Woldegiorgis (Univ. of Manitoba) |
 | Nov-14 | [<span style="color:blue">Emacs as a programming IDE for Python, R, and Julia</span>]({{ site.baseurl }}/getting-started#emacs) | Marie-Hélène Burle (SFU) |
 | Nov-28 | [Text analysis in 3D](https://docs.google.com/forms/d/e/1FAIpQLSeZvhtNLr0_WZLWTygZO90VgZOKS0WFExqD8U_grrlfFfsSKQ/viewform){:target="_blank"} | Alex Razoumov (SFU) |
-| Dec-12 | [Put your ML data & models under version control with DVC](https://docs.google.com/forms/d/e/1FAIpQLSdYh-tzvCnmbvK0fmgjJRsylIR67MC3x7BASdq5UohcvfCvzw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Dec-12 | [Put your data & ML models under version control with DVC](https://docs.google.com/forms/d/e/1FAIpQLSdYh-tzvCnmbvK0fmgjJRsylIR67MC3x7BASdq5UohcvfCvzw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 
 
 <!-- [text](link){:target="_blank"} -->
