@@ -60,7 +60,7 @@ noon Mountain / 1pm Central.
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Jan-09 | [ImageMagick](https://docs.google.com/forms/d/e/1FAIpQLSdaDwLJAd43VNY8f3mrSpeUDyvhqgYG4vDfrM0SiQkdSQFd9Q/viewform){:target="_blank"} | Alex Razoumov (SFU) |
-| Jan-23 | Emacs Polymode: execute code blocks in markdown documents | Marie-Hélène Burle (SFU) |
+| Jan-23 | Emacs Polymode: code blocks execution in markdown documents | Marie-Hélène Burle (SFU) |
 | Feb-06 | -- | guest speaker? |
 | Feb-20 | Interactive graph visualization with gravis | Alex Razoumov (SFU) | <!-- Marie away this week -->
 | Mar-05 | Creating R packages | Marie-Hélène Burle (SFU) |
