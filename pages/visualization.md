@@ -71,6 +71,9 @@ millions of texts and can work for any input language.
 - [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/texts20231128.pdf)
 - [All scripts](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/texts20231128.zip) from the presentation (ZIP file)
 
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
 ---
 
 <a name="cinema"></a>
