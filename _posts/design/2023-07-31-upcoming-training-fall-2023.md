@@ -76,7 +76,8 @@ noon Mountain / 1pm Central.
 | Oct-31 | [<span style="color:blue">Essentials of High-Performance Computing for new users: A practical example using hydrological models</span>]({{ site.baseurl }}/domains/geo#hydrological) | Marcos Cunha-Cordeiro and Befekadu Woldegiorgis (Univ. of Manitoba) |
 | Nov-14 | [<span style="color:blue">Emacs as a programming IDE for Python, R, and Julia</span>]({{ site.baseurl }}/getting-started#emacs) | Marie-Hélène Burle (SFU) |
 | Nov-28 | [<span style="color:blue">Text analysis in 3D</span>]({{ site.baseurl }}/domains/dh/#text-analysis-in-3d) | Alex Razoumov (SFU) |
-| Dec-12 | [Put your ML data & models under version control with DVC](https://docs.google.com/forms/d/e/1FAIpQLSdYh-tzvCnmbvK0fmgjJRsylIR67MC3x7BASdq5UohcvfCvzw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Dec-12 | [Put your data & ML models under version control with DVC](https://docs.google.com/forms/d/e/1FAIpQLSdYh-tzvCnmbvK0fmgjJRsylIR67MC3x7BASdq5UohcvfCvzw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+
 
 
 <!-- [text](link){:target="_blank"} -->
@@ -109,7 +110,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Scientific Python</span> | Sep-28, Oct-05 | Alex Razoumov |
 | <span style="color:gray">Speeding up computations in R</span> | Oct-12, Oct-26, Nov-02 | Marie-Hélène Burle |
 | <span style="color:gray">Parallel computing in Chapel</span> | Nov-09, Nov-16 | Alex Razoumov |
-| [Introduction to JAX, the new and fast deep learning framework](https://docs.google.com/forms/d/e/1FAIpQLSdBT2dFGxkgGJGFaNYkDu5eqYE5KGALeOoCk0DhVTNG8ntYxw/viewform){:target="_blank"} | Nov-30, Dec-07 | Marie-Hélène Burle |
+| [Fast computing with JAX](https://docs.google.com/forms/d/e/1FAIpQLSdBT2dFGxkgGJGFaNYkDu5eqYE5KGALeOoCk0DhVTNG8ntYxw/viewform){:target="_blank"} | Nov-30, Dec-07 | Marie-Hélène Burle |
 | [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSfXgCdKhKXRrUkhc9Q02UAyTV3ZukRUa9HzhaFmt-_KqPE8Ew/viewform){:target="_blank"} | Dec-14, Dec-21 | Marie-Hélène Burle, <br> Alex Razoumov |
 
 <!-- | Parallel computing in Julia | Apr-20, Apr-27, May-11 | Alex Razoumov | -->
