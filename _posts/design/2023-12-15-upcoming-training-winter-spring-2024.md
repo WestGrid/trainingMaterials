@@ -108,16 +108,23 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | ------------- | --------------- | ----------------- |
 | [Introduction to HPC](https://docs.google.com/forms/d/e/1FAIpQLSdbTBVHjNmJc1b984ewX2AnOMIeUgxpNlAzv6EiUaDe68LQLA/viewform){:target="_blank"} | Jan-11, Jan-18 | Alex Razoumov |
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Jan-25 | Alex Razoumov |
-| -- | Feb-01, Feb-08 | Marie-Hélène Burle |
+| Parallel computing in Julia | Feb-01, Feb-08 | Alex Razoumov |
 | 3D scientific visualization with ParaView | Feb-22, Feb-29 | Alex Razoumov | <!-- Marie away this week -->
-| Git version control | Mar-07 | |
-| Parallel computing in Julia | Mar-14, Mar-21 | Alex Razoumov |
-| -- | Mar-28, Apr-04 | |
-| Parallel computing in Python | Apr-11, Apr-18 | Alex Razoumov and Marie-Hélène Burle |
-| Introduction to Bash command line | Apr-25, May-02 | Marie-Hélène Burle and Alex Razoumov |
-| ML | May-09, May-16 | Marie-Hélène Burle |
+| Introduction to Bash command line | Mar-07, Mar-14 | Marie-Hélène Burle and Alex Razoumov |
+| Git version control | Mar-21 | Marie-Hélène Burle |
+| Parallel computing in Python | Mar-28, Apr-04 | Alex Razoumov and Marie-Hélène Burle |
+| Introduction to JAX: a framework for high-performance array computing and automatic differentiation | Apr-11, Apr-18, Apr-25 | Marie-Hélène Burle |
+| Introduction to deep learning with Flax, a neural network framework built on JAX | May-02, May-09, May-16 | Marie-Hélène Burle |
 | Large-scale and remote visualization | May-23 | Alex Razoumov |
 | -- | May-30 | |
+
+
+
+
+
+
+
+
 
 
 <!-- | HSS Winter Series week | Feb-15 | | -->
@@ -125,6 +132,9 @@ we are planning to repeat the most popular / introductory sessions throughout th
 <!-- **We should teach**:  -->
 
 <!-- **We could teach:** Python intro,  -->
+
+
+
 
 
 
