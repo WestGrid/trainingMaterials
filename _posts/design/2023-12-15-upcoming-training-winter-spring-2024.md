@@ -68,7 +68,7 @@ noon Mountain / 1pm Central.
 | Apr-02 | JAX: a framework for high-performance array computing | Marie-Hélène Burle |
 | Apr-16 | Lossy data compression | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-30 | Julia topic (TBC) | Paul Schrimpf (UBC) |
-| May-14 | Creating R packages | Marie-Hélène Burle (SFU) |
+| May-14 | DataFrames on steroids with Polars | Marie-Hélène Burle (SFU) |
 | May-28 | -- | guest speaker? |
 
 <!-- Original title: Using large-language models (LLMs) for writing proposals and other research documents -->
@@ -116,7 +116,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | Introduction to JAX: a framework for high-performance array computing and automatic differentiation | Apr-11, Apr-18, Apr-25 | Marie-Hélène Burle |
 | Introduction to deep learning with Flax, a neural network framework built on JAX | May-02, May-09, May-16 | Marie-Hélène Burle |
 | Large-scale and remote visualization | May-23 | Alex Razoumov |
-| -- | May-30 | |
+| Faster DataFrames with Polars | May-30 | Marie-Hélène Burle |
 
 
 
