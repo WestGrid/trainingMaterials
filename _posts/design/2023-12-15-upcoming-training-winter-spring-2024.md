@@ -121,17 +121,17 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 
 
-
-
-
-
-
+<!-- Part 1: JAX fundamentals (3 weeks) -->
+<!--         - week 1: intro to JAX (why JAX, relation to NumPy) -->
+<!--         - week 2: JIT and AD -->
+<!--         - week 3: Pytrees and parallel execution -->
+<!-- Part 2: Deep learning with JAX and Flax (3 weeks) -->
+<!--         - week 1: intro to deep learning and Flax -->
+<!--         - week 2: Flax fundamentals -->
+<!--         - week 3: Data preprocessing and training techniques, and Parallel training -->
 
 <!-- | HSS Winter Series week | Feb-15 | | -->
 
-<!-- **We should teach**:  -->
-
-<!-- **We could teach:** Python intro,  -->
 
 
 
