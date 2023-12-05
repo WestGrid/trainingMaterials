@@ -112,7 +112,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | 3D scientific visualization with ParaView | Feb-22, Feb-29 | Alex Razoumov | <!-- Marie away this week -->
 | Introduction to Bash command line | Mar-07, Mar-14 | Marie-Hélène Burle and Alex Razoumov |
 | Version control with Git | Mar-21 | Marie-Hélène Burle |
-| Parallel computing in Python | Mar-28, Apr-04 | Alex Razoumov and Marie-Hélène Burle |
+| Parallel computing in Python | Mar-28, Apr-04 | Alex Razoumov |
 | Introduction to JAX: a framework for high-performance array computing and automatic differentiation | Apr-11, Apr-18, Apr-25 | Marie-Hélène Burle |
 | Introduction to deep learning with Flax, a neural network framework built on JAX | May-02, May-09, May-16 | Marie-Hélène Burle |
 | Large-scale and remote visualization | May-23 | Alex Razoumov |
