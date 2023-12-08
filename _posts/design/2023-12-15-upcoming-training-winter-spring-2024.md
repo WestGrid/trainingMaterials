@@ -36,7 +36,6 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 &nbsp;
 [<em>Webinars</em>](#webinars)
 • [<em>Online courses</em>](#online-courses)
-• [<em>SFU / UBC Research Commons workshops</em>](#commons)
 • [<em>Other local bootcamps and workshops</em>](#bootcamps)
 <!-- • [<em>Humanities and social sciences training</em>](#dh) -->
 • [<em>In-person schools</em>](#schools)
@@ -61,7 +60,7 @@ noon Mountain / 1pm Central.
 | ------------- | --------------- | ----------------- |
 | Jan-09 | [ImageMagick](https://docs.google.com/forms/d/e/1FAIpQLSdaDwLJAd43VNY8f3mrSpeUDyvhqgYG4vDfrM0SiQkdSQFd9Q/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Jan-23 | AI powered code completion with GitHub Copilot | Marie-Hélène Burle (SFU) |
-| Feb-06 | -- | guest speaker? |
+| Feb-06 | -- | TBC |
 | Feb-20 | Interactive graph visualization with gravis | Alex Razoumov (SFU) | <!-- Marie away this week -->
 | Mar-05 | Emacs Polymode: code blocks execution in markdown documents | Marie-Hélène Burle (SFU) |
 | Mar-19 | Things researchers should know before using Generative AI | Jillian Anderson (SFU) |
@@ -69,7 +68,7 @@ noon Mountain / 1pm Central.
 | Apr-16 | Lossy data compression | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-30 | Julia topic (TBC) | Paul Schrimpf (UBC) |
 | May-14 | DataFrames on steroids with Polars | Marie-Hélène Burle (SFU) |
-| May-28 | -- | guest speaker? |
+| May-28 | -- | TBC |
 
 <!-- Original title: Using large-language models (LLMs) for writing proposals and other research documents -->
 
@@ -140,23 +139,11 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 
 
-<a name="commons"></a>
-## SFU / UBC Research Commons workshops
+<!-- <a name="commons"></a> -->
+<!-- ## SFU / UBC Research Commons workshops -->
 
-This fall the SFU workshops will be taught in-person, and the UBC workshops will be online via Zoom. To
-register, click on an event in the 3rd or 4th column. Students, staff and faculty are all welcome to attend.
-
-
-<!-- | TOPIC | SPEAKER | 1st RUN | 2nd RUN | -->
-<!-- |-|-|- -->
-<!-- | Introduction to Python (basic concepts and data structures) | Marie-Hélène Burle and Alex Razoumov | [Friday, Sep-29 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/38182){:target="_blank"} | [Friday, Oct-06 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3748911){:target="_blank"} | -->
-<!-- | Introduction to scientific Python (numpy, pandas, xarrays) | Marie-Hélène Burle and Alex Razoumov | [Friday, Oct-20 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/38183){:target="_blank"} | [Friday, Oct-27 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3748918){:target="_blank"} | -->
-<!-- | Python for simple data visualization | Marie-Hélène Burle and Alex Razoumov | [Friday, Nov-17 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/38184){:target="_blank"} | [Friday, Nov-24 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3748919){:target="_blank"} | -->
-<!-- | Web scraping with Python | Marie-Hélène Burle and Alex Razoumov | [Friday, Dec-01 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/38185){:target="_blank"} | [Friday, Dec-08 at <span style="color:#005CA7">UBC Research Commons</span>](https://libcal.library.ubc.ca/event/3748920){:target="_blank"} | -->
-
-<!-- UBC Fridays 1:00pm–2:30pm -->
-<!-- Python will similat to https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/36876 -->
-<!-- [Thursday, Jan-26 at <span style="color:#CE0834">SFU Research Commons</span>](https://www.lib.sfu.ca/about/branches-depts/rc/software-data-dh/software/37740){:target="_blank"} -->
+<!-- This fall the SFU workshops will be taught in-person, and the UBC workshops will be online via Zoom. To -->
+<!-- register, click on an event in the 3rd or 4th column. Students, staff and faculty are all welcome to attend. -->
 
 
 
@@ -210,6 +197,7 @@ We will be adding workshops here as they are announced at other Western Canadian
 <!-- | May 1-5 <br> (5 days) | [UVic spring school](https://2023uvic.netlify.app){:target="_blank"} | UVic | -->
 <!-- | June 19-23 <br> (5 days) | [SFU summer school](https://2023sfu.netlify.app){:target="_blank"} | SFU's Big Data Hub | -->
 
+We are planning a week-long summer school at SFU in June 2024. We will post the details here in April 2024.
 
 
 <br>
