@@ -55,8 +55,11 @@ millions of texts and can work for any input language.
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/texts20231128.pdf)
 - [All scripts](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/texts20231128.zip) from the presentation (ZIP file)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="830" height="506" src="https://www.youtube.com/embed/8kZaCbDvzcU" title="Text analysis in
+	3D" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+	picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
