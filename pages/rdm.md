@@ -15,6 +15,29 @@ permalink: "/tools/rdm/"
 
 
 
+
+
+<a name="dvc"></a>
+#### *"Version control for data science and machine learning with DVC"*
+
+**Webinar** (2023-Dec-12) with Marie-Hélène Burle
+
+Data version control (DVC) is an open-source tool that brings all the versioning and collaboration
+capabilities you use on your code with Git to your data and machine learning workflow. If you use datasets in
+your work, it makes it easy to track their evolution. If you are in the field of machine learning, it
+additionally allows you to track your models, manage your pipelines from parameters to metrics, collaborate on
+your experiments, and integrate with the continuous integration tool for machine learning projects CML. This
+webinar shows how to get started with DVC, first in the simple case where you just want to put your data under
+version control, then in the more complex situation where you want to manage your machine learning workflow in
+a more organized and reproducible fashion.
+
+* [Online slides](https://mint.westdri.ca/ai/wb_dvc)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+---
+
 <a name="pytables"></a>
 #### *"Managing large hierarchical datasets with PyTables"*
 
