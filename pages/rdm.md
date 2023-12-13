@@ -33,8 +33,11 @@ a more organized and reproducible fashion.
 
 * [Online slides](https://mint.westdri.ca/ai/wb_dvc)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="817" height="460" src="https://www.youtube.com/embed/2MQVF78FRKs" title="Version control
+	for data science and machine learning with DVC" frameborder="0" allow="accelerometer; autoplay;
+	clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
