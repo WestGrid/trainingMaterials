@@ -59,15 +59,15 @@ noon Mountain / 1pm Central.
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Jan-09 | [ImageMagick](https://docs.google.com/forms/d/e/1FAIpQLSdaDwLJAd43VNY8f3mrSpeUDyvhqgYG4vDfrM0SiQkdSQFd9Q/viewform){:target="_blank"} | Alex Razoumov (SFU) |
-| Jan-23 | AI powered code completion with GitHub Copilot | Marie-Hélène Burle (SFU) |
+| Jan-23 | [AI powered code completion with GitHub Copilot](https://docs.google.com/forms/d/e/1FAIpQLSf3emSTXhCkVkcJInybD3ktmfAi1p-c4ylLLG6YwRPNanQs2g/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Feb-06 | -- | TBC |
-| Feb-20 | Interactive graph visualization with gravis | Alex Razoumov (SFU) | <!-- Marie away this week -->
-| Mar-05 | Emacs Polymode: code blocks execution in markdown documents | Marie-Hélène Burle (SFU) |
-| Mar-19 | Things researchers should know before using Generative AI | Jillian Anderson (SFU) |
-| Apr-02 | JAX: a framework for high-performance array computing | Marie-Hélène Burle |
-| Apr-16 | Lossy data compression | Alex Razoumov (SFU) | <!-- topological or ML -->
-| Apr-30 | Julia topic (TBC) | Paul Schrimpf (UBC) |
-| May-14 | DataFrames on steroids with Polars | Marie-Hélène Burle (SFU) |
+| Feb-20 | [Interactive graph visualization with gravis](https://docs.google.com/forms/d/e/1FAIpQLSdUvbZ58Sh2mlGAGmilHbN7gQodygSNgd9MN9NEBLdcbdxQvQ/viewform){:target="_blank"} | Alex Razoumov (SFU) | <!-- Marie away this week -->
+| Mar-05 | [Emacs Polymode: code blocks execution in markdown documents](https://docs.google.com/forms/d/e/1FAIpQLSe3LWUk0lm77YdqaSqRfPM9vakv1g612hlmLFvQ98wjJN1FcQ/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Mar-19 | [Things researchers should know before using Generative AI](https://docs.google.com/forms/d/e/1FAIpQLSdsZj19Wxv1pR-efdTWQnelLvifqGDnroMpdE3owQwR6YgjBA/viewform){:target="_blank"} | Jillian Anderson (SFU) |
+| Apr-02 | [JAX: a framework for high-performance array computing](https://docs.google.com/forms/d/e/1FAIpQLSeNY-mzDruiIXg0Fveu1S1467VC6VMPVyyXrmw004aP9mhFbw/viewform){:target="_blank"} | Marie-Hélène Burle |
+| Apr-16 | [Lossy data compression](https://docs.google.com/forms/d/e/1FAIpQLSe6BcvIl0wMRZWtrtRyhxzt1_jiypft3ExgI1fsG8hgPYtSfA/viewform){:target="_blank"} | Alex Razoumov (SFU) | <!-- topological or ML -->
+| Apr-30 | [Julia topic](https://docs.google.com/forms/d/e/1FAIpQLSfFW_Lycpt_nVjm5T-AwIejmSIxBEdI6S21znO2TcVfxlhrWw/viewform){:target="_blank"} (TBC) | Paul Schrimpf (UBC) |
+| May-14 | [DataFrames on steroids with Polars](https://docs.google.com/forms/d/e/1FAIpQLSc--pLr5a3_BsfDV2gyjMjj7kPsnFNCHadgQo2xIcqw63sKdw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | May-28 | -- | TBC |
 
 <!-- Original title: Using large-language models (LLMs) for writing proposals and other research documents -->
@@ -81,7 +81,6 @@ noon Mountain / 1pm Central.
 <!-- [text](link){:target="_blank"} -->
 <!-- | Apr-25 | Cybersecurity webinar (TBC) | - | -->
 <!-- Belaid: It will be about the introduction to actual bigdata and its ecosystem, including Hadoop and Spark. -->
-
 
 
 
@@ -107,15 +106,16 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | ------------- | --------------- | ----------------- |
 | [Introduction to HPC](https://docs.google.com/forms/d/e/1FAIpQLSdbTBVHjNmJc1b984ewX2AnOMIeUgxpNlAzv6EiUaDe68LQLA/viewform){:target="_blank"} | Jan-11, Jan-18 | Alex Razoumov |
 | [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Jan-25 | Alex Razoumov |
-| Parallel computing in Julia | Feb-01, Feb-08 | Alex Razoumov |
-| 3D scientific visualization with ParaView | Feb-22, Feb-29 | Alex Razoumov | <!-- Marie away this week -->
-| Introduction to Bash command line | Mar-07, Mar-14 | Marie-Hélène Burle and Alex Razoumov |
-| Version control with Git | Mar-21 | Marie-Hélène Burle |
-| Parallel computing in Python | Mar-28, Apr-04 | Alex Razoumov |
-| Introduction to JAX: a framework for high-performance array computing and automatic differentiation | Apr-11, Apr-18, Apr-25 | Marie-Hélène Burle |
-| Introduction to deep learning with Flax, a neural network framework built on JAX | May-02, May-09, May-16 | Marie-Hélène Burle |
-| Large-scale and remote visualization | May-23 | Alex Razoumov |
-| Faster DataFrames with Polars | May-30 | Marie-Hélène Burle |
+| [Parallel computing in Julia](https://docs.google.com/forms/d/e/1FAIpQLSffWB4F-6d8IlKrpWQdpzTlSvt-yXbC8oQYOulbQNjeuVTpJQ/viewform){:target="_blank"} | Feb-01, Feb-08 | Alex Razoumov |
+| [3D scientific visualization with ParaView](https://docs.google.com/forms/d/e/1FAIpQLSe_lHvSjnHILjzvI2RT8imQ2bYE_wPQzqhd7dnBkBI2f3W0bg/viewform){:target="_blank"} | Feb-22, Feb-29 | Alex Razoumov | <!-- Marie away this week -->
+| [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSe13IYwPlG-l5ReuAyK_GV2e2Y8QwEz6E-l5XpNtnEqcWdwXw/viewform){:target="_blank"} | Mar-07, Mar-14 | Marie-Hélène Burle and Alex Razoumov |
+| [Version control with Git](https://docs.google.com/forms/d/e/1FAIpQLSe1gzTENcAKtLuGcPj2NVECXjWBDyHnE8rHHshUrckCoMK6iA/viewform){:target="_blank"} | Mar-21 | Marie-Hélène Burle |
+| [Parallel computing in Python](https://docs.google.com/forms/d/e/1FAIpQLSddAlR1NdNjfuaPMOWtwHs5tb0xV95DsaWjvw6pe51rXIXPXw/viewform){:target="_blank"} | Mar-28, Apr-04 | Alex Razoumov |
+| [Introduction to JAX: a framework for high-performance array computing and automatic differentiation](https://docs.google.com/forms/d/e/1FAIpQLSeAtinuEu-cRiF1kQXjZwi3UOaOJd6O28XXp5xFj8kTVmAXpQ/viewform){:target="_blank"} | Apr-11, Apr-18, Apr-25 | Marie-Hélène Burle |
+| [Introduction to deep learning with Flax, a neural network framework built on JAX](https://docs.google.com/forms/d/e/1FAIpQLSd2jl7Mk7T3UAXnAKJtyCkUfZNpY51Zm9aPNXfwu07yvbCS8A/viewform){:target="_blank"} | May-02, May-09, May-16 | Marie-Hélène Burle |
+| [Large-scale and remote visualization](https://docs.google.com/forms/d/e/1FAIpQLSdfGvqCEc9orL5moMdN6ET1eh7SDjRmilRDfjCHDWJHo655PQ/viewform){:target="_blank"} | May-23 | Alex Razoumov |
+| [Faster DataFrames with Polars](https://docs.google.com/forms/d/e/1FAIpQLSeynOViO0swW8v-THA8i6Lgbi7bCIh5NbcVYAy5jRP1DRC7lg/viewform){:target="_blank"} | May-30 | Marie-Hélène Burle |
+
 
 
 
