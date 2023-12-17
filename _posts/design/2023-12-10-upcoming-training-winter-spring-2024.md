@@ -64,7 +64,7 @@ noon Mountain / 1pm Central.
 | Feb-20 | [Interactive graph visualization with gravis](https://docs.google.com/forms/d/e/1FAIpQLSdUvbZ58Sh2mlGAGmilHbN7gQodygSNgd9MN9NEBLdcbdxQvQ/viewform){:target="_blank"} | Alex Razoumov (SFU) | <!-- Marie away this week -->
 | Mar-05 | [Modern Emacs: all those new tools that make Emacs better and faster](https://docs.google.com/forms/d/e/1FAIpQLSe3LWUk0lm77YdqaSqRfPM9vakv1g612hlmLFvQ98wjJN1FcQ/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Mar-19 | [Things researchers should know before using Generative AI](https://docs.google.com/forms/d/e/1FAIpQLSdsZj19Wxv1pR-efdTWQnelLvifqGDnroMpdE3owQwR6YgjBA/viewform){:target="_blank"} | Jillian Anderson (SFU) |
-| Apr-02 | [JAX: a framework for high-performance array computing](https://docs.google.com/forms/d/e/1FAIpQLSeNY-mzDruiIXg0Fveu1S1467VC6VMPVyyXrmw004aP9mhFbw/viewform){:target="_blank"} | Marie-Hélène Burle |
+| Apr-02 | [JAX: a framework for high-performance array computing](https://docs.google.com/forms/d/e/1FAIpQLSeNY-mzDruiIXg0Fveu1S1467VC6VMPVyyXrmw004aP9mhFbw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Apr-16 | [Lossy data compression](https://docs.google.com/forms/d/e/1FAIpQLSe6BcvIl0wMRZWtrtRyhxzt1_jiypft3ExgI1fsG8hgPYtSfA/viewform){:target="_blank"} | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-30 | [Julia topic](https://docs.google.com/forms/d/e/1FAIpQLSfFW_Lycpt_nVjm5T-AwIejmSIxBEdI6S21znO2TcVfxlhrWw/viewform){:target="_blank"} (TBC) | Paul Schrimpf (UBC) |
 | May-14 | [DataFrames on steroids with Polars](https://docs.google.com/forms/d/e/1FAIpQLSc--pLr5a3_BsfDV2gyjMjj7kPsnFNCHadgQo2xIcqw63sKdw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
