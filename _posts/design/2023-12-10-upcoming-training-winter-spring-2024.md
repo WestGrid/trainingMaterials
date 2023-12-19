@@ -114,7 +114,8 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | [Introduction to JAX: a framework for high-performance array computing and automatic differentiation](https://docs.google.com/forms/d/e/1FAIpQLSeAtinuEu-cRiF1kQXjZwi3UOaOJd6O28XXp5xFj8kTVmAXpQ/viewform){:target="_blank"} | Apr-11, Apr-18, Apr-25 | Marie-Hélène Burle |
 | [Introduction to deep learning with Flax, a neural network framework built on JAX](https://docs.google.com/forms/d/e/1FAIpQLSd2jl7Mk7T3UAXnAKJtyCkUfZNpY51Zm9aPNXfwu07yvbCS8A/viewform){:target="_blank"} | May-02, May-09, May-16 | Marie-Hélène Burle |
 | [Large-scale and remote visualization](https://docs.google.com/forms/d/e/1FAIpQLSdfGvqCEc9orL5moMdN6ET1eh7SDjRmilRDfjCHDWJHo655PQ/viewform){:target="_blank"} | May-23 | Alex Razoumov |
-| [Faster DataFrames with Polars](https://docs.google.com/forms/d/e/1FAIpQLSeynOViO0swW8v-THA8i6Lgbi7bCIh5NbcVYAy5jRP1DRC7lg/viewform){:target="_blank"} | May-30 | Marie-Hélène Burle |
+
+<!-- | [Faster DataFrames with Polars](https://docs.google.com/forms/d/e/1FAIpQLSeynOViO0swW8v-THA8i6Lgbi7bCIh5NbcVYAy5jRP1DRC7lg/viewform){:target="_blank"} | May-30 | Marie-Hélène Burle | -->
 
 
 
