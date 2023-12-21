@@ -173,8 +173,8 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 We will be adding workshops here as they are announced at other Western Canadian universities.
 
-<!-- | DATE | EVENT | VENUE | -->
-<!-- | Starts Sep-22 | [Univ. of Alberta Fall Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2023/fall-research-computing-bootcamp.html){:target="_blank"} | Online | -->
+| DATE | EVENT | VENUE |
+| Starts Jan-19 | [Univ. of Alberta Winter Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2024/winter-research-computing-bootcamp-2024.html){:target="_blank"} | Online |
 
 <!-- watch https://www.ualberta.ca/information-services-and-technology/research-computing -->
 
