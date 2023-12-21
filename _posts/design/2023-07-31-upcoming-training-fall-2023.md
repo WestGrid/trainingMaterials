@@ -111,7 +111,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Speeding up computations in R</span> | Oct-12, Oct-26, Nov-02 | Marie-Hélène Burle |
 | <span style="color:gray">Parallel computing in Chapel</span> | Nov-09, Nov-16 | Alex Razoumov |
 | <span style="color:gray">Fast computing with JAX</span> | Nov-30, Dec-07 | Marie-Hélène Burle |
-| [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSfXgCdKhKXRrUkhc9Q02UAyTV3ZukRUa9HzhaFmt-_KqPE8Ew/viewform){:target="_blank"} | Dec-14, Dec-21 | Marie-Hélène Burle, <br> Alex Razoumov |
+| <span style="color:gray">Introduction to Bash command line</span> | Dec-14, Dec-21 | Marie-Hélène Burle, <br> Alex Razoumov |
 
 <!-- | Parallel computing in Julia | Apr-20, Apr-27, May-11 | Alex Razoumov | -->
 
