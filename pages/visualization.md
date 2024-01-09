@@ -25,7 +25,8 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Text analysis in 3D"</em>](#text-analysis-in-3d)
+[<em>"Command-line image processing with ImageMagick"</em>](#imagemagick)
+• [<em>"Text analysis in 3D"</em>](#text-analysis-in-3d)
 • [<em>"Image-based approach to large-scale visualization"</em>](#cinema)
 • [<em>"Launching 2023 *Visualize This* contest"</em>](#launching-2023-visualize-this-contest)
 • [<em>"Data visualization in Julia with the Makie ecosystem"</em>](#data-visualization-in-julia-with-the-makie-ecosystem)
@@ -52,6 +53,25 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
 
+
+---
+
+<a name="imagemagick"></a>
+#### *"Command-line image processing with ImageMagick"*
+
+**Webinar** (2024-Jan-09) by Alex Razoumov
+
+ImageMagick is an open-source tool for manipulating images. You can use it to convert images between different
+formats, including JPEG, PNG, PDF, AVIF, TIFF and many others. ImageMagick can also resize, rotate, crop, and
+transform images, adjust colours, apply special effects, and draw basic shapes. First released in 1990,
+ImageMagick has grown to include hundreds of features. It runs on Linux, Mac, Windows, and is also available
+on the Alliance clusters. In this webinar I will try to help you navigate ImageMagick's myriad of functions by
+showing some command-line workflows most common in scientific research.
+
+- [Online notes](https://wgpages.netlify.app/imagemagick)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
 
 ---
 

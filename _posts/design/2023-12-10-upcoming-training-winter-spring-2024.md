@@ -56,9 +56,11 @@ noon Mountain / 1pm Central.
 <!-- For *upcoming webinars*, click the linked title to see more details or to register. For *past -->
 <!-- sessions*, click on the title to view recordings and slides. -->
 
+<!-- [<span style="color:blue">Command-line image processing with ImageMagick</span>]({{ site.baseurl }}/tools/visualization#imagemagick) -->
+
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Jan-09 | [ImageMagick](https://docs.google.com/forms/d/e/1FAIpQLSdaDwLJAd43VNY8f3mrSpeUDyvhqgYG4vDfrM0SiQkdSQFd9Q/viewform){:target="_blank"} | Alex Razoumov (SFU) |
+| Jan-09 | [Command-line image processing with ImageMagick](https://docs.google.com/forms/d/e/1FAIpQLSdaDwLJAd43VNY8f3mrSpeUDyvhqgYG4vDfrM0SiQkdSQFd9Q/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Jan-23 | [AI powered code completion with GitHub Copilot](https://docs.google.com/forms/d/e/1FAIpQLSf3emSTXhCkVkcJInybD3ktmfAi1p-c4ylLLG6YwRPNanQs2g/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Feb-06 | -- | TBC |
 | Feb-20 | [Photogrammetry on HPC clusters](https://docs.google.com/forms/d/e/1FAIpQLSdUvbZ58Sh2mlGAGmilHbN7gQodygSNgd9MN9NEBLdcbdxQvQ/viewform){:target="_blank"} | Alex Razoumov (SFU) | <!-- Marie away this week -->
