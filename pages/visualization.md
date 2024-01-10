@@ -53,7 +53,6 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 • [<em>"3D graphs with NetworkX, VTK, and ParaView"</em>](#3d-graphs-with-networkx-vtk-and-paraview)
 • [<em>"Graph visualization with Gephi"</em>](#graph-visualization-with-gephi)
 
-
 ---
 
 <a name="imagemagick"></a>
@@ -70,8 +69,11 @@ showing some command-line workflows most common in scientific research.
 
 - [Online notes](https://wgpages.netlify.app/imagemagick)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="817" height="498" src="https://www.youtube.com/embed/8n16CuJZJ4c" title="Command-line image
+	processing with ImageMagick" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
