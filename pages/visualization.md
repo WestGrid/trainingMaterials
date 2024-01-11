@@ -12,11 +12,11 @@ permalink: "/tools/visualization/"
 For full documentation, please check the <a href="https://docs.alliancecan.ca/wiki/Visualization"
 target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
-* ParaView full-day workshop slides:
+* ParaView full-day workshop slides (last updated summer 2023):
   - <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/paraviewWorkshop1.pdf"
-     target="_blank">Part 1</a> (69 pages, last updated summer 2023)
+     target="_blank">Part 1</a> (69 pages)
   - <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/paraviewWorkshop2.pdf"
-     target="_blank">Part 2</a> (58 pages, last updated summer 2023)
+     target="_blank">Part 2</a> (58 pages)
 * <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/visitWorkshop.pdf"
   target="_blank">VisIt full-day workshop slides</a> (129 pages, last updated May 2017)
 * <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dhsi.pdf"
