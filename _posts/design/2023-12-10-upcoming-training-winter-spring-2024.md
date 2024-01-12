@@ -60,7 +60,7 @@ noon Mountain / 1pm Central.
 | ------------- | --------------- | ----------------- |
 | Jan-09 | [<span style="color:blue">Command-line image processing with ImageMagick</span>]({{ site.baseurl }}/tools/visualization#imagemagick) | Alex Razoumov (SFU) |
 | Jan-23 | [AI powered code completion with GitHub Copilot](https://docs.google.com/forms/d/e/1FAIpQLSf3emSTXhCkVkcJInybD3ktmfAi1p-c4ylLLG6YwRPNanQs2g/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
-| Feb-06 | -- | TBC |
+| Feb-06 | no webinar | - |
 | Feb-20 | [Photogrammetry on HPC clusters](https://docs.google.com/forms/d/e/1FAIpQLSdUvbZ58Sh2mlGAGmilHbN7gQodygSNgd9MN9NEBLdcbdxQvQ/viewform){:target="_blank"} | Alex Razoumov (SFU) | <!-- Marie away this week -->
 | Mar-05 | [Modern Emacs: all those new tools that make Emacs better and faster](https://docs.google.com/forms/d/e/1FAIpQLSe3LWUk0lm77YdqaSqRfPM9vakv1g612hlmLFvQ98wjJN1FcQ/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Mar-19 | [Things researchers should know before using Generative AI](https://docs.google.com/forms/d/e/1FAIpQLSdsZj19Wxv1pR-efdTWQnelLvifqGDnroMpdE3owQwR6YgjBA/viewform){:target="_blank"} | Jillian Anderson (SFU) |
