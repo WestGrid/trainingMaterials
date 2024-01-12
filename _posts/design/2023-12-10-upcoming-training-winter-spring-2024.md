@@ -68,7 +68,8 @@ noon Mountain / 1pm Central.
 | Apr-16 | [JAX: a framework for high-performance array computing](https://docs.google.com/forms/d/e/1FAIpQLSeNY-mzDruiIXg0Fveu1S1467VC6VMPVyyXrmw004aP9mhFbw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Apr-30 | [Julia topic](https://docs.google.com/forms/d/e/1FAIpQLSfFW_Lycpt_nVjm5T-AwIejmSIxBEdI6S21znO2TcVfxlhrWw/viewform){:target="_blank"} (TBC) | Paul Schrimpf (UBC) |
 | May-14 | [DataFrames on steroids with Polars](https://docs.google.com/forms/d/e/1FAIpQLSc--pLr5a3_BsfDV2gyjMjj7kPsnFNCHadgQo2xIcqw63sKdw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
-| May-28 | -- | TBC |
+
+<!-- | May-28 | -- | TBC | -->
 
 <!-- Original title: Using large-language models (LLMs) for writing proposals and other research documents -->
 
@@ -115,7 +116,6 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | [Introduction to deep learning with Flax, a neural network framework built on JAX](https://docs.google.com/forms/d/e/1FAIpQLSd2jl7Mk7T3UAXnAKJtyCkUfZNpY51Zm9aPNXfwu07yvbCS8A/viewform){:target="_blank"} | May-02, May-09, May-16 | Marie-Hélène Burle |
 | [Large-scale and remote visualization](https://docs.google.com/forms/d/e/1FAIpQLSdfGvqCEc9orL5moMdN6ET1eh7SDjRmilRDfjCHDWJHo655PQ/viewform){:target="_blank"} | May-23 | Alex Razoumov |
 
-<!-- | [Faster DataFrames with Polars](https://docs.google.com/forms/d/e/1FAIpQLSeynOViO0swW8v-THA8i6Lgbi7bCIh5NbcVYAy5jRP1DRC7lg/viewform){:target="_blank"} | May-30 | Marie-Hélène Burle | -->
 
 <!-- Apr-04 - I'll be teaching on my own (Marie will be flying back from Toronto) -->
 
