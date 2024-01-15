@@ -97,7 +97,7 @@ noon Mountain / 1pm Central.
 ## Online courses
 
 We offer weekly online sessions on advanced research computing. These sessions take place every Thursday from
-10am to noon Pacific and are open to all academic researchers across Canada. Most courses span 3 weeks,
+10am to noon Pacific and are open to all academic researchers across Canada. Most courses span 2 weeks,
 although some courses may be shorter or longer.
 
 Please note that these sessions are not recorded, as we want to encourage attendance and live interaction, and
