@@ -16,6 +16,34 @@ permalink: "/tools/ml/"
 
 
 
+
+<a name="copilot"></a>
+#### *"AI-powered coding with GitHub Copilot"*
+
+**Webinar** (2024-Jan-23) by Marie-Hélène Burle
+
+The recent advances in generative AI have brought about a number of code generators and code-completion
+assistants. This webinar gives an overview of the state of the field, briefly explaining the functioning of
+various types of tools, then focusing on GitHub Copilot. Copilot is developed by GitHub and OpenAI. It is a
+cloud-based service requiring a subscription, but students and teachers can apply for free access. It can be
+used directly in the command line or as an extension to text editors such as VS Code, Emacs, or Neovim. Here I
+demo Copilot's main features:
+
+- turn natural language prompts into code suggestions based on code context,
+- turn comments into code,
+- translate from one programming language to another,
+- provide live code-completion,
+- chat about your code,
+- provide easy access to documentation,
+- suggest pull requests messages.
+
+* [Online slides](https://mint.westdri.ca/ai/wb_copilot)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+---
+
 <a name="current-ml-frameworks"></a>
 #### *"A map of current machine learning frameworks"*
 
@@ -36,9 +64,7 @@ to frameworks that can be used from Python, Julia, and R.
 	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-
-
-
+---
 
 <a name="tensorboard"></a>
 #### *"TensorBoard for objection detection models"*
@@ -66,6 +92,8 @@ using TensorBoard for model monitoring is applicable to projects from across dis
 	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+---
+
 <a name="pytorch-tensors"></a>
 #### *"Everything you wanted to know (and more) about PyTorch tensors"*
 
@@ -85,6 +113,8 @@ NumPy's `ndarray` and integrate well with other Python libraries such as Pandas.
 	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+
+---
 
 #### *"Upscaling with PyTorch"*
 
