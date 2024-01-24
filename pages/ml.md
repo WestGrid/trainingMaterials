@@ -17,10 +17,13 @@ permalink: "/tools/ml/"
 
 
 
+
+
+
 <a name="copilot"></a>
 #### *"AI-powered coding with GitHub Copilot"*
 
-**Webinar** (2024-Jan-23) by Marie-Hélène Burle
+**Webinar** (2024-Jan-23) with Marie-Hélène Burle
 
 The recent advances in generative AI have brought about a number of code generators and code-completion
 assistants. This webinar gives an overview of the state of the field, briefly explaining the functioning of
@@ -39,15 +42,18 @@ demo Copilot's main features:
 
 * [Online slides](https://mint.westdri.ca/ai/wb_copilot)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="750" height="422" src="https://www.youtube.com/embed/gvAUdhiTIME" title="AI-powered coding
+	with GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
 <a name="current-ml-frameworks"></a>
 #### *"A map of current machine learning frameworks"*
 
-**Webinar** (2023-Oct-03) by Marie-Hélène Burle
+**Webinar** (2023-Oct-03) with Marie-Hélène Burle
 
 We are in a period of active development of new deep learning techniques, adding to the already mature area of
 traditional machine learning. This is leading to a vast and ever evolving field of implementations which can
@@ -69,7 +75,7 @@ to frameworks that can be used from Python, Julia, and R.
 <a name="tensorboard"></a>
 #### *"TensorBoard for objection detection models"*
 
-**Webinar** (2022-Oct-12) by Jillian Anderson
+**Webinar** (2022-Oct-12) with Jillian Anderson
 
 TensorFlow remains one of the most popular machine learning frameworks for researchers from across
 disciplines. The TensorFlow ecosystem's size & flexibility makes it a powerful solution for tasks such as
@@ -97,7 +103,7 @@ using TensorBoard for model monitoring is applicable to projects from across dis
 <a name="pytorch-tensors"></a>
 #### *"Everything you wanted to know (and more) about PyTorch tensors"*
 
-**Webinar** (2022-Jan-19) by Marie-Hélène Burle
+**Webinar** (2022-Jan-19) with Marie-Hélène Burle
 
 Python already has several multidimensional array structures -- the most popular of which being NumPy's
 `ndarray` -- but the particularities of deep learning call for special characteristics: the ability to run
@@ -118,7 +124,7 @@ NumPy's `ndarray` and integrate well with other Python libraries such as Pandas.
 
 #### *"Upscaling with PyTorch"*
 
-**Webinar** (2021-Nov-24) by Marie-Hélène Burle
+**Webinar** (2021-Nov-24) with Marie-Hélène Burle
 
 Super-resolution (the process of recreating high-resolution images from low-resolution ones) is an old field, but deep
 neural networks have seen a sudden surge of new and very impressive methods over the past 10 years, from SRCNN to SRGAN
@@ -139,7 +145,7 @@ as our framework.
 <a name="fastai"></a>
 #### *"Introduction to deep learning with fastai"*
 
-**Webinar** (2021-Apr-14) by Marie-Hélène Burle
+**Webinar** (2021-Apr-14) with Marie-Hélène Burle
 
 fastai is a deep learning library with high-level components that can quickly and easily provide state-of-the-art
 results in standard deep learning domains. It also provides researchers with low-level components that can be mixed and
@@ -163,7 +169,7 @@ This webinar takes a closer look at the features and functionality of fastai.
 
 #### *"Machine learning in Julia with Flux"*
 
-**Webinar** (2020-May-13) by Marie-Hélène Burle
+**Webinar** (2020-May-13) with Marie-Hélène Burle
 
 * <a href="https://ml.westdri.ca/webinars/flux.html" target="_blank">Webinar page</a>
 * <a href="https://ml.westdri.ca/webinars/flux.html#headline-4" target="_blank">Comments & questions</a>
