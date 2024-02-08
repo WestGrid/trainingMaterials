@@ -36,7 +36,7 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 &nbsp;
 [<em>Webinars</em>](#webinars)
 • [<em>Online courses</em>](#online-courses)
-• [<em>Other local bootcamps and workshops</em>](#bootcamps)
+• [<em>Other bootcamps and workshops</em>](#bootcamps)
 <!-- • [<em>Humanities and social sciences training</em>](#dh) -->
 • [<em>In-person schools</em>](#schools)
 
@@ -169,12 +169,17 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 
 <a name="bootcamps"></a>
-## Other local bootcamps and workshops
+## Other bootcamps and workshops
 
 We will be adding workshops here as they are announced at other Western Canadian universities.
 
 | DATE | EVENT | VENUE |
 | Starts Jan-19 | [Univ. of Alberta Winter Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2024/winter-research-computing-bootcamp-2024.html){:target="_blank"} | Online |
+| Feb 12-16 | [HSS Winter Series 2024](https://hss24.netlify.app){:target="_blank"} | Online |
+| Feb 26-28 | [Introduction to programming with Python](https://hss24.netlify.app/python_6h){:target="_blank"} (follow-up to the 2024 HSS Winter Series) | Online |
+| Feb 26-28 | [Introduction to programming with R](https://hss24.netlify.app/r_6h){:target="_blank"} (follow-up to the 2024 HSS Winter Series) | Online |
+
+
 
 <!-- watch https://www.ualberta.ca/information-services-and-technology/research-computing -->
 
