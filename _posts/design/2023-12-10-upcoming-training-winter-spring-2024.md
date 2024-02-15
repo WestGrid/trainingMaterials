@@ -89,6 +89,7 @@ noon Mountain / 1pm Central.
 
 
 
+| Introduction to Bash command line | Sep-14, Sep-21 | Marie-Hélène Burle, <br> Alex Razoumov |
 
 
 
@@ -105,9 +106,9 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| [Introduction to HPC](https://docs.google.com/forms/d/e/1FAIpQLSdbTBVHjNmJc1b984ewX2AnOMIeUgxpNlAzv6EiUaDe68LQLA/viewform){:target="_blank"} | Jan-11, Jan-18 | Alex Razoumov |
-| [Introduction to Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSf6E2JYpT-1rBdY4oBX7LYOy7Gh8CAz8UOdoXejtin24r8zfw/viewform){:target="_blank"} | Jan-25 | Alex Razoumov |
-| [Parallel computing in Julia](https://docs.google.com/forms/d/e/1FAIpQLSffWB4F-6d8IlKrpWQdpzTlSvt-yXbC8oQYOulbQNjeuVTpJQ/viewform){:target="_blank"} | Feb-01, Feb-08 | Alex Razoumov |
+| <span style="color:gray">Introduction to HPC</span> | Jan-11, Jan-18 | Alex Razoumov |
+| <span style="color:gray">Introduction to Apptainer containers</span> | Jan-25 | Alex Razoumov |
+| <span style="color:gray">Parallel computing in Julia</span> | Feb-01, Feb-08 | Alex Razoumov |
 | [3D scientific visualization with ParaView](https://docs.google.com/forms/d/e/1FAIpQLSe_lHvSjnHILjzvI2RT8imQ2bYE_wPQzqhd7dnBkBI2f3W0bg/viewform){:target="_blank"} | Feb-22, Feb-29 | Alex Razoumov | <!-- Marie away this week -->
 | [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSe13IYwPlG-l5ReuAyK_GV2e2Y8QwEz6E-l5XpNtnEqcWdwXw/viewform){:target="_blank"} | Mar-07, Mar-14 | Marie-Hélène Burle and Alex Razoumov |
 | [Version control with Git](https://docs.google.com/forms/d/e/1FAIpQLSe1gzTENcAKtLuGcPj2NVECXjWBDyHnE8rHHshUrckCoMK6iA/viewform){:target="_blank"} | Mar-21 | Marie-Hélène Burle |
