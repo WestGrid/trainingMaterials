@@ -89,7 +89,6 @@ noon Mountain / 1pm Central.
 
 
 
-| Introduction to Bash command line | Sep-14, Sep-21 | Marie-Hélène Burle, <br> Alex Razoumov |
 
 
 
