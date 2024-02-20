@@ -55,17 +55,11 @@ and discuss all steps from taking initial images to building and displaying a fi
 
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/photogrammetry20240220.pdf)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
-
-
-
-
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="817" height="497" src="https://www.youtube.com/embed/JwNKSATAhco" title="Photogrammetry on
+	HPC clusters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+	picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
