@@ -20,12 +20,10 @@ are taught by our analysts and staff.
 * "3D visualization for the humanities": [ZIP file](http://bit.ly/dhfileszip) with slides, scripts, and
   data files
 
-
-
-
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Text analysis in 3D"</em>](#text-analysis-in-3d)
+[<em>"Photogrammetry on HPC clusters"</em>](#photogrammetry)
+• [<em>"Text analysis in 3D"</em>](#text-analysis-in-3d)
 • [<em>"Learning Regular Expressions with Smart Tools"</em>](#regexpchatgpt)
 • [<em>"Exploration of tools and approaches for Humanists"</em>](#exploration)
 • [<em>"Tips &amp; tools for mining Twitter data for research"</em>](#twitterapis)
@@ -40,7 +38,7 @@ are taught by our analysts and staff.
 
 ---
 
-<a name="cinema"></a>
+<a name="photogrammetry"></a>
 #### *"Photogrammetry on HPC clusters"*
 
 **Webinar** (2024-Feb-20) with Alex Razoumov
