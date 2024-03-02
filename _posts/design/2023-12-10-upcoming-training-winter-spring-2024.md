@@ -66,7 +66,7 @@ noon Mountain / 1pm Central.
 | Mar-19 | [Things researchers should know before using Generative AI](https://docs.google.com/forms/d/e/1FAIpQLSdsZj19Wxv1pR-efdTWQnelLvifqGDnroMpdE3owQwR6YgjBA/viewform){:target="_blank"} | Jillian Anderson (SFU) |
 | Apr-02 | [Lossy data compression](https://docs.google.com/forms/d/e/1FAIpQLSe6BcvIl0wMRZWtrtRyhxzt1_jiypft3ExgI1fsG8hgPYtSfA/viewform){:target="_blank"} | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-16 | [JAX: a framework for high-performance array computing](https://docs.google.com/forms/d/e/1FAIpQLSeNY-mzDruiIXg0Fveu1S1467VC6VMPVyyXrmw004aP9mhFbw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
-| Apr-30 | [Julia topic](https://docs.google.com/forms/d/e/1FAIpQLSfFW_Lycpt_nVjm5T-AwIejmSIxBEdI6S21znO2TcVfxlhrWw/viewform){:target="_blank"} (TBC) | Paul Schrimpf (UBC) |
+| Apr-30 | [Julia at full tilt: profiling and optimizations](https://docs.google.com/forms/d/e/1FAIpQLSfFW_Lycpt_nVjm5T-AwIejmSIxBEdI6S21znO2TcVfxlhrWw/viewform){:target="_blank"} (TBC) | Paul Schrimpf (UBC) |
 | May-14 | [DataFrames on steroids with Polars](https://docs.google.com/forms/d/e/1FAIpQLSc--pLr5a3_BsfDV2gyjMjj7kPsnFNCHadgQo2xIcqw63sKdw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 
 <!-- | May-28 | -- | TBC | -->
