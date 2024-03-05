@@ -313,7 +313,7 @@ RStudio, or JupyterLab that provide amazing IDEs, without the learning curve. So
 as a programming IDE? What does that even look like? In this webinar, I show some of the many reasons why I
 can't let go of Emacs, then show how it can be used as a programming IDE for Python, R, and Julia.
 
-- [Online slides](https://mint.westdri.ca/tools/emacs_prog_ide)
+- [Online slides](https://mint.westdri.ca/emacs/wb_emacs_ide_slides#/title-slide)
 
 <div class="flex-video">
 	<iframe width="817" height="460" src="https://www.youtube.com/embed/rt0SpxuOuUs" title="Emacs as a
