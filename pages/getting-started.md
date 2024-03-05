@@ -320,3 +320,22 @@ can't let go of Emacs, then show how it can be used as a programming IDE for Pyt
 	programming IDE for Python, R, and Julia" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+---
+
+<a name="modernemacs"></a>
+#### *"Modern Emacs: all those new tools that make Emacs better and faster"*
+
+**Webinar** (2024-Mar-05) by Marie-Hélène Burle
+
+Emacs might have been created in the 70s, but its development is alive and well. 10 years ago version 24
+brought huge speedups with lexical binding. In 2022, version 28 added -- among other things -- just-in-time
+native compilation for elisp code for improved performance. Version 29 last year brought countless exciting
+new additions such as official tree-sitter support and built-in Eglot and use-package. In addition to Emacs
+itself, a profusion of modern packages have emerged over the past few years (e.g. the
+vertico/consult/orderless/marginalia/embark completion system; corfu and cape for at point completion)
+bringing great speed and sleekness to the user experience.
+
+- [Online slides](https://mint.westdri.ca/emacs/wb_emacs_new_tools_slides#/title-slide)
+
+The recording will be added shortly.

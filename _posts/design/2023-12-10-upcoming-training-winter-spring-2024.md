@@ -62,7 +62,7 @@ noon Mountain / 1pm Central.
 | Jan-23 | [<span style="color:blue">AI-powered coding with GitHub Copilot</span>]({{ site.baseurl }}/tools/ml#copilot) | Marie-Hélène Burle (SFU) |
 | Feb-06 | no webinar | - |
 | Feb-20 | [<span style="color:blue">Photogrammetry on HPC clusters</span>]({{ site.baseurl }}/domains/dh/#photogrammetry) | Alex Razoumov (SFU) | <!-- Marie away this week -->
-| Mar-05 | [Modern Emacs: all those new tools that make Emacs better and faster](https://docs.google.com/forms/d/e/1FAIpQLSe3LWUk0lm77YdqaSqRfPM9vakv1g612hlmLFvQ98wjJN1FcQ/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Mar-05 | [<span style="color:blue">Modern Emacs: all those new tools that make Emacs better and faster</span>]({{ site.baseurl }}/getting-started/#modernemacs) | Marie-Hélène Burle (SFU) |
 | Mar-19 | [Things researchers should know before using Generative AI](https://docs.google.com/forms/d/e/1FAIpQLSdsZj19Wxv1pR-efdTWQnelLvifqGDnroMpdE3owQwR6YgjBA/viewform){:target="_blank"} | Jillian Anderson (SFU) |
 | Apr-02 | [Lossy data compression](https://docs.google.com/forms/d/e/1FAIpQLSe6BcvIl0wMRZWtrtRyhxzt1_jiypft3ExgI1fsG8hgPYtSfA/viewform){:target="_blank"} | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-16 | [JAX: a framework for high-performance array computing](https://docs.google.com/forms/d/e/1FAIpQLSeNY-mzDruiIXg0Fveu1S1467VC6VMPVyyXrmw004aP9mhFbw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
