@@ -338,4 +338,8 @@ bringing great speed and sleekness to the user experience.
 
 - [Online slides](https://mint.westdri.ca/emacs/wb_emacs_new_tools_slides#/title-slide)
 
-The recording will be added shortly.
+<div class="flex-video">
+	<iframe width="929" height="523" src="https://www.youtube.com/embed/SOxlQ7ogplA" title="Modern Emacs: all
+	those new tools that make Emacs better and faster" frameborder="0" allow="accelerometer; autoplay;
+	clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
