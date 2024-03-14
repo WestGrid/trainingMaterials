@@ -110,7 +110,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Introduction to Apptainer containers</span> | Jan-25 | Alex Razoumov |
 | <span style="color:gray">Parallel computing in Julia</span> | Feb-01, Feb-08 | Alex Razoumov |
 | <span style="color:gray">3D scientific visualization with ParaView</span> | Feb-22, Feb-29 | Alex Razoumov |
-| [Introduction to Bash command line](https://docs.google.com/forms/d/e/1FAIpQLSe13IYwPlG-l5ReuAyK_GV2e2Y8QwEz6E-l5XpNtnEqcWdwXw/viewform){:target="_blank"} | Mar-07, Mar-14 | Marie-Hélène Burle and Alex Razoumov |
+| <span style="color:gray">Introduction to Bash command line</span> | Mar-07, Mar-14 | Marie-Hélène Burle and Alex Razoumov |
 | [Version control with Git](https://docs.google.com/forms/d/e/1FAIpQLSe1gzTENcAKtLuGcPj2NVECXjWBDyHnE8rHHshUrckCoMK6iA/viewform){:target="_blank"} | Mar-21 | Marie-Hélène Burle |
 | [Parallel computing in Python](https://docs.google.com/forms/d/e/1FAIpQLSddAlR1NdNjfuaPMOWtwHs5tb0xV95DsaWjvw6pe51rXIXPXw/viewform){:target="_blank"} | Mar-28, Apr-04 | Alex Razoumov |
 | [Introduction to JAX: a framework for high-performance array computing and automatic differentiation](https://docs.google.com/forms/d/e/1FAIpQLSeAtinuEu-cRiF1kQXjZwi3UOaOJd6O28XXp5xFj8kTVmAXpQ/viewform){:target="_blank"} | Apr-11, Apr-18, Apr-25 | Marie-Hélène Burle |
