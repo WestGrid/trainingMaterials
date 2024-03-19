@@ -17,7 +17,7 @@ permalink: "/tools/ml/"
 
 
 
-<a name="tensorboard"></a>
+<a name="genai"></a>
 #### *"Things researchers should know before using Generative AI"*
 
 **Webinar** (2024-Mar-19) with Jillian Anderson
@@ -28,7 +28,7 @@ work. In this webinar, we touch on the basics of GenAI before exploring its oppo
 the session by discussing current best practices and strategies for working with GenAI. Our goal is to offer
 practical guidance for researchers considering the adoption of GenAI.
 
-<!-- * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/tensorBoard20221012.pdf) -->
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/genAIForResearch20240319.pdf)
 
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
