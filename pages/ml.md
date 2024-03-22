@@ -30,16 +30,11 @@ practical guidance for researchers considering the adoption of GenAI.
 
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/genAIForResearch20240319.pdf)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
-
-The recording will be posted later today.
-
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="784" height="441" src="https://www.youtube.com/embed/5zVAd72Fm2E" title="Things researchers
+	should know before using Generative AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
