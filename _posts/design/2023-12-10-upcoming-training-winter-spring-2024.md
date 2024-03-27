@@ -204,9 +204,9 @@ We will be adding workshops here as they are announced at other Western Canadian
 <a name="schools"></a>
 ## 2024 summer school
 
-SFU's Research Computing 2024 Summer School will be held on May 27–31, organized jointly with [the Institute
-for Neuroscience and Neurotechnology](https://www.sfu.ca/neuro-institute.html){:target="_blank"} and hosted by
-[SFU's Big Data Hub](https://www.sfu.ca/big-data.html){:target="_blank"}.
+SFU's Research Computing 2024 Summer School will be held on June 3-7 (full week), organized jointly with [the
+Institute for Neuroscience and Neurotechnology](https://www.sfu.ca/neuro-institute.html){:target="_blank"} and
+hosted by [SFU's Big Data Hub](https://www.sfu.ca/big-data.html){:target="_blank"}.
 
 We will add full details and open registration in April -- please watch this page or consider [subscribing to
 our weekly training newsletter](/contact) to receive the initial announcement in your mailbox.
