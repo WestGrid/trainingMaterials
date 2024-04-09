@@ -175,10 +175,11 @@ we are planning to repeat the most popular / introductory sessions throughout th
 We will be adding workshops here as they are announced at other Western Canadian universities.
 
 | DATE | EVENT | VENUE |
-| Starts Jan-19 | [Univ. of Alberta Winter Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2024/winter-research-computing-bootcamp-2024.html){:target="_blank"} | Online |
-| Feb 12-16 | [HSS Winter Series 2024](https://hss24.netlify.app){:target="_blank"} | Online |
-| Feb 26-28 | [Introduction to programming with Python](https://hss24.netlify.app/python_6h){:target="_blank"} (follow-up to the 2024 HSS Winter Series) | Online |
-| Feb 26-28 | [Introduction to programming with R](https://hss24.netlify.app/r_6h){:target="_blank"} (follow-up to the 2024 HSS Winter Series) | Online |
+| Starts Jan-19 | <span style="color:gray">Univ. of Alberta Winter Bootcamp</span> | Online |
+| Feb 12-16 | <span style="color:gray">HSS Winter Series 2024</span> | Online |
+| Feb 26-28 | <span style="color:gray">Introduction to programming with Python (follow-up to the 2024 HSS Winter Series)</span> | Online |
+| Feb 26-28 | <span style="color:gray">Introduction to programming with R (follow-up to the 2024 HSS Winter Series)</span> | Online |
+| Starts Apr-30 | [Univ. of Alberta Spring Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2024/spring-research-computing-bootcamp-2024.html){:target="_blank"} | Online |
 
 
 
