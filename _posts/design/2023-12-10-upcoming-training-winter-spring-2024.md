@@ -65,7 +65,7 @@ noon Mountain / 1pm Central.
 | Mar-05 | [<span style="color:blue">Modern Emacs: all those new tools that make Emacs better and faster</span>]({{ site.baseurl }}/getting-started/#modernemacs) | Marie-Hélène Burle (SFU) |
 | Mar-19 | [<span style="color:blue">Things researchers should know before using Generative AI</span>]({{ site.baseurl }}/tools/ml#genai) | Jillian Anderson (SFU) |
 | Apr-02 | no webinar | - |
-| Apr-16 | [JAX: a framework for high-performance array computing](https://docs.google.com/forms/d/e/1FAIpQLSeNY-mzDruiIXg0Fveu1S1467VC6VMPVyyXrmw004aP9mhFbw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Apr-16 | [<span style="color:blue">JAX: a framework for high-performance array computing</span>]({{ site.baseurl }}/tools/ml#jax) | Marie-Hélène Burle (SFU) |
 | Apr-23 | [Lossy data compression](https://docs.google.com/forms/d/e/1FAIpQLSe6BcvIl0wMRZWtrtRyhxzt1_jiypft3ExgI1fsG8hgPYtSfA/viewform){:target="_blank"} | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-30 | [Julia at full tilt: profiling and optimizations](https://docs.google.com/forms/d/e/1FAIpQLSfFW_Lycpt_nVjm5T-AwIejmSIxBEdI6S21znO2TcVfxlhrWw/viewform){:target="_blank"} (TBC) | Paul Schrimpf (UBC) |
 | May-14 | [DataFrames on steroids with Polars](https://docs.google.com/forms/d/e/1FAIpQLSc--pLr5a3_BsfDV2gyjMjj7kPsnFNCHadgQo2xIcqw63sKdw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |

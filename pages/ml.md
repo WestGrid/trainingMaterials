@@ -17,6 +17,28 @@ permalink: "/tools/ml/"
 
 
 
+
+
+<a name="jax"></a>
+#### *"JAX: a framework for high-performance array computing"*
+
+**Webinar** (2024-Apr-16) with Marie-Hélène Burle
+
+JAX is an open source Python library for high-performance array computing and flexible automatic
+differentiation. High-performance computing in JAX is achieved via asynchronous dispatch, just-in-time
+compilation, the XLA compiler for linear algebra, and full compatibility with accelerators (GPUs and
+TPUs). Automatic differentiation in JAX uses Autograd and works with complex control flows (conditions,
+recursions), second and third-order derivatives, forward and reverse modes. This makes JAX ideal for machine
+learning and neural network libraries such as Flax that are built on top of it. This webinar gives an overview
+of JAX's principles and functioning.
+
+* [Online slides](https://mint.westdri.ca/ai/wb_jax_slides#/title-slide)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+---
+
 <a name="genai"></a>
 #### *"Things researchers should know before using Generative AI"*
 
