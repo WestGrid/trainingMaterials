@@ -34,8 +34,12 @@ of JAX's principles and functioning.
 
 * [Online slides](https://mint.westdri.ca/ai/wb_jax_slides#/title-slide)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="779" height="438" src="https://www.youtube.com/embed/tk3x9x0eqPU" title="JAX: a framework
+	for high-performance array computing" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ---
 
