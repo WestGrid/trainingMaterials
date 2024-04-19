@@ -17,6 +17,30 @@ permalink: "/tools/rdm/"
 
 
 
+<a name="lossy"></a>
+#### *"Lossy data compression"*
+
+**Webinar** (2024-Apr-23) with Alex Razoumov
+
+You might be familiar with gzip / bzip2 / zip tools that can compress all types of files without losing
+data. With typical 3D research datasets, these tools reduce your file sizes by ~30-50% -- in some cases more,
+depending on the nature of your data. Popular scientific data formats such as NetCDF and HDF5 also support
+built-in lossless compression most commonly implemented via zlib or szip libraries. On the other hand, we have
+all used lossy compression for audio, video and images. Lossy compression can be applied to multidimensional
+scientific datasets as well, with far better compression ratio than with lossless compression, as you really
+are disposing of some of the less important bits. In general, with 3D scalar fields you can expect a
+compression ratio of approximately 20:1 or even 30:1, without any visible degradation. This is especially
+fantastic for archiving the results of multidimensional simulations, as you can store your data in much less
+space than its original footprint. In this webinar we cover two different approaches to lossy 3D data
+compression. We focus on file (rather than in-memory) compression, with long-term data storage in mind.
+
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/lossy20240423.pdf)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+---
+
 <a name="dvc"></a>
 #### *"Version control for data science and machine learning with DVC"*
 
