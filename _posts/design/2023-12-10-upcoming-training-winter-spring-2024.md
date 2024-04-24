@@ -60,11 +60,9 @@ noon Mountain / 1pm Central.
 | ------------- | --------------- | ----------------- |
 | Jan-09 | [<span style="color:blue">Command-line image processing with ImageMagick</span>]({{ site.baseurl }}/tools/visualization#imagemagick) | Alex Razoumov (SFU) |
 | Jan-23 | [<span style="color:blue">AI-powered coding with GitHub Copilot</span>]({{ site.baseurl }}/tools/ml#copilot) | Marie-Hélène Burle (SFU) |
-| Feb-06 | no webinar | - |
 | Feb-20 | [<span style="color:blue">Photogrammetry on HPC clusters</span>]({{ site.baseurl }}/domains/dh/#photogrammetry) | Alex Razoumov (SFU) | <!-- Marie away this week -->
 | Mar-05 | [<span style="color:blue">Modern Emacs: all those new tools that make Emacs better and faster</span>]({{ site.baseurl }}/getting-started/#modernemacs) | Marie-Hélène Burle (SFU) |
 | Mar-19 | [<span style="color:blue">Things researchers should know before using Generative AI</span>]({{ site.baseurl }}/tools/ml#genai) | Jillian Anderson (SFU) |
-| Apr-02 | no webinar | - |
 | Apr-16 | [<span style="color:blue">JAX: a framework for high-performance array computing</span>]({{ site.baseurl }}/tools/ml#jax) | Marie-Hélène Burle (SFU) |
 | Apr-23 | [<span style="color:blue">Lossy data compression</span>]({{ site.baseurl }}/tools/rdm#lossy) | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-30 | [Julia at full tilt: profiling and optimizations](https://docs.google.com/forms/d/e/1FAIpQLSfFW_Lycpt_nVjm5T-AwIejmSIxBEdI6S21znO2TcVfxlhrWw/viewform){:target="_blank"} (TBC) | Paul Schrimpf (UBC) |
