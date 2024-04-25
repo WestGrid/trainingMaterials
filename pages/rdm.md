@@ -9,6 +9,24 @@ header:
 permalink: "/tools/rdm/"
 ---
 
+[Table of Contents](#table-of-contents):
+&nbsp;
+[<em>"Lossy data compression"</em>](#lossy)
+• [<em>"Version control for data science and machine learning with DVC"</em>](#dvc)
+• [<em>"Managing large hierarchical datasets with PyTables"</em>](#pytables)
+• [<em>"Distributed datasets with DataLad"</em>](#distributed-datasets-with-datalad)
+• [<em>"How to create and access MySQL and PostgreSQL databases on DRI systems"</em>](#sql)
+• [<em>"Data management with DataLad"</em>](#datalad)
+• [<em>"Hiding large numbers of files in container overlays"</em>](#manyFilesInOverlays)
+• [<em>"Linking databases to code repositories with Throughput"</em>](#throughput)
+• [<em>"Automating your backups in Linux and MacOS""</em>](#backups)
+• [<em>"Working with multidimensional datasets in xarray"</em>](#xarray)
+• [<em>"File access control approaches and best practices"</em>](#acl)
+• [<em>"Managing many files with Disk ARchiver (DAR)"</em>](#dar)
+• [<em>"Research Data Management Tools, Platforms, and Best Practices for Canadian Researchers"</em>](#rdmToolsPlatforms)
+
+---
+
 
 
 

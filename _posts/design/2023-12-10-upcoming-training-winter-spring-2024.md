@@ -36,9 +36,9 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 &nbsp;
 [<em>Webinars</em>](#webinars)
 • [<em>Online courses</em>](#online-courses)
+• [<em>In-person schools</em>](#schools)
 • [<em>Other bootcamps and workshops</em>](#bootcamps)
 <!-- • [<em>Humanities and social sciences training</em>](#dh) -->
-• [<em>In-person schools</em>](#schools)
 
 
 
@@ -155,9 +155,18 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 
 
+<a name="schools"></a>
+## 2024 summer school
 
+SFU's Research Computing 2024 Summer School will be held on June 3-7 (full week), organized jointly with [the
+Institute for Neuroscience and Neurotechnology](https://www.sfu.ca/neuro-institute.html){:target="_blank"} and
+hosted by [SFU's Big Data Hub](https://www.sfu.ca/big-data.html){:target="_blank"}. It is open to all academic
+researchers at SFU, UBC, BCIT and other local post-secondary institutions. Researchers of all levels --
+undergraduate and graduate students, postdocs, faculty and staff -- are welcome to register.
 
-
+You can find more details including the program on the [school
+website](https://rcss24.netlify.app/){:target="_blank"}, and you can register
+[here](https://www.eventbrite.ca/e/881514191677){:target="_blank"}.
 
 
 
@@ -200,18 +209,6 @@ We will be adding workshops here as they are announced at other Western Canadian
 
 
 
-<a name="schools"></a>
-## 2024 summer school
-
-SFU's Research Computing 2024 Summer School will be held on June 3-7 (full week), organized jointly with [the
-Institute for Neuroscience and Neurotechnology](https://www.sfu.ca/neuro-institute.html){:target="_blank"} and
-hosted by [SFU's Big Data Hub](https://www.sfu.ca/big-data.html){:target="_blank"}. It is open to all academic
-researchers at SFU, UBC, BCIT and other local post-secondary institutions. Researchers of all levels --
-undergraduate and graduate students, postdocs, faculty and staff -- are welcome to register.
-
-You can find more details including the program on the [school
-website](https://rcss24.netlify.app/){:target="_blank"}, and you can register
-[here](https://www.eventbrite.ca/e/881514191677){:target="_blank"}.
 
 
 
