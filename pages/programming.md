@@ -122,15 +122,12 @@ target="_blank">here</a>.)
 
 * [Online slides](https://schrimpf.github.io/ARGridBootstrap.jl/westdri_talk.html#/title-slide)
 
-The video will be added shortly.
-
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="926" height="579" src="https://www.youtube.com/embed/QSQ9DXFrfi8" title="Julia at full
+	tilt: profiling and optimizations" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ---
 
