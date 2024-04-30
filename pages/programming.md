@@ -110,6 +110,28 @@ various packages for parallelization, as well as using C++ from inside R to spee
 (You can also browse some of our Julia programming materials <a href="https://westgrid-julia.netlify.com"
 target="_blank">here</a>.)
 
+
+
+
+---
+
+<a name="threadsx"></a>
+#### *"Julia at full tilt: profiling and optimizations"*
+
+**Webinar** (2024-Apr-30) by Paul Schrimpf
+
+* [Online slides](https://schrimpf.github.io/ARGridBootstrap.jl/westdri_talk.html#/title-slide)
+
+The video will be added shortly.
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
+
 ---
 
 <a name="threadsx"></a>
