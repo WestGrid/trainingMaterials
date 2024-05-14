@@ -11,7 +11,8 @@ permalink: "/tools/rdm/"
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"Lossy data compression"</em>](#lossy)
+[<em>"DataFrames on steroids with Polars"</em>](#polars)
+• [<em>"Lossy data compression"</em>](#lossy)
 • [<em>"Version control for data science and machine learning with DVC"</em>](#dvc)
 • [<em>"Managing large hierarchical datasets with PyTables"</em>](#pytables)
 • [<em>"Distributed datasets with DataLad"</em>](#distributed-datasets-with-datalad)
@@ -34,6 +35,24 @@ permalink: "/tools/rdm/"
 
 
 
+
+
+
+<a name="polars"></a>
+#### *"DataFrames on steroids with Polars"*
+
+**Webinar** (2024-May-14) with Marie-Hélène Burle
+
+Polars is a modern open-source and very fast DataFrame framework for Python, Rust, JS, R, and Ruby. In this
+webinar, I will demo Polars for Python and show how much faster it is compared to pandas while remaining just
+as convenient.
+
+* [Online slides]()
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+---
 
 <a name="lossy"></a>
 #### *"Lossy data compression"*
