@@ -66,9 +66,7 @@ noon Mountain / 1pm Central.
 | Apr-16 | [<span style="color:blue">JAX: a framework for high-performance array computing</span>]({{ site.baseurl }}/tools/ml#jax) | Marie-Hélène Burle (SFU) |
 | Apr-23 | [<span style="color:blue">Lossy data compression</span>]({{ site.baseurl }}/tools/rdm#lossy) | Alex Razoumov (SFU) | <!-- topological or ML -->
 | Apr-30 | [<span style="color:blue">Julia at full tilt: profiling and optimizations</span>]({{ site.baseurl }}/programming#julia) | Paul Schrimpf (UBC) |
-| May-14 | [DataFrames on steroids with Polars](https://docs.google.com/forms/d/e/1FAIpQLSc--pLr5a3_BsfDV2gyjMjj7kPsnFNCHadgQo2xIcqw63sKdw/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
-
-<!-- | May-28 | -- | TBC | -->
+| May-14 | [<span style="color:blue">DataFrames on steroids with Polars</span>]({{ site.baseurl }}/tools/rdm#polars) | Marie-Hélène Burle (SFU) |
 
 <!-- Original title: Using large-language models (LLMs) for writing proposals and other research documents -->
 

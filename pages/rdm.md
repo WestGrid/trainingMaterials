@@ -47,10 +47,14 @@ Polars is a modern open-source and very fast DataFrame framework for Python, Rus
 webinar, I will demo Polars for Python and show how much faster it is compared to pandas while remaining just
 as convenient.
 
-* [Online slides]()
+* [Online slides](https://mint.westdri.ca/python/wb_polars_slides#/title-slide)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="865" height="487" src="https://www.youtube.com/embed/U5Gl_X6Z7Lk" title="DataFrames on
+	steroids with Polars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
