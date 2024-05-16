@@ -110,7 +110,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Version control with Git</span> | Mar-21 | Marie-Hélène Burle |
 | <span style="color:gray">Parallel computing in Python</span> | Mar-28, Apr-04 | Alex Razoumov |
 | <span style="color:gray">Introduction to JAX: a framework for high-performance array computing and automatic differentiation</span> | Apr-11, Apr-18, Apr-25 | Marie-Hélène Burle |
-| [Introduction to deep learning with Flax, a neural network framework built on JAX](https://docs.google.com/forms/d/e/1FAIpQLSd2jl7Mk7T3UAXnAKJtyCkUfZNpY51Zm9aPNXfwu07yvbCS8A/viewform){:target="_blank"} | May-02, May-09, May-16 | Marie-Hélène Burle |
+| <span style="color:gray">Introduction to deep learning with Flax, a neural network framework built on JAX</span> | May-02, May-09, May-16 | Marie-Hélène Burle |
 | [Large-scale and remote visualization](https://docs.google.com/forms/d/e/1FAIpQLSdfGvqCEc9orL5moMdN6ET1eh7SDjRmilRDfjCHDWJHo655PQ/viewform){:target="_blank"} | May-23 | Alex Razoumov |
 
 
