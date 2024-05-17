@@ -165,6 +165,8 @@ undergraduate and graduate students, postdocs, faculty and staff -- are welcome 
 You can find more details including the program on the [school website](https://rcss24.netlify.app/){:target="_blank"},
 and you can register [here](https://www.eventbrite.ca/e/881514191677){:target="_blank"}.
 
+Note that our colleagues at UBC are organizing an in-person summer school in July (linked in the table below)
+that will have some courses that we do not cover at SFU.
 
 
 
