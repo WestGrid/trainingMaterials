@@ -184,7 +184,7 @@ We will be adding workshops here as they are announced at other Western Canadian
 | Feb 26-28 | <span style="color:gray">Introduction to programming with Python (follow-up to the 2024 HSS Winter Series)</span> | Online |
 | Feb 26-28 | <span style="color:gray">Introduction to programming with R (follow-up to the 2024 HSS Winter Series)</span> | Online |
 | Starts Apr-30 | [Univ. of Alberta Spring Bootcamp](https://www.ualberta.ca/information-services-and-technology/news/2024/spring-research-computing-bootcamp-2024.html){:target="_blank"} | Online |
-| Jul 8-11 | [UBC ARC 2024 Summer School](https://arc.ubc.ca/events/arc-2024-summer-school){:target="_blank"} | TBA |
+| Jul 8-11 | [UBC ARC 2024 Summer School](https://arc.ubc.ca/training-resources/training-events/arc-2024-summer-school-program-8-11-july-2024){:target="_blank"} | TBA |
 
 
 <!-- watch https://www.ualberta.ca/information-services-and-technology/research-computing -->
