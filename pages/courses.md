@@ -74,7 +74,7 @@ arrays in general), plotting with matplotlib or plot.ly, geospatial data process
 dataframes, working with images, multidimensional arrays in xarray, working with 3D multi-resolution data in yt, running
 Python scripts from the command line including processing arguments and standard input, and other topics.<br>
 <br>
-We could customize this workshop to address your specific Python workflows.
+We can customize this workshop to address your specific Python workflows.
 </p>
 </details>
 
@@ -92,6 +92,28 @@ locally. Finally, we take a look at the Slurm job scheduler: why use it, fairsha
 submitting serial jobs and job arrays, submitting OpenMP / MPI / hybrid / GPU jobs, working inside
 interactive jobs, and tracking your job's memory usage. We also take a quick look at working with common
 packages such as R, Python and Matlab on the clusters, as well as best practices in cluster workflows.
+</p>
+</details>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">High-performance Python</font></a>
+</summary>
+<p>
+<br>
+In scientific computing, Python is the most popular programming/scripting language. While known for its
+high-level features, hundreds of fantastic libraries and ease of use, Python is slow compared to traditional
+(C, C++, Fortran) and new (Julia, Chapel) compiled languages. In this course we’ll focus on speeding up your
+Python workflows using a number of different approaches. In Part 1 we will start with traditional
+vectorization with NumPy, will talk about Python compilers (Numba) and profiling and will cover
+parallelization. We’ll do a little bit of multithreading (possible via numexpr, despite the global interpreter
+lock) but will target primarily multiprocessing.
+<br>
+In Part 2 we will study Ray, a unified framework for scaling AI and Python applications. Since this is not a
+machine learning workshop, we will not touch most of Ray’s AI capabilities, but will focus on its core
+distributed runtime and data libraries. We will learn several different approaches to parallelizing purely
+numerical (and therefore CPU-bound) workflows, both with and without reduction. If your code is I/O-bound, you
+will also benefit from this course, as I/O-bound workflows can be easily processed with Ray.
 </p>
 </details>
 
