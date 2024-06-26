@@ -111,7 +111,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Parallel computing in Python</span> | Mar-28, Apr-04 | Alex Razoumov |
 | <span style="color:gray">Introduction to JAX: a framework for high-performance array computing and automatic differentiation</span> | Apr-11, Apr-18, Apr-25 | Marie-Hélène Burle |
 | <span style="color:gray">Introduction to deep learning with Flax, a neural network framework built on JAX</span> | May-02, May-09, May-16 | Marie-Hélène Burle |
-| [Large-scale and remote visualization](https://docs.google.com/forms/d/e/1FAIpQLSdfGvqCEc9orL5moMdN6ET1eh7SDjRmilRDfjCHDWJHo655PQ/viewform){:target="_blank"} | May-23 | Alex Razoumov |
+| <span style="color:gray">Large-scale and remote visualization</span> | May-23 | Alex Razoumov |
 
 
 <!-- Apr-04 - I'll be teaching on my own (Marie will be flying back from Toronto) -->
