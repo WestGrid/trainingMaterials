@@ -52,8 +52,8 @@ To receive future news and emails about the BC DRI Group and the Prairies DRI Gr
 <!-- 11pm Mountain / noon Central. -->
 
 The 2024 fall webinar series is organized jointly by SFU's Research Computing Group (RCG) and UBC Advanced
-Research Computing (ARC). The webinars take place every second Tuesday at 10am Pacific (Victoria, Vancouver) / 11pm Mountain
-(Edmonton, Calgary, Saskatoon) / noon (Winnipeg).
+Research Computing (ARC). The webinars take place every second Tuesday at 10am Pacific (Victoria, Vancouver) /
+11pm Mountain (Edmonton, Calgary, Saskatoon) / noon (Winnipeg).
 
 <!-- Webinar registration will open in early September. -->
 

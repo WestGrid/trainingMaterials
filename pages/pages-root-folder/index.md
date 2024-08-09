@@ -20,7 +20,7 @@ widget2:
   image: ancientLibrary.png
 widget3:
   title: "Upcoming sessions"
-  url: '/events/upcoming-training-winter-spring-2024'
+  url: '/events/upcoming-training-fall-2024'
   image: header_unsplash_7.jpg
   text: 'We host training webinars and workshops year-round to help you build skills in computational research. Check out our upcoming training events.'
 #
