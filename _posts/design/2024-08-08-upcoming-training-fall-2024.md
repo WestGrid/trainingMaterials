@@ -66,9 +66,9 @@ Research Computing (ARC). The webinars take place every second Tuesday at 10am P
 | ------------- | --------------- | ----------------- |
 | Sep-17 | "Understanding Emacs modes" | Marie-Hélène Burle (SFU) |
 | Oct-01 | "GPU computing with Chapel" | Alex Razoumov (SFU) |
-| Oct-15 | TBA | UBC |
+| Oct-15 | (TBC) "Best practices in HPC/HTC environments" | Roman Baranowski (UBC) |
 | Oct-29 | "Lazygit" | Marie-Hélène Burle (SFU) |
-| Nov-12 | TBA | UBC |
+| Nov-12 | (TBC) Nextflow/Julia | UBC | <!-- Nextflow/Julia from Alex Bouchard's group (https://www.stat.ubc.ca/~bouchard) -->
 | Nov-26 | "Distributed file storage with git-annex" | Alex Razoumov (SFU) |
 | Dec-10 | TBA | UBC |
 
@@ -102,7 +102,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | Visualization topic (TBD) | Nov-14 | Alex Razoumov | <!-- Marie out of town -->
 | Machine Learning | Nov-21, Nov-28 | Marie-Hélène Burle | <!-- Alex to look at regression from scratch in JAX + Flax -->
 | Using GPUs from Chapel | Dec-05, Dec-12 | Alex Razoumov | <!-- set up vGPUs on Arbutus or Beluga -->
-| Answering your questions on bash | Dec-19 | Alex Razoumov | <!-- bring your own questions and problems or pick from our course -->
+| Answering your questions on bash | Dec-19 | Alex Razoumov | <!-- bring your own questions and problems or pick from our course; create a google form in advance -->
 
 <!-- 5 places to update: -->
 <!-- - Alex: website, Google calendar, comms email -->
