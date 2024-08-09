@@ -15,11 +15,11 @@ tags:
 #
 header: no
 image:
-    title: stainedGlass.png
-    thumb: stainedGlass.png
+    title: ytFilaments.png
+    thumb: ytFilaments.png
     homepage:
-    caption: Storm visualized in ParaView
-    caption_url: https://www.paraview.org
+    caption: Image rendered with yt
+    caption_url: https://yt-project.org
 mediaplayer: true
 ---
 
@@ -81,22 +81,33 @@ Research Computing (ARC). The webinars take place every second Tuesday at 10am P
 
 
 
+
 <a name="courses"></a>
 ## Online courses
 
 SFU Research Computing offers weekly online sessions on advanced research computing. These sessions take place
 every Thursday from 10am to noon Pacific and are open to all academic researchers across Canada. Most courses
-span 3 weeks, although some courses may be shorter or longer.
+span 2 weeks, although some courses may be shorter or longer.
 
 Please note that these sessions are not recorded, as we want to encourage attendance and live interaction, and
 we are planning to repeat the most popular / introductory sessions throughout the year.
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| Beginner's introduction to Emacs | TBD | Marie-Hélène Burle |
-| Faster DataFrames with Polars | TBD | Marie-Hélène Burle |
+| Intro to HPC | Sep-12, Sep-19 | Alex Razoumov |
+| Beginner's introduction to Emacs | Sep-26, Oct-03 | Marie-Hélène Burle |
+| Working with Apptainer containers | Oct-10, Oct-17 | Alex Razoumov |
+| Faster DataFrames with Polars | Oct-24 | Marie-Hélène Burle |
+| Parallel coding in the language of your choice | Oct-31, Nov-07 | Alex Razoumov or Marie-Hélène Burle | <!-- google form to choose from Julia, Chapel, Python, R -->
+| Visualization topic (TBD) | Nov-14 | Alex Razoumov | <!-- Marie out of town -->
+| ML | Nov-21, Nov-28 | Marie-Hélène Burle | <!-- Alex to look at regression from scratch in JAX + Flax -->
+| Using GPUs from Chapel | Dec-05, Dec-12 | Alex Razoumov | <!-- set up vGPUs on Arbutus or Beluga -->
+| Answering your questions on bash | Dec-19 | Alex Razoumov | <!-- bring your own questions and problems or pick from our course -->
 
-<!-- Marie won't be available November 07-17 -->
+<!-- 5 places to update: -->
+<!-- - Alex: website, Google calendar, comms email -->
+<!-- - Marie: registration form, Alliance form -->
+
 
 
 
