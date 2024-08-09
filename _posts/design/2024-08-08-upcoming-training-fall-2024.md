@@ -25,8 +25,10 @@ mediaplayer: true
 
 <!-- deployment status https://github.com/WestGrid/trainingMaterials/actions -->
 
-To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
-[subscribe here](/contact).
+To receive future news and emails about our training events, please [subscribe here](/contact).
+
+<!-- To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please -->
+<!-- [subscribe here](/contact). -->
 
 <!-- Going forward, this new list will be our primary way to reach academic researchers in Western Canada (and -->
 <!-- elsewhere). -->
