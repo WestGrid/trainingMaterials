@@ -64,13 +64,14 @@ Research Computing (ARC). The webinars take place every second Tuesday at 10am P
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Sep-17 | "Understanding Emacs modes" | Marie-Hélène Burle (SFU) |
+| Sep-17 | [Understanding Emacs modes](https://docs.google.com/forms/d/e/1FAIpQLScINIbaSM6J9A2WyDtudXRkBeJeGbsM9UO02V6Ng8AgRIAJbg/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Oct-01 | "GPU computing with Chapel" | Alex Razoumov (SFU) |
 | Oct-15 | (TBC) "Best practices in HPC/HTC environments" | Roman Baranowski (UBC) |
 | Oct-29 | "Lazygit" | Marie-Hélène Burle (SFU) |
 | Nov-12 | (TBC) Nextflow/Julia | UBC | <!-- Nextflow/Julia from Alex Bouchard's group (https://www.stat.ubc.ca/~bouchard) -->
 | Nov-26 | "Distributed file storage with git-annex" | Alex Razoumov (SFU) |
 | Dec-10 | TBA | UBC |
+
 
 
 
