@@ -98,15 +98,13 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | Beginner's introduction to Emacs | Sep-26, Oct-03 | Marie-Hélène Burle |
 | Working with Apptainer containers | Oct-10, Oct-17 | Alex Razoumov |
 | Faster DataFrames with Polars | Oct-24 | Marie-Hélène Burle |
-| Parallel coding in the language of your choice | Oct-31, Nov-07 | Alex Razoumov or Marie-Hélène Burle | <!-- google form to choose from Julia, Chapel, Python, R -->
-| Visualization topic (TBD) | Nov-14 | Alex Razoumov | <!-- Marie out of town -->
+| Parallel coding in the language of your choice | Oct-31, Nov-07 | Alex Razoumov or Marie-Hélène Burle |
+| Hands-on with ParaView's Programmable Filter / Source for scientific visualization | Nov-14 | Alex Razoumov | <!-- Marie out of town -->
 | Machine Learning | Nov-21, Nov-28 | Marie-Hélène Burle | <!-- Alex to look at regression from scratch in JAX + Flax -->
 | Using GPUs from Chapel | Dec-05, Dec-12 | Alex Razoumov | <!-- set up vGPUs on Arbutus or Beluga -->
 | Answering your questions on bash | Dec-19 | Alex Razoumov | <!-- bring your own questions and problems or pick from our course; create a google form in advance -->
 
-<!-- 5 places to update: -->
-<!-- - Alex: website, Google calendar, comms email -->
-<!-- - Marie: registration form, Alliance form -->
+
 
 
 
