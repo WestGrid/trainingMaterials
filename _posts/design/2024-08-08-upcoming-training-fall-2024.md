@@ -65,11 +65,11 @@ Research Computing (ARC). The webinars take place every second Tuesday at 10am P
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Sep-17 | [Understanding Emacs modes](https://docs.google.com/forms/d/e/1FAIpQLScINIbaSM6J9A2WyDtudXRkBeJeGbsM9UO02V6Ng8AgRIAJbg/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
-| Oct-01 | "GPU computing with Chapel" | Alex Razoumov (SFU) |
-| Oct-15 | (TBC) "Best practices in HPC/HTC environments" | Roman Baranowski (UBC) |
-| Oct-29 | "Lazygit" | Marie-Hélène Burle (SFU) |
-| Nov-12 | (TBC) Nextflow/Julia | UBC | <!-- Nextflow/Julia from Alex Bouchard's group (https://www.stat.ubc.ca/~bouchard) -->
-| Nov-26 | "Distributed file storage with git-annex" | Alex Razoumov (SFU) |
+| Oct-01 | [GPU computing with Chapel](https://docs.google.com/forms/d/e/1FAIpQLSeaGfga2jW4ZLLQsOBWh3TmwIPt_MJugwrNm7AZN8i_mbwKcQ/viewform){:target="_blank"} | Alex Razoumov (SFU) |
+| Oct-15 | (TBC) [Best practices in HPC/HTC environments](https://docs.google.com/forms/d/e/1FAIpQLSdr7GqjpAdgrTF8SPNNNEHDEvF_UwzbmmDwQ6ow6DQUcZHmng/viewform){:target="_blank"} | Roman Baranowski (UBC) |
+| Oct-29 | [Lazygit](https://docs.google.com/forms/d/e/1FAIpQLSea-jWCntBehGXOSTY5F1SMc4UWbXs01miDJG4QexQuY9caQQ/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
+| Nov-12 | (TBC) [Nextflow/Julia](https://docs.google.com/forms/d/e/1FAIpQLScQ7DIJxVQ8ls5EMbsDkvl4rCEEOMs72KeAmlSDzsTCgu0dGw/viewform){:target="_blank"} | UBC | <!-- Nextflow/Julia from Alex Bouchard's group (https://www.stat.ubc.ca/~bouchard) -->
+| Nov-26 | [Distributed file storage with git-annex](https://docs.google.com/forms/d/e/1FAIpQLSf39aAo_VwIjo2NlEESXvIT7Mnw7lGNVn9LUus6SyPX-VdqfQ/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Dec-10 | TBA | UBC |
 
 
