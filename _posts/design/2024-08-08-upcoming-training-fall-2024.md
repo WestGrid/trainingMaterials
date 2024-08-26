@@ -97,8 +97,8 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | ------------- | --------------- | ----------------- |
 | [Introduction to HPC](https://docs.google.com/forms/d/e/1FAIpQLScQE3fP4DrTIMQxERTXKLlz7xGSaR-fWH00r-JXHAgpcmdL8g/viewform){:target="_blank"} | Sep-12, Sep-19 | Alex Razoumov |
 | [Beginner's introduction to Emacs](https://docs.google.com/forms/d/e/1FAIpQLSdOjQZ9T7xOZm8h9nuQJeYYKunRSl70Q_oze5snrQci5N_w-w/viewform){:target="_blank"} | Sep-26, Oct-03 | Marie-Hélène Burle |
-| [Working with Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSeOJ0SwZ36qq5L-kL5mDw5S9IjEwPz0gOReBvoLLy0cNyWHng/viewform)){:target="_blank"} | Oct-10, Oct-17 | Alex Razoumov |
-| [Faster DataFrames with Polars](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfyj-x6WZkSW2bncmh-HpMqNoVk_3-FJYrhRHFiLEHMdCNWGA/viewform)){:target="_blank"} | Oct-24 | Marie-Hélène Burle |
+| [Working with Apptainer containers](https://docs.google.com/forms/d/e/1FAIpQLSeOJ0SwZ36qq5L-kL5mDw5S9IjEwPz0gOReBvoLLy0cNyWHng/viewform){:target="_blank"} | Oct-10, Oct-17 | Alex Razoumov |
+| [Faster DataFrames with Polars](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfyj-x6WZkSW2bncmh-HpMqNoVk_3-FJYrhRHFiLEHMdCNWGA/viewform){:target="_blank"} | Oct-24 | Marie-Hélène Burle |
 | Parallel coding in the language of your choice | Oct-31, Nov-07 | Alex Razoumov or Marie-Hélène Burle |
 | Hands-on with ParaView's Programmable Filter / Source for scientific visualization | Nov-14 | Alex Razoumov | <!-- Marie out of town -->
 | Machine Learning | Nov-21, Nov-28 | Marie-Hélène Burle | <!-- Alex to look at regression from scratch in JAX + Flax -->
