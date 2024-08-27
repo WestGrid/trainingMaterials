@@ -53,9 +53,9 @@ To receive future news and emails about our training events, please [subscribe h
 <!-- BC DRI + Prairies DRI bi-weekly Research Computing webinars take place every second Tuesday at 10am Pacific / -->
 <!-- 11pm Mountain / noon Central. -->
 
-The 2024 fall webinar series is organized jointly by SFU's Research Computing Group (RCG) and UBC Advanced
-Research Computing (ARC). The webinars take place every second Tuesday at 10am Pacific (Victoria, Vancouver) /
-11pm Mountain (Edmonton, Calgary, Saskatoon) / noon (Winnipeg).
+The 2024 fall webinars are jointly presented by SFU's Research Computing Group (RCG) and UBC's Advanced
+Research Computing (ARC). These webinars are held every second Tuesday at 10:00am Pacific (Victoria,
+Vancouver), 11:00am Mountain (Edmonton, Calgary, Saskatoon), and noon Central (Winnipeg).
 
 <!-- Webinar registration will open in early September. -->
 
@@ -66,7 +66,7 @@ Research Computing (ARC). The webinars take place every second Tuesday at 10am P
 | ------------- | --------------- | ----------------- |
 | Sep-17 | [Understanding Emacs modes](https://docs.google.com/forms/d/e/1FAIpQLScINIbaSM6J9A2WyDtudXRkBeJeGbsM9UO02V6Ng8AgRIAJbg/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Oct-01 | [GPU computing with Chapel](https://docs.google.com/forms/d/e/1FAIpQLSeaGfga2jW4ZLLQsOBWh3TmwIPt_MJugwrNm7AZN8i_mbwKcQ/viewform){:target="_blank"} | Alex Razoumov (SFU) |
-| Oct-15 | (TBC) [Best practices in HPC/HTC environments](https://docs.google.com/forms/d/e/1FAIpQLSdr7GqjpAdgrTF8SPNNNEHDEvF_UwzbmmDwQ6ow6DQUcZHmng/viewform){:target="_blank"} | Roman Baranowski (UBC) |
+| Oct-15 | [Best practices in HPC/HTC environments](https://docs.google.com/forms/d/e/1FAIpQLSdr7GqjpAdgrTF8SPNNNEHDEvF_UwzbmmDwQ6ow6DQUcZHmng/viewform){:target="_blank"} | Roman Baranowski (UBC) |
 | Oct-29 | [Lazygit](https://docs.google.com/forms/d/e/1FAIpQLSea-jWCntBehGXOSTY5F1SMc4UWbXs01miDJG4QexQuY9caQQ/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Nov-12 | (TBC) [Nextflow/Julia](https://docs.google.com/forms/d/e/1FAIpQLScQ7DIJxVQ8ls5EMbsDkvl4rCEEOMs72KeAmlSDzsTCgu0dGw/viewform){:target="_blank"} | UBC | <!-- Nextflow/Julia from Alex Bouchard's group (https://www.stat.ubc.ca/~bouchard) -->
 | Nov-26 | [Distributed file storage with git-annex](https://docs.google.com/forms/d/e/1FAIpQLSf39aAo_VwIjo2NlEESXvIT7Mnw7lGNVn9LUus6SyPX-VdqfQ/viewform){:target="_blank"} | Alex Razoumov (SFU) |
