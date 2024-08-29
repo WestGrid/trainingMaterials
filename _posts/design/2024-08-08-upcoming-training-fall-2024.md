@@ -101,8 +101,8 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | [Faster DataFrames with Polars](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfyj-x6WZkSW2bncmh-HpMqNoVk_3-FJYrhRHFiLEHMdCNWGA/viewform){:target="_blank"} | Oct-24 | Marie-Hélène Burle |
 | [Parallel coding in the language of your choice](https://docs.google.com/forms/d/e/1FAIpQLScqmPkRp9cWkptrLSCkzAYKmkE6-5KkRHgV4I0ZLOIxbPsMUg/viewform){:target="_blank"} | Oct-31, Nov-07 | Alex Razoumov or Marie-Hélène Burle |
 | [Hands-on with ParaView's Programmable Filter / Source for scientific visualization](https://docs.google.com/forms/d/e/1FAIpQLSe3diF5xlhJgTUSHKmOZUfj0gIBtoTCtojH2-JwdGR5-mPYZA/viewform){:target="_blank"} | Nov-14 | Alex Razoumov | <!-- Marie out of town on vacation -->
-| Second focused sci-vis topic | Nov-21 | Alex Razoumov | <!-- Marie is teaching @BCCAI workshop Nov-{20,21} -->
-| Git | Nov-28 | Marie-Hélène Burle |
+| [Second focused sci-vis topic](https://docs.google.com/forms/d/e/1FAIpQLSc701ePjS986Li0J9nwaIqvkKhHoRnQWx8PThg34XtFgpTs4A/viewform){:target="_blank"} | Nov-21 | Alex Razoumov | <!-- Marie is teaching @BCCAI workshop Nov-{20,21} -->
+| [Version control with Git](https://docs.google.com/forms/d/e/1FAIpQLSdSaSj75OtSM9D5X-UJ7eL3leWhu0wmS16By9pKHpAsyTXpPg/viewform){:target="_blank"} | Nov-28 | Marie-Hélène Burle |
 | [Using GPUs with Chapel](https://docs.google.com/forms/d/e/1FAIpQLSeFYsFasTaEu_6SAAI-zRnHdowX9LQEHnWR91BRxS0rYpUpiQ/viewform){:target="_blank"} | Dec-05, Dec-12 | Alex Razoumov | <!-- set up vGPUs on Arbutus or Beluga -->
 | [Answering your Bash questions](https://docs.google.com/forms/d/e/1FAIpQLSf9fHRoHS0uXujB2Swtuj2Pn7d8M6YPnPYeYZWaNGxazrNnVQ/viewform){:target="_blank"} | Dec-19 | Alex Razoumov &<br> Marie-Hélène Burle | <!-- bring your own questions and problems or pick from our course; create a google form in advance -->
 
