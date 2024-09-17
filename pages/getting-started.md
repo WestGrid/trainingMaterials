@@ -362,6 +362,8 @@ them. Finally, I demo how the package Polymode allows to embed sections of a typ
 - [Webinar front page](https://mint.westdri.ca/emacs/wb_emacs_modes)
 - [Online slides](https://mint.westdri.ca/emacs/wb_emacs_modes_slides#/title-slide)
 
-The recording will be posted shortly.
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="1035" height="582" src="https://www.youtube.com/embed/42PYq9rjNr0" title="Understanding
+	Emacs modes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
