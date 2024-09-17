@@ -343,3 +343,25 @@ bringing great speed and sleekness to the user experience.
 	those new tools that make Emacs better and faster" frameborder="0" allow="accelerometer; autoplay;
 	clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+---
+
+<a name="emacsmodes"></a>
+#### *"Understanding Emacs modes"*
+
+**Webinar** (2024-Sep-17) by Marie-Hélène Burle
+
+At the core of Emacs functioning are modes: major modes set the appearance and behaviour of Emacs for various
+types of texts (e.g. a Python script and a Markdown document display different syntax highlighting and have
+different functions activated), while minor modes provide additional features that can be turned on or off
+(e.g. spell checking). Understanding how modes work is key to customizing Emacs and exploiting its
+strengths. In this webinar, I explain the functioning of Emacs modes and show how to manage and even customize
+them. Finally, I demo how the package Polymode allows to embed sections of a type of text in another type
+(e.g. snippets of code in a Markdown document).
+
+- [Webinar front page](https://mint.westdri.ca/emacs/wb_emacs_modes)
+- [Online slides](https://mint.westdri.ca/emacs/wb_emacs_modes_slides#/title-slide)
+
+The recording will be posted shortly.
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
