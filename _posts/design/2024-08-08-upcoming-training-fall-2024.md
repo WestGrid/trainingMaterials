@@ -68,7 +68,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary, Saskatoon), and noon Central (W
 | Oct-01 | [GPU computing with Chapel](https://docs.google.com/forms/d/e/1FAIpQLSeaGfga2jW4ZLLQsOBWh3TmwIPt_MJugwrNm7AZN8i_mbwKcQ/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Oct-15 | [Best practices in HPC/HTC environments](https://docs.google.com/forms/d/e/1FAIpQLSdr7GqjpAdgrTF8SPNNNEHDEvF_UwzbmmDwQ6ow6DQUcZHmng/viewform){:target="_blank"} | Roman Baranowski (UBC) |
 | Oct-29 | [Lazygit](https://docs.google.com/forms/d/e/1FAIpQLSea-jWCntBehGXOSTY5F1SMc4UWbXs01miDJG4QexQuY9caQQ/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
-| Nov-12 | (TBC) [Nextflow/Julia](https://docs.google.com/forms/d/e/1FAIpQLScQ7DIJxVQ8ls5EMbsDkvl4rCEEOMs72KeAmlSDzsTCgu0dGw/viewform){:target="_blank"} | UBC | <!-- Nextflow/Julia from Alex Bouchard's group (https://www.stat.ubc.ca/~bouchard) -->
+| Nov-12 | [Nextflow with Julia workflows](https://docs.google.com/forms/d/e/1FAIpQLScQ7DIJxVQ8ls5EMbsDkvl4rCEEOMs72KeAmlSDzsTCgu0dGw/viewform){:target="_blank"} | Alexandre Bouchard-Côtén (UBC) | <!-- Nextflow/Julia from Alex Bouchard's group (https://www.stat.ubc.ca/~bouchard) -->
 | Nov-26 | [Distributed file storage with git-annex](https://docs.google.com/forms/d/e/1FAIpQLSf39aAo_VwIjo2NlEESXvIT7Mnw7lGNVn9LUus6SyPX-VdqfQ/viewform){:target="_blank"} | Alex Razoumov (SFU) |
 | Dec-10 | [Intro to the Alliance Cloud](https://docs.google.com/forms/d/e/1FAIpQLSdrM0qq4OuYOL3M-ht1fKDijhZ1qVSRp3erRJP1KYN_DBdZWQ/viewform){:target="_blank"} | Michael Tang (UBC) |
 
