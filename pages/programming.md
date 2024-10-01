@@ -273,6 +273,26 @@ write efficient large-scale numerical codes.
 
 ---
 
+
+
+
+<a name="chapelgpu"></a>
+#### *"GPU computing with Chapel"*
+
+**Webinar** (2024-Oct-01) by Alex Razoumov
+
+* [Online notes](https://wgpages.netlify.app/chapel-gpu)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+The recording will be added later today.
+
+
+
+
+
+---
+
 ### HPC Carpentry Course
 
 As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Parallel programming in Chapel* course](https://hpc-carpentry.github.io/hpc-chapel). The materials and exercises presented in this course can be presented as a full-day workshop. If you have questions about the materials, please contact Alex Razoumov - alex.razoumov@westgrid.ca.
