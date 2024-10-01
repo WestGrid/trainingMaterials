@@ -273,9 +273,6 @@ write efficient large-scale numerical codes.
 
 ---
 
-
-
-
 <a name="chapelgpu"></a>
 #### *"GPU computing with Chapel"*
 
@@ -283,13 +280,11 @@ write efficient large-scale numerical codes.
 
 * [Online notes](https://wgpages.netlify.app/chapel-gpu)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
-The recording will be added later today.
-
-
-
-
+<div class="flex-video">
+	<iframe width="987" height="601" src="https://www.youtube.com/embed/1gMFtJN-4_E" title="GPU computing with
+	Chapel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ---
 
