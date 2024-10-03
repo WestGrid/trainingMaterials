@@ -278,6 +278,24 @@ write efficient large-scale numerical codes.
 
 **Webinar** (2024-Oct-01) by Alex Razoumov
 
+Chapel is a parallel programming language for scientific computing designed to exploit parallelism across a
+wide range of hardware, from multi-core computers to large HPC clusters. Recently, Chapel introduced support
+for GPUs, allowing the same code to run seamlessly on both NVIDIA and AMD GPUs, without modification. In
+addition, for testing and development, Chapel offers a "CPU-as-device" mode, which lets you prototype GPU code
+on a regular computer without a dedicated GPU.
+
+Programming GPUs in Chapel is significantly easier than using CUDA or ROCm/HIP, and more flexible than
+OpenACC, as you can run fairly generic Chapel code on GPUs. Obviously, you will benefit from GPU acceleration
+the most with calculations that can be broken into many independent identical pieces. In Chapel, data transfer
+to/from a GPU (and between GPUs) is straightforward, thanks to a well-defined coding model that associates
+both calculations and data with a clear concept of locality.
+
+As of this writing, on the Alliance systems, you can run multi-locale (multiple nodes) GPU Chapel natively on
+Cedar, and single-locale GPU Chapel on all other clusters with NVIDIA cards via a container. Efforts are
+underway to expand native GPU support to more systems.
+
+In this webinar, we guide you through Chapel's key GPU programming features with live demos.
+
 * [Online notes](https://wgpages.netlify.app/chapel-gpu)
 
 <div class="flex-video">
