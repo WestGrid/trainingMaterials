@@ -70,8 +70,6 @@ permalink: "/getting-started/"
 
 ---
 
-
-
 <a name="bestPracticesRoman"></a>
 #### *"Best practices in HPC/HTC environments"*
 
@@ -89,12 +87,14 @@ guide you through the best practices for deploying your HPC or HTC computations 
 - Working with the available software and installing/building your own
 - Interacting with the scheduler (testing your jobs scripts, submitting jobs)
 
-<!-- - [PDF slides]() -->
+- [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/bestPractices20241015.pdf)
 
-The recording and the slides will be posted shortly.
-
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="817" height="460" src="https://www.youtube.com/embed/Zowmo6H-AYQ" title="Best practices in
+	HPC/HTC environments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
