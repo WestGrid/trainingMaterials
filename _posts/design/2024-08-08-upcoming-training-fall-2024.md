@@ -66,7 +66,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary, Saskatoon), and noon Central (W
 | ------------- | --------------- | ----------------- |
 | Sep-17 | [<span style="color:blue">Understanding Emacs modes</span>]({{ site.baseurl }}/getting-started#emacsmodes) | Marie-Hélène Burle (SFU) |
 | Oct-01 | [<span style="color:blue">GPU computing with Chapel</span>]({{ site.baseurl }}/programming#chapelgpu) | Alex Razoumov (SFU) |
-| Oct-15 | [Best practices in HPC/HTC environments](https://docs.google.com/forms/d/e/1FAIpQLSdr7GqjpAdgrTF8SPNNNEHDEvF_UwzbmmDwQ6ow6DQUcZHmng/viewform){:target="_blank"} | Roman Baranowski (UBC) |
+| Oct-15 | [<span style="color:blue">Best practices in HPC/HTC environments</span>]({{ site.baseurl }}/getting-started#bestPracticesRoman) | Roman Baranowski (UBC) |
 | Oct-29 | [Lazygit](https://docs.google.com/forms/d/e/1FAIpQLSea-jWCntBehGXOSTY5F1SMc4UWbXs01miDJG4QexQuY9caQQ/viewform){:target="_blank"} | Marie-Hélène Burle (SFU) |
 | Nov-12 | [Nextflow and Julia for scalable computation](https://docs.google.com/forms/d/e/1FAIpQLScQ7DIJxVQ8ls5EMbsDkvl4rCEEOMs72KeAmlSDzsTCgu0dGw/viewform){:target="_blank"} | Alexandre Bouchard-Côtén (UBC) | <!-- Nextflow/Julia from Alex Bouchard's group (https://www.stat.ubc.ca/~bouchard) -->
 | Nov-26 | [Distributed file storage with git-annex](https://docs.google.com/forms/d/e/1FAIpQLSf39aAo_VwIjo2NlEESXvIT7Mnw7lGNVn9LUus6SyPX-VdqfQ/viewform){:target="_blank"} | Alex Razoumov (SFU) |

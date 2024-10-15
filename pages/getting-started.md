@@ -70,17 +70,51 @@ permalink: "/getting-started/"
 
 ---
 
-#### Other materials
 
-Read WestGrid's <a href="https://www.westgrid.ca/getting_started_national_systems_quickstart_guide_0"
-target="_blank">QuickStart Guide for Getting Started on CC National Systems</a>.
 
-Watch Compute Canada's <a href="https://www.youtube.com/playlist?list=PLeCQbAbRSKR8gg6ZMFof1Hf9YF_-n31Ym"
-target="_blank">Getting Started with CC National Systems</a> mini-webinars -- a series of short video
-tutorials that demonstrate how to access the national clusters, submit jobs, access software, avoid
-common mistakes, and get help from the Compute Canada support team.
+<a name="bestPracticesRoman"></a>
+#### *"Best practices in HPC/HTC environments"*
 
-Browse the latest materials from WestGrid's [Introductory HPC course](http://bit.ly/introhpc) (ZIP file).
+**Webinar** (2024-Oct-15) by Roman Baranowski
+
+Most current Digital Research Alliance of Canada systems, as well as many local advanced research computing
+(ARC) systems and clusters support high-performance computing (HPC) and high-throughput computing (HTC)
+workflows. HPC workflows tend to focus on tightly coupled parallel jobs and, as such, they must execute within
+a particular site with low-latency interconnects. Conversely, HTC workflows consist of independent, mostly
+sequential jobs that can be individually scheduled on many different computing resources. In this webinar, we
+guide you through the best practices for deploying your HPC or HTC computations on our clusters:
+
+- Interacting with the available hardware (login and data transfer nodes, compute nodes, interconnect etc.)
+- Using the File Systems (where to store your data)
+- Working with the available software and installing/building your own
+- Interacting with the scheduler (testing your jobs scripts, submitting jobs)
+
+<!-- - [PDF slides]() -->
+
+The recording and the slides will be posted shortly.
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+---
+
+
+
+
+
+
+<!-- #### Other materials -->
+
+<!-- Read WestGrid's <a href="https://www.westgrid.ca/getting_started_national_systems_quickstart_guide_0" -->
+<!-- target="_blank">QuickStart Guide for Getting Started on CC National Systems</a>. -->
+
+<!-- Watch Compute Canada's <a href="https://www.youtube.com/playlist?list=PLeCQbAbRSKR8gg6ZMFof1Hf9YF_-n31Ym" -->
+<!-- target="_blank">Getting Started with CC National Systems</a> mini-webinars -- a series of short video -->
+<!-- tutorials that demonstrate how to access the national clusters, submit jobs, access software, avoid -->
+<!-- common mistakes, and get help from the Compute Canada support team. -->
+
+<!-- Browse the latest materials from WestGrid's [Introductory HPC course](http://bit.ly/introhpc) (ZIP file). -->
+
 
 
 
