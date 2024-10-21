@@ -99,7 +99,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Introduction to HPC</span> | Sep-12, Sep-19 | Alex Razoumov |
 | <span style="color:gray">Beginner's introduction to Emacs</span> | Sep-26, Oct-03 | Marie-Hélène Burle |
 | <span style="color:gray">Working with Apptainer containers</span> | Oct-10, Oct-17 | Alex Razoumov |
-| [Faster DataFrames with Polars](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfyj-x6WZkSW2bncmh-HpMqNoVk_3-FJYrhRHFiLEHMdCNWGA/viewform){:target="_blank"} | Oct-24 | Marie-Hélène Burle |
+| [Faster Python DataFrames with Polars](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfyj-x6WZkSW2bncmh-HpMqNoVk_3-FJYrhRHFiLEHMdCNWGA/viewform){:target="_blank"} | Oct-24 | Marie-Hélène Burle |
 | [Parallel coding in Python](https://docs.google.com/forms/d/e/1FAIpQLScqmPkRp9cWkptrLSCkzAYKmkE6-5KkRHgV4I0ZLOIxbPsMUg/viewform){:target="_blank"} | Oct-31, Nov-07 | Alex Razoumov and Marie-Hélène Burle |
 | [Hands-on with ParaView's Programmable Filter / Source for scientific visualization](https://docs.google.com/forms/d/e/1FAIpQLSe3diF5xlhJgTUSHKmOZUfj0gIBtoTCtojH2-JwdGR5-mPYZA/viewform){:target="_blank"} | Nov-14 | Alex Razoumov | <!-- Marie out of town on vacation -->
 | [Large-scale and remote visualization](https://docs.google.com/forms/d/e/1FAIpQLSc701ePjS986Li0J9nwaIqvkKhHoRnQWx8PThg34XtFgpTs4A/viewform){:target="_blank"} | Nov-21 | Alex Razoumov | <!-- Marie is teaching @BCCAI workshop Nov-{20,21} -->
