@@ -237,8 +237,8 @@ topics.
 
 ## Git version control
 
-* <a href="https://westgrid-cli.netlify.com/workshops/github-colab.html" target="_blank">Taking Git one step further: collaborating through GitHub</a>
-* <a href="https://westgrid-cli.netlify.com/workshops/github-contrib.html" target="_blank">Contributing to GitHub projects</a>
+* <a href="https://mint.westdri.ca/git/ws_collab" target="_blank">Collaborating through Git & GitHub</a>
+* <a href="https://mint.westdri.ca/git/ws_contrib" target="_blank">Contributing to GitHub projects</a>
 
 ---
 
