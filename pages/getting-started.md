@@ -240,6 +240,38 @@ topics.
 * <a href="https://westgrid-cli.netlify.com/workshops/github-colab.html" target="_blank">Taking Git one step further: collaborating through GitHub</a>
 * <a href="https://westgrid-cli.netlify.com/workshops/github-contrib.html" target="_blank">Contributing to GitHub projects</a>
 
+---
+
+<a name="lazygit"></a>
+#### *"Lazygit"*
+
+**Webinar** (2024-Oct-29) by Marie-Hélène Burle
+
+While it is important to know how to use Git from the command line, this makes for an austere experience: a
+series of commands are required to gather information on the state of the working tree, see changes to files,
+or get a schematic of the commit history. Committing sections of files interactively and other operations are
+just awkward affairs. On the other hand, the many graphic interfaces for Git are often buggy, slow, and
+limiting.
+
+One option is to write exciting functions with tools such as fzf to make things more friendly and visual. A
+simpler and more polished option is to use an already built user interface for Git that runs directly in the
+command line. Lazygit is one such open source tool. After years of development, it is a mature, beautiful tool
+that allows to perform any Git operation in the command line in a convenient, fast, and visual fashion.
+
+In this webinar, I demo how I use lazygit in my daily workflow to run routine as well as more complex Git
+commands.
+
+* [Online slides](https://mint.westdri.ca/tools/wb_lazygit){:target="_blank"}
+* [Awesome TUIs](https://github.com/rothgar/awesome-tuis){:target="_blank"}
+
+The recording will be added shortly.
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
 
 
 
