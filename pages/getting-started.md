@@ -229,12 +229,6 @@ topics.
 	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-
-
-
-
-
 ## Git version control
 
 * <a href="https://mint.westdri.ca/git/ws_collab" target="_blank">Collaborating through Git & GitHub</a>
@@ -264,18 +258,11 @@ commands.
 * [Online slides](https://mint.westdri.ca/tools/wb_lazygit){:target="_blank"}
 * [Awesome TUIs](https://github.com/rothgar/awesome-tuis){:target="_blank"}
 
-The recording will be added shortly.
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
-
-
-
-
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="817" height="460" src="https://www.youtube.com/embed/1a2nrwfqNGI" title="Lazygit"
+	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Building software with EasyBuild
 
