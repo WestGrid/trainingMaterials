@@ -100,7 +100,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Beginner's introduction to Emacs</span> | Sep-26, Oct-03 | Marie-Hélène Burle |
 | <span style="color:gray">Working with Apptainer containers</span> | Oct-10, Oct-17 | Alex Razoumov |
 | <span style="color:gray">Faster Python DataFrames with Polars</span> | Oct-24 | Marie-Hélène Burle |
-| [Parallel coding in Python](https://docs.google.com/forms/d/e/1FAIpQLScqmPkRp9cWkptrLSCkzAYKmkE6-5KkRHgV4I0ZLOIxbPsMUg/viewform){:target="_blank"} | Oct-31, Nov-07 | Alex Razoumov and Marie-Hélène Burle |
+| <span style="color:gray">Parallel coding in Python</span> | Oct-31, Nov-07 | Alex Razoumov and Marie-Hélène Burle |
 | [Hands-on with ParaView's Programmable Filter / Source for scientific visualization](https://docs.google.com/forms/d/e/1FAIpQLSe3diF5xlhJgTUSHKmOZUfj0gIBtoTCtojH2-JwdGR5-mPYZA/viewform){:target="_blank"} | Nov-14 | Alex Razoumov | <!-- Marie out of town on vacation -->
 | [Large-scale and remote visualization](https://docs.google.com/forms/d/e/1FAIpQLSc701ePjS986Li0J9nwaIqvkKhHoRnQWx8PThg34XtFgpTs4A/viewform){:target="_blank"} | Nov-21 | Alex Razoumov | <!-- Marie is teaching @BCCAI workshop Nov-{20,21} -->
 | [Version control with Git](https://docs.google.com/forms/d/e/1FAIpQLSdSaSj75OtSM9D5X-UJ7eL3leWhu0wmS16By9pKHpAsyTXpPg/viewform){:target="_blank"} | Nov-28 | Marie-Hélène Burle |
