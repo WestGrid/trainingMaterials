@@ -129,6 +129,7 @@ experiments:
 - Julia: a programming language to unlock full access to high-performance computation on both CPUs and GPUs.
 
 * [Online material](https://ubc-stat-ml.github.io/nf-nest-doc/01_intro.html)
+* [nf-nest repository](https://github.com/UBC-Stat-ML/nf-nest) on GitHub
 
 Video recording will be added once processed.
 <!-- <div class="flex-video"> -->
