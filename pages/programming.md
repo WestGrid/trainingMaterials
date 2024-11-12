@@ -16,7 +16,7 @@ permalink: "/programming/"
 • [Chapel](#chapel)
 • [MPI](#mpi)
 • [OpenMP](#openmp)
-• [Debugging and memory debugging](#debugging-and-memory-debugging)
+• [Debugging and profiling](#debugging)
 • [MATLAB](#matlab)
 
 
@@ -26,8 +26,8 @@ permalink: "/programming/"
 
 
 
-
-## Python
+<br>
+# Python
 
 We give many Python-based workshops -- you can find quite a few of them in the [visualization section]({{
 site.baseurl }}/tools/visualization).
@@ -72,7 +72,8 @@ site.baseurl }}/tools/visualization).
 
 
 <a name="r-language"></a>
-## R
+<br>
+# R
 
 ---
 
@@ -103,8 +104,8 @@ various packages for parallelization, as well as using C++ from inside R to spee
 
 
 
-
-## Julia
+<br>
+# Julia
 
 <br>
 (You can also browse some of our Julia programming materials <a href="https://mint.westdri.ca/julia"
@@ -219,7 +220,8 @@ a Julia set, and an N-body solver. We run the examples on a multi-core laptop an
 
 
 
-## Chapel
+<br>
+# Chapel
 
 ---
 
@@ -332,7 +334,8 @@ As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Para
 
 
 
-## MPI
+<br>
+# MPI
 
 ---
 
@@ -353,7 +356,8 @@ As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Para
 
 
 
-## OpenMP
+<br>
+# OpenMP
 
 ---
 
@@ -380,7 +384,9 @@ The topics covered include:
 
 
 
-## Debugging and memory debugging
+<a name="debugging"></a>
+<br>
+# Debugging and profiling
 
 ---
 
@@ -402,7 +408,8 @@ The topics covered include:
 
 
 
-## MATLAB
+<br>
+# MATLAB
 
 ---
 
