@@ -113,8 +113,6 @@ target="_blank">here</a>.)
 
 ---
 
-
-
 <a name="nextflow"></a>
 #### *"Nextflow and Julia for scalable computation"*
 
@@ -131,14 +129,12 @@ experiments:
 * [Online material](https://ubc-stat-ml.github.io/nf-nest-doc/01_intro.html)
 * [nf-nest repository](https://github.com/UBC-Stat-ML/nf-nest) on GitHub
 
-Video recording will be added once processed.
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
-
-
-
-
-
+<div class="flex-video">
+	<iframe width="711" height="414" src="https://www.youtube.com/embed/-K91oezt_S8" title="Nextflow and Julia
+	for scalable computation" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ---
 
