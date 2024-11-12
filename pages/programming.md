@@ -107,8 +107,25 @@ various packages for parallelization, as well as using C++ from inside R to spee
 ## Julia
 
 <br>
-(You can also browse some of our Julia programming materials <a href="https://westgrid-julia.netlify.com"
+(You can also browse some of our Julia programming materials <a href="https://mint.westdri.ca/julia"
 target="_blank">here</a>.)
+
+---
+
+
+
+<a name="nextflow"></a>
+#### *"Nextflow and Julia for scalable computation"*
+
+**Webinar** (2024-Nov-12) by Alexandre Bouchard-Côtén
+
+* [Online material](https://ubc-stat-ml.github.io/nf-nest-doc/01_intro.html)
+
+Video recording will be added once processed.
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
 
 
 
