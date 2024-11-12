@@ -120,6 +120,14 @@ target="_blank">here</a>.)
 
 **Webinar** (2024-Nov-12) by Alexandre Bouchard-Côtén
 
+Large-scale numerical experiments are central to much of contemporary scientific and mathematical
+research. Performing these numerical experiments in a valid, reproducible and scalable fashion is not easy. In
+this webinar I provide an introduction and pointers to two tools my research group uses to perform numerical
+experiments:
+
+- Nextflow: can be thought of as an "operating system" for coordinating numerical experiments.
+- Julia: a programming language to unlock full access to high-performance computation on both CPUs and GPUs.
+
 * [Online material](https://ubc-stat-ml.github.io/nf-nest-doc/01_intro.html)
 
 Video recording will be added once processed.
