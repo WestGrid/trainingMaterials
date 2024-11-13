@@ -266,6 +266,11 @@ animations inside the presentations linked from the [Contest website](https://sc
 
 **Webinar** (2021-Jan-20) by Alex Razoumov
 
+For many years, one of the most underappreciated features in ParaView has been the ability to define custom
+objects using Programmable Filter or Source. These tools could be useful for defining new spatial
+discretizations (e.g. grids), for creating custom objects in 3D, or even for reading non-standard data from
+files. In this webinar I demonstrate some of these workflows.
+
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/programmable20210120.pdf)
 * [ZIP file with scripts](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/programmable20210120.zip)
 
@@ -280,6 +285,8 @@ animations inside the presentations linked from the [Contest website](https://sc
 #### *"The Topology ToolKit (TTK)"*
 
 **Webinar** (2020-Nov-25) by Alex Razoumov
+
+
 
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/ttk20201125.pdf)
 * [gzipped tar file with ParaView state files](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/states20201125.tar.gz)

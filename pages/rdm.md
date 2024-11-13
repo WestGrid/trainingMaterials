@@ -241,6 +241,14 @@ overlays. We assume no prior knowledge of the container technology.
 
 **Webinar** (2021-Feb-17) by Alex Razoumov
 
+In this presentation I cover two fantastic multi-platform, open-source backup tools (`dar` and `borg`) that
+I've been using for many years. I combine them both into a single bash function that keeps multiple copies of
+your data, switch between two methods for redundancy, with a simple option for an off-site backup on a remote
+Linux server, and provide a simple mechanism for restoring your data. Both tools support incremental backup,
+compression, encryption, and -- equally important -- write to a sensible number of archive files that you can
+easily move around, e.g., to switch to a new backup drive, or to use a low-capacity USB drive for an
+incremental backup of a much larger filesystem.
+
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/backup202102.pdf)
 * [script](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/functions202102.sh) with all function definitions
 
@@ -286,6 +294,17 @@ overlays. We assume no prior knowledge of the container technology.
 #### *"Managing many files with Disk ARchiver (DAR)"*
 
 **Webinar** (2019-May-01) by Alex Razoumov
+
+Large parallel filesystems found on HPC clusters -- such as /home, /scratch and /project -- have one weak
+spot: they were not designed for storing large numbers of small files. Due to this limitation, we always
+advise our users to reduce the number of files stored in their directories, either by instrumenting their code
+to write fewer larger files, or by using an archive tool such as the classic Unix utility `tar` to pack their
+files into archives.  There is a little-known, but incredibly useful open-source tool called `dar` that was
+developed as a faster, modern replacement to `tar`. DAR stands for `disk archive` and supports file indexing,
+differential and incremental backups, Linux file Access Control Lists (ACL), compression, symmetric and public
+key encryption, remote archives, and has many other nice features.  In this webinar we go through several use
+cases for `dar` both on Compute Canada clusters and on your own laptop with a bash shell. We show you how to
+manage directories with many files, how to backup and restore your data, and other workflows.
 
 * [ZIP file with slides and bash functions](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dar20190501.zip)
 
