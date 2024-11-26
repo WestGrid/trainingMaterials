@@ -11,7 +11,8 @@ permalink: "/tools/rdm/"
 
 [Table of Contents](#table-of-contents):
 &nbsp;
-[<em>"DataFrames on steroids with Polars"</em>](#polars)
+[<em>"Distributed file storage with git-annex"</em>](#annex)
+• [<em>"DataFrames on steroids with Polars"</em>](#polars)
 • [<em>"Lossy data compression"</em>](#lossy)
 • [<em>"Version control for data science and machine learning with DVC"</em>](#dvc)
 • [<em>"Managing large hierarchical datasets with PyTables"</em>](#pytables)
@@ -34,9 +35,30 @@ permalink: "/tools/rdm/"
 
 
 
+<a name="annex"></a>
+#### *"Distributed file storage with git-annex"*
 
+**Webinar** (2024-Nov-26) with Alex Razoumov
 
+git-annex is a file synchronization tool designed to simplify the management of large (typically
+data-oriented) files under version control. Unlike Git, git-annex does not track file contents but rather
+facilitates the organization of data across multiple locations, both online and offline, enabling the creation
+of multiple copies for backup and redundancy, ensuring data safety and organization. In the past, we have
+taught webinars on tools built upon git-annex, such as DataLad. In these tools the core functionality is
+typically provided by git-annex, so we believe it is crucial to understand how to effectively organize data
+using git-annex itself, without the distraction of additional features. Personally, I have been utilizing
+git-annex for several years to manage my extensive collection of archived files across multiple drives stored
+on a shelf. git-annex provides built-in redundancy, ensuring that each individual repository or drive is aware
+of the location of all files on other drives, eliminating the need to power them on just to find a
+file. git-annex also offers online capabilities, allowing file synchronization across multiple filesystems and
+clusters to help you manage your research data.
 
+* [Online notes](https://wgpages.netlify.app/annex)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+---
 
 <a name="polars"></a>
 #### *"DataFrames on steroids with Polars"*
