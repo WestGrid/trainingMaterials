@@ -55,8 +55,12 @@ clusters to help you manage your research data.
 
 * [Online notes](https://wgpages.netlify.app/annex)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="830" height="506" src="https://www.youtube.com/embed/951fYUHkX5A" title="Distributed file
+	storage with git-annex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
