@@ -17,10 +17,20 @@ For more information, please check the [cloud computing page](https://docs.compu
 and the [Singularity page](https://docs.computecanada.ca/wiki/Singularity) in Compute Canada&#8217;s
 technical wiki.
 
+---
 
+<a name="alliancecloud"></a>
+#### *"Intro to the Alliance Cloud"*
 
+**Webinar** (2024-Dec-10) by Michael Tang
 
+This webinar provides an introduction to the Digital Research Alliance of Canada (the Alliance) community
+cloud.
 
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/allianceCloud20241210.pdf)
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
 
 ---
 
