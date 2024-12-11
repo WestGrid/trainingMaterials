@@ -70,7 +70,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary, Saskatoon), and noon Central (W
 | Oct-29 | [<span style="color:blue">Lazygit</span>]({{ site.baseurl }}/getting-started#lazygit) | Marie-Hélène Burle (SFU) |
 | Nov-12 | [<span style="color:blue">Nextflow and Julia for scalable computation</span>]({{ site.baseurl }}/programming#nextflow) | Alexandre Bouchard-Côtén (UBC) | <!-- Nextflow/Julia from Alex Bouchard's group (https://www.stat.ubc.ca/~bouchard) -->
 | Nov-26 | [<span style="color:blue">Distributed file storage with git-annex</span>]({{ site.baseurl }}/tools/rdm#annex) | Alex Razoumov (SFU) |
-| Dec-10 | [Intro to the Alliance Cloud](https://docs.google.com/forms/d/e/1FAIpQLSdrM0qq4OuYOL3M-ht1fKDijhZ1qVSRp3erRJP1KYN_DBdZWQ/viewform){:target="_blank"} | Michael Tang (UBC) |
+| Dec-10 | [<span style="color:blue">Intro to the Alliance Cloud</span>]({{ site.baseurl }}/tools/virtual#alliancecloud) | Michael Tang (UBC) |
 
 
 

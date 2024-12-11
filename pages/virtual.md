@@ -29,8 +29,12 @@ cloud.
 
 * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/allianceCloud20241210.pdf)
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="983" height="528" src="https://www.youtube.com/embed/93q79glfzz0" title="Intro to the
+	Alliance Cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+	allowfullscreen></iframe>
+</div>
 
 ---
 
