@@ -104,7 +104,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Hands-on with ParaView's Programmable Filter / Source for scientific visualization</span> | Nov-14 | Alex Razoumov | <!-- Marie out of town on vacation -->
 | <span style="color:gray">Large-scale and remote visualization]</span> | Nov-21 | Alex Razoumov | <!-- Marie is teaching @BCCAI workshop Nov-{20,21} -->
 | <span style="color:gray">Version control with Git</span> | Nov-28 | Marie-Hélène Burle |
-| [Using GPUs with Chapel](https://docs.google.com/forms/d/e/1FAIpQLSeFYsFasTaEu_6SAAI-zRnHdowX9LQEHnWR91BRxS0rYpUpiQ/viewform){:target="_blank"} | Dec-05, Dec-12 | Alex Razoumov | <!-- set up vGPUs on Arbutus or Beluga -->
+| <span style="color:gray">Using GPUs with Chapel</span> | Dec-05, Dec-12 | Alex Razoumov | <!-- set up vGPUs on Arbutus or Beluga -->
 | [Answering your Bash questions](https://docs.google.com/forms/d/e/1FAIpQLSf9fHRoHS0uXujB2Swtuj2Pn7d8M6YPnPYeYZWaNGxazrNnVQ/viewform){:target="_blank"} | Dec-19 | Alex Razoumov &<br> Marie-Hélène Burle | <!-- bring your own questions and problems or pick from our course; create a google form in advance -->
 
 
