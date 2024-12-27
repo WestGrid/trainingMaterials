@@ -15,12 +15,12 @@ widget1:
   good starting point.'
 widget2:
   title: "Upcoming sessions"
-  url: '/events/upcoming-training-fall-2024'
+  url: '/events/upcoming-training-winter-spring-2025'
   image: header_unsplash_7.jpg
   text: 'We host training webinars and workshops year-round to help you build skills in computational research. Check out our upcoming training events.'
 widget3:
   title: "Online documentation"
-  url: 'https://docs.computecanada.ca/wiki/Compute_Canada_Documentation'
+  url: 'https://docs.alliancecan.ca/wiki/Technical_documentation'
   text: 'Check out Compute Canada&#8217;s technical documentation wiki, the primary source for information on Compute Canada resources and services.'
   image: ancientLibrary.png
 #
