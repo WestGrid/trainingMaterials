@@ -69,7 +69,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Jan-14 | High-level parallel stencil computations on CPUs and GPUs in Julia | Alex Razoumov | <!-- ParallelStencil.jl -->
+| Jan-21 | High-level parallel stencil computations on CPUs and GPUs in Julia | Alex Razoumov | <!-- ParallelStencil.jl -->
 | Jan-28 | Modern shell utilities | Marie-Hélène Burle |
 | Feb-11 | Running parallel Ray workflows across multiple cluster nodes | Alex Razoumov |
 | Feb-25 | Bayesian modelling with JAX | Marie-Hélène Burle |
