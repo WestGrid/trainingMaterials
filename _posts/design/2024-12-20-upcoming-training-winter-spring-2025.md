@@ -72,7 +72,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Jan-21 | High-level parallel stencil computations on CPUs and GPUs in Julia | Alex Razoumov | <!-- ParallelStencil.jl -->
 | Jan-28 | Modern shell utilities | Marie-Hélène Burle |
 | Feb-11 | Running parallel Ray workflows across multiple cluster nodes | Alex Razoumov |
-| Feb-25 | Bayesian modelling with JAX | Marie-Hélène Burle |
+| Feb-25 | Bayesian inference in JAX | Marie-Hélène Burle |
 | Mar-11 | TBA | UBC speaker |
 | Mar-25 | TBA | UBC speaker |
 | Apr-08 | TBA | UBC speaker |
