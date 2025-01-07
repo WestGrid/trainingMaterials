@@ -69,30 +69,23 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Jan-21 | High-level parallel stencil computations on CPUs and GPUs in Julia | Alex Razoumov | <!-- ParallelStencil.jl -->
-| Jan-28 | Modern shell utilities | Marie-Hélène Burle |
-| Feb-11 | Running parallel Ray workflows across multiple cluster nodes | Alex Razoumov |
-| Feb-25 | Bayesian inference in JAX | Marie-Hélène Burle |
+| Jan-21 | [High-level parallel stencil computations on CPUs and GPUs in Julia](https://docs.google.com/forms/d/e/1FAIpQLSc3GEzZJitJ193qOSkgT5ICNGJ-dq_B7DO8wH2PSiVBmDdqqQ/viewform){:target="_blank"} | Alex Razoumov | <!-- ParallelStencil.jl -->
+| Jan-28 | [Modern shell utilities](https://docs.google.com/forms/d/e/1FAIpQLSfHz4x_AMqaan-DhzjBFZNiCSvIxS2CiwIdXpnhRkfe7DfsaA/viewform){:target="_blank"} | Marie-Hélène Burle |
+| Feb-11 | [Running parallel Ray workflows across multiple cluster nodes](https://docs.google.com/forms/d/e/1FAIpQLSeGrYAQsd1iyw6j5jItNqPkxaXJTDWDM71dp-tdNCeobL4n5Q/viewform){:target="_blank"} | Alex Razoumov |
+| Feb-25 | [Bayesian inference in JAX](https://docs.google.com/forms/d/e/1FAIpQLSeBPuikey7-1Vmjj8SOX4ugY_Rg1kARe7n5JAfPmtKDgAlgiw/viewform){:target="_blank"} | Marie-Hélène Burle | <!-- one of https://github.com/blackjax-devs/blackjax, https://github.com/pymc-devs/pymc, https://github.com/google-deepmind/distrax -->
 | Mar-11 | TBA | UBC speaker |
 | Mar-25 | TBA | UBC speaker |
 | Apr-08 | TBA | UBC speaker |
 | Apr-22 | TBA | UBC speaker |
-| May-06 | TBD | Marie-Hélène Burle |
-| May-20 | Introduction to the Fir cluster | Alex Razoumov |
+| May-06 | [TBD](https://docs.google.com/forms/d/e/1FAIpQLScgh6aVe4bDQhIDn5s2Ctzlr-zgQc_KSsxgdsIhjBRT91gUMg/viewform){:target="_blank"} | Marie-Hélène Burle |
+| May-20 | [Introduction to the Fir cluster](https://docs.google.com/forms/d/e/1FAIpQLSfEFzFAZsgEej5BulHdqEPREOpC2G87iN27gGpSy5POUJBQ7w/viewform){:target="_blank"} | Alex Razoumov |
 
-<!-- Other topics to fill in: -->
+<!-- Other potential filler topics: -->
 <!-- - (Alex) How to create a GPU container on Arbutus cloud -->
 <!-- - (Alex) Second look at in-situ visualization -->
 <!-- - (Alex) Adam's distributed /localscratch storage with GekkoFS -->
 <!-- maybe invite Jillian? -->
 
-<!-- Marie: Bayesian library built on JAX. One of https://github.com/blackjax-devs/blackjax or -->
-<!-- https://github.com/pymc-devs/pymc. Or alternatively https://github.com/google-deepmind/distrax. I'll have lots -->
-<!-- of work to do, but I think that it is a good topic. -->
-
-<!-- Marie: I'd like to do another webinar on Unix shell modern tools. I know we did 2 of these but that was years -->
-<!-- ago and there are new ones I would like to include. We will be teaching a few of these tomorrow too, but we -->
-<!-- will have very little time and probably fairly low attendance. -->
 
 
 
@@ -119,14 +112,14 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| Introductory Bash | Jan-16, Jan-23 | Marie-Hélène Burle |
-| Introduction to HPC | Jan-30, Feb-06, Feb-13 | Alex Razoumov | <!-- Marie teaches agriculture at Duncan on Feb 6-7 -->
-| Parallel computing in R | Feb-27, Mar-06 | Marie-Hélène Burle |
-| Short visualization course (TBD) | Mar-13 | Alex Razoumov |
-| Parallel Julia | Mar-20, Mar-27  | Alex Razoumov |
-| Deep learning with JAX | Apr-03, Apr-10, Apr-17 | Marie-Hélène Burle |
-| HPC Python | Apr-24, May-01, May-08 | Alex Razoumov | <!-- week 2 on Ray Core, week 3 on Ray Data -->
-| Parallel Chapel | May-15, May-22 | Alex Razoumov |
+| [Introductory Bash](https://docs.google.com/forms/d/e/1FAIpQLSett7YdI3v4tjj05DVtP1hNFq1An6G2ebvxr-R_xDszYmLqxg/viewform){:target="_blank"} | Jan-16, Jan-23 | Marie-Hélène Burle |
+| [Introduction to HPC](https://docs.google.com/forms/d/e/1FAIpQLSctjQi9ut8fdOiEQKywulLbCvyVr_XD53hjqI5_7Y94tENZew/viewform){:target="_blank"} | Jan-30, Feb-06, Feb-13 | Alex Razoumov | <!-- Marie teaches agriculture at Duncan on Feb 6-7 -->
+| [Parallel computing in R](https://docs.google.com/forms/d/e/1FAIpQLSejhZwEM5oKwM8mMIHyphNfQ_ClfIl9H7YVjYa8hojjPCcnEQ/viewform){:target="_blank"} | Feb-27, Mar-06 | Marie-Hélène Burle |
+| [Scientific visualization](https://docs.google.com/forms/d/e/1FAIpQLSfeXmG5aLAyz1Ly_AXckGWQ3VV46jZe1ucQ9VBMIWjiCxL_YQ/viewform){:target="_blank"} | Mar-13 | Alex Razoumov |
+| [Parallel Julia](https://docs.google.com/forms/d/e/1FAIpQLScNw2QMx8VCfgy8Ha1PJDncDvMDb49LFAHx0XamviXMN1qShw/viewform){:target="_blank"} | Mar-20, Mar-27  | Alex Razoumov |
+| [Deep learning with JAX](https://docs.google.com/forms/d/e/1FAIpQLSfeRwhtP-16UtNbtFES9bG42TQIuEjvAhoSt1hCIKg89pAB7g/viewform){:target="_blank"} | Apr-03, Apr-10, Apr-17 | Marie-Hélène Burle |
+| [HPC Python](https://docs.google.com/forms/d/e/1FAIpQLSdBTsmCqf1bEUwnpf1p6zIppfIdM_8WAt9H1i2w2w4OT2d_vg/viewform){:target="_blank"} | Apr-24, May-01, May-08 | Alex Razoumov | <!-- week 2 on Ray Core, week 3 on Ray Data -->
+| [Parallel programming in Chapel](https://docs.google.com/forms/d/e/1FAIpQLSfo8JQwMjH0bUaNl84nBJU01m2m7sS_xPnu0w0-qk6gOJc-vw/viewform){:target="_blank"} | May-15, May-22 | Alex Razoumov |
 
 
 
