@@ -78,7 +78,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Apr-08 | TBA | UBC speaker |
 | Apr-22 | TBA | UBC speaker |
 | May-06 | TBD | Marie-Hélène Burle |
-| May-20 | Introduction to Fir cluster | Alex Razoumov |
+| May-20 | Introduction to the Fir cluster | Alex Razoumov |
 
 <!-- Other topics to fill in: -->
 <!-- - (Alex) How to create a GPU container on Arbutus cloud -->
