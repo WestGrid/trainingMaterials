@@ -119,7 +119,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| Introductory bash | Jan-16, Jan-23 | Marie-Hélène Burle |
+| Introductory Bash | Jan-16, Jan-23 | Marie-Hélène Burle |
 | Introduction to HPC | Jan-30, Feb-06, Feb-13 | Alex Razoumov | <!-- Marie teaches agriculture at Duncan on Feb 6-7 -->
 | Parallel R | Feb-27, Mar-06 | Marie-Hélène Burle |
 | Short visualization course (TBD) | Mar-13 | Alex Razoumov |
