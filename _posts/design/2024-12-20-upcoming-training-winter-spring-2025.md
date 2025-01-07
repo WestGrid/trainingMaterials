@@ -121,10 +121,10 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | ------------- | --------------- | ----------------- |
 | Introductory Bash | Jan-16, Jan-23 | Marie-Hélène Burle |
 | Introduction to HPC | Jan-30, Feb-06, Feb-13 | Alex Razoumov | <!-- Marie teaches agriculture at Duncan on Feb 6-7 -->
-| Parallel R | Feb-27, Mar-06 | Marie-Hélène Burle |
+| Parallel computing in R | Feb-27, Mar-06 | Marie-Hélène Burle |
 | Short visualization course (TBD) | Mar-13 | Alex Razoumov |
 | Parallel Julia | Mar-20, Mar-27  | Alex Razoumov |
-| ML course on an interesting complete problem with model training | Apr-03, Apr-10, Apr-17 | Marie-Hélène Burle |
+| Deep learning with JAX | Apr-03, Apr-10, Apr-17 | Marie-Hélène Burle |
 | HPC Python | Apr-24, May-01, May-08 | Alex Razoumov | <!-- week 2 on Ray Core, week 3 on Ray Data -->
 | Parallel Chapel | May-15, May-22 | Alex Razoumov |
 
