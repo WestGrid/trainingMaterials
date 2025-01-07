@@ -78,7 +78,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Apr-08 | TBA | UBC speaker |
 | Apr-22 | TBA | UBC speaker |
 | May-06 | [TBD](https://docs.google.com/forms/d/e/1FAIpQLScgh6aVe4bDQhIDn5s2Ctzlr-zgQc_KSsxgdsIhjBRT91gUMg/viewform){:target="_blank"} | Marie-Hélène Burle |
-| May-20 | [Introduction to the Fir cluster](https://docs.google.com/forms/d/e/1FAIpQLSfEFzFAZsgEej5BulHdqEPREOpC2G87iN27gGpSy5POUJBQ7w/viewform){:target="_blank"} | Alex Razoumov |
+| May-20 | [Introduction to Fir cluster](https://docs.google.com/forms/d/e/1FAIpQLSfEFzFAZsgEej5BulHdqEPREOpC2G87iN27gGpSy5POUJBQ7w/viewform){:target="_blank"} | Alex Razoumov |
 
 <!-- Other potential filler topics: -->
 <!-- - (Alex) How to create a GPU container on Arbutus cloud -->
