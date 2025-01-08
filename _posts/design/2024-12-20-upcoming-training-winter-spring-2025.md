@@ -114,7 +114,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | ------------- | --------------- | ----------------- |
 | [Introductory Bash](https://docs.google.com/forms/d/e/1FAIpQLSett7YdI3v4tjj05DVtP1hNFq1An6G2ebvxr-R_xDszYmLqxg/viewform){:target="_blank"} | Jan-16, Jan-23 | Marie-Hélène Burle |
 | [Introduction to HPC](https://docs.google.com/forms/d/e/1FAIpQLSctjQi9ut8fdOiEQKywulLbCvyVr_XD53hjqI5_7Y94tENZew/viewform){:target="_blank"} | Jan-30, Feb-06, Feb-13 | Alex Razoumov | <!-- Marie teaches agriculture at Duncan on Feb 6-7 -->
-| [Parallel computing in R](https://docs.google.com/forms/d/e/1FAIpQLSejhZwEM5oKwM8mMIHyphNfQ_ClfIl9H7YVjYa8hojjPCcnEQ/viewform){:target="_blank"} | Feb-27, Mar-06 | Marie-Hélène Burle |
+| [High-performance R](https://docs.google.com/forms/d/e/1FAIpQLSejhZwEM5oKwM8mMIHyphNfQ_ClfIl9H7YVjYa8hojjPCcnEQ/viewform){:target="_blank"} | Feb-27, Mar-06 | Marie-Hélène Burle |
 | [Scientific visualization](https://docs.google.com/forms/d/e/1FAIpQLSfeXmG5aLAyz1Ly_AXckGWQ3VV46jZe1ucQ9VBMIWjiCxL_YQ/viewform){:target="_blank"} | Mar-13 | Alex Razoumov |
 | [Parallel Julia](https://docs.google.com/forms/d/e/1FAIpQLScNw2QMx8VCfgy8Ha1PJDncDvMDb49LFAHx0XamviXMN1qShw/viewform){:target="_blank"} | Mar-20, Mar-27  | Alex Razoumov |
 | [Deep learning with JAX](https://docs.google.com/forms/d/e/1FAIpQLSfeRwhtP-16UtNbtFES9bG42TQIuEjvAhoSt1hCIKg89pAB7g/viewform){:target="_blank"} | Apr-03, Apr-10, Apr-17 | Marie-Hélène Burle |
