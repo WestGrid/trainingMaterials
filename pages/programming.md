@@ -113,6 +113,36 @@ target="_blank">here</a>.)
 
 ---
 
+<a name="stencil"></a>
+#### *"High-level parallel stencil computations on CPUs and GPUs in Julia"*
+
+**Webinar** (2025-Jan-21) by Alex Razoumov
+
+In this webinar, we cover parallel stencil computations in Julia using the ParallelStencil.jl package. This
+package enables you to write high-level code for fast computations on CPUs and GPUs. These computations are
+common in all numerical simulations involving the solution of discretized partial differential equations
+(PDEs) on a grid. ParallelStencil.jl provides high-level functions for computing derivatives and updating
+arrays. You can execute the same code on a single CPU, multiple CPUs with multithreading via Base.Threads, or
+on GPUs using either CUDA.jl (NVIDIA GPUs), AMDGPU.jl (AMD GPUs), or Metal.jl (Apple Silicon GPUs). Regardless
+of the underlying parallel hardware, all low-level communication between threads is hidden behind
+ParallelStencil.jl's macro calls, ensuring that it remains invisible in the simulation code. This framework
+makes it highly accessible to domain scientists. Furthermore, you can extend this framework to multiple
+processes, integrating ParallelStencil.jl with ImplicitGlobalGrid.jl (built upon MPI.jl). This combination
+facilitates easy scaling to multiple cluster nodes, with further parallelization on multiple cores and GPUs on
+each node. This architecture has been shown to scale efficiently to hundreds of GPUs and hundreds of cluster
+nodes.
+
+* [Online notes](https://wgpages.netlify.app/stencil)
+
+<div class="flex-video">
+	<iframe width="817" height="498" src="https://www.youtube.com/embed/ktDDCoxJfkE" title="High-level
+	parallel stencil computations on CPUs and GPUs in Julia" frameborder="0" allow="accelerometer; autoplay;
+	clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+---
+
 <a name="nextflow"></a>
 #### *"Nextflow and Julia for scalable computation"*
 
