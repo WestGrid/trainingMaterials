@@ -70,7 +70,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Jan-21 | [<span style="color:blue">High-level parallel stencil computations on CPUs and GPUs in Julia</span>]({{ site.baseurl }}/programming#stencil) | Alex Razoumov | <!-- ParallelStencil.jl -->
-| Jan-28 | [Modern shell utilities](https://docs.google.com/forms/d/e/1FAIpQLSfHz4x_AMqaan-DhzjBFZNiCSvIxS2CiwIdXpnhRkfe7DfsaA/viewform){:target="_blank"} | Marie-Hélène Burle |
+| Jan-28 | [<span style="color:blue">Modern shell utilities</span>]({{ site.baseurl }}/getting-started#modernutilities) | Marie-Hélène Burle |
 | Feb-11 | [Running parallel Ray workflows across multiple cluster nodes](https://docs.google.com/forms/d/e/1FAIpQLSeGrYAQsd1iyw6j5jItNqPkxaXJTDWDM71dp-tdNCeobL4n5Q/viewform){:target="_blank"} | Alex Razoumov |
 | Feb-25 | [Bayesian inference in JAX](https://docs.google.com/forms/d/e/1FAIpQLSeBPuikey7-1Vmjj8SOX4ugY_Rg1kARe7n5JAfPmtKDgAlgiw/viewform){:target="_blank"} | Marie-Hélène Burle | <!-- one of https://github.com/blackjax-devs/blackjax, https://github.com/pymc-devs/pymc, https://github.com/google-deepmind/distrax -->
 | Mar-11 | TBA | UBC speaker |

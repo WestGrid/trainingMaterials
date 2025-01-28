@@ -135,6 +135,54 @@ the shell in a HPC context</a>.
 
 ---
 
+
+
+
+
+
+<a name="modernutilities"></a>
+#### *"Modern shell utilities"*
+
+**Webinar** (2025-Jan-28) by Marie-Hélène Burle
+
+In recent years, a number of open-source utilities for the Unix shell have emerged. Some are meant as
+replacements for classic tools with improved performance, better defaults, or nicer-looking outputs; others
+add novel functionality. Several of them were recently installed on the Alliance clusters.
+
+In this webinar I cover a selection of tools that are very popular, well-maintained, and that have served me
+well in my daily workflows:
+
+- ls in colours: eza,
+- smart cd: zoxide,
+- a cat with wings: bat,
+- RIP grep: ripgrep,
+- faster find: fd,
+- fuzzy finder: fzf,
+- file system TUIs.
+
+I also talk about three useful Zsh plugins:
+
+- a syntax highlighter,
+- autosuggestions,
+- an improved history searcher.
+
+For each tool/plugin, I talk about installation on a personal computer and on the Alliance clusters and give
+live demos.
+
+* [Webinar slides](https://mint.westdri.ca/bash/wb_tools3_slides){:target="_blank"}
+
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+
+
+
+
+
+
+
+
+---
+
 #### *"Fun tools to simplify your life in the command line"*
 
 **Webinar** (2020-02-19) by Marie-Hélène Burle
