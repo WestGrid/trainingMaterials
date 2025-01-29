@@ -84,6 +84,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 <!-- - (Alex) How to create a GPU container on Arbutus cloud -->
 <!-- - (Alex) Second look at in-situ visualization -->
 <!-- - (Alex) Adam's distributed /localscratch storage with GekkoFS -->
+<!-- - (Alex) https://github.com/JuliaSIMD/Polyester.jl for low-overhead multithreading in Julia -->
 <!-- maybe invite Jillian? -->
 <!-- One of UBC topics: Research Cybersecurity Hygiene training -->
 
@@ -112,7 +113,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| [Introduction to the Unix shell](https://docs.google.com/forms/d/e/1FAIpQLSett7YdI3v4tjj05DVtP1hNFq1An6G2ebvxr-R_xDszYmLqxg/viewform){:target="_blank"} | Jan-16, Jan-23 | Marie-Hélène Burle |
+| Introduction to the Unix shell | Jan-16, Jan-23 | Marie-Hélène Burle |
 | [Introduction to HPC](https://docs.google.com/forms/d/e/1FAIpQLSctjQi9ut8fdOiEQKywulLbCvyVr_XD53hjqI5_7Y94tENZew/viewform){:target="_blank"} | Jan-30, Feb-06, Feb-13 | Alex Razoumov | <!-- Marie teaches agriculture at Duncan on Feb 6-7 -->
 | [High-performance R](https://docs.google.com/forms/d/e/1FAIpQLSejhZwEM5oKwM8mMIHyphNfQ_ClfIl9H7YVjYa8hojjPCcnEQ/viewform){:target="_blank"} | Feb-27, Mar-06 | Marie-Hélène Burle |
 | [Scientific visualization](https://docs.google.com/forms/d/e/1FAIpQLSfeXmG5aLAyz1Ly_AXckGWQ3VV46jZe1ucQ9VBMIWjiCxL_YQ/viewform){:target="_blank"} | Mar-13 | Alex Razoumov |
