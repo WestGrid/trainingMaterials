@@ -171,8 +171,11 @@ live demos.
 
 * [Webinar slides](https://mint.westdri.ca/bash/wb_tools3_slides){:target="_blank"}
 
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="681" height="383" src="https://www.youtube.com/embed/Vqg6B5fVkD0" title="Modern shell
+	utilities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 
 
