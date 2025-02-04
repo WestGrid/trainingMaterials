@@ -153,11 +153,12 @@ We will be adding workshops here as they are announced at other Western Canadian
 
 
 <a name="schools"></a>
-## In-person schools
+## Summer school
 
-Typically at the end of a term we organize a longer, in-person research computing school at SFU that is open
-to all students, postdocs, faculty and staff. We will add more information here.
+<!-- Typically at the end of a term we organize a longer, in-person research computing school at SFU that is open -->
+<!-- to all students, postdocs, faculty and staff. We will add more information here. -->
 
+The 2025 Research Computing summer school will be held on June 9-13. More details will be announced in April.
 
 
 
