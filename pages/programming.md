@@ -34,6 +34,21 @@ site.baseurl }}/tools/visualization).
 
 ---
 
+<a name="xarray"></a>
+#### *"Working with multidimensional datasets in xarray"*
+
+**Webinar** (2020-Sep-30) by Alex Razoumov
+
+* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf)
+
+<div class="flex-video">
+	<iframe width="1158" height="660" src="https://www.youtube.com/embed/xdrcMi_FB8Q" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+
+---
+
 #### *"Working with the Python DASK library"*
 
 **Webinar** (2019-Oct-16) by Chris Want
@@ -48,20 +63,6 @@ site.baseurl }}/tools/visualization).
 	allowfullscreen></iframe>
 </div>
 
----
-
-<a name="xarray"></a>
-#### *"Working with multidimensional datasets in xarray"*
-
-**Webinar** (2020-Sep-30) by Alex Razoumov
-
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf)
-
-<div class="flex-video">
-	<iframe width="1158" height="660" src="https://www.youtube.com/embed/xdrcMi_FB8Q" frameborder="0"
-	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-	allowfullscreen></iframe>
-</div>
 
 
 
