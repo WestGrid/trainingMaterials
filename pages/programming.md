@@ -135,26 +135,32 @@ tightly coupled parallel problem.
 <br>
 # R
 
----
-
-<a name="threadsx"></a>
-#### *"Introduction to high-performance research computing in R"*
-
-**Webinar** (2023-Jan-31) by Marie-Hélène Burle
-
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to high-performance research computing in R</font></a> (2023-Jan-31)
+</summary>
+<br>
+<p>
 The programming language R is not known for its speed. However, with some code optimization, R can be used for
 relatively heavy computations. Additional speedup can be achieved through various parallel techniques, both
 with multi-threading and distributed computing. This workshop introduces you to working with R from the
 command line on the Alliance clusters with a focus on performance. We discuss code profiling and benchmarking,
 various packages for parallelization, as well as using C++ from inside R to speed up your calculations.
-
-* <a href="https://mint.westdri.ca/r/hpc_intro_slides.html#/title-slide" target="_blank">Online slides</a> (use ←/→ keys to navigate)
-
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://mint.westdri.ca/r/hpc_intro_slides.html#/title-slide" target="_blank">Online slides</a></li> (use ←/→ keys to navigate)
+</ul>
 <div class="flex-video">
 	<iframe width="896" height="504" src="https://www.youtube.com/embed/mxkhOHdN2Hw" title="Introduction to
 	high-performance research computing in R" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+</details>
+
+
+
+
 
 
 
@@ -228,7 +234,6 @@ experiments:
 
 ---
 
-<a name="threadsx"></a>
 #### *"Julia at full tilt: profiling and optimizations"*
 
 **Webinar** (2024-Apr-30) by Paul Schrimpf
