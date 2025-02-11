@@ -29,39 +29,50 @@ permalink: "/programming/"
 <br>
 # Python
 
-We give many Python-based workshops -- you can find quite a few of them in the [visualization section]({{
+<a name="python"></a>
+
+We give many Python-based workshops and webinars -- you can find quite a few of them in the [visualization section]({{
 site.baseurl }}/tools/visualization).
 
----
+<!-- [recording](){:target="_blank"},  -->
 
+- "Running parallel Ray workflows across multiple cluster nodes" (2025-Feb-11) with Alex Razoumov: [online notes](https://wgpages.netlify.app/clusterworkflows)
 <a name="xarray"></a>
-#### *"Working with multidimensional datasets in xarray"*
+- "Working with multidimensional datasets in xarray" (2020-Sep-30) with Alex Razoumov: [recording](https://youtu.be/xdrcMi_FB8Q){:target="_blank"}, [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf)
+- "Working with the Python DASK library" (2019-Oct-16) with Chris Want: [recording](https://youtu.be/uGy5gT2vLdI){:target="_blank"}, Python notebook with an interactive slide deck [on GitHub](https://github.com/ualberta-rcg/wg-dask-webinar) and as a [gzipped file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dask20191016.ipynb.gz)
 
-**Webinar** (2020-Sep-30) by Alex Razoumov
 
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf)
 
-<div class="flex-video">
-	<iframe width="1158" height="660" src="https://www.youtube.com/embed/xdrcMi_FB8Q" frameborder="0"
-	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-	allowfullscreen></iframe>
-</div>
+<!-- --- -->
 
----
+<!-- <a name="xarray"></a> -->
+<!-- #### *"Working with multidimensional datasets in xarray"* -->
 
-#### *"Working with the Python DASK library"*
+<!-- **Webinar** (2020-Sep-30) by Alex Razoumov -->
 
-**Webinar** (2019-Oct-16) by Chris Want
+<!-- * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf) -->
 
-* Python notebook with an interactive slide deck
-  [on GitHub](https://github.com/ualberta-rcg/wg-dask-webinar) and as a [gzipped file]({{ site.baseurl
-  }}/materials/dask20191016.ipynb.gz)
+<!-- <div class="flex-video"> -->
+<!-- 	<iframe width="1158" height="660" src="https://www.youtube.com/embed/xdrcMi_FB8Q" frameborder="0" -->
+<!-- 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" -->
+<!-- 	allowfullscreen></iframe> -->
+<!-- </div> -->
 
-<div class="flex-video">
-	<iframe width="966" height="543" src="https://www.youtube.com/embed/uGy5gT2vLdI" frameborder="0"
-	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-	allowfullscreen></iframe>
-</div>
+<!-- --- -->
+
+<!-- #### *"Working with the Python DASK library"* -->
+
+<!-- **Webinar** (2019-Oct-16) by Chris Want -->
+
+<!-- * Python notebook with an interactive slide deck -->
+<!--   [on GitHub](https://github.com/ualberta-rcg/wg-dask-webinar) and as a [gzipped file]({{ site.baseurl -->
+<!--   }}/materials/dask20191016.ipynb.gz) -->
+
+<!-- <div class="flex-video"> -->
+<!-- 	<iframe width="966" height="543" src="https://www.youtube.com/embed/uGy5gT2vLdI" frameborder="0" -->
+<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
+<!-- 	allowfullscreen></iframe> -->
+<!-- </div> -->
 
 
 
