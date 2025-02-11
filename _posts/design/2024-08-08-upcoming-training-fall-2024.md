@@ -65,7 +65,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary, Saskatoon), and noon Central (W
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Sep-17 | [<span style="color:blue">Understanding Emacs modes</span>]({{ site.baseurl }}/getting-started#emacsmodes) | Marie-Hélène Burle (SFU) |
-| Oct-01 | [<span style="color:blue">GPU computing with Chapel</span>]({{ site.baseurl }}/programming#chapelgpu) | Alex Razoumov (SFU) |
+| Oct-01 | [<span style="color:blue">GPU computing with Chapel</span>]({{ site.baseurl }}/programming#chapel) | Alex Razoumov (SFU) |
 | Oct-15 | [<span style="color:blue">Best practices in HPC/HTC environments</span>]({{ site.baseurl }}/getting-started#bestPracticesRoman) | Roman Baranowski (UBC) |
 | Oct-29 | [<span style="color:blue">Lazygit</span>]({{ site.baseurl }}/getting-started#lazygit) | Marie-Hélène Burle (SFU) |
 | Nov-12 | [<span style="color:blue">Nextflow and Julia for scalable computation</span>]({{ site.baseurl }}/programming#nextflow) | Alexandre Bouchard-Côtén (UBC) | <!-- Nextflow/Julia from Alex Bouchard's group (https://www.stat.ubc.ca/~bouchard) -->
