@@ -49,11 +49,12 @@ Click on each webinar for its recording and materials.
 <!-- </p><p> -->
 <!-- paragraph 2 -->
 <!-- </p> -->
-<!--  <ul> -->
-<!--   <li>Speaker: </li> -->
-<!--   <li><a href="" target="_blank">Recording</a></li> -->
-<!--   <li><a href="" target="_blank">PDF slides</a></li> -->
+<!-- <ul> -->
+<!-- 	<li>Speaker: </li> -->
+<!-- 	<li><a href="" target="_blank">PDF slides</a></li> -->
 <!-- </ul> -->
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
 <!-- </details> -->
 
 
@@ -72,10 +73,9 @@ In this webinar, we will focus on scaling Ray workflows to multiple HPC cluster 
 (non-ML) numerical workflows. We will look at both a loosely coupled (embarrassingly parallel) problem and a
 tightly coupled parallel problem.
 </p>
- <ul>
-  <li>Speaker: Alex Razoumov</li>
-  <li><a href="" target="_blank">Recording</a></li>
-  <li><a href="https://wgpages.netlify.app/clusterworkflows" target="_blank">Online notes</a></li>
+<ul>
+	<li>Speaker: Alex Razoumov</li>
+	<li><a href="https://wgpages.netlify.app/clusterworkflows" target="_blank">Online notes</a></li>
 </ul>
 </details>
 
@@ -87,7 +87,6 @@ tightly coupled parallel problem.
 <br>
  <ul>
   <li>Speaker: Alex Razoumov</li>
-  <li><a href="" target="_blank">Recording</a></li>
   <li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf" target="_blank">PDF slides</a></li>
 </ul>
 <div class="flex-video">
@@ -115,42 +114,13 @@ tightly coupled parallel problem.
 </div>
 </details>
 
+<br> [Return to the top of this section]({{ site.baseurl }}/programming#python)
 
 
 
 
 
 
-<!-- --- -->
-
-<!-- <a name="xarray"></a> -->
-<!-- #### *"Working with multidimensional datasets in xarray"* -->
-
-<!-- **Webinar** (2020-Sep-30) by Alex Razoumov -->
-
-<!-- * [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf) -->
-
-<!-- <div class="flex-video"> -->
-<!-- 	<iframe width="1158" height="660" src="https://www.youtube.com/embed/xdrcMi_FB8Q" frameborder="0" -->
-<!-- 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" -->
-<!-- 	allowfullscreen></iframe> -->
-<!-- </div> -->
-
-<!-- --- -->
-
-<!-- #### *"Working with the Python DASK library"* -->
-
-<!-- **Webinar** (2019-Oct-16) by Chris Want -->
-
-<!-- * Python notebook with an interactive slide deck -->
-<!--   [on GitHub](https://github.com/ualberta-rcg/wg-dask-webinar) and as a [gzipped file]({{ site.baseurl -->
-<!--   }}/materials/dask20191016.ipynb.gz) -->
-
-<!-- <div class="flex-video"> -->
-<!-- 	<iframe width="966" height="543" src="https://www.youtube.com/embed/uGy5gT2vLdI" frameborder="0" -->
-<!-- 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" -->
-<!-- 	allowfullscreen></iframe> -->
-<!-- </div> -->
 
 
 
