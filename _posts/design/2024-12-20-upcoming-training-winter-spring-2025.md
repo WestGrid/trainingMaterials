@@ -74,9 +74,9 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Feb-11 | [Running parallel Ray workflows across multiple cluster nodes](https://docs.google.com/forms/d/e/1FAIpQLSeGrYAQsd1iyw6j5jItNqPkxaXJTDWDM71dp-tdNCeobL4n5Q/viewform){:target="_blank"} | Alex Razoumov |
 | Feb-25 | [Bayesian inference in JAX](https://docs.google.com/forms/d/e/1FAIpQLSeBPuikey7-1Vmjj8SOX4ugY_Rg1kARe7n5JAfPmtKDgAlgiw/viewform){:target="_blank"} | Marie-Hélène Burle | <!-- one of https://github.com/blackjax-devs/blackjax, https://github.com/pymc-devs/pymc, https://github.com/google-deepmind/distrax -->
 | Mar-11 | TBA | UBC speaker |
-| Mar-25 | TBA | UBC speaker |
+| Mar-25 | Synopsis for Compliance or Chaos: A Research Assessment Survival Guide | Luc Letarte, Jessica Galo |
 | Apr-08 | TBA | UBC speaker |
-| Apr-22 | TBA | UBC speaker |
+| Apr-22 | Synopsis for Cybersecurity Hygiene | Scott Baker |
 | May-06 | [TBD](https://docs.google.com/forms/d/e/1FAIpQLScgh6aVe4bDQhIDn5s2Ctzlr-zgQc_KSsxgdsIhjBRT91gUMg/viewform){:target="_blank"} | Marie-Hélène Burle |
 | May-20 | [Introduction to Fir cluster](https://docs.google.com/forms/d/e/1FAIpQLSfEFzFAZsgEej5BulHdqEPREOpC2G87iN27gGpSy5POUJBQ7w/viewform){:target="_blank"} | Alex Razoumov |
 
@@ -87,6 +87,12 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 <!-- - (Alex) https://github.com/JuliaSIMD/Polyester.jl for low-overhead multithreading in Julia -->
 <!-- maybe invite Jillian? -->
 <!-- One of UBC topics: Research Cybersecurity Hygiene training -->
+
+
+
+
+
+
 
 
 
