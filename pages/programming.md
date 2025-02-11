@@ -36,10 +36,88 @@ site.baseurl }}/tools/visualization).
 
 <!-- [recording](){:target="_blank"},  -->
 
-- "Running parallel Ray workflows across multiple cluster nodes" (2025-Feb-11) with Alex Razoumov: [online notes](https://wgpages.netlify.app/clusterworkflows)
-<a name="xarray"></a>
-- "Working with multidimensional datasets in xarray" (2020-Sep-30) with Alex Razoumov: [recording](https://youtu.be/xdrcMi_FB8Q){:target="_blank"}, [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf)
-- "Working with the Python DASK library" (2019-Oct-16) with Chris Want: [recording](https://youtu.be/uGy5gT2vLdI){:target="_blank"}, Python notebook with an interactive slide deck [on GitHub](https://github.com/ualberta-rcg/wg-dask-webinar) and as a [gzipped file](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dask20191016.ipynb.gz)
+Click on each webinar for its recording and materials.
+
+
+<!-- <details> -->
+<!-- <summary> -->
+<!-- <a>&nbsp;&nbsp;<font size="+1">Title</font></a> (date) -->
+<!-- </summary> -->
+<!-- <br> -->
+<!-- <p> -->
+<!-- paragraph 1 -->
+<!-- </p><p> -->
+<!-- paragraph 2 -->
+<!-- </p> -->
+<!--  <ul> -->
+<!--   <li>Speaker: </li> -->
+<!--   <li><a href="" target="_blank">Recording</a></li> -->
+<!--   <li><a href="" target="_blank">PDF slides</a></li> -->
+<!-- </ul> -->
+<!-- </details> -->
+
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Running parallel Ray workflows across multiple cluster nodes</font></a> (2025-Feb-11)
+</summary>
+<br>
+<p>
+Ray is a unified framework for scaling AI and general Python workflows. Outside of machine learning (ML), its
+core distributed runtime and data libraries can be used for writing parallel applications that launch multiple
+processes, both on the same node and across multiple cluster nodes. These processes can subsequently execute a
+variety of workloads, e.g. Numba-compiled functions, NumPy calculations, and even GPU-enabled codes.
+</p><p>
+In this webinar, we will focus on scaling Ray workflows to multiple HPC cluster nodes to speed up various
+(non-ML) numerical workflows. We will look at both a loosely coupled (embarrassingly parallel) problem and a
+tightly coupled parallel problem.
+</p>
+ <ul>
+  <li>Speaker: Alex Razoumov</li>
+  <li><a href="" target="_blank">Recording</a></li>
+  <li><a href="https://wgpages.netlify.app/clusterworkflows" target="_blank">Online notes</a></li>
+</ul>
+</details>
+
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Working with multidimensional datasets in xarray</font></a> (2020-Sep-30)
+</summary>
+<br>
+ <ul>
+  <li>Speaker: Alex Razoumov</li>
+  <li><a href="" target="_blank">Recording</a></li>
+  <li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/xarray20200930.pdf" target="_blank">PDF slides</a></li>
+</ul>
+<div class="flex-video">
+	<iframe width="1158" height="660" src="https://www.youtube.com/embed/xdrcMi_FB8Q" frameborder="0"
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+</details>
+
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Working with the Python DASK library</font></a> (2019-Oct-16)
+</summary>
+<br>
+<ul>
+	<li>Speaker: Chris Want</li>
+	<li><a href="https://github.com/ualberta-rcg/wg-dask-webinar" target="_blank">Python notebook with an interactive slide deck on GitHub</a></li>
+	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dask20191016.ipynb.gz" target="_blank">Python notebook as a gzipped file</a></li>
+</ul>
+<div class="flex-video">
+	<iframe width="966" height="543" src="https://www.youtube.com/embed/uGy5gT2vLdI" frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen></iframe>
+</div>
+</details>
+
+
+
+
 
 
 
