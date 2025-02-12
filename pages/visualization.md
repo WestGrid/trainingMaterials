@@ -12,6 +12,8 @@ permalink: "/tools/visualization/"
 For full documentation, please check the <a href="https://docs.alliancecan.ca/wiki/Visualization"
 target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
+## Workshops
+
 * ParaView full-day workshop slides (last updated summer 2023):
   - <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/paraviewWorkshop1.pdf"
      target="_blank">Part 1</a> (69 pages)
@@ -24,6 +26,8 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 * <a href="https://acenet-arc.github.io/paraview-introduction/" target="_blank">ACENET's Paraview
   Introduction</a> by Angus Creech
 <!-- repo https://github.com/acenet-arc/paraview-introduction/tree/master/_episodes -->
+
+## Webinars
 
 <!-- <details> -->
 <!-- <summary> -->
@@ -43,11 +47,6 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 <!-- </div> -->
 <!-- <br> -->
 <!-- </details> -->
-
-
-
-
-
 
 Click on each webinar for its recording and materials.
 
