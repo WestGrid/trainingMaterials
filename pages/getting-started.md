@@ -38,7 +38,7 @@ permalink: "/getting-started/"
 
 
 <a name="hpc"></a>
-# High-performance computing
+## High-performance computing
 
 Click on each webinar for its recording and materials.
 
@@ -165,7 +165,7 @@ This is an introduction to working on our HPC systems for new users.
 
 
 <a name="linux"></a>
-# Linux command line
+## Linux command line
 
 <!-- Browse the materials from our Introduction to Linux: Command Line Basics (delivered Sept 2017): -->
 <!-- - [View the slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introLinuxCommandLine20170926.pdf) -->
@@ -334,7 +334,7 @@ a lot more readable. For the Emacs users, we finish the workshop with two Emacs 
 
 
 <a name="git"></a>
-# Git version control
+## Git version control
 
 * <a href="https://mint.westdri.ca/git/ws_collab" target="_blank">Collaborating through Git & GitHub</a>
 * <a href="https://mint.westdri.ca/git/ws_contrib" target="_blank">Contributing to GitHub projects</a>
@@ -380,7 +380,7 @@ commands.
 
 
 <a name="easybuild"></a>
-# Building software with EasyBuild
+## Building software with EasyBuild
 
 Click on each webinar for its recording and materials.
 
@@ -427,7 +427,7 @@ Click on each webinar for its recording and materials.
 
 
 <a name="quarto"></a>
-# Authoring scientific documents and static site generators
+## Authoring scientific documents and static site generators
 
 <details>
 <summary>

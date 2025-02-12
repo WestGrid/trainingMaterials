@@ -27,7 +27,7 @@ permalink: "/programming/"
 
 
 <a name="python"></a>
-# Python
+## Python
 
 We give many Python-based workshops and webinars -- you can find quite a few of them in the [visualization section]({{
 site.baseurl }}/tools/visualization).
@@ -130,7 +130,7 @@ tightly coupled parallel problem.
 
 
 <a name="r-language"></a>
-# R
+## R
 
 Click on each webinar for its recording and materials.
 
@@ -171,7 +171,7 @@ various packages for parallelization, as well as using C++ from inside R to spee
 
 
 <a name="julia"></a>
-# Julia
+## Julia
 
 You can also browse some of our Julia programming materials <a href="https://mint.westdri.ca/julia" target="_blank">here</a>.
 
@@ -349,7 +349,7 @@ a Julia set, and an N-body solver. We run the examples on a multi-core laptop an
 
 
 <a name="chapel"></a>
-# Chapel
+## Chapel
 
 Click on each webinar for its recording and materials.
 
@@ -467,7 +467,7 @@ write efficient large-scale numerical codes.
 
 
 
-### HPC Carpentry Course
+## HPC Carpentry Course
 
 As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Parallel programming in Chapel* course](https://hpc-carpentry.github.io/hpc-chapel). The materials and exercises presented in this course can be presented as a full-day workshop. If you have questions about the materials, please contact Alex Razoumov - alex.razoumov@westgrid.ca.
 
@@ -479,7 +479,7 @@ As part of their contribution to HPC Carpentry, WestGrid staff authored a [*Para
 
 
 <a name="mpi"></a>
-# MPI
+## MPI
 
 Click on each webinar for its recording and materials.
 
@@ -510,7 +510,7 @@ Click on each webinar for its recording and materials.
 
 
 <a name="openmp"></a>
-# OpenMP
+## OpenMP
 
 Click on each webinar for its recording and materials.
 
@@ -552,7 +552,7 @@ The topics covered include:
 
 
 <a name="debugging"></a>
-# Debugging and profiling
+## Debugging and profiling
 
 Click on each webinar for its recording and materials.
 
@@ -583,7 +583,7 @@ Click on each webinar for its recording and materials.
 
 
 <a name="matlab"></a>
-# MATLAB
+## MATLAB
 
 Click on each webinar for its recording and materials.
 
