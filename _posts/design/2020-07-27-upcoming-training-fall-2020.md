@@ -37,7 +37,7 @@ To view recordings and slides from past sessions, click on the linked title.
 | ------------- | --------------- | ----------------- |
 | Sep-30 | [<span style="color:blue">Working with multidimensional datasets in xarray</span>]({{ site.baseurl }}/tools/rdm#xarray) | Alex Razoumov |
 | Oct-28 | [<span style="color:blue">Intermediate VMD topics: trajectories, movies, scripting</span>]({{ site.baseurl }}/tools/visualization/#intermediate-vmd-topics-trajectories-movies-scripting) | Olivier Fisette |
-| Nov-13[^1] | [<span style="color:blue">Tips & tricks on getting programming help</span>]({{ site.baseurl }}/getting-started/#Tips-&-tricks-on-getting-programming-help) | Marie-Hélène Burle |
+| Nov-13[^1] | [<span style="color:blue">Tips & tricks on getting programming help</span>]({{ site.baseurl }}/getting-started) | Marie-Hélène Burle |
 | Nov-25 | [<span style="color:blue">The Topology ToolKit</span>]({{ site.baseurl }}/tools/visualization/#the-topology-toolkit-ttk) | Alex Razoumov |
 | Dec-09 | [<span style="color:blue">Basics of GIS mapping in R</span>]({{ site.baseurl }}/domains/geo/#gis-with-r) | Marie-Hélène Burle |
 
