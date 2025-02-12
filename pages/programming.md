@@ -53,6 +53,7 @@ Click on each webinar for its recording and materials.
 <!-- </ul> -->
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
+<!-- <br> -->
 <!-- </details> -->
 
 
@@ -75,6 +76,7 @@ tightly coupled parallel problem.
 	<li>Speaker: Alex Razoumov</li>
 	<li><a href="https://wgpages.netlify.app/clusterworkflows" target="_blank">Online notes</a></li>
 </ul>
+<br>
 </details>
 
 
@@ -92,6 +94,7 @@ tightly coupled parallel problem.
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 
@@ -110,6 +113,7 @@ tightly coupled parallel problem.
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <br> [Return to the top of this section]({{ site.baseurl }}/programming#python)
@@ -155,6 +159,7 @@ various packages for parallelization, as well as using C++ from inside R to spee
 	high-performance research computing in R" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <br> [Return to the top of this section]({{ site.baseurl }}/programming#r-language)
@@ -210,6 +215,7 @@ nodes.
 	clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <!-- <a name="nextflow"></a> -->
@@ -239,6 +245,7 @@ experiments:
 	encrypted-media; gyroscope; picture-in-picture; web-share"
 	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -256,6 +263,7 @@ experiments:
 	encrypted-media; gyroscope; picture-in-picture; web-share"
 	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -272,6 +280,7 @@ experiments:
 	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -296,6 +305,7 @@ runtime profiling tools.
 	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -317,6 +327,7 @@ a Julia set, and an N-body solver. We run the examples on a multi-core laptop an
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -335,6 +346,7 @@ a Julia set, and an N-body solver. We run the examples on a multi-core laptop an
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <br> [Return to the top of this section]({{ site.baseurl }}/programming#julia)
@@ -386,6 +398,7 @@ In this webinar, we guide you through Chapel's key GPU programming features with
 	Chapel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
 	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -402,6 +415,7 @@ In this webinar, we guide you through Chapel's key GPU programming features with
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -418,6 +432,7 @@ In this webinar, we guide you through Chapel's key GPU programming features with
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -455,6 +470,7 @@ write efficient large-scale numerical codes.
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/hdnVKGJAlcM" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <br> [Return to the top of this section]({{ site.baseurl }}/programming#chapel)
@@ -497,6 +513,7 @@ Click on each webinar for its recording and materials.
 	<iframe width="780" height="585" src="https://www.youtube.com/embed/P3kMdyka0XI" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 
@@ -539,6 +556,7 @@ The topics covered include:
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/LL3TAHpxOig" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 
@@ -570,6 +588,7 @@ Click on each webinar for its recording and materials.
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 
@@ -601,4 +620,5 @@ Click on each webinar for its recording and materials.
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>

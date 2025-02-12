@@ -32,6 +32,7 @@ permalink: "/getting-started/"
 <!-- </ul> -->
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
+<!-- <br> -->
 <!-- </details> -->
 
 
@@ -70,6 +71,7 @@ guide you through the best practices for deploying your HPC or HTC computations 
 	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -86,6 +88,7 @@ guide you through the best practices for deploying your HPC or HTC computations 
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -106,6 +109,7 @@ embedded video below starts at the relevant section.
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -123,6 +127,7 @@ This is an introduction to working on our HPC systems for new users.
 	<iframe width="781" height="439" src="https://www.youtube.com/embed/EY-NIGhCnhQ" frameborder="0"
 	allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <br> [Return to the top of this section]({{ site.baseurl }}/getting-started#hpc)
@@ -219,6 +224,7 @@ live demos.
 	utilities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
 	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -247,6 +253,7 @@ topics.
 	very useful Bash features" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -272,6 +279,7 @@ the cluster.
 	interactive experience on the cluster with tmux" frameborder="0" allow="accelerometer; autoplay;
 	clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -304,6 +312,7 @@ a lot more readable. For the Emacs users, we finish the workshop with two Emacs 
 	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -322,6 +331,7 @@ a lot more readable. For the Emacs users, we finish the workshop with two Emacs 
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <br> [Return to the top of this section]({{ site.baseurl }}/getting-started#linux)
@@ -371,6 +381,7 @@ commands.
 	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
 	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 
@@ -398,6 +409,7 @@ Click on each webinar for its recording and materials.
 	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -415,6 +427,7 @@ Click on each webinar for its recording and materials.
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <br> [Return to the top of this section]({{ site.baseurl }}/getting-started#easybuild)
@@ -450,6 +463,7 @@ also with Python and Julia code blocks, adding new functionality to the old tool
 	datasets with DataLad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
 	gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 
@@ -488,6 +502,7 @@ them. Finally, I demo how the package Polymode allows to embed sections of a typ
 	Emacs modes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
 	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -513,6 +528,7 @@ bringing great speed and sleekness to the user experience.
 	those new tools that make Emacs better and faster" frameborder="0" allow="accelerometer; autoplay;
 	clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <details>
@@ -536,6 +552,7 @@ can't let go of Emacs, then show how it can be used as a programming IDE for Pyt
 	programming IDE for Python, R, and Julia" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+<br>
 </details>
 
 <br> [Return to the top of this section]({{ site.baseurl }}/getting-started#emacs)
