@@ -130,7 +130,7 @@ This is an introduction to working on our HPC systems for new users.
 <br>
 </details>
 
-<br> [Return to the top of this section]({{ site.baseurl }}/getting-started#hpc)
+<br> [Collapse all webinars in this section]({{ site.baseurl }}/getting-started#hpc)
 
 
 
@@ -334,7 +334,7 @@ a lot more readable. For the Emacs users, we finish the workshop with two Emacs 
 <br>
 </details>
 
-<br> [Return to the top of this section]({{ site.baseurl }}/getting-started#linux)
+<br> [Collapse all webinars in this section]({{ site.baseurl }}/getting-started#linux)
 
 
 
@@ -430,7 +430,7 @@ Click on each webinar for its recording and materials.
 <br>
 </details>
 
-<br> [Return to the top of this section]({{ site.baseurl }}/getting-started#easybuild)
+<br> [Collapse all webinars in this section]({{ site.baseurl }}/getting-started#easybuild)
 
 
 
@@ -555,4 +555,4 @@ can't let go of Emacs, then show how it can be used as a programming IDE for Pyt
 <br>
 </details>
 
-<br> [Return to the top of this section]({{ site.baseurl }}/getting-started#emacs)
+<br> [Collapse all webinars in this section]({{ site.baseurl }}/getting-started#emacs)

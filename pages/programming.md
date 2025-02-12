@@ -122,7 +122,7 @@ tightly coupled parallel problem.
 <br>
 </details>
 
-<br> [Return to the top of this section]({{ site.baseurl }}/programming#python)
+<br> [Collapse all webinars in this section]({{ site.baseurl }}/programming#python)
 
 
 
@@ -168,7 +168,7 @@ various packages for parallelization, as well as using C++ from inside R to spee
 <br>
 </details>
 
-<br> [Return to the top of this section]({{ site.baseurl }}/programming#r-language)
+<br> [Collapse all webinars in this section]({{ site.baseurl }}/programming#r-language)
 
 
 
@@ -355,7 +355,7 @@ a Julia set, and an N-body solver. We run the examples on a multi-core laptop an
 <br>
 </details>
 
-<br> [Return to the top of this section]({{ site.baseurl }}/programming#julia)
+<br> [Collapse all webinars in this section]({{ site.baseurl }}/programming#julia)
 
 
 
@@ -479,7 +479,7 @@ write efficient large-scale numerical codes.
 <br>
 </details>
 
-<br> [Return to the top of this section]({{ site.baseurl }}/programming#chapel)
+<br> [Collapse all webinars in this section]({{ site.baseurl }}/programming#chapel)
 
 
 
