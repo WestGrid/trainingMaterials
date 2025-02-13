@@ -9,23 +9,10 @@ header:
 permalink: "/domains/bioinfo/"
 ---
 
-## Ask An Expert
+<!-- ## Ask An Expert -->
 
 <!-- Browse the forum, ask a question, or request one-on-one support in -->
 <!-- [Compute Canada&#8217;s Bioinformatics Helpdesk](https://bioinformatics.computecanada.ca). -->
-
-<!-- [Table of Contents](#table-of-contents): -->
-<!-- &nbsp; [<em>Container-based approach to bioinformatics applications</em>](#container-based-approach-to-bioinformatics-applications) -->
-<!-- • [<em>Building a bioinformatics QC pipeline</em>](#building-a-bioinformatics-qc-pipeline) -->
-<!-- • [<em>"Short read DNA sequencing alignment and visualization"</em>](#short-read-dna-sequencing-alignment-and-visualization) -->
-<!-- • [<em>"Tools for automating analysis pipelines"</em>](#tools-for-automating-analysis-pipelines) -->
-<!-- • [<em>"The Human Variant Database"</em>](#the-human-variant-database) -->
-<!-- • [<em>"Bioinfo Series: Detecting structural variants"</em>](#bioinformatics-series-detecting-structural-variants) -->
-<!-- • [<em>"Bioinfo Series: Quality Control of Next-Gen Sequence Data"</em>](#bioinformatics-series-quality-control-of-next-gen-sequence-data) -->
-<!-- • [<em>"Bioinfo Series: FFPE in Your NGS Study"</em>](#bioinformatics-series-ffpe-in-your-ngs-study) -->
-<!-- • [<em>"Bioinfo Series: Designing an NGS Study for my Biological Question"</em>](#bioinformatics-series-designing-an-ngs-study-for-my-biological-question) -->
-<!-- • [<em>"Bioinfo Series: Benchmarking of Variant Callers and Analysis Tools"</em>](#bioinformatics-series-benchmarking-of-variant-callers-and-analysis-tools) -->
-<!-- • [<em>"Bioinfo Series: Introduction to Bioinformatics"</em>](#bioinformatics-series-introduction-to-bioinformatics) -->
 
 ## Webinars
 
