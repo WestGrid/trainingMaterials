@@ -13,17 +13,34 @@ permalink: "/tools/ml/"
 
 ## Webinars
 
+<!-- <details> -->
+<!-- <summary> -->
+<!-- <a>&nbsp;&nbsp;<font size="+1">Title</font></a> (date) -->
+<!-- </summary> -->
+<!-- <br> -->
+<!-- <p> -->
+<!-- paragraph 1 -->
+<!-- </p><p> -->
+<!-- paragraph 2 -->
+<!-- </p> -->
+<!-- <ul> -->
+<!-- 	<li>Speaker: </li> -->
+<!-- 	<li><a href="" target="_blank">PDF slides</a></li> -->
+<!-- </ul> -->
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<!-- <br> -->
+<!-- </details> -->
 
+Click on each webinar for its recording and materials.
 
-
-
-
-
+<details>
 <a name="jax"></a>
-#### *"JAX: a framework for high-performance array computing"*
-
-**Webinar** (2024-Apr-16) with Marie-Hélène Burle
-
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">JAX: a framework for high-performance array computing</font></a> (2024-Apr-16)
+</summary>
+<br>
+<p>
 JAX is an open source Python library for high-performance array computing and flexible automatic
 differentiation. High-performance computing in JAX is achieved via asynchronous dispatch, just-in-time
 compilation, the XLA compiler for linear algebra, and full compatibility with accelerators (GPUs and
@@ -31,96 +48,111 @@ TPUs). Automatic differentiation in JAX uses Autograd and works with complex con
 recursions), second and third-order derivatives, forward and reverse modes. This makes JAX ideal for machine
 learning and neural network libraries such as Flax that are built on top of it. This webinar gives an overview
 of JAX's principles and functioning.
-
-* [Online slides](https://mint.westdri.ca/ai/wb_jax_slides#/title-slide)
-
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://mint.westdri.ca/ai/wb_jax_slides#title-slide" target="_blank">Online slides</a></li>
+</ul>
 <div class="flex-video">
 	<iframe width="779" height="438" src="https://www.youtube.com/embed/tk3x9x0eqPU" title="JAX: a framework
 	for high-performance array computing" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 	encrypted-media; gyroscope; picture-in-picture; web-share"
 	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br>
+</details>
 
----
-
+<details>
 <a name="genai"></a>
-#### *"Things researchers should know before using Generative AI"*
-
-**Webinar** (2024-Mar-19) with Jillian Anderson
-
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Things researchers should know before using Generative AI</font></a> (2024-Mar-19)
+</summary>
+<br>
+<p>
 It's been over a year since ChatGPT propelled Generative AI (GenAI) into the spotlight, making it a household
 name. Despite the buzz around GenAI, uncertainty persists about how to best use it in our daily lives and
 work. In this webinar, we touch on the basics of GenAI before exploring its opportunities and risks. We end
 the session by discussing current best practices and strategies for working with GenAI. Our goal is to offer
 practical guidance for researchers considering the adoption of GenAI.
-
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/genAIForResearch20240319.pdf)
-
+</p>
+<ul>
+	<li>Speaker: Jillian Anderson</li>
+	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/genAIForResearch20240319.pdf" target="_blank">PDF slides</a></li>
+</ul>
 <div class="flex-video">
 	<iframe width="784" height="441" src="https://www.youtube.com/embed/5zVAd72Fm2E" title="Things researchers
 	should know before using Generative AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+<br>
+</details>
 
----
-
+<details>
 <a name="copilot"></a>
-#### *"AI-powered coding with GitHub Copilot"*
-
-**Webinar** (2024-Jan-23) with Marie-Hélène Burle
-
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">AI-powered coding with GitHub Copilot</font></a> (2024-Jan-23)
+</summary>
+<br>
+<p>
 The recent advances in generative AI have brought about a number of code generators and code-completion
 assistants. This webinar gives an overview of the state of the field, briefly explaining the functioning of
 various types of tools, then focusing on GitHub Copilot. Copilot is developed by GitHub and OpenAI. It is a
 cloud-based service requiring a subscription, but students and teachers can apply for free access. It can be
 used directly in the command line or as an extension to text editors such as VS Code, Emacs, or Neovim. Here I
 demo Copilot's main features:
-
-- turn natural language prompts into code suggestions based on code context,
-- turn comments into code,
-- translate from one programming language to another,
-- provide live code-completion,
-- chat about your code,
-- provide easy access to documentation,
-- suggest pull requests messages.
-
-* [Online slides](https://mint.westdri.ca/ai/wb_copilot)
-
+<li> turn natural language prompts into code suggestions based on code context,</li>
+<li> turn comments into code,</li>
+<li> translate from one programming language to another,</li>
+<li> provide live code-completion,</li>
+<li> chat about your code,</li>
+<li> provide easy access to documentation,</li>
+<li> suggest pull requests messages.</li>
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://mint.westdri.ca/ai/wb_copilot" target="_blank">Online slides</a></li>
+</ul>
 <div class="flex-video">
 	<iframe width="750" height="422" src="https://www.youtube.com/embed/gvAUdhiTIME" title="AI-powered coding
 	with GitHub Copilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
 	gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+<br>
+</details>
 
----
-
+<details>
 <a name="current-ml-frameworks"></a>
-#### *"A map of current machine learning frameworks"*
-
-**Webinar** (2023-Oct-03) with Marie-Hélène Burle
-
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">A map of current machine learning frameworks</font></a> (2023-Oct-03)
+</summary>
+<br>
+<p>
 We are in a period of active development of new deep learning techniques, adding to the already mature area of
 traditional machine learning. This is leading to a vast and ever evolving field of implementations which can
 be disorienting. This webinar guides you through a map of the current frameworks, organizing them based on
 their domain (machine learning vs deep learning) and the languages required to use them. We also talk about
 the various automatic differentiation options available. To narrow such a large topic, we are limiting the map
 to frameworks that can be used from Python, Julia, and R.
-
-* [Online slides](https://mint.westdri.ca/ml/frameworks)
-
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://mint.westdri.ca/ml/frameworks" target="_blank">Online slides</a></li>
+</ul>
 <div class="flex-video">
 	<iframe width="1396" height="794" src="https://www.youtube.com/embed/XGtiCBz2gIg" title="A map of current
 	machine learning frameworks" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 	encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+<br>
+</details>
 
----
-
+<details>
 <a name="tensorboard"></a>
-#### *"TensorBoard for objection detection models"*
-
-**Webinar** (2022-Oct-12) with Jillian Anderson
-
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">TensorBoard for objection detection models</font></a> (2022-Oct-12)
+</summary>
+<br>
+<p>
 TensorFlow remains one of the most popular machine learning frameworks for researchers from across
 disciplines. The TensorFlow ecosystem's size & flexibility makes it a powerful solution for tasks such as
 machine translation, image classification, and voice recognition. However, the same things that make the
@@ -133,94 +165,115 @@ monitor a model during training and (2) evaluate and compare models once trainin
 focuses on the TensorBoard tools specifically relevant to object detection models, with examples from a
 project in ecological monitoring that utilized the Cedar cluster for training. However, the general concept of
 using TensorBoard for model monitoring is applicable to projects from across disciplines and HPC clusters.
-
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/tensorBoard20221012.pdf)
-
+</p>
+<ul>
+	<li>Speaker: Jillian Anderson</li>
+	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/tensorBoard20221012.pdf" target="_blank">PDF slides</a></li>
+</ul>
 <div class="flex-video">
 	<iframe width="843" height="474" src="https://www.youtube.com/embed/y4YGqMcsIxc" title="TensorBoard for
 	objection detection models" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
+</details>
 
----
-
+<details>
 <a name="pytorch-tensors"></a>
-#### *"Everything you wanted to know (and more) about PyTorch tensors"*
-
-**Webinar** (2022-Jan-19) with Marie-Hélène Burle
-
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Everything you wanted to know (and more) about PyTorch tensors</font></a> (2022-Jan-19)
+</summary>
+<br>
+<p>
 Python already has several multidimensional array structures -- the most popular of which being NumPy's
 `ndarray` -- but the particularities of deep learning call for special characteristics: the ability to run
 operations on GPUs and/or in a distributed fashion, as well as the ability to keep track of computation graphs
 for automatic differentiation. PyTorch tensors provide these and much more, can be easily converted to/from
 NumPy's `ndarray` and integrate well with other Python libraries such as Pandas.
-
-* [Online slides](https://slides.westdri.ca/torchtensors_webinar)
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/torchtensors20220119.pdf)
-
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://slides.westdri.ca/torchtensors_webinar" target="_blank">Online slides</a></li>
+	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/torchtensors20220119.pdf" target="_blank">PDF slides</a></li>
+</ul>
 <div class="flex-video">
 	<iframe width="747" height="420" src="https://www.youtube.com/embed/n-3h9ucTN4w" title="YouTube video player"
 	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
+</details>
 
----
-
-#### *"Upscaling with PyTorch"*
-
-**Webinar** (2021-Nov-24) with Marie-Hélène Burle
-
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Upscaling with PyTorch</font></a> (2021-Nov-24)
+</summary>
+<br>
+<p>
 Super-resolution (the process of recreating high-resolution images from low-resolution ones) is an old field, but deep
 neural networks have seen a sudden surge of new and very impressive methods over the past 10 years, from SRCNN to SRGAN
 to Transformers. This webinar provides a quick overview of these methods and shows how the latest state-of-the-art model
-— [SwinIR](https://github.com/jingyunliang/swinir) — performs on a few test images using [PyTorch](https://pytorch.org)
-as our framework.
-
-* [PDF slides](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/upscalingPyTorch20211124.pdf)
-
+— <a href="https://github.com/jingyunliang/swinir" target="_blank">SwinIR</a> — performs on a few test images
+using  <a href="https://pytorch.org" target="_blank">PyTorch</a> as our framework.
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/upscalingPyTorch20211124.pdf" target="_blank">PDF slides</a></li>
+</ul>
 <div class="flex-video">
 	<iframe width="657" height="370" src="https://www.youtube.com/embed/vtuSFQ_0u0M" title="YouTube video player"
 	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
+</details>
 
----
-
+<details>
 <a name="fastai"></a>
-#### *"Introduction to deep learning with fastai"*
-
-**Webinar** (2021-Apr-14) with Marie-Hélène Burle
-
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to deep learning with fastai</font></a> (2021-Apr-14)
+</summary>
+<br>
+<p>
 fastai is a deep learning library with high-level components that can quickly and easily provide state-of-the-art
 results in standard deep learning domains. It also provides researchers with low-level components that can be mixed and
 matched to build new approaches.
-
+</p><p>
 fastai aims to do both things without substantial compromises in ease of use, flexibility, or performance. This is
 possible thanks to a carefully layered architecture, which expresses common underlying patterns of many deep learning
 and data processing techniques in terms of decoupled abstractions.
-
+</p><p>
 This webinar takes a closer look at the features and functionality of fastai.
-
-* <a href="https://ml.westdri.ca/webinars/fastai" target="_blank">Online slides</a>
-
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://ml.westdri.ca/webinars/fastai" target="_blank">Online slides</a></li>
+</ul>
 <div class="flex-video">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/Q3__FzA6XLc" title="YouTube video player"
 	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
+</details>
 
----
-
-#### *"Machine learning in Julia with Flux"*
-
-**Webinar** (2020-May-13) with Marie-Hélène Burle
-
-* <a href="https://ml.westdri.ca/webinars/flux.html" target="_blank">Webinar page</a>
-* <a href="https://ml.westdri.ca/webinars/flux.html#headline-4" target="_blank">Comments & questions</a>
-* <a href="https://westgrid-webinars.netlify.app/flux#" target="_blank">Online slides</a>
-
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Machine learning in Julia with Flux</font></a> (2020-May-13)
+</summary>
+<br>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://ml.westdri.ca/webinars/flux.html" target="_blank">Webinar page</a></li>
+	<li><a href="https://ml.westdri.ca/webinars/flux.html#headline-4" target="_blank">Comments & questions</a></li>
+	<li><a href="https://westgrid-webinars.netlify.app/flux#" target="_blank">Online slides</a></li>
+</ul>
 <div class="flex-video">
 	<iframe width="681" height="383" src="https://www.youtube.com/embed/9nhVaJSuMF8" frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen></iframe>
 </div>
+<br>
+</details>
+
+<br> [Collapse all webinars in this section]({{ site.baseurl }}/tools/ml)
