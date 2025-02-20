@@ -75,7 +75,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Feb-25 | [Bayesian inference in JAX](https://docs.google.com/forms/d/e/1FAIpQLSeBPuikey7-1Vmjj8SOX4ugY_Rg1kARe7n5JAfPmtKDgAlgiw/viewform){:target="_blank"} | Marie-Hélène Burle | <!-- one of https://github.com/blackjax-devs/blackjax, https://github.com/pymc-devs/pymc, https://github.com/google-deepmind/distrax -->
 | Mar-11 | TBA | UBC speaker | <!-- in emergency Alex will do this webinar -->
 | Mar-25 | [Compliance or chaos: a research assessment survival guide](https://docs.google.com/forms/d/1C6BkndsalZ1IVGuwcEI-sS5b1FOawf2BXNTzX6oobc8/preview){:target="_blank"} | Luc Letarte &<br> Jessica Galo |
-| Apr-08 | TBA | UBC speaker | <!-- in emergency Marie will do this webinar -->
+| Apr-08 | Introduction to Globus | Ben Lai &<br> Michael Tang |
 | Apr-22 | [Cybersecurity hygiene](https://docs.google.com/forms/d/187TAxpesb7_irRQERCF3fpKeA5PRPYKRDugqVlDkpQQ/preview){:target="_blank"} | Scott Baker |
 | May-06 | [TBD](https://docs.google.com/forms/d/e/1FAIpQLScgh6aVe4bDQhIDn5s2Ctzlr-zgQc_KSsxgdsIhjBRT91gUMg/viewform){:target="_blank"} | Marie-Hélène Burle |
 | May-20 | [Introduction to Fir cluster](https://docs.google.com/forms/d/e/1FAIpQLSfEFzFAZsgEej5BulHdqEPREOpC2G87iN27gGpSy5POUJBQ7w/viewform){:target="_blank"} | Alex Razoumov |
@@ -120,7 +120,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
 | Introduction to the Unix shell | Jan-16, Jan-23 | Marie-Hélène Burle |
-| Introduction to HPC | Jan-30, Feb-06, Feb-13 | Alex Razoumov | <!-- Marie teaches agriculture at Duncan on Feb 6-7 -->
+| Introduction to HPC | Jan-30, Feb-06, Feb-13 | Alex Razoumov | <!-- Marie not teaching agriculture at Duncan on Feb 6-7 -->
 | [High-performance R](https://docs.google.com/forms/d/e/1FAIpQLSejhZwEM5oKwM8mMIHyphNfQ_ClfIl9H7YVjYa8hojjPCcnEQ/viewform){:target="_blank"} | Feb-27, Mar-06 | Marie-Hélène Burle |
 | [Scientific visualization](https://docs.google.com/forms/d/e/1FAIpQLSfeXmG5aLAyz1Ly_AXckGWQ3VV46jZe1ucQ9VBMIWjiCxL_YQ/viewform){:target="_blank"} | Mar-13 | Alex Razoumov |
 | [Parallel Julia](https://docs.google.com/forms/d/e/1FAIpQLScNw2QMx8VCfgy8Ha1PJDncDvMDb49LFAHx0XamviXMN1qShw/viewform){:target="_blank"} | Mar-20, Mar-27  | Alex Razoumov |
