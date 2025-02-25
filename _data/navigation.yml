@@ -39,6 +39,8 @@
     url: "/tools/rdm/"
   - title: "Machine Learning"
     url: "/tools/ml/"
+  - title: "Probabilistic Programming"
+    url: "/tools/pp/"
 
 - title: "Courses"
   url: "/courses/"
