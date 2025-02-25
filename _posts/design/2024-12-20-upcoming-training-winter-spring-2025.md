@@ -72,7 +72,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Jan-21 | [<span style="color:blue">High-level parallel stencil computations on CPUs and GPUs in Julia</span>]({{ site.baseurl }}/programming#julia) | Alex Razoumov | <!-- ParallelStencil.jl -->
 | Jan-28 | [<span style="color:blue">Modern shell utilities</span>]({{ site.baseurl }}/getting-started#linux) | Marie-Hélène Burle |
 | Feb-11 | [<span style="color:blue">Running parallel Ray workflows across multiple cluster nodes</span>]({{ site.baseurl }}/programming#python) | Alex Razoumov |
-| Feb-25 | [Bayesian inference in JAX](https://docs.google.com/forms/d/e/1FAIpQLSeBPuikey7-1Vmjj8SOX4ugY_Rg1kARe7n5JAfPmtKDgAlgiw/viewform){:target="_blank"} | Marie-Hélène Burle | <!-- one of https://github.com/blackjax-devs/blackjax, https://github.com/pymc-devs/pymc, https://github.com/google-deepmind/distrax -->
+| Feb-25 | [<span style="color:blue">Bayesian inference in JAX</span>]({{ site.baseurl }}/tools/pp) | Marie-Hélène Burle |
 | Mar-11 | TBA | UBC speaker | <!-- in emergency Alex will do this webinar -->
 | Mar-25 | [Compliance or chaos: a research assessment survival guide](https://docs.google.com/forms/d/1C6BkndsalZ1IVGuwcEI-sS5b1FOawf2BXNTzX6oobc8/preview){:target="_blank"} | Luc Letarte &<br> Jessica Galo |
 | Apr-08 | [Introduction to Globus](https://docs.google.com/forms/d/1-JkaucFnY8FDex9SCSIyODvoWRMwlPurEnGFEMjzhtc/preview){:target="_blank"} | Ben Lai &<br> Michael Tang |
