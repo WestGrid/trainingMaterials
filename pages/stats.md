@@ -71,6 +71,8 @@ the various PPLs and samplers which use JAX.
 <ul>
 	<li>Speaker: Marie-Hélène Burle</li>
 	<li><a href="https://mint.westdri.ca/ai/jx/wb_bayesian" target="_blank">Webinar page with slides</a></li>
+	<li><a href="https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers"
+	target="_blank">"Probabilistic Programming & Bayesian Methods for Hackers" book online</a></li>
 </ul>
 <div class="flex-video">
 	<iframe width="1000" height="563" src="https://www.youtube.com/embed/ERACcan7Nns" title="Bayesian
