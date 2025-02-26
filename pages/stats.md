@@ -72,8 +72,12 @@ the various PPLs and samplers which use JAX.
 	<li>Speaker: Marie-Hélène Burle</li>
 	<li><a href="https://mint.westdri.ca/ai/jx/wb_bayesian" target="_blank">Webinar page with slides</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="1000" height="563" src="https://www.youtube.com/embed/ERACcan7Nns" title="Bayesian
+	inference in JAX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+	allowfullscreen></iframe>
+</div>
 <br>
 </details>
 
