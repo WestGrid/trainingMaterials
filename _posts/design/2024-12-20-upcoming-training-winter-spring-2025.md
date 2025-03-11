@@ -73,7 +73,6 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Jan-28 | [<span style="color:blue">Modern shell utilities</span>]({{ site.baseurl }}/getting-started#linux) | Marie-Hélène Burle |
 | Feb-11 | [<span style="color:blue">Running parallel Ray workflows across multiple cluster nodes</span>]({{ site.baseurl }}/programming#python) | Alex Razoumov |
 | Feb-25 | [<span style="color:blue">Bayesian inference in JAX</span>]({{ site.baseurl }}/tools/pp) | Marie-Hélène Burle |
-| Mar-11 | [From cloud to HPC: building a GPU-enabled container on Arbutus](https://docs.google.com/forms/d/1zpmoFjCf7KXAk8_kFWGHh-uSsXM3Pbf_gao1tXH9i_M/preview){:target="_blank"} | Alex Razoumov |
 | Mar-25 | [Compliance or chaos: a research assessment survival guide](https://docs.google.com/forms/d/1C6BkndsalZ1IVGuwcEI-sS5b1FOawf2BXNTzX6oobc8/preview){:target="_blank"} | Luc Letarte &<br> Jessica Galo |
 | Apr-08 | [Introduction to Globus](https://docs.google.com/forms/d/1-JkaucFnY8FDex9SCSIyODvoWRMwlPurEnGFEMjzhtc/preview){:target="_blank"} | Ben Lai &<br> Michael Tang |
 | Apr-22 | [Cybersecurity hygiene](https://docs.google.com/forms/d/187TAxpesb7_irRQERCF3fpKeA5PRPYKRDugqVlDkpQQ/preview){:target="_blank"} | Scott Baker |
