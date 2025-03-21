@@ -76,7 +76,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Mar-25 | [Compliance or chaos: a research assessment survival guide](https://docs.google.com/forms/d/1C6BkndsalZ1IVGuwcEI-sS5b1FOawf2BXNTzX6oobc8/preview){:target="_blank"} | Luc Letarte &<br> Jessica Galo |
 | Apr-08 | [Introduction to Globus](https://docs.google.com/forms/d/1-JkaucFnY8FDex9SCSIyODvoWRMwlPurEnGFEMjzhtc/preview){:target="_blank"} | Ben Lai &<br> Michael Tang |
 | Apr-22 | [Cybersecurity hygiene](https://docs.google.com/forms/d/187TAxpesb7_irRQERCF3fpKeA5PRPYKRDugqVlDkpQQ/preview){:target="_blank"} | Scott Baker |
-| May-06 | [Using LLMs in Emacs](https://docs.google.com/forms/d/e/1FAIpQLScgh6aVe4bDQhIDn5s2Ctzlr-zgQc_KSsxgdsIhjBRT91gUMg/viewform){:target="_blank"} | Marie-Hélène Burle |
+| May-06 | [Packages, versions, projects, and virtual env management with uv](https://docs.google.com/forms/d/1zw7PDyPdjnTuZ3n9Ew76Xbh2pVpbPffltsxJsAJCMUs/preview){:target="_blank"} | Marie-Hélène Burle |
 | May-20 | [Introduction to Fir cluster](https://docs.google.com/forms/d/e/1FAIpQLSfEFzFAZsgEej5BulHdqEPREOpC2G87iN27gGpSy5POUJBQ7w/viewform){:target="_blank"} | Alex Razoumov |
 
 <!-- Other potential filler topics: -->
