@@ -41,6 +41,8 @@
     url: "/tools/ml/"
   - title: "Probabilistic Programming"
     url: "/tools/pp/"
+  - title: "Cybersecurity"
+    url: "/tools/cyber/"
 
 - title: "Courses"
   url: "/courses/"
