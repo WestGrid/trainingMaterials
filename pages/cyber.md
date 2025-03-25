@@ -5,7 +5,7 @@ title: "Cybersecurity"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: cloud-computing.jpg
+   image_fullwidth: cybersecurity.jpg
 permalink: "/tools/cyber/"
 ---
 
