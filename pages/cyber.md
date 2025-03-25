@@ -50,8 +50,12 @@ cybersecurity, ensuring their work is protected and compliant.
 	<li>Speakers: Luc Letarte and Jessica Galo</li>
 	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/allianceComplianceOrChaos20250325.pdf" target="_blank">PDF slides</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="817" height="460" src="https://www.youtube.com/embed/3pXITv-9zvE" title="Compliance or
+	chaos: a research assessment survival guide" frameborder="0" allow="accelerometer; autoplay;
+	clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <br>
 </details>
 
