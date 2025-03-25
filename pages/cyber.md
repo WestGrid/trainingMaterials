@@ -64,4 +64,4 @@ cybersecurity, ensuring their work is protected and compliant.
 
 
 
-<br> [Collapse all webinars in this section]({{ site.baseurl }}/tools/pp)
+<br> [Collapse all webinars in this section]({{ site.baseurl }}/tools/cyber)
