@@ -5,7 +5,7 @@ title: "Probabilistic Programming and Statistics"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: system-3541575_1920.jpg
+   image_fullwidth: probabilistic.jpg
 permalink: "/tools/pp/"
 ---
 
