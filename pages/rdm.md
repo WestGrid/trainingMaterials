@@ -69,6 +69,9 @@ via the Globus web interface and command line (CLI), as well as how to automate 
 	href="https://docs.globus.org/cli" target="_blank">Globus Command Line Interface (CLI) documentation</a></li>
 </ul>
 <div class="flex-video">
+	<iframe width="817" height="460" src="https://www.youtube.com/embed/lwrd7HV4QV4" title="Introduction to
+	Globus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
 </details>
