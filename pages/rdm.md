@@ -64,10 +64,12 @@ via the Globus web interface and command line (CLI), as well as how to automate 
 </p>
 <ul>
 	<li>Speakers: Ben Lai and Michael Tang</li>
-	<!-- <li><a href="" target="_blank">PDF slides</a></li> -->
+	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/introGlobus202504.pdf" target="_blank">PDF slides</a></li>
+	<li><a
+	href="https://docs.globus.org/cli" target="_blank">Globus Command Line Interface (CLI) documentation</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+</div>
 <br>
 </details>
 
