@@ -49,6 +49,29 @@ Click on each webinar for its recording and materials.
 <!-- </details> -->
 
 <details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to Globus</font></a> (2025-Apr-08)
+</summary>
+<br>
+<p>
+Globus is a data management service that enables seamless file transfers between endpoints—computers connected
+to the Globus file transfer network. It has become the standard in research and high-performance computing for
+efficiently moving large datasets, especially when transferring data to or from institutions that already
+provide a Globus endpoint.
+</p><p>
+In this session, we provide an overview of Globus, including a demonstration of how to use this service
+via the Globus web interface and command line (CLI), as well as how to automate certain Globus tasks.
+</p>
+<ul>
+	<li>Speakers: Ben Lai and Michael Tang</li>
+	<!-- <li><a href="" target="_blank">PDF slides</a></li> -->
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+<details>
 <a name="annex"></a>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Distributed file storage with git-annex</font></a> (2024-Nov-26)
