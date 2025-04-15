@@ -143,12 +143,12 @@ we are planning to repeat the most popular / introductory sessions throughout th
 
 
 <a name="bootcamps"></a>
-## Other local bootcamps and workshops
+## Upcoming bootcamps and workshops
 
 We will be adding workshops here as they are announced at other Western Canadian universities.
 
 | DATE | EVENT | VENUE |
-| Starts Jan-17 | [Univ. of Alberta Winter Bootcamp](https://www.ualberta.ca/en/information-services-and-technology/research-computing/bootcamps.html){:target="_blank"} | Online |
+| Starts May-02 | [Univ. of Alberta Spring Bootcamp](https://www.ualberta.ca/en/information-services-and-technology/research-computing/bootcamps.html){:target="_blank"} | Online |
 
 
 
@@ -163,7 +163,24 @@ We will be adding workshops here as they are announced at other Western Canadian
 <!-- Typically at the end of a term we organize a longer, in-person research computing school at SFU that is open -->
 <!-- to all students, postdocs, faculty and staff. We will add more information here. -->
 
-The 2025 Research Computing summer school will be held on June 9-13. More details will be announced in April.
+SFU's 2025 week-long Research Computing Summer School will take place from June 9th to 13th. This year's
+program offers a hands-on introduction to essential tools and concepts in modern scientific computing and
+data-intensive research, with an emphasis on efficient, reproducible, and scalable workflows. Through a
+combination of guided instruction and practical sessions, attendees will develop the skills needed to navigate
+computational environments, manage and optimize research code, and harness the power of high-performance
+computing.
+
+- Day 1: Intro to Linux command line - full-day
+- Day 2: Intro to high-performance computing (HPC) - full-day
+- Day 3: Version control with Git - morning
+- Day 3: Make your R code faster (serial optimization in R) - afternoon
+- Day 4: Practical hands-on session: working on a Git project of your choice (bash, HPC, or R) - morning
+- Day 4: First dive into parallel programming with Chapel - afternoon
+- Day 5: HPC Python - full-day
+
+The school will be open to all researchers at SFU and other Canadian post-secondary institutions. The website
+and registration details will be announced in the coming weeks -- please watch our
+[newsletter]({{site.baseurl }}/contact){:target="_blank"} and this site for updates.
 
 
 
