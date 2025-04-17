@@ -123,7 +123,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | High-performance R | Feb-27, Mar-06 | Marie-Hélène Burle |
 | Scientific visualization | Mar-13 | Alex Razoumov |
 | Parallel Julia | Mar-20, Mar-27  | Alex Razoumov |
-| [Deep learning with JAX](https://docs.google.com/forms/d/e/1FAIpQLSfeRwhtP-16UtNbtFES9bG42TQIuEjvAhoSt1hCIKg89pAB7g/viewform){:target="_blank"} | Apr-03, Apr-10, Apr-17 | Marie-Hélène Burle |
+| Deep learning with JAX | Apr-03, Apr-10, Apr-17 | Marie-Hélène Burle |
 | [HPC Python](https://docs.google.com/forms/d/e/1FAIpQLSdBTsmCqf1bEUwnpf1p6zIppfIdM_8WAt9H1i2w2w4OT2d_vg/viewform){:target="_blank"} | Apr-24, May-01, May-08 | Alex Razoumov | <!-- week 2 on Ray Core, week 3 on Ray Data -->
 | [Parallel programming in Chapel](https://docs.google.com/forms/d/e/1FAIpQLSfo8JQwMjH0bUaNl84nBJU01m2m7sS_xPnu0w0-qk6gOJc-vw/viewform){:target="_blank"} | May-15, May-22 | Alex Razoumov |
 
