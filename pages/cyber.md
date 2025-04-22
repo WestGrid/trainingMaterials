@@ -50,8 +50,11 @@ is important.
 	<li>Speaker: Scott Baker</li>
 	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/cybersecurityHygiene20250422.pdf" target="_blank">PDF slides</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="1001" height="563" src="https://www.youtube.com/embed/3fetWXh6SHM" title="Cybersecurity
+	hygiene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <br>
 </details>
 
