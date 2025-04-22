@@ -75,7 +75,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Feb-25 | [<span style="color:blue">Bayesian inference in JAX</span>]({{ site.baseurl }}/tools/pp) | Marie-Hélène Burle |
 | Mar-25 | [<span style="color:blue">Compliance or chaos: a research assessment survival guide</span>]({{ site.baseurl }}/tools/cyber) | Luc Letarte &<br> Jessica Galo |
 | Apr-08 | [<span style="color:blue">Introduction to Globus</span>]({{ site.baseurl }}/tools/rdm) | Ben Lai &<br> Michael Tang |
-| Apr-22 | [Cybersecurity hygiene](https://docs.google.com/forms/d/187TAxpesb7_irRQERCF3fpKeA5PRPYKRDugqVlDkpQQ/preview){:target="_blank"} | Scott Baker |
+| Apr-22 | [<span style="color:blue">Cybersecurity hygiene</span>]({{ site.baseurl }}/tools/cyber) | Scott Baker |
 | May-06 | [Managing Python packages, versions, and projects with uv](https://docs.google.com/forms/d/1zw7PDyPdjnTuZ3n9Ew76Xbh2pVpbPffltsxJsAJCMUs/preview){:target="_blank"} | Marie-Hélène Burle |
 | May-20 | [Workflow hacks for large datasets in HPC](https://docs.google.com/forms/d/e/1FAIpQLSfEFzFAZsgEej5BulHdqEPREOpC2G87iN27gGpSy5POUJBQ7w/viewform){:target="_blank"} | Alex Razoumov |
 

@@ -34,6 +34,29 @@ Click on each webinar for its recording and materials.
 
 <details>
 <summary>
+<a>&nbsp;&nbsp;<font size="+1">Cybersecurity hygiene</font></a> (2025-Apr-22)
+</summary>
+<br>
+<p>
+We all face a daily barrage of news about information cybersecurity: from hackers to breaches, flaws and
+vulnerabilities etc... This seemingly endless stream of content can lead to fear, confusion and even denial or
+abstinence from taking action. There are simple things everyone can do to be more secure.
+</p><p>
+This session provides an institutional-policy-agnostic, practical set of suggestions and plain language
+explanations of what can be done by individuals and teams within and outside the work environment and why each
+is important.
+</p>
+<ul>
+	<li>Speaker: Scott Baker</li>
+	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/cybersecurityHygiene20250422.pdf" target="_blank">PDF slides</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+<details>
+<summary>
 <a>&nbsp;&nbsp;<font size="+1">Compliance or chaos: a research assessment survival guide</font></a> (2025-Mar-25)
 </summary>
 <br>
