@@ -170,17 +170,17 @@ combination of guided instruction and practical sessions, attendees will develop
 computational environments, manage and optimize research code, and harness the power of high-performance
 computing.
 
-- Day 1: Intro to Linux command line - full-day
-- Day 2: Intro to high-performance computing (HPC) - full-day
+- Day 1: Linux command line - full-day
+- Day 2: High-performance computing (HPC) - full-day
 - Day 3: Version control with Git - morning
 - Day 3: Make your R code faster (serial optimization in R) - afternoon
-- Day 4: Practical hands-on session: working on a Git project of your choice (bash, HPC, or R) - morning
+- Day 4: Practical hands-on session: working on a Git project of your choice - morning
 - Day 4: First dive into parallel programming with Chapel - afternoon
-- Day 5: HPC Python - full-day
+- Day 5: Accelerated computing with Python - full-day
 
-The school will be open to all researchers at SFU and other Canadian post-secondary institutions. The website
-and registration details will be announced in the coming weeks -- please watch our
-[newsletter]({{site.baseurl }}/contact){:target="_blank"} and this site for updates.
+The school is open to all researchers at SFU and other Canadian post-secondary institutions. For more details
+and registration, please visit the 
+[school website](https://sfu25.netlify.app){:target="_blank"}.
 
 
 
