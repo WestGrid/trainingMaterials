@@ -45,6 +45,13 @@ permalink: /index.html
 homepage: true
 ---
 
+<br>
+- To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
+  <a href="/contact" target="_blank" style="color:#0079B7;">subscribe here</a>.
+- <a href="https://explora.alliancecan.ca/events" target="_blank" style="color:#0079B7;">Search the Alliance
+  portal</a> for upcoming courses, webinars, and other events across Western Canada, Compute Ontario, Calcul
+  Québec, and ACENET.
+
 <div class="flex-video">
 	<iframe src="https://calendar.google.com/calendar/embed?src=c_931e1c03612d34e93731445887914964ac4c406fd45b3c4e024af73264391906%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
@@ -56,14 +63,8 @@ homepage: true
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
-<br>
-- To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
-  <a href="/contact" target="_blank" style="color:#0079B7;">subscribe here</a>.
-
 <!-- - Check out <a -->
 <!-- href="https://alliancecan.ca/en/services/advanced-research-computing/technical-support/training-calendar" -->
 <!-- target="_blank">the Alliance national training calendar</a> which includes events from WestDRI, Compute -->
 <!-- Ontario, Calcul Québec, and ACENET. -->
 
-- <a href="https://explora.alliancecan.ca/events" target="_blank" style="color:#0079B7;">Search the Alliance portal</a> for upcoming
-  courses, webinars, and other events across Western Canada, Compute Ontario, Calcul Québec, and ACENET.
