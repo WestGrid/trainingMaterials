@@ -56,6 +56,36 @@ Click on each webinar for its recording and materials.
 <!-- <br> -->
 <!-- </details> -->
 
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Managing Python packages, versions, and projects with uv</font></a> (2025-May-06)
+</summary>
+<br>
+<p>
+Despite being the most popular programming language, Python has never had a good package and version
+manager. Some languages come with an internal manager (e.g. R, Julia) while others come with well-built
+command line managers (e.g. Cargo for Rust). Python on the other hand has seen the development of an
+ever-growing and never-satisfactory suite of tools to manage its packages, versions, projects, and virtual
+environments: pip, pipx, pipenv, poetry, pyenv, venv, virtualenv to name just a few.
+</p><p>
+In February 2024, Astral might have finally put an end to the jumble when they launched uv, a fast and
+well-documented tool written in Rust which elegantly handles the gamut of tasks associated with Python
+versions, packages, and projects.
+</p><p>
+In this webinar, I show how to use uv to manage Python projects, packages, virtual environments, versions, and
+more.
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://mint.westdri.ca/python/wb_uv" target="_blank">Online slides</a></li>
+	<li><a href="https://docs.astral.sh/uv" target="_blank">uv documentation</a></li>
+	<li><a href="https://docs.astral.sh/uv/guides/integration" target="_blank">Integration with other tools</a></li>
+	<li><a href="https://mclare.blog/posts/using-uv-in-emacs" target="_blank">Using uv with Emacs</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
 
 <details>
 <summary>

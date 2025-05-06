@@ -76,7 +76,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Mar-25 | [<span style="color:blue">Compliance or chaos: a research assessment survival guide</span>]({{ site.baseurl }}/tools/cyber) | Luc Letarte &<br> Jessica Galo |
 | Apr-08 | [<span style="color:blue">Introduction to Globus</span>]({{ site.baseurl }}/tools/rdm) | Ben Lai &<br> Michael Tang |
 | Apr-22 | [<span style="color:blue">Cybersecurity hygiene</span>]({{ site.baseurl }}/tools/cyber) | Scott Baker |
-| May-06 | [<span style="color:blue">Managing Python packages, versions, and projects with uv</span>]({{ site.baseurl }}/getting-started#python) | Marie-Hélène Burle |
+| May-06 | [<span style="color:blue">Managing Python packages, versions, and projects with uv</span>]({{ site.baseurl }}/programming#python) | Marie-Hélène Burle |
 | May-20 | [Workflow hacks for large datasets in HPC](https://docs.google.com/forms/d/e/1FAIpQLSfEFzFAZsgEej5BulHdqEPREOpC2G87iN27gGpSy5POUJBQ7w/viewform){:target="_blank"} | Alex Razoumov |
 
 <!-- Other potential filler topics: -->
