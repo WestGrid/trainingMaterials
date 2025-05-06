@@ -82,8 +82,12 @@ more.
 	<li><a href="https://docs.astral.sh/uv/guides/integration" target="_blank">Integration with other tools</a></li>
 	<li><a href="https://mclare.blog/posts/using-uv-in-emacs" target="_blank">Using uv with Emacs</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="973" height="547" src="https://www.youtube.com/embed/pilnGPOqyeU" title="Managing Python
+	packages, versions, and projects with uv" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <br>
 </details>
 
