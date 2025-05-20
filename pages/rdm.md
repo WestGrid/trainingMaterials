@@ -50,6 +50,28 @@ Click on each webinar for its recording and materials.
 
 <details>
 <summary>
+<a>&nbsp;&nbsp;<font size="+1">Workflow hacks for large datasets in HPC</font></a> (2025-May-20)
+</summary>
+<br>
+<p>
+In this webinar, I briefly highlight some of the previously covered tools for working with large datasets: (1)
+Lossy 3D data compression can reduce the size of 3D datasets by up to 100X with no visible artifacts, making
+it ideal for storage and archival. (2) In-situ visualization enables interactive rendering of large in-memory
+arrays without the need to store them to disk. (3) Distributed storage of large datasets helps manage vast
+amounts of data across multiple locations. (4) DAR is a modern, high-performance alternative to TAR that
+offers indexing, differential archives, and faster extraction.
+</p>
+<ul>
+	<li>Speaker: Alex Razoumov</li>
+	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/datasetHacks202505.pdf" target="_blank">PDF slides</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+<details>
+<summary>
 <a>&nbsp;&nbsp;<font size="+1">Introduction to Globus</font></a> (2025-Apr-08)
 </summary>
 <br>

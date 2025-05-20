@@ -77,7 +77,7 @@ Vancouver), 11:00am Mountain (Edmonton, Calgary), and noon Central (Saskatoon, W
 | Apr-08 | [<span style="color:blue">Introduction to Globus</span>]({{ site.baseurl }}/tools/rdm) | Ben Lai &<br> Michael Tang |
 | Apr-22 | [<span style="color:blue">Cybersecurity hygiene</span>]({{ site.baseurl }}/tools/cyber) | Scott Baker |
 | May-06 | [<span style="color:blue">Managing Python packages, versions, and projects with uv</span>]({{ site.baseurl }}/programming#python) | Marie-Hélène Burle |
-| May-20 | [Workflow hacks for large datasets in HPC](https://docs.google.com/forms/d/e/1FAIpQLSfEFzFAZsgEej5BulHdqEPREOpC2G87iN27gGpSy5POUJBQ7w/viewform){:target="_blank"} | Alex Razoumov |
+| May-20 | [<span style="color:blue">Workflow hacks for large datasets in HPC</span>]({{ site.baseurl }}/tools/rdm) | Alex Razoumov |
 
 <!-- Other potential filler topics: -->
 <!-- - (Alex) How to create a GPU container on Arbutus cloud -->
