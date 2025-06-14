@@ -163,10 +163,10 @@ We will be adding workshops here as they are announced at other Western Canadian
 <!-- Typically at the end of a term we organize a longer, in-person research computing school at SFU that is open -->
 <!-- to all students, postdocs, faculty and staff. We will add more information here. -->
 
-SFU's 2025 week-long Research Computing Summer School will take place from June 9th to 13th. This year's
-program offers a hands-on introduction to essential tools and concepts in modern scientific computing and
+SFU's 2025 week-long Research Computing Summer School took place from June 9th to 13th. This year's program
+offered a hands-on introduction to essential tools and concepts in modern scientific computing and
 data-intensive research, with an emphasis on efficient, reproducible, and scalable workflows. Through a
-combination of guided instruction and practical sessions, attendees will develop the skills needed to navigate
+combination of guided instruction and practical sessions, attendees developed the skills needed to navigate
 computational environments, manage and optimize research code, and harness the power of high-performance
 computing.
 
@@ -178,9 +178,8 @@ computing.
 - Day 4: First dive into parallel programming with Chapel - afternoon
 - Day 5: Accelerated computing with Python - full-day
 
-The school is open to all researchers at SFU and other Canadian post-secondary institutions. For more details
-and registration, please visit the 
-[school website](https://sfu25.netlify.app){:target="_blank"}.
+The school was open to all researchers at SFU and other Canadian post-secondary institutions. For more
+details, please visit the [school website](https://sfu25.netlify.app){:target="_blank"}.
 
 
 
