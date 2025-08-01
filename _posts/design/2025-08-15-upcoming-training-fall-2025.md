@@ -66,7 +66,7 @@ titles to access recordings and slides.
 | Sep-30 | | Marie-Hélène Burle |
 | Oct-14 | Globus-cli for file transfer | Alex Razoumov |
 | Oct-28 | | Marie-Hélène Burle |
-| Nov-11 | Creating interactive online visualizations with Trame | Alex Razoumov |
+| Nov-18 | Creating interactive online visualizations with Trame | Alex Razoumov |
 | Nov-25 | | Marie-Hélène Burle |
 | Dec-09 | Command-line OpenStack | Alex Razoumov |
 
@@ -114,21 +114,18 @@ sessions throughout the year.
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| | Sep-11 | |
-| | Sep-18 | |
-| | Sep-25 | |
-| | Oct-02 | |
-| | Oct-09 | |
-| | Oct-16 | |
-| | Oct-23 | |
-| | Oct-30 | |
-| | Nov-06 | |
-| | Nov-13 | |
-| | Nov-20 | |
-| | Nov-27 | |
-| | Dec-04 | |
-| | Dec-11 | |
-| | Dec-18 | |
+| Introduction to the Unix shell | Sep-11, Sep-18 | Marie-Hélène Burle |
+| Introduction to HPC | Sep-25, Oct-02, Oct-09 | Alex Razoumov |
+| | Oct-16 | Marie-Hélène Burle |
+| Scientific visualization | Oct-23 | Alex Razoumov |
+| Using GPUs in Python | Oct-30 | Marie-Hélène Burle |
+| Working with Apptainer containers | Nov-06, Nov-13 | Alex Razoumov | <!-- Nov-13 Marie might be away (UBC break) -->
+| New ML course | Nov-20, Nov-27 | Marie-Hélène Burle & Alex Razoumov |
+| HPC Python | Dec-04, Dec-11, Dec-18 | Alex Razoumov | 
+
+
+
+
 
 <!-- - teach the JAX course together with Marie (as discussed in Slack on 2025-Apr-17) -->
 
