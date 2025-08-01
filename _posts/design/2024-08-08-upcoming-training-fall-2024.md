@@ -102,7 +102,7 @@ we are planning to repeat the most popular / introductory sessions throughout th
 | <span style="color:gray">Faster Python DataFrames with Polars</span> | Oct-24 | Marie-Hélène Burle |
 | <span style="color:gray">Parallel coding in Python</span> | Oct-31, Nov-07 | Alex Razoumov and <br> Marie-Hélène Burle |
 | <span style="color:gray">Hands-on with ParaView's Programmable Filter / Source for scientific visualization</span> | Nov-14 | Alex Razoumov | <!-- Marie out of town on vacation -->
-| <span style="color:gray">Large-scale and remote visualization]</span> | Nov-21 | Alex Razoumov | <!-- Marie is teaching @BCCAI workshop Nov-{20,21} -->
+| <span style="color:gray">Large-scale and remote visualization</span> | Nov-21 | Alex Razoumov | <!-- Marie is teaching @BCCAI workshop Nov-{20,21} -->
 | <span style="color:gray">Version control with Git</span> | Nov-28 | Marie-Hélène Burle |
 | <span style="color:gray">Using GPUs with Chapel</span> | Dec-05, Dec-12 | Alex Razoumov | <!-- set up vGPUs on Arbutus or Beluga -->
 | <span style="color:gray">Answering your Bash questions</span> | Dec-19 | Marie-Hélène Burle and Alex Razoumov | <!-- bring your own questions and problems or pick from our course; create a google form in advance -->
