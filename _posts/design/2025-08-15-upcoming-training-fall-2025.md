@@ -120,7 +120,7 @@ sessions throughout the year.
 | Scientific visualization | Oct-23 | Alex Razoumov |
 | Using GPUs in Python | Oct-30 | Marie-Hélène Burle |
 | Working with Apptainer containers | Nov-06, Nov-13 | Alex Razoumov | <!-- Nov-13 Marie might be away (UBC break) -->
-| New ML course | Nov-20, Nov-27 | Marie-Hélène Burle & Alex Razoumov |
+| New ML course | Nov-20, Nov-27 | Marie-Hélène Burle & <br>Alex Razoumov |
 | HPC Python | Dec-04, Dec-11, Dec-18 | Alex Razoumov | 
 
 
