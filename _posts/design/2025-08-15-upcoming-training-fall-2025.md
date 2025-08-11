@@ -63,7 +63,7 @@ titles to access recordings and slides.
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Sep-16 | Introduction to Fir cluster | Alex Razoumov |
-| Sep-30 | | Marie-Hélène Burle |
+| Sep-30 | Using LLMs in Emacs | Marie-Hélène Burle |
 | Oct-14 | Globus-cli for file transfer | Alex Razoumov |
 | Oct-28 | | Marie-Hélène Burle |
 | Nov-18 | Creating interactive online visualizations with Trame | Alex Razoumov |
