@@ -63,11 +63,11 @@ titles to access recordings and slides.
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
 | Sep-16 | Introduction to Fir cluster | Alex Razoumov |
-| Sep-30 | | Marie-Hélène Burle |
+| Sep-30 | TBA | Marie-Hélène Burle |
 | Oct-14 | Globus-cli for file transfer | Alex Razoumov |
-| Oct-28 | | Marie-Hélène Burle |
-| Nov-18 | Creating interactive online visualizations with Trame | Alex Razoumov |
-| Nov-25 | | Marie-Hélène Burle |
+| Oct-28 | TBA | Marie-Hélène Burle |
+| Nov-18 | Creating interactive online visualizations with Trame | Alex Razoumov | <!-- Nov-11 is a holiday -->
+| Nov-25 | TBA | Marie-Hélène Burle |
 | Dec-09 | Command-line OpenStack | Alex Razoumov |
 
 
@@ -116,7 +116,7 @@ sessions throughout the year.
 | ------------- | --------------- | ----------------- |
 | Introduction to the Unix shell | Sep-11, Sep-18 | Marie-Hélène Burle |
 | Introduction to HPC | Sep-25, Oct-02, Oct-09 | Alex Razoumov |
-| | Oct-16 | Marie-Hélène Burle |
+| TBD | Oct-16 | Marie-Hélène Burle |
 | Scientific visualization | Oct-23 | Alex Razoumov |
 | Using GPUs in Python | Oct-30 | Marie-Hélène Burle |
 | Working with Apptainer containers | Nov-06, Nov-13 | Alex Razoumov | <!-- Nov-13 Marie might be away (UBC break) -->
