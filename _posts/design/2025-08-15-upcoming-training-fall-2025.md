@@ -120,7 +120,7 @@ sessions throughout the year.
 | [Scientific visualization](https://forms.gle/2azjtao6Qqhbh4xx8){:target="_blank"} | Oct-23 | Alex Razoumov |
 | [GPU-accelerated Python](https://forms.gle/ZKnYb9KJ3Ajs5o3t8){:target="_blank"} | Oct-30 | Marie-Hélène Burle |
 | [Working with Apptainer containers](https://forms.gle/kpf4FSRcnXZqaYdbA){:target="_blank"} | Nov-06, Nov-13 | Alex Razoumov | <!-- Nov-13 Marie might be away (UBC break) -->
-| [Machine learning](https://forms.gle/tRNRU5ZHdJwsGG2F8){:target="_blank"} | Nov-20, Nov-27 | Marie-Hélène Burle & <br>Alex Razoumov |
+| [Machine learning](https://forms.gle/tRNRU5ZHdJwsGG2F8){:target="_blank"} | Nov-20, Nov-27 | Marie-Hélène Burle<br>& Alex Razoumov |
 | [HPC Python](https://forms.gle/2HnbbVc3NUVdXS2VA){:target="_blank"} | Dec-04, Dec-11, Dec-18 | Alex Razoumov | 
 
 
