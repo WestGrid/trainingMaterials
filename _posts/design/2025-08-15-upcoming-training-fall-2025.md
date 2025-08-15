@@ -62,13 +62,13 @@ titles to access recordings and slides.
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Sep-16 | Introduction to Fir cluster | Alex Razoumov |
-| Sep-30 | Using LLMs in Emacs | Marie-Hélène Burle |
-| Oct-14 | Globus-cli for file transfer | Alex Razoumov |
-| Oct-28 | TBA | Marie-Hélène Burle |
-| Nov-18 | Creating interactive online visualizations with Trame | Alex Razoumov | <!-- Nov-11 is a holiday -->
-| Nov-25 | TBA | Marie-Hélène Burle |
-| Dec-09 | Command-line OpenStack | Alex Razoumov |
+| Sep-16 | [Introduction to Fir cluster](https://forms.gle/C6aCgUhF943NrgRL6) | Alex Razoumov |
+| Sep-30 | [Using LLMs in Emacs](https://forms.gle/etGCZg1uxRyLBqLp9) | Marie-Hélène Burle |
+| Oct-14 | [Globus-cli for file transfer](https://forms.gle/sbWfrkBGFXhXz8SN7) | Alex Razoumov |
+| Oct-28 | [TBA](https://forms.gle/EPagTRjeM2L27t857) | Marie-Hélène Burle |
+| Nov-18 | [Creating interactive online visualizations with Trame](https://forms.gle/CvFYTWkkBVfbUaLW9) | Alex Razoumov | <!-- Nov-11 is a holiday -->
+| Nov-25 | [TBA](https://forms.gle/ZQKban72qciCdhos6) | Marie-Hélène Burle |
+| Dec-09 | [Command-line OpenStack](https://forms.gle/31kHFPyuWFtuA2N98) | Alex Razoumov |
 
 
 
