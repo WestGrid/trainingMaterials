@@ -114,14 +114,14 @@ sessions throughout the year.
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| Introduction to the Unix shell | Sep-11, Sep-18 | Marie-Hélène Burle |
-| Introduction to HPC | Sep-25, Oct-02, Oct-09 | Alex Razoumov |
-| TBD | Oct-16 | Marie-Hélène Burle |
-| Scientific visualization | Oct-23 | Alex Razoumov |
-| Using GPUs in Python | Oct-30 | Marie-Hélène Burle |
-| Working with Apptainer containers | Nov-06, Nov-13 | Alex Razoumov | <!-- Nov-13 Marie might be away (UBC break) -->
-| New ML course | Nov-20, Nov-27 | Marie-Hélène Burle & <br>Alex Razoumov |
-| HPC Python | Dec-04, Dec-11, Dec-18 | Alex Razoumov | 
+| [Introduction to the Unix shell](https://forms.gle/TFvT8QxZY2toQGZn9) | Sep-11, Sep-18 | Marie-Hélène Burle |
+| [Introduction to HPC](https://forms.gle/A7ihLMXdP7A8rzq68) | Sep-25, Oct-02, Oct-09 | Alex Razoumov |
+| [TBD](https://forms.gle/iMe66waJMxnEXA5y5) | Oct-16 | Marie-Hélène Burle |
+| [Scientific visualization](https://forms.gle/2azjtao6Qqhbh4xx8) | Oct-23 | Alex Razoumov |
+| [GPU-accelerated Python](https://forms.gle/ZKnYb9KJ3Ajs5o3t8) | Oct-30 | Marie-Hélène Burle |
+| [Working with Apptainer containers](https://forms.gle/kpf4FSRcnXZqaYdbA) | Nov-06, Nov-13 | Alex Razoumov | <!-- Nov-13 Marie might be away (UBC break) -->
+| [Machine learning](https://forms.gle/tRNRU5ZHdJwsGG2F8) | Nov-20, Nov-27 | Marie-Hélène Burle & <br>Alex Razoumov |
+| [HPC Python](https://forms.gle/2HnbbVc3NUVdXS2VA) | Dec-04, Dec-11, Dec-18 | Alex Razoumov | 
 
 
 
