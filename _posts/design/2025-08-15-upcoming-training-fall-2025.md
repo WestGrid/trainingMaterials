@@ -62,13 +62,13 @@ titles to access recordings and slides.
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Sep-16 | [Introduction to Fir cluster](https://forms.gle/C6aCgUhF943NrgRL6) | Alex Razoumov |
-| Sep-30 | [Using LLMs in Emacs](https://forms.gle/etGCZg1uxRyLBqLp9) | Marie-Hélène Burle |
-| Oct-14 | [Globus-cli for file transfer](https://forms.gle/sbWfrkBGFXhXz8SN7) | Alex Razoumov |
-| Oct-28 | [TBA](https://forms.gle/EPagTRjeM2L27t857) | Marie-Hélène Burle |
-| Nov-18 | [Creating interactive online visualizations with Trame](https://forms.gle/CvFYTWkkBVfbUaLW9) | Alex Razoumov | <!-- Nov-11 is a holiday -->
-| Nov-25 | [TBA](https://forms.gle/ZQKban72qciCdhos6) | Marie-Hélène Burle |
-| Dec-09 | [Command-line OpenStack](https://forms.gle/31kHFPyuWFtuA2N98) | Alex Razoumov |
+| Sep-16 | [Introduction to Fir cluster](https://forms.gle/C6aCgUhF943NrgRL6){:target="_blank"} | Alex Razoumov |
+| Sep-30 | [Using LLMs in Emacs](https://forms.gle/etGCZg1uxRyLBqLp9){:target="_blank"} | Marie-Hélène Burle |
+| Oct-14 | [Globus-cli for file transfer](https://forms.gle/sbWfrkBGFXhXz8SN7){:target="_blank"} | Alex Razoumov |
+| Oct-28 | [TBA](https://forms.gle/EPagTRjeM2L27t857){:target="_blank"} | Marie-Hélène Burle |
+| Nov-18 | [Creating interactive online visualizations with Trame](https://forms.gle/CvFYTWkkBVfbUaLW9){:target="_blank"} | Alex Razoumov | <!-- Nov-11 is a holiday -->
+| Nov-25 | [TBA](https://forms.gle/ZQKban72qciCdhos6){:target="_blank"} | Marie-Hélène Burle |
+| Dec-09 | [Command-line OpenStack](https://forms.gle/31kHFPyuWFtuA2N98){:target="_blank"} | Alex Razoumov |
 
 
 
@@ -114,14 +114,14 @@ sessions throughout the year.
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| [Introduction to the Unix shell](https://forms.gle/TFvT8QxZY2toQGZn9) | Sep-11, Sep-18 | Marie-Hélène Burle |
-| [Introduction to HPC](https://forms.gle/A7ihLMXdP7A8rzq68) | Sep-25, Oct-02, Oct-09 | Alex Razoumov |
-| [TBD](https://forms.gle/iMe66waJMxnEXA5y5) | Oct-16 | Marie-Hélène Burle |
-| [Scientific visualization](https://forms.gle/2azjtao6Qqhbh4xx8) | Oct-23 | Alex Razoumov |
-| [GPU-accelerated Python](https://forms.gle/ZKnYb9KJ3Ajs5o3t8) | Oct-30 | Marie-Hélène Burle |
-| [Working with Apptainer containers](https://forms.gle/kpf4FSRcnXZqaYdbA) | Nov-06, Nov-13 | Alex Razoumov | <!-- Nov-13 Marie might be away (UBC break) -->
-| [Machine learning](https://forms.gle/tRNRU5ZHdJwsGG2F8) | Nov-20, Nov-27 | Marie-Hélène Burle & <br>Alex Razoumov |
-| [HPC Python](https://forms.gle/2HnbbVc3NUVdXS2VA) | Dec-04, Dec-11, Dec-18 | Alex Razoumov | 
+| [Introduction to the Unix shell](https://forms.gle/TFvT8QxZY2toQGZn9){:target="_blank"} | Sep-11, Sep-18 | Marie-Hélène Burle |
+| [Introduction to HPC](https://forms.gle/A7ihLMXdP7A8rzq68){:target="_blank"} | Sep-25, Oct-02, Oct-09 | Alex Razoumov |
+| [TBD](https://forms.gle/iMe66waJMxnEXA5y5){:target="_blank"} | Oct-16 | Marie-Hélène Burle |
+| [Scientific visualization](https://forms.gle/2azjtao6Qqhbh4xx8){:target="_blank"} | Oct-23 | Alex Razoumov |
+| [GPU-accelerated Python](https://forms.gle/ZKnYb9KJ3Ajs5o3t8){:target="_blank"} | Oct-30 | Marie-Hélène Burle |
+| [Working with Apptainer containers](https://forms.gle/kpf4FSRcnXZqaYdbA){:target="_blank"} | Nov-06, Nov-13 | Alex Razoumov | <!-- Nov-13 Marie might be away (UBC break) -->
+| [Machine learning](https://forms.gle/tRNRU5ZHdJwsGG2F8){:target="_blank"} | Nov-20, Nov-27 | Marie-Hélène Burle & <br>Alex Razoumov |
+| [HPC Python](https://forms.gle/2HnbbVc3NUVdXS2VA){:target="_blank"} | Dec-04, Dec-11, Dec-18 | Alex Razoumov | 
 
 
 
