@@ -65,9 +65,9 @@ titles to access recordings and slides.
 | Sep-16 | [Introduction to Fir cluster](https://forms.gle/C6aCgUhF943NrgRL6){:target="_blank"} | Alex Razoumov |
 | Sep-30 | [Using LLMs in Emacs](https://forms.gle/etGCZg1uxRyLBqLp9){:target="_blank"} | Marie-Hélène Burle |
 | Oct-14 | [Globus-cli for file transfer](https://forms.gle/sbWfrkBGFXhXz8SN7){:target="_blank"} | Alex Razoumov |
-| Oct-28 | [Better notebooks with marimo](https://forms.gle/EPagTRjeM2L27t857){:target="_blank"} | Marie-Hélène Burle |
+| Oct-28 | [The next generation of Python notebooks](https://forms.gle/EPagTRjeM2L27t857){:target="_blank"} | Marie-Hélène Burle |
 | Nov-18 | [Creating interactive online visualizations with Trame](https://forms.gle/CvFYTWkkBVfbUaLW9){:target="_blank"} | Alex Razoumov | <!-- Nov-11 is a holiday -->
-| Nov-25 | [Deep learning experiment tracking with MLflow](https://forms.gle/ZQKban72qciCdhos6){:target="_blank"} | Marie-Hélène Burle |
+| Nov-25 | [Deep learning experiments tracking with MLflow](https://forms.gle/ZQKban72qciCdhos6){:target="_blank"} | Marie-Hélène Burle |
 | Dec-09 | [Command-line OpenStack](https://forms.gle/31kHFPyuWFtuA2N98){:target="_blank"} | Alex Razoumov |
 
 
