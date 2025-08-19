@@ -295,7 +295,7 @@ environment, as well as working with data stored inside container overlays.
 
 ---
 
-Join our training webinars every second Tuesday at 11am Pacific / noon Mountain. For more details, check
+Join our training webinars every second Tuesday at 10am Pacific / 11am Mountain Time. For more details, check
 [our events](/blog).
 
 <!-- For more details, look -->
