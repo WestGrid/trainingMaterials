@@ -101,11 +101,10 @@ titles to access recordings and slides.
 <a name="courses"></a>
 ## Online courses
 
-SFU Research Computing offers weekly online sessions on advanced research computing, held every Thursday from
-10:00am to noon Pacific Time. These sessions are open to all academic researchers across Canada. Most courses
-run for two weeks, though some may be shorter or longer. Please note that these sessions are not recorded, as
-we aim to encourage live attendance and interaction. We plan to repeat the most popular and introductory
-sessions throughout the year.
+SFU Research Computing hosts weekly online sessions on advanced research computing every Thursday from 10:00am
+to noon Pacific Time. These sessions are open to all academic researchers in Canada. Most courses span two
+weeks, though some may be shorter or longer. Sessions are not recorded to encourage live participation and
+interaction. Popular and introductory sessions are repeated throughout the year.
 
 <!-- | [Beginner's introduction to Emacs](link){:target="_blank"} | Sep-26, Oct-03 | Marie-Hélène Burle | -->
 <!-- Alex to look at regression from scratch in JAX + Flax -->
