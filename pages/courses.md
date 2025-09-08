@@ -233,6 +233,33 @@ support from laptops to large HPC systems.
 </p>
 </details>
 
+
+
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">GPU computing with Chapel</font></a>
+</summary>
+<p>
+<br>
+Chapel is a parallel programming language for scientific computing designed to exploit parallelism across a
+wide range of hardware, from multi-core computers to large HPC clusters. Recently, Chapel introduced support
+for GPUs, allowing the same code to run seamlessly on both NVIDIA and AMD GPUs, without modification.
+Programming GPUs in Chapel is significantly easier than using CUDA or ROCm/HIP and more flexible than OpenACC,
+as you can run fairly generic Chapel code on GPUs. Obviously, you will benefit from GPU acceleration the most
+with calculations that can be broken into many independent identical pieces. In Chapel, data transfer to/from
+a GPU (and between GPUs) is straightforward, thanks to a well-defined coding model that associates both
+calculations and data with a clear concept of locality.
+In this course, we will learn GPU programming in Chapel with many hands-on examples. We will provide the
+system to run on, but to follow exercises you will need an ssh client on your computer to connect to this
+system.
+</p>
+</details>
+
+
+
+
+
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Introduction to Machine Learning with PyTorch</font></a>
