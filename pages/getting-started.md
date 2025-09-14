@@ -45,6 +45,27 @@ Click on each webinar for its recording and materials.
 
 <details>
 <summary>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to the Fir cluster</font></a> (2025-Sep-16)
+</summary>
+<br>
+<p>
+SFU's newest high-performance computing cluster, Fir, is now available to all users as a replacement for the
+Cedar cluster within Canada's national digital research infrastructure. In this webinar, we provide an
+overview of Fir's architecture and hardware, explain its filesystems and recommended usage, outline job
+submission policies with a focus on the new H100 GPUs, and share best practices for getting the most out of
+the cluster.
+</p>
+<ul>
+	<li>Speaker: Alex Razoumov</li>
+	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/fir20250916.pdf" target="_blank">PDF slides</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+<details>
+<summary>
 <a>&nbsp;&nbsp;<font size="+1">Best practices in HPC/HTC environments</font></a> (2024-Oct-15)
 </summary>
 <br>
