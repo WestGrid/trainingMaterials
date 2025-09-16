@@ -59,8 +59,12 @@ the cluster.
 	<li>Speaker: Alex Razoumov</li>
 	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/fir20250916.pdf" target="_blank">PDF slides</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="830" height="506" src="https://www.youtube.com/embed/Xmlj7aI3fZI" title="Introduction to
+	the Fir cluster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+	allowfullscreen></iframe>
+</div>
 <br>
 </details>
 
