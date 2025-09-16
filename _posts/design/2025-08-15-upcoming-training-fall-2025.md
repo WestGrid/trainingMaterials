@@ -62,7 +62,7 @@ titles to access recordings and slides.
 
 | DATE | TOPIC | SPEAKER |
 | ------------- | --------------- | ----------------- |
-| Sep-16 | [Introduction to the Fir cluster](https://forms.gle/C6aCgUhF943NrgRL6){:target="_blank"} | Alex Razoumov |
+| Sep-16 | [<span style="color:blue">Introduction to the Fir cluster</span>]({{ site.baseurl }}/getting-started#high-performance-computing) | Alex Razoumov |
 | Oct-07 | [AI pair programming & LLMs chats in Emacs](https://forms.gle/etGCZg1uxRyLBqLp9){:target="_blank"} | Marie-Hélène Burle |
 | Oct-14 | [Globus-cli for file transfer](https://forms.gle/sbWfrkBGFXhXz8SN7){:target="_blank"} | Alex Razoumov |
 | Oct-28 | [The next generation of Python notebooks](https://forms.gle/EPagTRjeM2L27t857){:target="_blank"} | Marie-Hélène Burle |
@@ -71,6 +71,8 @@ titles to access recordings and slides.
 | Dec-09 | [Command-line OpenStack](https://forms.gle/31kHFPyuWFtuA2N98){:target="_blank"} | Alex Razoumov |
 
 
+
+<!--               -->
 
 
 <!-- | May-06 | [Managing Python packages, versions, and projects with uv](https://docs.google.com/forms/d/1zw7PDyPdjnTuZ3n9Ew76Xbh2pVpbPffltsxJsAJCMUs/preview){:target="_blank"} | Marie-Hélène Burle | -->
