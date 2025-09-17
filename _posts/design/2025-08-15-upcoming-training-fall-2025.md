@@ -154,8 +154,9 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 Workshops from other Western Canadian universities will be added here as they are announced.
 
 | DATE | EVENT | VENUE |
+| Starts Sep-19 | [Univ. of Alberta Fall Research Computing Bootcamp](https://www.ualberta.ca/en/information-services-and-technology/research-computing/bootcamps.html){:target="_blank"} | Online |
 
-<!-- | Starts May-02 | [Univ. of Alberta Spring Bootcamp](https://www.ualberta.ca/en/information-services-and-technology/research-computing/bootcamps.html){:target="_blank"} | Online | -->
+
 
 
 
