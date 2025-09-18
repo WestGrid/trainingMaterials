@@ -115,7 +115,7 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 
 | COURSE | DATES | INSTRUCTOR |
 | ------------- | --------------- | ----------------- |
-| [Introduction to the Unix shell](https://forms.gle/TFvT8QxZY2toQGZn9){:target="_blank"} | Sep-11, Sep-18 | Marie-Hélène Burle |
+| Introduction to the Unix shell | Sep-11, Sep-18 | Marie-Hélène Burle |
 | [Introduction to HPC](https://forms.gle/A7ihLMXdP7A8rzq68){:target="_blank"} | Sep-25, Oct-02, Oct-09 | Alex Razoumov |
 | [Introduction to Python](https://forms.gle/iMe66waJMxnEXA5y5){:target="_blank"} | Oct-16 | Marie-Hélène Burle |
 | [Scientific visualization](https://forms.gle/2azjtao6Qqhbh4xx8){:target="_blank"} | Oct-23 | Alex Razoumov |
