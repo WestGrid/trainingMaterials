@@ -506,6 +506,41 @@ also with Python and Julia code blocks, adding new functionality to the old tool
 
 Click on each webinar for its recording and materials.
 
+
+
+
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">AI pair programming & LLM chats in Emacs</font></a> (2025-Oct-07)
+</summary>
+<br>
+<p>
+Large language models (LLMs) have become powerful tools for coding, writing, and research. Not surprisingly,
+they are increasingly becoming integrated into many software packages, including text editors. Emacs is no
+exception and a number of packages have recently been developed to access models smoothly and directly. Of
+particular notice:
+<ul>
+<li>copilot.el brings GitHub Copilot's code completion to Emacs,</li>
+<li>copilot-chat.el allows to chat, perform code review, code correction, code optimization, code transformation, and code explanation with GitHub Copilot in Emacs,</li>
+<li>gptel allows access to any LLM from any buffer,</li>
+<li>chatgpt-shell provides an Emacs shell to chat with any LLM.</li>
+</ul>
+In this webinar, I demo these packages and show you how to install them and set things up.
+</p>
+<ul>
+	<li>Marie-Hélène Burle: </li>
+	<li><a href="https://mint.westdri.ca/emacs/wb_llms" target="_blank">Online slides</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+
+
+
+
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Understanding Emacs modes</font></a> (2024-Sep-17)
