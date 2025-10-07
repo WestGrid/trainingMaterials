@@ -532,14 +532,14 @@ In this webinar, I demo these packages and show you how to install them and set 
 	<li>Marie-Hélène Burle: </li>
 	<li><a href="https://mint.westdri.ca/emacs/wb_llms" target="_blank">Online slides</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="770" height="433" src="https://www.youtube.com/embed/qUcHbOANVns" title="AI pair
+	programming and LLM chats in Emacs" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <br>
 </details>
-
-
-
-
 
 <details>
 <summary>
