@@ -48,6 +48,39 @@ Click on each webinar for its recording and materials.
 <!-- <br> -->
 <!-- </details> -->
 
+
+
+
+
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Globus-cli for file transfer</font></a> (2025-Oct-14)
+</summary>
+<br>
+<p>
+Globus is a widely used platform for secure, reliable, and high-performance data transfer across research
+systems. While the web interface is intuitive and remains our primary recommendation for most users, the
+command-line interface (CLI) offers advanced capabilities for automation, scripting, and managing large-scale
+workflows. In this webinar, we will present the globus-cli tool, show how to authenticate and configure your
+environment, and demonstrate key commands for transferring, monitoring, and managing files between
+endpoints. You will also learn tips for integrating globus-cli into scripts for repeatable and efficient data
+movement.
+</p>
+<ul>
+	<li>Speaker: Alex Razoumov</li>
+	<li><a href="https://folio.vastcloud.org/globus" target="_blank">Online notes</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+
+
+
+
+
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Workflow hacks for large datasets in HPC</font></a> (2025-May-20)
