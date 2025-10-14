@@ -71,15 +71,14 @@ movement.
 	<li>Speaker: Alex Razoumov</li>
 	<li><a href="https://folio.vastcloud.org/globus" target="_blank">Online notes</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="830" height="506" src="https://www.youtube.com/embed/gZuDmPush7M" title="Globus-cli for
+	file transfer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+	allowfullscreen></iframe>
+</div>
 <br>
 </details>
-
-
-
-
-
 
 <details>
 <summary>
