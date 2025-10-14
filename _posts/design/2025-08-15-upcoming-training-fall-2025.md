@@ -64,7 +64,7 @@ titles to access recordings and slides.
 | ------------- | --------------- | ----------------- |
 | Sep-16 | [<span style="color:blue">Introduction to the Fir cluster</span>]({{ site.baseurl }}/getting-started#high-performance-computing) | Alex Razoumov |
 | Oct-07 | [<span style="color:blue">AI pair programming & LLMs chats in Emacs</span>]({{ site.baseurl }}/getting-started#emacs) | Marie-Hélène Burle |
-| Oct-14 | [Globus-cli for file transfer](https://forms.gle/sbWfrkBGFXhXz8SN7){:target="_blank"} | Alex Razoumov |
+| Oct-14 | [<span style="color:blue">Globus-cli for file transfer</span>]({{ site.baseurl }}/tools/rdm) | Alex Razoumov |
 | Oct-28 | [The next generation of Python notebooks](https://forms.gle/EPagTRjeM2L27t857){:target="_blank"} | Marie-Hélène Burle |
 | Nov-18 | [Creating interactive online visualizations with Trame](https://forms.gle/CvFYTWkkBVfbUaLW9){:target="_blank"} | Alex Razoumov | <!-- Nov-11 is a holiday -->
 | Nov-25 | [Deep learning experiments tracking with MLflow](https://forms.gle/ZQKban72qciCdhos6){:target="_blank"} | Marie-Hélène Burle |
