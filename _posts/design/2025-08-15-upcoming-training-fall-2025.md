@@ -118,7 +118,7 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 | Introduction to the Unix shell | Sep-11, Sep-18 | Marie-Hélène Burle |
 | Introduction to HPC | Sep-25, Oct-02, Oct-09 | Alex Razoumov |
 | Introduction to Python | Oct-16 | Marie-Hélène Burle |
-| [Scientific visualization](https://forms.gle/2azjtao6Qqhbh4xx8){:target="_blank"} | Oct-23 | Alex Razoumov |
+| Scientific visualization | Oct-23 | Alex Razoumov |
 | [Getting started with Git](https://forms.gle/ZKnYb9KJ3Ajs5o3t8){:target="_blank"} | Oct-30 | Marie-Hélène Burle |
 | [Working with Apptainer containers](https://forms.gle/kpf4FSRcnXZqaYdbA){:target="_blank"} | Nov-06, Nov-13 | Alex Razoumov | <!-- Nov-13 Marie might be away (UBC break) -->
 | [HPC Python](https://forms.gle/2HnbbVc3NUVdXS2VA){:target="_blank"} | Nov-20, Nov-27, Dec-04 | Alex Razoumov |
