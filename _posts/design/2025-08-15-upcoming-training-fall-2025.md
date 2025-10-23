@@ -41,6 +41,7 @@ To receive future news and emails about our training events, please [subscribe h
 • [<em>Other local bootcamps and workshops</em>](#bootcamps)
 <!-- • [<em>Humanities and social sciences training</em>](#dh) -->
 • [<em>In-person schools</em>](#schools)
+• [<em>Google calendar</em>](#calendar)
 
 
 
@@ -159,6 +160,17 @@ Workshops from other Western Canadian universities will be added here as they ar
 
 
 
+<a name="calendar"></a>
+## Our training calendar
+
+- To subscribe to our training calendar, scroll to the calendar at the bottom of this page and click the "+"
+  icon in the lower right corner labelled "Add to Google Calendar" when you hover over it.
+- As always, we welcome suggestions for additional training topics and events. Please email your ideas to
+  `training at westdri dot ca`.
+
+<div class="flex-video">
+	<iframe src="https://calendar.google.com/calendar/embed?src=c_931e1c03612d34e93731445887914964ac4c406fd45b3c4e024af73264391906%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
 
 
 
@@ -194,11 +206,5 @@ Workshops from other Western Canadian universities will be added here as they ar
 
 
 
-
----
-
-<br>
-As always, we welcome suggestions for additional training topics and events. Please email your ideas to
-`training at westdri dot ca`.
 
 <!-- [text](link){:target="_blank"} -->
