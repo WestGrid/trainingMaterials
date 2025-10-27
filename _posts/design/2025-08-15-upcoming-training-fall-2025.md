@@ -26,8 +26,8 @@ mediaplayer: true
 <!-- deployment status https://github.com/WestGrid/trainingMaterials/actions -->
 
 - To receive future news and emails about our training events, please [subscribe here](/contact).
-- To subscribe to our training calendar, scroll to the calendar at the bottom of this page and click the "+"
-  icon in the lower right corner labelled "Add to Google Calendar" when you hover over it.
+- To subscribe to our training calendar, scroll to the calendar at the bottom of this page and click "+" or
+  "Add to Google Calendar".
 
 
 <!-- To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please -->
