@@ -506,10 +506,6 @@ also with Python and Julia code blocks, adding new functionality to the old tool
 
 Click on each webinar for its recording and materials.
 
-
-
-
-
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">AI pair programming & LLM chats in Emacs</font></a> (2025-Oct-07)

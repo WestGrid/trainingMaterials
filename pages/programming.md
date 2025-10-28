@@ -58,6 +58,37 @@ Click on each webinar for its recording and materials.
 
 <details>
 <summary>
+<a>&nbsp;&nbsp;<font size="+1">The next generation of Python notebooks</font></a> (2025-Oct-28)
+</summary>
+<br>
+<p>
+Project Jupyter was groundbreaking when, back in 2011, it introduced an open-source notebook built on top of
+the IPython shell (itself an improvement over the standard Python shell). Notebooks quickly became a popular
+tool for literate programming and remain widely used today. However, they come with two major drawbacks: (1)
+they are difficult to manage under version control due to the JSON-based .ipynb file format, and (2) it is easy
+to forget to rerun cells in order, leading to non-reproducible results.
+</p><p>
+marimo represents a new generation of open-source Python notebooks designed to overcome these issues. It uses
+a dataflow graph under the hood to ensure cells stay up to date and saves notebooks in plain .py files for
+seamless version control. marimo also offers rich interactivity with direct synchronization to the Python
+kernel. Since its launch in 2023, marimo has rapidly gained popularity. In this webinar, I demonstrate how to
+install and use marimo notebooks in practice.
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://mint.westdri.ca/python/wb_marimo" target="_blank">Online slides</a></li>
+</ul>
+<div class="flex-video">
+	<iframe width="888" height="500" src="https://www.youtube.com/embed/NS6cGgb3TFk" title="The next
+	generation of Python notebooks" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+</details>
+
+<details>
+<summary>
 <a>&nbsp;&nbsp;<font size="+1">Managing Python packages, versions, and projects with uv</font></a> (2025-May-06)
 </summary>
 <br>
