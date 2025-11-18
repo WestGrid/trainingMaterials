@@ -14,11 +14,11 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
 ## Workshops
 
-* ParaView full-day workshop slides (last updated summer 2023):
+* ParaView full-day workshop slides (last updated October 2025):
   - <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/paraviewWorkshop1.pdf"
-     target="_blank">Part 1</a> (69 pages)
+     target="_blank">Part 1</a> (62 pages)
   - <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/paraviewWorkshop2.pdf"
-     target="_blank">Part 2</a> (58 pages)
+     target="_blank">Part 2</a> (59 pages)
 * <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/visitWorkshop.pdf"
   target="_blank">VisIt full-day workshop slides</a> (129 pages, last updated May 2017)
 * <a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/dhsi.pdf"
@@ -49,6 +49,28 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 <!-- </details> -->
 
 Click on each webinar for its recording and materials.
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Creating interactive online visualizations with Trame</font></a> (2025-Nov-18)
+</summary>
+<br>
+<p>
+Trame is an open-source framework that lets researchers build interactive web applications and dashboards for
+data visualization, leveraging Python and popular visualization frameworks like VTK and ParaView. In this
+webinar, we introduce the core concepts of Trame, demonstrate how to create interactive visualizations,
+and show how to put them online for easy sharing. This session is ideal for researchers and data scientists
+who want to transform their static visualizations into interactive, shareable experiences without needing
+extensive web development expertise.
+</p>
+<ul>
+	<li>Speaker: Alex Razoumov</li>
+	<li><a href="https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/trame20251118.pdf" target="_blank">PDF slides</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
 
 <details>
 <a name="imagemagick"></a>

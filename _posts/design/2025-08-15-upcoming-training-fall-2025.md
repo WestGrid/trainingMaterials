@@ -70,7 +70,7 @@ titles to access recordings and slides.
 | Oct-07 | [<span style="color:blue">AI pair programming & LLMs chats in Emacs</span>]({{ site.baseurl }}/getting-started#emacs) | Marie-Hélène Burle |
 | Oct-14 | [<span style="color:blue">Globus-cli for file transfer</span>]({{ site.baseurl }}/tools/rdm) | Alex Razoumov |
 | Oct-28 | [<span style="color:blue">The next generation of Python notebooks</span>]({{ site.baseurl }}/programming#python) | Marie-Hélène Burle |
-| Nov-18 | [Creating interactive online visualizations with Trame](https://forms.gle/CvFYTWkkBVfbUaLW9){:target="_blank"} | Alex Razoumov | <!-- Nov-11 is a holiday -->
+| Nov-18 | [<span style="color:blue">Creating interactive online visualizations with Trame</span>]({{ site.baseurl }}/tools/visualization) | Alex Razoumov | <!-- Nov-11 is a holiday -->
 | Nov-25 | [Deep learning experiments tracking with MLflow](https://forms.gle/ZQKban72qciCdhos6){:target="_blank"} | Marie-Hélène Burle |
 | Dec-09 | [Command-line OpenStack](https://forms.gle/31kHFPyuWFtuA2N98){:target="_blank"} | Alex Razoumov |
 
