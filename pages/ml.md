@@ -35,6 +35,30 @@ permalink: "/tools/ml/"
 Click on each webinar for its recording and materials.
 
 <details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Deep learning experiment tracking with MLflow</font></a> (2025-Nov-25)
+</summary>
+<br>
+<p>
+While developing a machine learning or deep learning model, several datasets might be trained on diverse
+architectures tuned with various hyperparameters. It is extremely challenging to keep track of so many moving
+parts, and this causes problems for reproducibility, efficient organization, compliance to requirements, and
+pipeline management.
+</p><p>
+Experiment tracking tools bring sanity to this complexity, but most of them are proprietary. MLflow is a free,
+open-source, and popular platform for AI experiment tracking. In this webinar, I show how to get started with
+MLflow and demo some of its most useful features.
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle </li>
+	<li><a href="https://mint.westdri.ca/ai/mlops/wb_mlflow" target="_blank">Online slides</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+<details>
 <a name="jax"></a>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">JAX: a framework for high-performance array computing</font></a> (2024-Apr-16)
