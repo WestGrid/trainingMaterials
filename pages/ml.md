@@ -53,8 +53,12 @@ MLflow and demo some of its most useful features.
 	<li>Speaker: Marie-Hélène Burle </li>
 	<li><a href="https://mint.westdri.ca/ai/mlops/wb_mlflow" target="_blank">Online slides</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="830" height="467" src="https://www.youtube.com/embed/YsyoqqZYn6g" title="ML experiment
+	tracking with MLflow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+	allowfullscreen></iframe>
+</div>
 <br>
 </details>
 
