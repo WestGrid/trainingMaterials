@@ -123,8 +123,8 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 | Scientific visualization | Oct-23 | Alex Razoumov |
 | Getting started with Git | Oct-30 | Marie-Hélène Burle |
 | Working with Apptainer containers | Nov-06, Nov-13 | Alex Razoumov |
-| [HPC Python](https://forms.gle/2HnbbVc3NUVdXS2VA){:target="_blank"} | Nov-20, Nov-27, Dec-04 | Alex Razoumov |
-| [Machine learning](https://forms.gle/tRNRU5ZHdJwsGG2F8){:target="_blank"} | Dec-11, Dec-18 | Marie-Hélène Burle<br>& Alex Razoumov |
+| HPC Python | Nov-20, Nov-27, Dec-04 | Alex Razoumov |
+| [Deep learning with JAX](https://forms.gle/tRNRU5ZHdJwsGG2F8){:target="_blank"} | Dec-11, Dec-18 | Marie-Hélène Burle<br>& Alex Razoumov |
 
 
 
