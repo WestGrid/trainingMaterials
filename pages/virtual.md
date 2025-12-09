@@ -38,6 +38,28 @@ For more information, please check the [cloud computing page](https://docs.allia
 Click on each webinar for its recording and materials.
 
 <details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Command-line OpenStack</font></a> (2025-Dec-09)
+</summary>
+<br>
+<p>
+OpenStack provides a powerful cloud platform for managing compute, storage, and networking resources. While
+its web dashboard offers a user-friendly interface and can be convenient at times, it often involves too many
+clicks to complete routine tasks such as creating and configuring a virtual machine. The command-line
+interface (CLI) offers a faster, more streamlined way to create and manage resources. In this webinar, we
+discuss `python-openstackclient`, walk through its setup and authentication, and demonstrate how to
+efficiently perform common OpenStack operations from the terminal.
+</p>
+<ul>
+	<li>Speaker: Alex Razoumov</li>
+	<li><a href="https://folio.vastcloud.org/openstack" target="_blank">Online notes</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+<details>
 <a name="alliancecloud"></a>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Intro to the Alliance Cloud</font></a> (2024-Dec-10)

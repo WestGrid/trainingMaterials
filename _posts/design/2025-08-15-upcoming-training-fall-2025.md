@@ -72,7 +72,7 @@ titles to access recordings and slides.
 | Oct-28 | [<span style="color:blue">The next generation of Python notebooks</span>]({{ site.baseurl }}/programming#python) | Marie-Hélène Burle |
 | Nov-18 | [<span style="color:blue">Creating interactive online visualizations with Trame</span>]({{ site.baseurl }}/tools/visualization) | Alex Razoumov | <!-- Nov-11 is a holiday -->
 | Nov-25 | [<span style="color:blue">Deep learning experiment tracking with MLflow</span>]({{ site.baseurl }}/tools/ml) | Marie-Hélène Burle |
-| Dec-09 | [Command-line OpenStack](https://forms.gle/31kHFPyuWFtuA2N98){:target="_blank"} | Alex Razoumov |
+| Dec-09 | [<span style="color:blue">Command-line OpenStack</span>]({{ site.baseurl }}/tools/virtual) | Alex Razoumov |
 
 
 
