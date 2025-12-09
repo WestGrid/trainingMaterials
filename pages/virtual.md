@@ -54,8 +54,11 @@ efficiently perform common OpenStack operations from the terminal.
 	<li>Speaker: Alex Razoumov</li>
 	<li><a href="https://folio.vastcloud.org/openstack" target="_blank">Online notes</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="859" height="523" src="https://www.youtube.com/embed/83EWEussOqg" title="Command-line
+	OpenStack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+	picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <br>
 </details>
 
