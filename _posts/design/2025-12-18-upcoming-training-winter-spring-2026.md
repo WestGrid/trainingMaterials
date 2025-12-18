@@ -1,0 +1,201 @@
+---
+layout: page
+#
+# Content
+#
+subheadline: "all training"
+title: "Events for winter/spring 2026"
+teaser: ""
+categories:
+  - events
+tags:
+  - events
+#
+# Styling
+#
+header: no
+image:
+    title: stainedGlass.png
+    thumb: stainedGlass.png
+    homepage:
+    caption: Image rendered with ParaView
+    caption_url: https://www.paraview.org
+mediaplayer: true
+---
+
+<!-- deployment status https://github.com/WestGrid/trainingMaterials/actions -->
+
+To receive future news and emails about our training events, please [subscribe here](/contact).
+
+<!-- To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please -->
+<!-- [subscribe here](/contact). -->
+
+[Table of Contents](#table-of-contents):
+&nbsp;
+[<em>Winter Visualization Series</em>](#winter-visualization-series)
+• [<em>Webinars</em>](#webinars)
+• [<em>Online courses</em>](#online-courses)
+• [<em>Other local bootcamps and workshops</em>](#bootcamps)
+<!-- • [<em>Humanities and social sciences training</em>](#dh) -->
+• [<em>In-person schools</em>](#schools)
+
+
+
+
+
+
+## Winter Visualization Series
+
+This year, [the National Visualization Team](https://ccvis.netlify.app){:target="_blank"} is hosting the
+Winter Visualization Series, featuring 18 workshops running from January 20 to March 27. For full details and
+registration, please visit [the Series webpage](https://folio.vastcloud.org/winterseries){:target="_blank"}.
+
+
+
+
+
+
+
+## Webinars
+
+To accommodate the Winter Visualization Series, our webinar season will begin on April 7, 2026. The 2026
+Spring Webinars, hosted by SFU's Research Computing Group (RCG), will take place every second Tuesday at
+10:00am Pacific (Victoria, Vancouver), 11:00am Mountain (Edmonton, Calgary), and 12:00pm Central
+(Winnipeg). Webinar details and registration links will be posted here in March.
+
+<!-- For *upcoming webinars*, click the linked titles to view details or register. For *past sessions*, click the -->
+<!-- titles to access recordings and slides. -->
+
+<!-- | DATE | TOPIC | SPEAKER | -->
+<!-- | ---- | ----- | ------- | -->
+<!-- | Apr-xx | [title](registration link) | speaker | -->
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="courses"></a>
+## Online courses
+
+SFU Research Computing hosts weekly online sessions on advanced research computing every Thursday from 10:00am
+to noon Pacific Time. These sessions are open to all academic researchers in Canada. Most courses span two
+weeks, though some may be shorter or longer. Sessions are not recorded to encourage live participation and
+interaction. Popular and introductory sessions are repeated throughout the year.
+
+| COURSE | DATES | INSTRUCTOR |
+| ------ | ----- | ---------- |
+| Bash for beginners | Jan-22 | Marie-Hélène Burle |
+| HPC for beginners | Jan-29 | Alex Razoumov |
+| Introduction to Python | Feb-05, Feb-12, Feb-26 | Marie-Hélène Burle | <!-- multiple requests for a longer intro course -->
+| Getting started with Git | Mar-05 | Marie-Hélène Burle |
+| Collaboration with Git   | Mar-12 | Marie-Hélène Burle |
+| Parallel computing with Julia | Mar-19, Mar-26 | Alex Razoumov |
+| Parallel computing with Chapel | Apr-02 | Alex Razoumov |
+| GPU Python: CuPy for arrays | Apr-09 | Marie-Hélène Burle |
+| GPU Python: Numba JIT compilation to CUDA kernels | Apr-16 | Alex Razoumov |
+| GPU Python: polars-cudf for dataframes | Apr-23 | Marie-Hélène Burle |
+| GPU programming with Chapel | Apr-30 | Alex Razoumov |
+| Gen-AI with JAX for simulation data | May-07 | Alex Razoumov |
+| High-performance R | May-14, May-21 | Marie-Hélène Burle |
+
+
+
+<!-- 1. break into smaller courses, with dependencies/requirements -->
+<!-- 1. be explicit about pre-requisites, e.g. for this Python course some were not familiar with HPC and bash, no -->
+<!--    idea what ssh is, etc. -->
+<!-- 1. include into the abstract: if you have not attended, please study this material -->
+<!-- 1. two start times: 9:30am for people not familiar with ssh, 10:00am for everyone else -->
+<!-- 1. we have 19 weeks - 1 reading week break = 18 weeks, starting on Jan-19 -->
+
+<!-- |COURSE|WINTER/SPRING 2024|FALL 2024|WINTER/SPRING 2025|FALL 2025| -->
+<!-- |Introduction to the Unix shell|X||X|X| -->
+<!-- |Introduction to HPC|X|X|X|X| -->
+<!-- |Introduction to Python||||X| -->
+<!-- |Getting started with Git|X|X||X| -->
+<!-- |Working with Apptainer containers|X|X||X| -->
+<!-- |HPC Python|X|X|X|X| -->
+<!-- |High-performance R|||X|| -->
+<!-- |Parallel Julia|X||X|| -->
+<!-- |Parallel programming in Chapel|||X|| -->
+<!-- |Using GPUs with Chapel||X||| -->
+<!-- |Deep learning with JAX|X||X|X| -->
+<!-- |Deep learning with Flax|X|||| -->
+<!-- |Beginner's introduction to Emacs||X||| -->
+<!-- |Faster Python DataFrames with Polars||X||| -->
+<!-- |Answering your Bash questions||X||| -->
+<!-- |Scientific visualization|X||X|X| -->
+<!-- |Large-scale and remote visualization|X|X||| -->
+<!-- |Hands-on with ParaView’s Programmable Filter/Source for scientific visualization||X||| -->
+
+<!-- fall 2026: -->
+<!-- Marie 3-week PyTorch course (back from JAX) -->
+
+
+
+
+
+
+
+
+
+<a name="bootcamps"></a>
+## Upcoming bootcamps and workshops
+
+Workshops from other Western Canadian universities will be added here as they are announced.
+
+| DATE | EVENT | VENUE |
+| ---- | ----- | ----- |
+| Jan-Feb | UofA Winter Bootcamp | Online |
+
+
+
+
+
+
+
+
+
+<!-- <a name="schools"></a> -->
+<!-- ## Summer school -->
+
+<!-- <\!-- Typically at the end of a term we organize a longer, in-person research computing school at SFU that is open -\-> -->
+<!-- <\!-- to all students, postdocs, faculty and staff. We will add more information here. -\-> -->
+
+<!-- SFU's 2025 week-long Research Computing Summer School will take place from June 9th to 13th. This year's -->
+<!-- program offers a hands-on introduction to essential tools and concepts in modern scientific computing and -->
+<!-- data-intensive research, with an emphasis on efficient, reproducible, and scalable workflows. Through a -->
+<!-- combination of guided instruction and practical sessions, attendees will develop the skills needed to navigate -->
+<!-- computational environments, manage and optimize research code, and harness the power of high-performance -->
+<!-- computing. -->
+
+<!-- - Day 1: Intro to Linux command line - full-day -->
+<!-- - Day 2: Intro to high-performance computing (HPC) - full-day -->
+<!-- - Day 3: Version control with Git - morning -->
+<!-- - Day 3: Make your R code faster (serial optimization in R) - afternoon -->
+<!-- - Day 4: Practical hands-on session: working on a Git project of your choice (bash, HPC, or R) - morning -->
+<!-- - Day 4: First dive into parallel programming with Chapel - afternoon -->
+<!-- - Day 5: HPC Python - full-day -->
+
+<!-- The school will be open to all researchers at SFU and other Canadian post-secondary institutions. The website -->
+<!-- and registration details will be announced in the coming weeks -- please watch our -->
+<!-- [newsletter]({{site.baseurl }}/contact){:target="_blank"} and this site for updates. -->
+
+
+
+
+
+
+---
+
+<br>
+As always, we welcome suggestions for additional training topics and events. Please email your ideas to
+`training at westdri dot ca`.
+
+<!-- [text](link){:target="_blank"} -->

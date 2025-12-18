@@ -15,7 +15,7 @@ widget1:
   good starting point.'
 widget2:
   title: "Upcoming sessions"
-  url: '/events/upcoming-training-fall-2025'
+  url: '/events/upcoming-training-winter-spring-2026'
   image: header_unsplash_7.jpg
   text: 'We host training webinars and workshops year-round to help you build skills in computational research. Check out our upcoming training events.'
 widget3:
