@@ -91,19 +91,19 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 
 | COURSE | DATES | INSTRUCTOR |
 | ------ | ----- | ---------- |
-| Bash for beginners | Jan-22 | Marie-Hélène Burle |
-| HPC for beginners | Jan-29 | Alex Razoumov |
-| Introduction to Python | Feb-05, Feb-12,<br>Feb-26 | Marie-Hélène Burle | <!-- multiple requests for a longer intro course -->
+| [Bash for beginners](https://forms.gle/49SkQaB7kYBZfbVm8){:target="_blank"} | Jan-22 | Marie-Hélène Burle |
+| [HPC for beginners](https://forms.gle/NQyTMZCijqYGu5bS9){:target="_blank"} | Jan-29 | Alex Razoumov |
+| Introduction to Python | Feb-05,<br>Feb-12,<br>Feb-26 | Marie-Hélène Burle | <!-- multiple requests for a longer intro course -->
 | Getting started with Git | Mar-05 | Marie-Hélène Burle |
 | Collaboration with Git   | Mar-12 | Marie-Hélène Burle |
-| Parallel computing with Julia | Mar-19, Mar-26 | Alex Razoumov |
+| Parallel computing with Julia | Mar-19,<br>Mar-26 | Alex Razoumov |
 | Parallel computing with Chapel | Apr-02 | Alex Razoumov |
 | GPU Python:<br>CuPy for arrays | Apr-09 | Marie-Hélène Burle |
 | GPU Python:<br>Numba JIT compilation to CUDA kernels | Apr-16 | Alex Razoumov |
 | GPU Python:<br>polars-cudf for dataframes | Apr-23 | Marie-Hélène Burle |
 | GPU programming with Chapel | Apr-30 | Alex Razoumov |
 | Gen-AI with JAX for simulation data | May-07 | Alex Razoumov |
-| High-performance R | May-14, May-21 | Marie-Hélène Burle |
+| High-performance R | May-14,<br>May-21 | Marie-Hélène Burle |
 
 
 
