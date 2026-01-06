@@ -96,14 +96,14 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 | [Introduction to Python](https://forms.gle/jkJqCKdzGCisZyaQ7){:target="_blank"} | Feb-05,<br>Feb-12,<br>Feb-26 | Marie-Hélène Burle | <!-- multiple requests for a longer intro course -->
 | [Getting started with Git](https://forms.gle/9jUJCvF9ECUoouHY9){:target="_blank"} | Mar-05 | Marie-Hélène Burle |
 | [Collaboration with Git](https://forms.gle/GivwM9c349811e967){:target="_blank"}   | Mar-12 | Marie-Hélène Burle |
-| Parallel computing with Julia | Mar-19,<br>Mar-26 | Alex Razoumov |
-| Parallel computing with Chapel | Apr-02 | Alex Razoumov |
-| GPU Python:<br>CuPy for arrays | Apr-09 | Marie-Hélène Burle |
-| GPU Python:<br>Numba JIT compilation to CUDA kernels | Apr-16 | Alex Razoumov |
-| GPU Python:<br>polars-cudf for dataframes | Apr-23 | Marie-Hélène Burle |
-| GPU programming with Chapel | Apr-30 | Alex Razoumov |
-| Gen-AI with JAX for simulation data | May-07 | Alex Razoumov |
-| High-performance R | May-14,<br>May-21 | Marie-Hélène Burle |
+| [Parallel computing in Julia](https://forms.gle/GfrBbpVcwkohkptF6){:target="_blank"} | Mar-19,<br>Mar-26 | Alex Razoumov |
+| [Parallel computing in Chapel](https://forms.gle/WLjdBHUkF7MUCfeJ8){:target="_blank"} | Apr-02 | Alex Razoumov |
+| [GPU Python:<br>Arrays with CuPy](https://forms.gle/L7evRi9HQsUiWCtTA){:target="_blank"} | Apr-09 | Marie-Hélène Burle |
+| [GPU Python:<br>Numba JIT compilation to CUDA kernels](https://forms.gle/E6XyX4Q3H6hXDwUM7){:target="_blank"} | Apr-16 | Alex Razoumov |
+| [GPU Python:<br>DataFrames with Polars and RAPIDS cuDF](https://forms.gle/nLkXezYqCjSPLeR16){:target="_blank"} | Apr-23 | Marie-Hélène Burle |
+| [GPU programming in Chapel](https://forms.gle/g4zFsPzHaFBtJyRe8){:target="_blank"} | Apr-30 | Alex Razoumov |
+| [Gen-AI with JAX for simulation data](https://forms.gle/HJ9teThx7cZezcV97){:target="_blank"} | May-07 | Alex Razoumov |
+| [High-performance R](https://forms.gle/NfQf4UTtG82RzFBP6){:target="_blank"} | May-14,<br>May-21 | Marie-Hélène Burle |
 
 
 
