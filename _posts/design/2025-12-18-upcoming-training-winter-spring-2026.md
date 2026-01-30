@@ -92,7 +92,7 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 | COURSE | DATES | INSTRUCTOR |
 | ------ | ----- | ---------- |
 | Bash for beginners | Jan-22 | Marie-Hélène Burle |
-| [HPC for beginners](https://forms.gle/NQyTMZCijqYGu5bS9){:target="_blank"} | Jan-29 | Alex Razoumov |
+| HPC for beginners | Jan-29 | Alex Razoumov |
 | [Introduction to Python](https://forms.gle/jkJqCKdzGCisZyaQ7){:target="_blank"} | Feb-05,<br>Feb-12,<br>Feb-26 | Marie-Hélène Burle | <!-- multiple requests for a longer intro course -->
 | [Getting started with Git](https://forms.gle/9jUJCvF9ECUoouHY9){:target="_blank"} | Mar-05 | Marie-Hélène Burle |
 | [Collaboration with Git](https://forms.gle/GivwM9c349811e967){:target="_blank"}   | Mar-12 | Marie-Hélène Burle |
