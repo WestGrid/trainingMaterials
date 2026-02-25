@@ -63,12 +63,12 @@ Spring Webinars, hosted by SFU's Research Computing Group (RCG), will take place
 10:00am Pacific (Victoria, Vancouver), 11:00am Mountain (Edmonton, Calgary), and 12:00pm Central
 (Winnipeg). Webinar details and registration links will be posted here in March.
 
-<!-- For *upcoming webinars*, click the linked titles to view details or register. For *past sessions*, click the -->
-<!-- titles to access recordings and slides. -->
+For *upcoming webinars*, click the linked titles to view details or register. For *past sessions*, click the
+titles to access recordings and slides.
 
-<!-- | DATE | TOPIC | SPEAKER | -->
-<!-- | ---- | ----- | ------- | -->
-<!-- | Apr-xx | [title](registration link) | speaker | -->
+| DATE | TOPIC | SPEAKER |
+| ---- | ----- | ------- |
+| Apr-7 | [RIP pandas, welcome Polars](https://forms.gle/sjAocb4MiFsdHp2V9){:target="_blank"} | Marie-Hélène Burle |
 
 
 
