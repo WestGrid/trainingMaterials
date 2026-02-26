@@ -61,16 +61,21 @@ registration, please visit [the Series webpage](https://folio.vastcloud.org/wint
 To accommodate the Winter Visualization Series, our webinar season will begin on April 7, 2026. The 2026
 Spring Webinars, hosted by SFU's Research Computing Group (RCG), will take place every second Tuesday at
 10:00am Pacific (Victoria, Vancouver), 11:00am Mountain (Edmonton, Calgary), and 12:00pm Central
-(Winnipeg). Webinar details and registration links will be posted here in March.
+(Winnipeg).
+
+<!-- Webinar details and registration links will be posted here in March. -->
 
 <!-- For *upcoming webinars*, click the linked titles to view details or register. For *past sessions*, click the -->
 <!-- titles to access recordings and slides. -->
 
-<!-- | DATE | TOPIC | SPEAKER | -->
-<!-- | ---- | ----- | ------- | -->
-<!-- | Apr-xx | [title](registration link) | speaker | -->
+| DATE | TOPIC | SPEAKER |
+| ---- | ----- | ------- |
+| Apr-07 | Polars | Marie-Hélène Burle |
+| Apr-21 | TBD | MHB and AR |
+| May-05 | OpenStack command line in action: VMs in minutes | Alex Razoumov |
+| May-19 | TBD | MHB and AR |
 
-
+<!-- something on Apptainer? -->
 
 
 
