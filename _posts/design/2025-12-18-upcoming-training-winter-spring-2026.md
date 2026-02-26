@@ -65,12 +65,12 @@ Spring Webinars, hosted by SFU's Research Computing Group (RCG), will take place
 
 <!-- Webinar details and registration links will be posted here in March. -->
 
-<!-- For *upcoming webinars*, click the linked titles to view details or register. For *past sessions*, click the -->
-<!-- titles to access recordings and slides. -->
+For *upcoming webinars*, click the linked titles to view details or register. For *past sessions*, click the
+titles to access recordings and slides.
 
 | DATE | TOPIC | SPEAKER |
 | ---- | ----- | ------- |
-| Apr-07 | Polars | Marie-Hélène Burle |
+| Apr-07 | [RIP pandas, welcome Polars](https://forms.gle/sjAocb4MiFsdHp2V9){:target="_blank"} | Marie-Hélène Burle |
 | Apr-21 | TBD | MHB and AR |
 | May-05 | OpenStack command line in action: VMs in minutes | Alex Razoumov |
 | May-19 | TBD | MHB and AR |
