@@ -73,7 +73,7 @@ titles to access recordings and slides.
 | Apr-07 | [RIP pandas, welcome Polars](https://forms.gle/sjAocb4MiFsdHp2V9){:target="_blank"} | Marie-Hélène Burle |
 | Apr-21 | TBD | MHB and AR |
 | May-05 | OpenStack command line in action: VMs in minutes | Alex Razoumov |
-| May-19 | TBD | MHB and AR |
+| May-19 | Two Paths to Python Dashboards: Shiny vs Dash | MHB and AR |
 
 <!-- something on Apptainer? -->
 <!-- FTTE talk? -->
