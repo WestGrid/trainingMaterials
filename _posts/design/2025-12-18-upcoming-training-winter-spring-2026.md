@@ -112,6 +112,13 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 
 
 
+<!-- fall 2026: -->
+<!-- Marie 2-week Getting started with Git (1 week is not enough) followed by 1-week Collaboration with Git -->
+<!-- Marie 3-week PyTorch course (back from JAX) -->
+
+
+
+
 <!-- 1. break into smaller courses, with dependencies/requirements -->
 <!-- 1. be explicit about pre-requisites, e.g. for this Python course some were not familiar with HPC and bash, no -->
 <!--    idea what ssh is, etc. -->
@@ -139,8 +146,6 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 <!-- |Large-scale and remote visualization|X|X||| -->
 <!-- |Hands-on with ParaView’s Programmable Filter/Source for scientific visualization||X||| -->
 
-<!-- fall 2026: -->
-<!-- Marie 3-week PyTorch course (back from JAX) -->
 
 
 
