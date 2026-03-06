@@ -71,16 +71,17 @@ titles to access recordings and slides.
 | DATE | TOPIC | SPEAKER |
 | ---- | ----- | ------- |
 | Apr-07 | [RIP pandas, welcome Polars](https://forms.gle/sjAocb4MiFsdHp2V9){:target="_blank"} | Marie-Hélène Burle |
-| Apr-21 | TBD | MHB and AR |
+| Apr-21 | Typst | Marie-Hélène Burle |
 | May-05 | OpenStack command line in action: VMs in minutes | Alex Razoumov |
-| May-19 | Two Paths to Python Dashboards: Shiny vs Dash | MHB and AR |
+| May-19 | Two Paths to Python Dashboards: Shiny vs Dash | Marie-Hélène Burle & Alex Razoumov |
 
 <!-- something on Apptainer? -->
 <!-- FTTE talk? -->
 
 
 
-
+<!-- fall 2026 webinars: -->
+<!-- Marie Python Emacs -->
 
 
 
@@ -112,7 +113,7 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 
 
 
-<!-- fall 2026: -->
+<!-- fall 2026 courses: -->
 <!-- Marie 2-week Getting started with Git (1 week is not enough) followed by 1-week Collaboration with Git -->
 <!-- Marie 3-week PyTorch course (back from JAX) -->
 
