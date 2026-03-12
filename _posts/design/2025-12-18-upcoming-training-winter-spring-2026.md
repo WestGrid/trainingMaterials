@@ -101,7 +101,7 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 | HPC for beginners | Jan-29 | Alex Razoumov |
 | Introduction to Python | Feb-05,<br>Feb-12,<br>Feb-26 | Marie-Hélène Burle |
 | Getting started with Git | Mar-05 | Marie-Hélène Burle |
-| [Collaboration with Git](https://forms.gle/GivwM9c349811e967){:target="_blank"}   | Mar-12 | Marie-Hélène Burle |
+| Collaboration with GitHub | Mar-12 | Marie-Hélène Burle |
 | [Parallel computing in Julia](https://forms.gle/GfrBbpVcwkohkptF6){:target="_blank"} | Mar-19,<br>Mar-26 | Alex Razoumov |
 | [Parallel computing in Chapel](https://forms.gle/WLjdBHUkF7MUCfeJ8){:target="_blank"} | Apr-02 | Alex Razoumov |
 | [GPU Python:<br>Arrays with CuPy](https://forms.gle/L7evRi9HQsUiWCtTA){:target="_blank"} | Apr-09 | Marie-Hélène Burle |
