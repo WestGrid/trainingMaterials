@@ -9,22 +9,22 @@ header:
 permalink: "/courses/"
 ---
 
-We offer training on a wide range of topics related to scientific programming, high-performance computing,
-data analysis, and visualization. These courses can take any form, from one hour to multiple days, and can be
-conducted online or in person.
+We offer training on a broad range of topics in scientific programming, high-performance computing, data
+analysis, and visualization. Our courses are flexible in both format and length, ranging from one-hour
+sessions to multi-day workshops, and can be delivered either online or in person.
 
-We hold regular workshops throughout the year, including summer schools from May to August and winter schools
+We run regular workshops throughout the year, including summer schools from May to August and winter schools
 from November to March. These workshops are traditionally hosted by universities located in southwest British
 Columbia (Vancouver or Victoria) and east of the Rockies (Alberta, Saskatchewan, or Manitoba). Additionally,
-some schools are taught online.
+some schools are also offered online.
 
 **In addition to our regular events, we offer on-demand workshops and customized training.**
 
-If you would like to host a workshop, please let us know at `training at westdri dot ca`. We design the workshop,
-coordinate the preparations, advertise the event, and provide the instruction. For in-person training, we expect the
-host to provide an auditorium or classroom space and help with advertising the session locally. For workshops in partner
-institutions, we also expect the host to allow any member of the research community to attend the sessions (i.e. this
-may include researchers from outside your institution).
+If you would like to host a workshop, please contact us at `training at westdri dot ca`. We handle the
+workshop design, coordinate the preparations, promote the event, and deliver the instruction. For in-person
+training, we ask the host to provide a suitable classroom or auditorium and assist with local advertising. For
+workshops at partner institutions, we also ask that attendance be open to the broader research community,
+including participants from outside your institution.
 
 If you are seeking training for your team, or prefer to run a small, invite-only session for a select audience, please
 contact us at `training at westdri dot ca` to discuss.
@@ -32,7 +32,8 @@ contact us at `training at westdri dot ca` to discuss.
 <!-- All our services are free to researchers and groups from -->
 <!-- [WestGrid Member institutions or Associate Member organizations](https://www.westgrid.ca/become_member). -->
 
-All our services are free to researchers and groups from Western Canada academic institutions.
+All of our training is free for researchers and groups from academic institutions in Western Canada, with a
+primary focus on research audiences.
 
 <!-- If your organization does not fall into this category, [please get in touch](mailto:training@westgrid.ca) for a quote. -->
 
@@ -42,80 +43,15 @@ All our services are free to researchers and groups from Western Canada academic
 <!-- Numerical Computing with Python https://support.scinet.utoronto.ca/education/go.php/473/index.php/ib/1//p_course/473 -->
 <!-- Scientific Computing for Physicists https://support.scinet.utoronto.ca/education/go.php/468/index.php/ib/1//p_course/468 -->
 
-## Full-day courses
+## Course list
+
+You can click on full-day courses for more information. Shorter courses are listed but are not clickable.
 
 ---
 
-Click on each course for details.
+### Visualization
 
-<details>
-<summary>
-<a>&nbsp;&nbsp;<font size="+1">Moving your research to Linux and command line in remote servers</font></a>
-</summary>
-<p>
-<br>
-This workshop is a hands-on introduction to Linux command line and the interaction with a
-remote server. We review basic Linux commands, file management (edit, copy, remove and remote-transfer
-files), directories and the file system, remote access, basic version control (Git, GitHub), Bash scripts
-and basic Bash programming.
-</p>
-</details>
-
-<details>
-<summary>
-<a>&nbsp;&nbsp;<font size="+1">Scientific Python</font></a>
-</summary>
-<p>
-<br>
-This is a one- or two-day workshop introducing scientific programming in Python to beginners. We start with the basic
-concepts such as variables, lists, dictionaries, flow control, conditionals, loops, working with libraries, writing
-functions. We then go to more advanced topics such as speeding up your calculations with numpy (and working with numpy
-arrays in general), plotting with matplotlib or plot.ly, geospatial data processing and maps with cartopy, pandas
-dataframes, working with images, multidimensional arrays in xarray, working with 3D multi-resolution data in yt, running
-Python scripts from the command line including processing arguments and standard input, and other topics.<br>
-<br>
-We can customize this workshop to address your specific Python workflows.
-</p>
-</details>
-
-<details>
-<summary>
-<a>&nbsp;&nbsp;<font size="+1">Introduction to HPC: using clusters to speed up your research</font></a>
-</summary>
-<p>
-<br>
-We start with an overview of the hardware of common HPC clusters and quick description of the resources
-available on Compute Canada's national systems (Cedar / Graham / Niagara / Béluga). We then continue
-learning the basic tools and techniques to work on a cluster: software environment and modules, overview
-of installed programming languages and compilers, working with makefiles and installing new software
-locally. Finally, we take a look at the Slurm job scheduler: why use it, fairshare and priority,
-submitting serial jobs and job arrays, submitting OpenMP / MPI / hybrid / GPU jobs, working inside
-interactive jobs, and tracking your job's memory usage. We also take a quick look at working with common
-packages such as R, Python and Matlab on the clusters, as well as best practices in cluster workflows.
-</p>
-</details>
-
-<details>
-<summary>
-<a>&nbsp;&nbsp;<font size="+1">High-performance Python</font></a>
-</summary>
-<p>
-<br>
-In scientific computing, Python is the most popular programming/scripting language. While known for its
-high-level features, hundreds of fantastic libraries and ease of use, Python is slow compared to traditional
-(C, C++, Fortran) and new (Julia, Chapel) compiled languages. In this course we’ll focus on speeding up your
-Python workflows using a number of different approaches. In Part 1 we will start with traditional
-vectorization with NumPy, will talk about Python compilers (Numba) and profiling and will cover
-parallelization. We’ll do a little bit of multithreading (possible via numexpr, despite the global interpreter
-lock) but will target primarily multiprocessing.
-<br>
-In Part 2 we will study Ray, a unified framework for scaling AI and Python applications. Since this is not a
-machine learning workshop, we will not touch most of Ray’s AI capabilities, but will focus on its core
-distributed runtime and data libraries. We will learn several different approaches to parallelizing purely
-numerical (and therefore CPU-bound) workflows, both with and without reduction. If your code is I/O-bound, you
-will also benefit from this course, as I/O-bound workflows can be easily processed with Ray.
-</p>
-</details>
+<div style="height: 8px;"></div>
 
 <details>
 <summary>
@@ -145,7 +81,7 @@ This is a VisIt-flavoured version of the previous workshop.
 
 <details>
 <summary>
-<a>&nbsp;&nbsp;<font size="+1">Large-scale 3D remote visualization</font></a>
+<a>&nbsp;&nbsp;<font size="+1">Remote and large-scale visualization in ParaView</font></a>
 </summary>
 <p>
 <br>
@@ -175,6 +111,186 @@ visualization techniques. No prior visualization experience is needed.
 </p>
 </details>
 
+<div style="height: 8px;"></div>
+- ParaView scripting
+- ParaView animation
+- Programmable Filter / Source in ParaView
+- Graph visualization
+- In-situ visualization with Catalyst2
+- Volumetric visualization and data analysis with *yt*
+- Plotting in Python with  Matplotlib
+- Plotting in Python with Plotly
+- Interactive web dashboards with Plotly Dash
+- Modern tools for web visualization
+
+### Linux command line
+
+<div style="height: 8px;"></div>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Moving your research to Linux and command line in remote servers</font></a>
+</summary>
+<p>
+<br>
+This workshop is a hands-on introduction to Linux command line and the interaction with a
+remote server. We review basic Linux commands, file management (edit, copy, remove and remote-transfer
+files), directories and the file system, remote access, basic version control (Git, GitHub), Bash scripts
+and basic Bash programming.
+</p>
+</details>
+
+<div style="height: 8px;"></div>
+- Bash scripting for beginners
+
+### High-performance computing (HPC)
+
+<div style="height: 8px;"></div>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to HPC: using clusters to speed up your research</font></a>
+</summary>
+<p>
+<br>
+We start with an overview of the hardware of common HPC clusters and quick description of the resources
+available on Compute Canada's national systems (Cedar / Graham / Niagara / Béluga). We then continue
+learning the basic tools and techniques to work on a cluster: software environment and modules, overview
+of installed programming languages and compilers, working with makefiles and installing new software
+locally. Finally, we take a look at the Slurm job scheduler: why use it, fairshare and priority,
+submitting serial jobs and job arrays, submitting OpenMP / MPI / hybrid / GPU jobs, working inside
+interactive jobs, and tracking your job's memory usage. We also take a quick look at working with common
+packages such as R, Python and Matlab on the clusters, as well as best practices in cluster workflows.
+</p>
+</details>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Working with Apptainer containers </font></a>
+</summary>
+<p>
+<br>
+This full-day course is a hands-on introduction to working with Singularity/Apptainer containers in an HPC
+environment, as well as working with data stored inside container overlays.
+</p>
+</details>
+
+<div style="height: 8px;"></div>
+
+- Intro to HPC for R users
+- Distributed-memory programming with MPI
+- Shared-memory programming with OpenMP
+- Automating your workflows with *make*
+- Debugging and memory debugging
+
+### Emacs and other tools
+
+<div style="height: 8px;"></div>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Getting started with Emacs</font></a>
+</summary>
+<p>
+<br>
+Emacs is more than ever a very powerful text editor with many exciting new developments. This course will show
+you what makes Emacs such a fantastic tool and get you started in a smooth and gentle way. You will learn the
+basic concepts of Emacs, how to customize it, how to manage packages efficiently, and how to use it remotely.
+</p>
+</details>
+
+<div style="height: 8px;"></div>
+
+- Typesetting with Quarto
+
+### Python
+
+<div style="height: 8px;"></div>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to Python</font></a>
+</summary>
+<p>
+<br>
+Python can be used in many humanities and social sciences workflows, and it is an easy and fun language to
+learn. This introductory 3-day, 6-hour course will walk you through the basics of programming in Python
+starting at the beginner’s level. We will cover the main language features – variables and data types,
+conditionals, lists, for/while loops, list comprehensions, dictionaries, writing functions, and working with
+external libraries, doing many exercises along the way. In the second part we will take a look at some of the
+libraries in more details, including pandas for working with large tables, simple plotting with matplotlib,
+and few others.
+</p>
+</details>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Scientific Python</font></a>
+</summary>
+<p>
+<br>
+This is a one- or two-day workshop introducing scientific programming in Python to beginners. We start with the basic
+concepts such as variables, lists, dictionaries, flow control, conditionals, loops, working with libraries, writing
+functions. We then go to more advanced topics such as speeding up your calculations with numpy (and working with numpy
+arrays in general), plotting with matplotlib or plot.ly, geospatial data processing and maps with cartopy, pandas
+dataframes, working with images, multidimensional arrays in xarray, working with 3D multi-resolution data in yt, running
+Python scripts from the command line including processing arguments and standard input, and other topics.<br>
+<br>
+We can customize this workshop to address your specific Python workflows.
+</p>
+</details>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Towards high-performance Python</font></a>
+</summary>
+<p>
+<br>
+In scientific computing, Python is the most popular programming/scripting language. While known for its
+high-level features, hundreds of fantastic libraries and ease of use, Python is slow compared to traditional
+(C, C++, Fortran) and new (Julia, Chapel) compiled languages. In this course we’ll focus on speeding up your
+Python workflows using a number of different approaches. In Part 1 we will start with traditional
+vectorization with NumPy, will talk about Python compilers (Numba) and profiling and will cover
+parallelization. We’ll do a little bit of multithreading (possible via numexpr, despite the global interpreter
+lock) but will target primarily multiprocessing.
+<br>
+In Part 2 we will study Ray, a unified framework for scaling AI and Python applications. Since this is not a
+machine learning workshop, we will not touch most of Ray’s AI capabilities, but will focus on its core
+distributed runtime and data libraries. We will learn several different approaches to parallelizing purely
+numerical (and therefore CPU-bound) workflows, both with and without reduction. If your code is I/O-bound, you
+will also benefit from this course, as I/O-bound workflows can be easily processed with Ray.
+</p>
+</details>
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Distributed computing with Ray</font></a>
+</summary>
+<p>
+<br>
+Ray is a unified framework for scaling AI and general Python workflows. In this workshop we focus on its core
+distributed runtime and data libraries. We will learn several different approaches to parallelizing purely
+numerical (and therefore CPU-bound) workflows, both with and without reduction. We will also look at I/O-bound
+workflows.
+</p>
+</details>
+
+<div style="height: 8px;"></div>
+
+- `uv` package manager
+- Next-gen Python notebooks with Marimo
+
+### R
+
+<div style="height: 8px;"></div>
+
+- Introduction and advanced topics in R programming
+- Intro to HPC for R users
+
+### Julia
+
+<div style="height: 8px;"></div>
+
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Introduction to programming in Julia</font></a>
@@ -200,7 +316,7 @@ at running Julia in parallel for large-scale problems.
 
 <details>
 <summary>
-<a>&nbsp;&nbsp;<font size="+1">Introduction to multi-threading and multi-processing in Julia</font></a>
+<a>&nbsp;&nbsp;<font size="+1">Multi-threading and multi-processing in Julia</font></a>
 </summary>
 <p>
 <br>
@@ -215,6 +331,14 @@ using several problems: a slowly converging series, a Julia set, a linear algebr
 run examples on a multi-core laptop and an HPC cluster.
 </p>
 </details>
+
+<div style="height: 8px;"></div>
+
+- High-level parallel stencil computations on CPUs and GPUs in Julia
+
+### Chapel
+
+<div style="height: 8px;"></div>
 
 <details>
 <summary>
@@ -233,9 +357,6 @@ support from laptops to large HPC systems.
 </p>
 </details>
 
-
-
-
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">GPU computing with Chapel</font></a>
@@ -250,19 +371,20 @@ as you can run fairly generic Chapel code on GPUs. Obviously, you will benefit f
 with calculations that can be broken into many independent identical pieces. In Chapel, data transfer to/from
 a GPU (and between GPUs) is straightforward, thanks to a well-defined coding model that associates both
 calculations and data with a clear concept of locality.
+<br>
 In this course, we will learn GPU programming in Chapel with many hands-on examples. We will provide the
 system to run on, but to follow exercises you will need an ssh client on your computer to connect to this
 system.
 </p>
 </details>
 
+### Machine learning
 
-
-
+<div style="height: 8px;"></div>
 
 <details>
 <summary>
-<a>&nbsp;&nbsp;<font size="+1">Introduction to Machine Learning with PyTorch</font></a>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to deep learning with PyTorch</font></a>
 </summary>
 <p>
 <br>
@@ -270,51 +392,72 @@ This is a full-day workshop introducing the basic principles of machine learning
 </p>
 </details>
 
+### Cloud
+
+<div style="height: 8px;"></div>
+
+- Setting a virtual machine on an Alliance cloud system
+- Command-line OpenStack
+
+### Research data management (RDM)
+
+<div style="height: 8px;"></div>
+
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Version control with Git</font></a>
 </summary>
 <p>
 <br>
-This two-day workshop introduces version control with Git and covers the most common operations. It puts a particular emphasis on explaining the functioning of Git: understanding what commands really do brings the confidence to go beyond the limited use of "add, commit, push" so common in data science fields.
-</p>
-</details>
-
-<details>
-<summary>
-<a>&nbsp;&nbsp;<font size="+1">Singularity / Apptainer containers and overlays</font></a>
-</summary>
-<p>
+This workshop introduces version control with Git and covers the most common operations. It puts a particular
+emphasis on explaining the functioning of Git: understanding what commands really do brings the confidence to
+go beyond the limited use of "add, commit, push" so common in data science fields.
 <br>
-This full-day course is a hands-on introduction to working with Singularity/Apptainer containers in an HPC
-environment, as well as working with data stored inside container overlays.
+In the second half of this workshop we focus on collaborative workflows on GitHub.
 </p>
 </details>
 
-<!-- ========================================================================================== -->
-
-## Shorter courses
+<div style="height: 8px;"></div>
+- A great Git UI: Lazygit
+- Distributed file storage with git-annex
+- Version control of large and distributed datasets with DataLad
+- What format to choose to save your data
+- Managing large hierarchical datasets with PyTables
+- Globus command line for file transfer
 
 ---
 
-* Introduction to cloud computing (setting a VM in Compute Canada's cloud)
-* Debugging
-* Memory debugging
-* In-situ visualization
-* Research data management
-* Bioinformatics workflows in HPC
-* Introduction to GPU programming with CUDA
-* Introduction to GPU programming with OpenACC
-* Parallel programing with MPI
-* Parallel programing with OpenMP
-* Volumetric visualization and data analysis with *yt*
-* Plotting with plot.ly
-* Plotting with matplotlib
-* Automating your workflows with *make*
-* Code optimization
-* Introduction to shell scripting
-* Introduction and advanced topics in R programming
-* Version control of large and distributed datasets with DataLad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- - Research data management -->
+<!-- - Bioinformatics workflows in HPC -->
+<!-- - Introduction to GPU programming with CUDA -->
+<!-- - Introduction to GPU programming with OpenACC -->
+<!-- - Code optimization -->
+
 
 <!-- ========================================================================================== -->
 
