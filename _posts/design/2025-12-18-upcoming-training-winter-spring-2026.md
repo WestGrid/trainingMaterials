@@ -73,7 +73,7 @@ titles to access recordings and slides.
 | Apr-07 | [RIP pandas, welcome Polars](https://forms.gle/sjAocb4MiFsdHp2V9){:target="_blank"} | Marie-Hélène Burle |
 | Apr-21 | [Typst: a new markup typesetting system](https://forms.gle/Uu1o42F9k6Vh7oCz6){:target="_blank"} | Marie-Hélène Burle |
 | May-05 | [OpenStack command line in action: VMs in minutes](https://forms.gle/5x14VjMbaifFbAze6){:target="_blank"} | Alex Razoumov |
-| May-19 | [Two Paths to Python Dashboards: Shiny vs Dash](https://forms.gle/LsiKPRsZajrUqAwZA){:target="_blank"} | Marie-Hélène Burle<br>& Alex Razoumov |
+| May-19 | [Two paths to Python dashboards: Shiny vs Dash](https://forms.gle/LsiKPRsZajrUqAwZA){:target="_blank"} | Marie-Hélène Burle<br>& Alex Razoumov |
 
 <!-- something on Apptainer? -->
 <!-- FTTE talk? -->
