@@ -81,7 +81,7 @@ This is a VisIt-flavoured version of the previous workshop.
 
 <details>
 <summary>
-<a>&nbsp;&nbsp;<font size="+1">Remote and large-scale visualization in ParaView</font></a>
+<a>&nbsp;&nbsp;<font size="+1">Remote and large-scale visualization</font></a>
 </summary>
 <p>
 <br>
@@ -121,7 +121,7 @@ visualization techniques. No prior visualization experience is needed.
 - Plotting in Python with  Matplotlib
 - Plotting in Python with Plotly
 - Interactive web dashboards with Plotly Dash
-- Modern tools for web visualization
+- Modern tools for web visualization, focusing on trame.app and the VTK ecosystem
 
 ### Linux command line
 
@@ -149,7 +149,7 @@ and basic Bash programming.
 
 <details>
 <summary>
-<a>&nbsp;&nbsp;<font size="+1">Introduction to HPC: using clusters to speed up your research</font></a>
+<a>&nbsp;&nbsp;<font size="+1">Introduction to HPC</font></a> (using clusters to speed up your research)
 </summary>
 <p>
 <br>
@@ -342,7 +342,7 @@ run examples on a multi-core laptop and an HPC cluster.
 
 <details>
 <summary>
-<a>&nbsp;&nbsp;<font size="+1">Foundations of parallel programming and the Chapel programming language</font></a>
+<a>&nbsp;&nbsp;<font size="+1">Foundations of parallel programming in Chapel</font></a>
 </summary>
 <p>
 <br>
@@ -425,22 +425,13 @@ In the second half of this workshop we focus on collaborative workflows on GitHu
 - Managing large hierarchical datasets with PyTables
 - Globus command line for file transfer
 
----
+### Numerical methods
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+With one of us coming from a computational astrophysics background -- developing fluid dynamics and radiative
+transfer codes -- this is a topic close to our hearts. Rather than listing specific subjects, we welcome
+suggestions spanning numerical linear algebra, ODE / PDE solvers, stiff systems and implicit methods, adaptive
+techniques, (magneto-) hydrodynamics, and everything in between, and we would be happy to collaborate with you
+in developing tailored materials.
 
 
 
