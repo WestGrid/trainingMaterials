@@ -52,6 +52,37 @@ Click on each webinar for its recording and materials.
 
 
 
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">RIP pandas, welcome Polars</font></a> (2026-Apr-07)
+</summary>
+<br>
+<p>
+DataFrames first appeared in the statistical S, then R programming languages. They were ported to Python in
+2008 with the pandas library. There is now a new and much better library for Python DataFrames: Polars. There
+are no downsides to using it instead of pandas, beside the effort of changing habits. For new users who don’t
+have habits yet, there are just no downsides. Yet, all Python intro courses still teach pandas.
+</p><p>
+In this webinar, I will not teach Polars and its syntax. Instead I will demo why it is better than pandas with
+a series of examples. Ultimately, my goal is to help shift the culture towards a wider adoption of Polars
+instead of pandas for DataFrames in Python.
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://mint.westdri.ca/python/wb_polars2_slides" target="_blank">Online slides</a> and the <a href="https://mint.westdri.ca/python/wb_polars2" target="_blank">webinar page</a></li>
+	<li><a href="https://mint.westdri.ca/python/hpc_polars" target="_blank">Our Polars DataFrames course</a></li>
+	<li><a href="https://mint.westdri.ca/python/gpu_cudf" target="_blank">Our upcoming course on using Polars on a GPU</a></li>
+	<li><a href="https://docs.pola.rs" target="_blank">Polars official documentation</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+
+
+
+
 
 <details>
 <summary>
