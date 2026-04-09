@@ -104,7 +104,7 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 | Collaboration with GitHub | Mar-12 | Marie-Hélène Burle |
 | Parallel computing in Julia | Mar-19,<br>Mar-26 | Alex Razoumov |
 | Parallel computing in Chapel | Apr-02 | Alex Razoumov |
-| [GPU Python:<br>Arrays with CuPy](https://forms.gle/L7evRi9HQsUiWCtTA){:target="_blank"} | Apr-09 | Marie-Hélène Burle |
+| GPU Python:<br>Arrays with CuPy | Apr-09 | Marie-Hélène Burle |
 | [GPU Python:<br>Numba JIT compilation to CUDA kernels](https://forms.gle/E6XyX4Q3H6hXDwUM7){:target="_blank"} | Apr-16 | Alex Razoumov |
 | [GPU Python:<br>DataFrames with Polars and RAPIDS cuDF](https://forms.gle/nLkXezYqCjSPLeR16){:target="_blank"} | Apr-23 | Marie-Hélène Burle |
 | [GPU programming in Chapel](https://forms.gle/g4zFsPzHaFBtJyRe8){:target="_blank"} | Apr-30 | Alex Razoumov |
