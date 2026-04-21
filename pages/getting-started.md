@@ -467,11 +467,38 @@ Click on each webinar for its recording and materials.
 
 
 
-<a name="quarto"></a>
 ## Authoring scientific documents and static site generators
 
 <details>
 <summary>
+<a name="typst"></a>
+<a>&nbsp;&nbsp;<font size="+1">Typst: a new markup typesetting system</font></a> (2026-Apr-21)
+</summary>
+<br>
+<p>
+Typst is a modern open-source typesetting system that combines LaTeX-level power with faster compilation,
+simpler setup, and an easier learning curve. Its clean syntax supports math, tables, plots, bibliographies,
+scripting, and reactive documents with auto-updated content. It integrates seamlessly with Quarto and, despite
+being new, has rapidly gained popularity in the scientific community. Typst offers a smooth transition from
+word processors to a text-based workflow with benefits like version control, code embedding, and powerful
+editing tools.
+</p>
+<ul>
+	<li>Speaker: Marie-Hélène Burle</li>
+	<li><a href="https://mint.westdri.ca/tools/wb_typst_slides#/title-slide" target="_blank">Online slides</a></li>
+</ul>
+<div class="flex-video">
+	<iframe width="805" height="502" src="https://www.youtube.com/embed/ikzj8OWr0gk" title="Typst: a new
+	markup typesetting system" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+</details>
+
+<details>
+<summary>
+<a name="quarto"></a>
 <a>&nbsp;&nbsp;<font size="+1">The new R Markdown: authoring dynamic scientific documents with Quarto</font></a> (2023-04-11)
 </summary>
 <br>
@@ -493,6 +520,12 @@ also with Python and Julia code blocks, adding new functionality to the old tool
 </div>
 <br>
 </details>
+
+
+
+
+
+
 
 
 
