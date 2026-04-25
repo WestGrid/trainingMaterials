@@ -75,11 +75,8 @@ instead of pandas for DataFrames in Python.
 	<li><a href="https://docs.pola.rs" target="_blank">Polars official documentation</a></li>
 </ul>
 
-Unfortunately, today's video recording did not capture the shared desktop. We are planning to re-record the
-session, but for now, you can listen to the audio below and follow along using the online slides linked above.
-
 <div class="flex-video">
-	<iframe width="820" height="384" src="https://www.youtube.com/embed/A_B063MBpuY" title="RIP Pandas,
+	<iframe width="841" height="525" src="https://www.youtube.com/embed/Z0YeoRVs1D8" title="RIP pandas,
 	welcome Polars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
 	gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
 	allowfullscreen></iframe>

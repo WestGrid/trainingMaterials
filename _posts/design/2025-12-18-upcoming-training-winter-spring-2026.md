@@ -161,6 +161,7 @@ Workshops from other Western Canadian universities will be added here as they ar
 | DATE | EVENT | VENUE |
 | ---- | ----- | ----- |
 | Jan-Feb | [UofA Winter Bootcamp](https://www.ualberta.ca/en/information-services-and-technology/research-computing/bootcamps.html){:target="_blank"} | Online |
+| May | [UofA Spring Bootcamp](https://ualbertauw.qualtrics.com/jfe/form/SV_9mGhgrxohgzJc1w){:target="_blank"} | Online |
 
 
 
