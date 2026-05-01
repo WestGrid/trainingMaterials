@@ -39,6 +39,27 @@ Click on each webinar for its recording and materials.
 
 <details>
 <summary>
+<a>&nbsp;&nbsp;<font size="+1">OpenStack command line in action: VMs in minutes</font></a> (2026-May-05)
+</summary>
+<br>
+<p>
+Moving beyond our introduction to command-line OpenStack, this webinar demonstrates how quickly you can launch
+a virtual machine (VM). We walk through the full setup -- from selecting flavours and images to configuring
+networks and security groups -- in just 5–10 minutes. We then install and configure remote desktop software on
+the VM, preparing it for GUI-based workflows. Finally, we demonstrate these workflows, including a
+client-server visualization setup.
+</p>
+<ul>
+	<li>Speaker: Alex Razoumov</li>
+	<li><a href="https://folio.vastcloud.org/openstack" target="_blank">Online notes</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+<details>
+<summary>
 <a>&nbsp;&nbsp;<font size="+1">Command-line OpenStack</font></a> (2025-Dec-09)
 </summary>
 <br>
