@@ -53,8 +53,12 @@ client-server visualization setup.
 	<li>Speaker: Alex Razoumov</li>
 	<li><a href="https://folio.vastcloud.org/openstack" target="_blank">Online notes</a></li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="854" height="520" src="https://www.youtube.com/embed/wbKT1BwoePc" title="OpenStack command
+	line in action: VMs in minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <br>
 </details>
 
