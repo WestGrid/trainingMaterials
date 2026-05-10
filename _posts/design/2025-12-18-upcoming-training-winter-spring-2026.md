@@ -105,7 +105,7 @@ interaction. Popular and introductory sessions are repeated throughout the year.
 | GPU Python:<br>Numba JIT compilation to CUDA kernels | Apr-16 | Alex Razoumov |
 | GPU Python:<br>DataFrames with Polars and RAPIDS cuDF | Apr-23 | Marie-Hélène Burle |
 | GPU programming in Chapel | Apr-30 | Alex Razoumov |
-| [Gen-AI with JAX for simulation data](https://forms.gle/HJ9teThx7cZezcV97){:target="_blank"} | May-07 | Alex Razoumov |
+| Gen-AI with JAX for simulation data | May-07 | Alex Razoumov |
 | [High-performance R](https://forms.gle/NfQf4UTtG82RzFBP6){:target="_blank"} | May-14,<br>May-21 | Marie-Hélène Burle |
 
 
