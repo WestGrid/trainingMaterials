@@ -37,7 +37,21 @@ To receive future news and emails about our training events, please [subscribe h
 • [<em>Online courses</em>](#online-courses)
 • [<em>Other local bootcamps and workshops</em>](#bootcamps)
 <!-- • [<em>Humanities and social sciences training</em>](#dh) -->
-• [<em>In-person schools</em>](#schools)
+• [<em>Summer school</em>](#schools)
+
+
+
+
+<a name="schools"></a>
+## Summer school
+
+<!-- Typically at the end of a term we organize a longer, in-person research computing school at SFU that is open -->
+<!-- to all students, postdocs, faculty and staff. We will add more information here. -->
+
+SFU's 2026 Research Computing Summer School will run June 1–5 as a week-long, in-person program open to researchers
+at SFU and other Canadian post-secondary institutions. For details and the full schedule, please visit
+the [school website](https://sfu26.netlify.app){:target="_blank"} and
+[register](https://www.eventbrite.ca/e/1989116488964){:target="_blank"}.
 
 
 
@@ -170,17 +184,6 @@ Workshops from other Western Canadian universities will be added here as they ar
 
 
 
-
-<a name="schools"></a>
-## Summer school
-
-<!-- Typically at the end of a term we organize a longer, in-person research computing school at SFU that is open -->
-<!-- to all students, postdocs, faculty and staff. We will add more information here. -->
-
-SFU's 2026 Research Computing Summer School will run June 1–5 as a week-long program open to all researchers
-at SFU and other Canadian post-secondary institutions. More details, including the full schedule, will be
-shared closer to the start date -- please watch our [newsletter]({{site.baseurl }}/contact){:target="_blank"}
-and this site for updates.
 
 <!-- This year's -->
 <!-- program offers a hands-on introduction to essential tools and concepts in modern scientific computing and -->
