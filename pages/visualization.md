@@ -50,6 +50,40 @@ target="_blank">Visualization section</a> in Alliance&#8217;s technical wiki.
 
 Click on each webinar for its recording and materials.
 
+
+
+
+
+<details>
+<summary>
+<a>&nbsp;&nbsp;<font size="+1">Two paths to Python dashboards: Shiny vs Dash</font></a> (2026-May-19)
+</summary>
+<br>
+<p>
+Interactive dashboards are a powerful way to explore data, communicate results, and build web applications
+directly from Python. Two popular frameworks for this purpose are Python Shiny and Plotly Dash, each offering
+different approaches to building reactive interfaces and interactive visualizations.
+</p><p>
+In this webinar, we compare these two frameworks through a small set of practical examples. Rather than
+providing a comprehensive feature-by-feature review, we implement the same simple dashboards in both
+frameworks and examine how their design philosophies translate into code structure and reactivity models, and
+how similar functionality can be implemented in each framework.
+</p>
+<ul>
+	<li>Speakers: Marie-Hélène Burle and Alex Razoumov</li>
+	<li><a href="https://folio.vastcloud.org/winterseries" target="_blank">Winter visualization series</a></li>
+	<li><a href="https://folio.vastcloud.org/plotly1/plotly-04-dash.html" target="_blank">Interactive apps with Dash</a></li>
+</ul>
+<!-- <div class="flex-video"> -->
+<!-- </div> -->
+<br>
+</details>
+
+
+
+
+
+
 <details>
 <summary>
 <a>&nbsp;&nbsp;<font size="+1">Creating interactive online visualizations with Trame</font></a> (2025-Nov-18)
