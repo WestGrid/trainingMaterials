@@ -73,6 +73,7 @@ how similar functionality can be implemented in each framework.
 	<li>Speakers: Marie-Hélène Burle and Alex Razoumov</li>
 	<li><a href="https://folio.vastcloud.org/winterseries" target="_blank">Winter visualization series</a></li>
 	<li><a href="https://folio.vastcloud.org/plotly1/plotly-04-dash.html" target="_blank">Interactive apps with Dash</a></li>
+	<li><a href="https://mint.westdri.ca/python/wb_shiny" target="_blank">Shiny dashboards</a></li>
 </ul>
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
