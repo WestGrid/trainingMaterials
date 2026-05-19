@@ -431,7 +431,7 @@ With one of us coming from a computational astrophysics background -- developing
 transfer codes -- this is a topic close to our hearts. Rather than listing specific subjects, we welcome
 suggestions spanning numerical linear algebra, ODE / PDE solvers, stiff systems and implicit methods, adaptive
 techniques, (magneto-) hydrodynamics, and [everything in
-between](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/training.pdf){:target="_blank"},
+between](https://raw.githubusercontent.com/WestGrid/trainingMaterials/gh-pages/materials/rcgTraining.pdf){:target="_blank"},
 and we would be happy to collaborate with you in developing tailored materials.
 
 
