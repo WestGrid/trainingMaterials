@@ -87,7 +87,7 @@ titles to access recordings and slides.
 | Apr-07 | [<span style="color:blue">RIP pandas, welcome Polars</span>]({{ site.baseurl }}/tools/rdm) | Marie-Hélène Burle |
 | Apr-21 | [<span style="color:blue">Typst: a new markup typesetting system</span>]({{ site.baseurl }}/getting-started#typst) | Marie-Hélène Burle |
 | May-05 | [<span style="color:blue">OpenStack command line in action: VMs in minutes</span>]({{ site.baseurl }}/tools/virtual) | Alex Razoumov |
-| May-19 | [Two paths to Python dashboards: Shiny vs Dash](https://forms.gle/LsiKPRsZajrUqAwZA){:target="_blank"} | Marie-Hélène Burle<br>& Alex Razoumov |
+| May-19 | [<span style="color:blue">Two paths to Python dashboards: Shiny vs Dash</span>]({{ site.baseurl }}/tools/visualization){:target="_blank"} | Marie-Hélène Burle<br>& Alex Razoumov |
 
 <!-- something on Apptainer? -->
 <!-- FTTE talk? -->

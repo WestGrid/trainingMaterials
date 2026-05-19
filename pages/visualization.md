@@ -72,8 +72,16 @@ how similar functionality can be implemented in each framework.
 <ul>
 	<li>Speakers: Marie-Hélène Burle and Alex Razoumov</li>
 	<li><a href="https://folio.vastcloud.org/winterseries" target="_blank">Winter visualization series</a></li>
-	<li><a href="https://folio.vastcloud.org/plotly1/plotly-04-dash.html" target="_blank">Interactive apps with Dash</a></li>
-	<li><a href="https://mint.westdri.ca/python/wb_shiny" target="_blank">Shiny dashboards</a></li>
+	<li>Part 1: <a href="https://folio.vastcloud.org/plotly1/plotly-04-dash.html" target="_blank">Interactive apps with Dash</a></li>
+	<li>Part 2: <a href="https://mint.westdri.ca/python/wb_shiny" target="_blank">Shiny dashboards</a></li>
+	<li>Shinylive examples (Python code running inside the browser via WebAssembly):
+	<ul>
+      <li><a href="https://lasso-dashboard.netlify.app" target="_blank">Lasso selection</a></li>
+      <li><a href="https://3d-contour-dashboard.netlify.app" target="_blank">3D contours through a NetCDF dataset</a></li>
+      <li><a href="https://data-collection-dashboard.netlify.app" target="_blank">data collection dashboard</a> (will freeze when you try to save results: no local file)</li>
+      <li>and the <a href="https://github.com/WestDRI/dashboards" target="_blank">source code</a> for these examples</li>
+    </ul>
+	</li>
 </ul>
 <!-- <div class="flex-video"> -->
 <!-- </div> -->
