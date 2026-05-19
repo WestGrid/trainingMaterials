@@ -83,8 +83,12 @@ how similar functionality can be implemented in each framework.
     </ul>
 	</li>
 </ul>
-<!-- <div class="flex-video"> -->
-<!-- </div> -->
+<div class="flex-video">
+	<iframe width="906" height="565" src="https://www.youtube.com/embed/exp1b6HQjlI" title="Two Paths to
+	Python Dashboards: Shiny vs Dash" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture; web-share"
+	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <br>
 </details>
 
