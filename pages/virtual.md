@@ -149,11 +149,8 @@ overlays. We assume no prior knowledge of the container technology.
 As opposed to a cluster computing environment, projects in Infrastructure-as-a-Service clouds like those in
 the Alliance are responsible for selecting and administering their project's storage systems. Several types of
 cloud storage are available, enabling users to choose the storage type(s) best suited for their use case. In
-this webinar (not recorded, only slides available), we discuss the storage options available:
-<li> volume storage,</li>
-<li> ephemeral disc storage,</li>
-<li> object storage, and</li>
-<li> shared filesystem storage.</li>
+this webinar (not recorded, only slides available), we discuss the following storage options: volume storage,
+ephemeral disc storage, object storage, and shared filesystem storage.
 </p>
 <ul>
 	<li>Speaker: Sarah Huber</li>
