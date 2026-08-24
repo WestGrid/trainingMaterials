@@ -39,6 +39,9 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-redirect-from
+
+redirect_to: "https://training.researchcomputing.ca"
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
