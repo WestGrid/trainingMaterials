@@ -46,6 +46,7 @@ homepage: true
 ---
 
 <br>
+- Our website has migrated to a <a href="https://training.researchcomputing.ca" style="color:#0079B7;">new location</a>
 - To subscribe to our training calendar, go to the calendar at the bottom of this page and click "+" or "Add
   to Google Calendar".
 - To receive future news and emails about the BC DRI Group and the Prairies DRI Group training events, please
